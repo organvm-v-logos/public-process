@@ -1,0 +1,45 @@
+title: "organvm — Public Process"
+description: "Essays, methodology, and the process of constructing an eight-organ creative-institutional system"
+url: "https://organvm-v-logos.github.io"
+baseurl: "/public-process"
+author:
+  name: "@4444J99"
+  url: "https://github.com/4444J99"
+
+# Build
+markdown: kramdown
+highlighter: rouge
+permalink: /essays/:title/
+
+# Collections — essays as first-class content
+collections:
+  essays:
+    output: true
+    permalink: /essays/:title/
+
+# Default frontmatter
+defaults:
+  - scope:
+      path: "essays"
+      type: "essays"
+    values:
+      layout: "essay"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Feed config
+feed:
+  path: feed.xml
+  posts_limit: 20
+
+# Exclude from build
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
