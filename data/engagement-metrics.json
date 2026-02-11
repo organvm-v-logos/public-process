@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "updated": "2026-02-11",
+  "note": "Metrics will be populated once Ghost analytics and POSSE tracking are active.",
+  "essays": {
+    "total_published": 16,
+    "meta_system": 10,
+    "subsidiary": 6,
+    "estimated_total_words": 59000
+  },
+  "channels": {
+    "jekyll_site": {"status": "ACTIVE", "url": "https://organvm-v-logos.github.io/public-process/"},
+    "rss_feed": {"status": "ACTIVE", "url": "https://organvm-v-logos.github.io/public-process/feed.xml"},
+    "mastodon": {"status": "ACTIVE", "verified": "2026-02-11"},
+    "discord": {"status": "ACTIVE", "verified": "2026-02-11"},
+    "ghost_newsletter": {"status": "PLANNED"},
+    "linkedin": {"status": "PLANNED"}
+  },
+  "engagement": {
+    "rss_subscribers": null,
+    "newsletter_subscribers": null,
+    "mastodon_followers": null,
+    "discord_members": null,
+    "total_page_views": null
+  }
+}
