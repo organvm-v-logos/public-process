@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<article>
+  <h1>{{ page.title }}</h1>
+  <div class="meta">
+    <span>{{ page.date | date: "%B %d, %Y" }}</span>
+    <span>{{ page.reading_time }}</span>
+    <span>{{ page.word_count }} words</span>
+  </div>
+  {% if page.tags %}
+  <div class="meta">
+    {% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
+  </div>
+  {% endif %}
+  {{ content }}
+  {% if page.related_repos %}
+  <hr>
+  <h3>Related Repositories</h3>
+  <ul>
+    {% for repo in page.related_repos %}
+    <li><a href="https://github.com/{{ repo }}">{{ repo }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</article>
