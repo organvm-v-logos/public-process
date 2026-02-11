@@ -1,5 +1,13 @@
 # How I Used 4 AI Agents to Cross-Validate an Eight-Organ System
 
+[![CI](https://github.com/organvm-v-logos/public-process/actions/workflows/ci.yml/badge.svg)](https://github.com/organvm-v-logos/public-process/actions/workflows/ci.yml)
+[![Coverage](https://img.shields.io/badge/coverage-pending-lightgrey)](https://github.com/organvm-v-logos/public-process)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/organvm-v-logos/public-process/blob/main/LICENSE)
+[![Organ V](https://img.shields.io/badge/Organ-V%20Logos-3B82F6)](https://github.com/organvm-v-logos)
+[![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/organvm-v-logos/public-process)
+[![Jekyll](https://img.shields.io/badge/lang-Jekyll-informational)](https://github.com/organvm-v-logos/public-process)
+
+
 [![ORGAN-V: Public Process](https://img.shields.io/badge/ORGAN--V-Public%20Process-00695c?style=flat-square)](https://github.com/organvm-v-logos)
 [![Status](https://img.shields.io/badge/status-draft--in--progress-yellow?style=flat-square)]()
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue?style=flat-square)](LICENSE)
