@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "updated": "2026-02-11",
+  "newsletter_platform": "ghost",
+  "ghost_config": {
+    "status": "PLANNED",
+    "setup_notes": "Self-hosted Ghost instance required. Use ghost.org managed hosting or Docker self-host.",
+    "integration": "Ghost Content API + Admin API for programmatic publishing",
+    "rss_import": "Import existing 16 essays from Jekyll RSS feed on first setup"
+  },
+  "posse_channels": [
+    {"platform": "mastodon", "status": "ACTIVE", "endpoint": "distribute-content.yml"},
+    {"platform": "discord", "status": "ACTIVE", "endpoint": "distribute-content.yml"},
+    {"platform": "linkedin", "status": "PLANNED", "endpoint": "distribute-content.yml"},
+    {"platform": "ghost_newsletter", "status": "PLANNED", "endpoint": "ghost_api"}
+  ],
+  "schedule": [
+    {"number": 11, "title": "Recursive Engines at Scale", "category": "subsidiary", "status": "PUBLISHED", "date": "2026-02-11"},
+    {"number": 12, "title": "Epistemic Tuning Explained", "category": "subsidiary", "status": "PUBLISHED", "date": "2026-02-11"},
+    {"number": 13, "title": "Generative Music Case Study", "category": "subsidiary", "status": "PUBLISHED", "date": "2026-02-11"},
+    {"number": 14, "title": "Choreographic Interface", "category": "subsidiary", "status": "PUBLISHED", "date": "2026-02-11"},
+    {"number": 15, "title": "Aetheria RPG Post-Mortem", "category": "subsidiary", "status": "PUBLISHED", "date": "2026-02-11"},
+    {"number": 16, "title": "Coaching Platform Metrics", "category": "subsidiary", "status": "PUBLISHED", "date": "2026-02-11"}
+  ]
+}
