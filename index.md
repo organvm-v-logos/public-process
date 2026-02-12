@@ -11,26 +11,23 @@ Essays about building an eight-organ creative-institutional system. Theory, art,
 
 ## Essays
 
-{% assign essays = site.pages | where_exp: "page", "page.path contains 'essays/'" | sort: "date" | reverse %}
-{% for essay in essays %}
-{% if essay.title %}
-### [{{ essay.title }}]({{ essay.url | relative_url }})
+{% for post in site.posts %}
+### [{{ post.title }}]({{ post.url | relative_url }})
 
 <div class="meta">
-  <span>{{ essay.date | date: "%B %d, %Y" }}</span>
-  <span>{{ essay.reading_time }}</span>
-  <span>{{ essay.word_count }} words</span>
+  <span>{{ post.date | date: "%B %d, %Y" }}</span>
+  {% if post.reading_time %}<span>{{ post.reading_time }}</span>{% endif %}
+  {% if post.word_count %}<span>{{ post.word_count }} words</span>{% endif %}
 </div>
 
-{{ essay.excerpt }}
+{% if post.excerpt %}{{ post.excerpt }}{% endif %}
+
+{% if post.tags.size > 0 %}
+<div class="meta">
+  {% for tag in post.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}" class="tag">{{ tag }}</a> {% endfor %}
+</div>
+{% endif %}
 
 ---
 
-{% endif %}
 {% endfor %}
-
-## About
-
-This is **ORGAN-V** of the [organvm system](https://github.com/meta-organvm) — the public-facing narrative layer that documents how eight specialized organs coordinate across 79 GitHub repositories to sustain autonomous creative practice.
-
-[RSS Feed]({{ site.baseurl }}/feed.xml) · [GitHub](https://github.com/organvm-v-logos/public-process) · [meta-organvm](https://github.com/meta-organvm)
