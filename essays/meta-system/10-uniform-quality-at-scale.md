@@ -20,25 +20,56 @@ word_count: 4500
 
 ## The Principle and Its Cost
 
-There is a seductive logic to treating your best work differently from your worst. Focus your CI on the flagship repos — the ones with 1,254 tests or 2,055 tests or 1,095+ tests — and let the small repos fend for themselves. Write comprehensive documentation for the projects that matter and leave the others with a one-paragraph README. Deploy badges where there is something to show and skip the repos where coverage is zero and tests do not exist. This is the 80/20 approach: invest your quality infrastructure where it produces the most visible return.
+There is a seductive logic to treating your best work differently from your worst. Focus your CI on the flagship repos — the ones with 1,254 tests or 2,055 tests or 1,095+ tests — and let the small repos fend for themselves. Write comprehensive documentation for the projects that matter and leave the others with a one-paragraph README. Deploy badges where there is something to show and skip the repos where coverage is zero and tests do not exist. This is the 80/20 approach: invest your quality infrastructure where it produces the most visible return[^1].
 
-I rejected this approach. The eight-organ system applies the same quality infrastructure to every repo, regardless of its size, code maturity, or portfolio relevance. Every repository gets a CI workflow (one of four templates: ci-python, ci-typescript, ci-mixed, ci-minimal). Every repository gets a badge row (CI status, coverage, license, organ number, repo status, primary language). Every repository gets a CHANGELOG and ADR templates. Every repository with a README has that README scored against the same audit rubric.
+I rejected this approach. The eight-organ system applies the same quality infrastructure to every repo, regardless of its size, code maturity, or portfolio relevance. Every repository gets a CI workflow (one of four templates: ci-python, ci-typescript, ci-mixed, ci-minimal). Every repository gets a badge row (CI status, coverage, license, organ number, repo status, primary language). Every repository gets a CHANGELOG and ADR templates. Every repository with a README has that README scored against the same audit rubric[^2].
 
 This principle — uniform quality at scale — costs more than the 80/20 approach. It means writing CI workflows for skeleton repos that have no tests. It means deploying badge rows on documentation repos where the coverage badge will say "pending" and the language badge will say "Markdown." It means maintaining CHANGELOGs for projects that may not change for months. The marginal cost per repo is small (a YAML file, a badge template, a changelog stub), but multiplied across 78 repositories, it adds up to real work.
 
-The investment is worth it for a reason that does not appear in any cost-benefit analysis: institutional trust. When a grant reviewer or hiring manager navigates the eight-organ system and discovers that every repo — from the flagship with 2,055 tests to the community reading group with zero code — has the same infrastructure, the same badges, the same quality apparatus, they form a specific impression. Not that every repo is equally important. But that the system has standards, and the standards apply uniformly. That impression is worth more than the cumulative cost of 78 YAML files.
+The investment is worth it for a reason that does not appear in any cost-benefit analysis: institutional trust. When a grant reviewer or hiring manager navigates the eight-organ system and discovers that every repo — from the flagship with 2,055 tests to the community reading group with zero code — has the same infrastructure, the same badges, the same quality apparatus, they form a specific impression. Not that every repo is equally important. But that the system has standards, and the standards apply uniformly. That impression is worth more than the cumulative cost of 78 YAML files[^3].
+
+```mermaid
+graph TD
+    subgraph "Template Distribution"
+        TEMPLATES["4 CI Templates"] --> SELECT{Stack Detection}
+        SELECT -->|"Python"| PY["ci-python.yml<br/>ORGAN-I, III"]
+        SELECT -->|"TypeScript"| TS["ci-typescript.yml<br/>ORGAN-II"]
+        SELECT -->|"Both"| MIX["ci-mixed.yml<br/>ORGAN-IV"]
+        SELECT -->|"None/docs"| MIN["ci-minimal.yml<br/>ORGAN-V, VI, VII"]
+        PY --> BADGE["Standardized Badge Row"]
+        TS --> BADGE
+        MIX --> BADGE
+        MIN --> BADGE
+        BADGE --> CHANGE["CHANGELOG"]
+        CHANGE --> ADRS["ADR Templates"]
+        ADRS --> UNIFORM["Uniform Quality Surface"]
+    end
+```
 
 ---
 
 ## What Uniform Means (and Does Not Mean)
 
-Uniform quality does not mean identical quality. This distinction is critical, and getting it wrong would produce exactly the pathological outcomes that the 80/20 approach is designed to avoid.
+Uniform quality does not mean identical quality. This distinction is critical, and getting it wrong would produce exactly the pathological outcomes that the 80/20 approach is designed to avoid[^4].
 
 `recursive-engine--generative-entity` has 1,254 tests and 85% coverage. Its CI workflow runs those tests, generates a coverage report, uploads it to Codecov, and produces a badge showing the exact percentage. `example-generative-music` has a skeleton implementation with no tests. Its CI workflow (ci-minimal) validates the repository structure — checks that the README exists, that the license file is present, that the basic project structure is in place — and produces a badge showing that the structural validation passed.
 
 Both repos have CI badges. Both badges say "passing." But they are not making the same claim. The recursive-engine badge means: 1,254 tests executed, all passed, 85% of the codebase is covered by assertions. The example-generative-music badge means: the repository structure is valid, the README exists, the minimum quality standard has been met. These are different guarantees, and any reviewer who clicks through to the workflow details can see exactly what was tested. The badge does not lie. It summarizes.
 
-Uniform quality means that every repo participates in the quality system. It does not mean that every repo passes the same tests. The CI templates are designed to match the maturity of the code, as described in Essay 06 ("Testing the Meta-System"). A repo with Python tests gets ci-python, which runs ruff, mypy, and pytest. A repo with TypeScript gets ci-typescript, which runs ESLint, tsc, and the test runner. A repo with both gets ci-mixed. A repo with neither gets ci-minimal. The template selection is mechanical — it follows from the repository's technology stack. The quality standard is tier-appropriate — it follows from the repository's maturity.
+<figure>
+<table>
+<thead><tr><th>CI Template</th><th>Target Repos</th><th>Checks Performed</th><th>Hard Gates</th></tr></thead>
+<tbody>
+<tr><td>ci-python.yml</td><td>ORGAN-I theory, ORGAN-III Python products</td><td>Dependency detection, ruff lint, mypy type-check, pytest</td><td>Test suite (if present)</td></tr>
+<tr><td>ci-typescript.yml</td><td>ORGAN-II generative art, TS-based products</td><td>Package manager detection, ESLint, tsc --noEmit, test + build</td><td>Test suite, build (if configured)</td></tr>
+<tr><td>ci-mixed.yml</td><td>ORGAN-IV multi-stack, cross-language repos</td><td>Parallel Python + TypeScript jobs</td><td>Both stacks' test suites</td></tr>
+<tr><td>ci-minimal.yml</td><td>ORGAN-V essays, ORGAN-VI/VII, docs-only repos</td><td>README exists, license present, structure valid</td><td>None (structural only)</td></tr>
+</tbody>
+</table>
+<figcaption>Table 1. The four CI templates — uniform coverage with tier-appropriate expectations.</figcaption>
+</figure>
+
+Uniform quality means that every repo participates in the quality system. It does not mean that every repo passes the same tests. The CI templates are designed to match the maturity of the code, as described in Essay 06 ("Testing the Meta-System"). A repo with Python tests gets ci-python, which runs ruff, mypy, and pytest. A repo with TypeScript gets ci-typescript, which runs ESLint, tsc, and the test runner. A repo with both gets ci-mixed. A repo with neither gets ci-minimal. The template selection is mechanical — it follows from the repository's technology stack. The quality standard is tier-appropriate — it follows from the repository's maturity[^5].
 
 This distinction protects against two failure modes. The first is false uniformity: applying the same strict CI to every repo regardless of maturity, which produces a wall of failing badges on skeleton repos and makes the badge system meaningless. (If 40 repos show failing CI because they do not have the tests that the CI demands, the badge becomes noise rather than signal.) The second is false hierarchy: applying CI only to important repos, which communicates that some parts of the system are cared for and others are not. (A reviewer who encounters five repos with badges and thirty without will wonder what is wrong with the thirty.)
 
@@ -55,7 +86,7 @@ The standardized badge row deployed across the eight-organ system contains six b
 [![Organ](badge-url)] [![Status](badge-url)] [![Language](badge-url)]
 ```
 
-Each badge is a claim. The six claims, taken together, constitute a visual contract between the repository and its audience. Here is what the contract says:
+Each badge is a claim. The six claims, taken together, constitute a visual contract between the repository and its audience. Here is what the contract says[^6]:
 
 **CI badge.** "This repository has automated quality checks that run on every push and pull request. The current state of those checks is reflected in this badge. If the badge is green, the checks passed. If the badge is red, something is broken. If you click through, you can see exactly what was checked and what the results were."
 
@@ -69,7 +100,7 @@ Each badge is a claim. The six claims, taken together, constitute a visual contr
 
 **Language badge.** "The primary implementation language is displayed. For technical reviewers, this provides immediate context about the technology stack."
 
-The contract is bilateral. The system commits to displaying honest, automated, current information. The reviewer commits to interpreting the badges in context — understanding that a green CI badge on a skeleton repo means structural validation, not comprehensive test coverage.
+The contract is bilateral. The system commits to displaying honest, automated, current information. The reviewer commits to interpreting the badges in context — understanding that a green CI badge on a skeleton repo means structural validation, not comprehensive test coverage[^7].
 
 This contract is especially important for the eight-organ system because the system spans such a wide range of content types. A reviewer navigating from `public-record-data-scrapper` (production SaaS, 2,055 tests, live deployment) to `salon-archive` (community infrastructure, no code, private repo) must be able to maintain their orientation. The badge row provides that orientation. Without reading a word of documentation, the reviewer can see: "This first repo is a deployed ORGAN-III product with passing CI, 85% coverage, MIT license, written in Python. This second repo is an active ORGAN-VI community tool with passing CI, pending coverage, MIT license, written in Markdown." The transition between radically different types of work is mediated by the consistent visual language of the badges.
 
@@ -77,29 +108,49 @@ This contract is especially important for the eight-organ system because the sys
 
 ## Why a Skeleton Repo Deserves CI
 
-The most common objection to uniform quality is: "Why invest in CI for a repo that has no tests?" The objection is reasonable on a per-repo basis and wrong on a system basis. The per-repo analysis says: this skeleton has no tests, so CI adds no value. The system analysis says: 40 repos without CI creates an inconsistency that undermines the badge system for the other 38 repos that do have CI.
+The most common objection to uniform quality is: "Why invest in CI for a repo that has no tests?" The objection is reasonable on a per-repo basis and wrong on a system basis. The per-repo analysis says: this skeleton has no tests, so CI adds no value. The system analysis says: 40 repos without CI creates an inconsistency that undermines the badge system for the other 38 repos that do have CI[^8].
 
 The argument works like this. A reviewer encounters the organvm system and opens five repos. Three have badge rows. Two do not. The reviewer's immediate inference is not "those two repos are early-stage" — it is "those two repos are neglected." The absence of infrastructure is interpreted as the absence of care. And because the reviewer is evaluating the system, not individual repos, the perceived neglect of two repos taints their evaluation of the other three.
 
-This is not hypothetical. It is how portfolio evaluation works in practice. Grant reviewers at the Knight Foundation, Mellon Foundation, and NEA evaluate organizational capacity, not individual project quality. They are looking for evidence that the applicant can maintain infrastructure at scale. A system where 50% of repos have CI and 50% do not demonstrates inconsistency, not capacity. A system where 100% of repos have CI — with the CI scaled appropriately to the repo's maturity — demonstrates that the organization applies standards uniformly.
+This is not hypothetical. It is how portfolio evaluation works in practice. Grant reviewers at the Knight Foundation, Mellon Foundation, and NEA evaluate organizational capacity, not individual project quality. They are looking for evidence that the applicant can maintain infrastructure at scale. A system where 50% of repos have CI and 50% do not demonstrates inconsistency, not capacity. A system where 100% of repos have CI — with the CI scaled appropriately to the repo's maturity — demonstrates that the organization applies standards uniformly[^9].
 
 The ci-minimal template is the mechanism that makes this economically rational. A minimal CI workflow is approximately 60 lines of YAML. It checks that the README exists, checks that the license file exists, validates the repository structure, and exits with a green badge. The per-repo cost is negligible: a few seconds of GitHub Actions compute time per push. The system-wide benefit is significant: every repo has a badge, every badge is honest, and the system presents a uniform quality surface to any external evaluator.
 
 The argument extends beyond CI to every element of the Platinum infrastructure. Every repo gets a CHANGELOG — even if the first entry is just "Initial public release as part of the organvm eight-organ system." The CHANGELOG costs nothing to create (it is generated from a template) and provides a structural hook for future activity. When the skeleton repo gains its first real implementation, the CHANGELOG is there to record it. If the CHANGELOG were added only when the repo "deserved" it, there would be a perpetual question of when that threshold is reached, and the threshold would drift.
 
-Every repo gets ADR templates — even if the first ADR is just "001: Initial Architecture and Technology Choices" with placeholder fields. The templates cost nothing and communicate a specific value: this project will record its architectural decisions. A reviewer who sees ADR-001 in a skeleton repo understands that the project has decision-tracking infrastructure, even if no significant decisions have been recorded yet. That is a statement about methodology, not about maturity.
+Every repo gets ADR templates — even if the first ADR is just "001: Initial Architecture and Technology Choices" with placeholder fields. The templates cost nothing and communicate a specific value: this project will record its architectural decisions. A reviewer who sees ADR-001 in a skeleton repo understands that the project has decision-tracking infrastructure, even if no significant decisions have been recorded yet. That is a statement about methodology, not about maturity[^10].
 
 ---
 
 ## Graceful Degradation as the Enabling Mechanism
 
-Uniform quality at scale is only possible because of graceful degradation — the design philosophy described in Essay 06 that allows CI pipelines to attempt every reasonable check without failing on checks that are not applicable.
+Uniform quality at scale is only possible because of graceful degradation — the design philosophy described in Essay 06 that allows CI pipelines to attempt every reasonable check without failing on checks that are not applicable[^11].
 
 Without graceful degradation, applying ci-python to a repo with no pyproject.toml would produce a failure at the dependency installation step. The pipeline would be red. The badge would show failure. The reviewer would see a broken repo. The maintainer would need to either (a) fix the CI by adding a dummy dependency file, which is dishonest, or (b) remove the CI, which breaks the uniformity principle.
 
+```mermaid
+graph TD
+    subgraph "Graceful Degradation in Action"
+        PUSH["Code Push"] --> DETECT["Detect Environment"]
+        DETECT --> DEP{"Dependencies<br/>exist?"}
+        DEP -->|"Yes"| INSTALL["Install deps"]
+        DEP -->|"No"| SKIP1["Skip: deps=none"]
+        INSTALL --> LINT{"Linter<br/>installed?"}
+        SKIP1 --> LINT
+        LINT -->|"Yes"| RUN_LINT["Run lint<br/>(continue-on-error)"]
+        LINT -->|"No"| SKIP2["Skip: notice annotation"]
+        RUN_LINT --> TEST{"Tests<br/>directory?"}
+        SKIP2 --> TEST
+        TEST -->|"Yes"| RUN_TEST["Run tests<br/>(HARD GATE)"]
+        TEST -->|"No"| SKIP3["Clean exit + notice"]
+        RUN_TEST --> GREEN["Green Badge"]
+        SKIP3 --> GREEN
+    end
+```
+
 With graceful degradation, the same scenario plays out differently. The dependency detection step checks for pyproject.toml, requirements.txt, and setup.py. If none exists, it sets a flag (`deps=none`) and the installation step is skipped. The lint step attempts to run ruff; if ruff is not installed (because no dependencies were installed), it emits a notice ("Ruff not installed, skipping linting") and continues. The type-check step attempts mypy with the same fallback. The test step checks for a tests directory; if none exists, it emits a notice ("No tests directory found, skipping tests") and exits cleanly. The pipeline is green — not because it tested anything, but because everything it attempted was either successful or gracefully acknowledged as not applicable.
 
-This is the critical design pattern: **attempt everything, require nothing except hard gates.** The hard gates are: if tests exist, they must pass. If a build script exists, it must succeed. Everything else is informational. The result is a pipeline that produces meaningful results across the full spectrum of repository maturity — from flagship repos with 2,055 tests to skeleton repos with zero lines of code.
+This is the critical design pattern: **attempt everything, require nothing except hard gates.** The hard gates are: if tests exist, they must pass. If a build script exists, it must succeed. Everything else is informational. The result is a pipeline that produces meaningful results across the full spectrum of repository maturity — from flagship repos with 2,055 tests to skeleton repos with zero lines of code[^12].
 
 Graceful degradation also enables upward mobility. When a skeleton repo gains its first test file, the CI pipeline automatically detects it and runs the test. No configuration change is needed. The pipeline was always ready to test; it was just waiting for something to test. The first test added to `example-generative-music` will be detected by the pytest step, executed, and — if it passes — reflected in the coverage report and badge. The infrastructure anticipates growth. It does not penalize early-stage repos for not having reached the growth threshold yet.
 
@@ -107,7 +158,7 @@ Graceful degradation also enables upward mobility. When a skeleton repo gains it
 
 ## The Cost of Inconsistency
 
-The alternative to uniform quality has a name in organizational theory: technical debt. In the context of creative infrastructure, I call it quality debt — the accumulated cost of inconsistent standards across a system of repositories.
+The alternative to uniform quality has a name in organizational theory: technical debt. In the context of creative infrastructure, I call it quality debt — the accumulated cost of inconsistent standards across a system of repositories[^13].
 
 Quality debt manifests in specific ways:
 
@@ -125,7 +176,7 @@ The constitution supports this with Article IV: "Documentation precedes deployme
 
 ## Institutional Trust at Portfolio Scale
 
-The cumulative effect of uniform quality across 78 repos is not just aesthetic consistency. It is institutional trust — the evaluator's confidence that the system is maintained with care, that the standards are real rather than aspirational, and that the quality visible in the flagship repos extends throughout the system.
+The cumulative effect of uniform quality across 78 repos is not just aesthetic consistency. It is institutional trust — the evaluator's confidence that the system is maintained with care, that the standards are real rather than aspirational, and that the quality visible in the flagship repos extends throughout the system[^14].
 
 Institutional trust is built through three mechanisms:
 
@@ -135,7 +186,17 @@ Institutional trust is built through three mechanisms:
 
 **Automation.** The CI runs on every push. The monthly audit runs on the first of each month. The validation scripts run after each sprint. The quality checks are not manual reviews that might be skipped when the maintainer is busy. They are automated processes that run regardless of human attention. This signals that the quality infrastructure is durable — it will not degrade when the maintainer moves on to other priorities.
 
-These three mechanisms — consistency, honesty, and automation — compound. A system that is consistent and honest but not automated will degrade over time. A system that is automated and consistent but not honest will produce misleading signals. A system that is honest and automated but not consistent will confuse evaluators. All three must be present for institutional trust to emerge at portfolio scale.
+<figure>
+<div class="stat-grid">
+<div class="stat"><div class="stat-value">78</div><div class="stat-label">Repos with CI</div></div>
+<div class="stat"><div class="stat-value">6</div><div class="stat-label">Badges Per Repo</div></div>
+<div class="stat"><div class="stat-value">4</div><div class="stat-label">CI Templates</div></div>
+<div class="stat"><div class="stat-value">100%</div><div class="stat-label">Coverage Rate</div></div>
+</div>
+<figcaption>Figure 1. Uniform quality metrics — every repo participates in the same quality system.</figcaption>
+</figure>
+
+These three mechanisms — consistency, honesty, and automation — compound. A system that is consistent and honest but not automated will degrade over time. A system that is automated and consistent but not honest will produce misleading signals. A system that is honest and automated but not consistent will confuse evaluators. All three must be present for institutional trust to emerge at portfolio scale[^15].
 
 The organvm system targets institutional trust because its primary audiences — grant reviewers, hiring managers, residency committees — evaluate institutional capacity, not just individual output. Essay 03 ("The Meta-System as Portfolio Asset") makes this case in detail: the 2026 evaluation landscape values systems thinking, organizational sustainability, and infrastructure capacity over isolated impressive projects. Uniform quality is the operational expression of that institutional capacity. It says: we do not treat some parts of our system as more worthy of care than others. We treat everything with the same discipline. That discipline is what you are evaluating.
 
@@ -164,3 +225,33 @@ The immediate next step is monitoring. The monthly audit workflow checks for qua
 The longer-term challenge is the one described in Essay 07 ("The Documentation-Implementation Gap"): as README-only repos gain implementations, their CI must scale from ci-minimal (structural validation) to ci-python, ci-typescript, or ci-mixed (full testing). This transition must happen automatically — or at least be flagged automatically — so that a repo does not accumulate real code while still running minimal CI. The gap between documentation and implementation is expected to narrow. The gap between CI sophistication and code sophistication must narrow with it.
 
 Uniform quality at scale is expensive. It is more expensive than the 80/20 approach. It requires more templates, more badge maintenance, more CHANGELOG stubs, more ADR placeholders, more minimal CI workflows. But the eight-organ system is not optimized for minimum viable infrastructure. It is optimized for institutional trust. And institutional trust is built by the consistent, honest, automated application of quality standards to everything in the system — from the flagship with 2,055 tests to the community reading group with zero code. Every repo earns its badges. And the badges, collectively, earn the system's credibility.
+
+[^1]: Deming, W. Edwards, *Out of the Crisis*, MIT Press, 1986. The rejection of the 80/20 approach follows Deming's principle that quality must be built into the entire system, not inspected into the final 20%.
+
+[^2]: Juran, Joseph M., *Juran's Quality Control Handbook*, 3rd ed., McGraw-Hill, 1951/1979. Juran's "fitness for use" concept applied uniformly means that every repo must meet the quality standard appropriate to its intended use — even if that use is specification rather than production.
+
+[^3]: Crosby, Philip B., *Quality Is Free: The Art of Making Quality Certain*, McGraw-Hill, 1979. Crosby's demonstration that the cost of quality (prevention + appraisal) is always less than the cost of non-quality (failure) justifies the upfront investment in 78 CI workflows.
+
+[^4]: Shewhart, Walter A., *Economic Control of Quality of Manufactured Product*, D. Van Nostrand, 1931. Shewhart's distinction between controlled and uncontrolled variation maps to the distinction between uniform quality (controlled — every repo participates) and ad hoc quality (uncontrolled — some repos do, some do not).
+
+[^5]: McConnell, Steve, *Code Complete: A Practical Handbook of Software Construction*, 2nd ed., Microsoft Press, 2004. McConnell's advocacy for consistent coding standards across an entire project extends naturally to consistent quality infrastructure across an entire multi-repo system.
+
+[^6]: Ishikawa, Kaoru, *What Is Total Quality Control? The Japanese Way*, trans. David J. Lu, Prentice Hall, 1985. The badge row implements Ishikawa's principle of "quality at the source" — making quality visible at the point of production (the repository) rather than requiring separate inspection.
+
+[^7]: Taguchi, Genichi, *Introduction to Quality Engineering: Designing Quality into Products and Processes*, Asian Productivity Organization, 1986. Taguchi's concept of "quality loss function" — that any deviation from target quality creates loss — supports the bilateral badge contract: both system and reviewer must understand what the badges mean.
+
+[^8]: Deming, *Out of the Crisis*, 1986. Deming's argument against "acceptable quality levels" supports giving every repo CI: defining some repos as "not worth testing" creates an acceptable-defect mentality that undermines system-wide quality.
+
+[^9]: Humble, Jez and Farley, David, *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*, Addison-Wesley, 2010. Humble and Farley's principle that every commit should be deployable extends to the organvm context: every repo should be validatable, even if validation means only structural checks.
+
+[^10]: Martin, Robert C., *Clean Code: A Handbook of Agile Software Craftsmanship*, Prentice Hall, 2008. Martin's "Boy Scout Rule" (leave the code cleaner than you found it) applies to quality infrastructure: every repo should have ADR and CHANGELOG scaffolding so that the first contributor finds infrastructure ready, not absent.
+
+[^11]: Meadows, Donella H., *Thinking in Systems: A Primer*, Chelsea Green Publishing, 2008. Graceful degradation implements what Meadows calls a "balancing feedback loop" — the CI pipeline adjusts its expectations to the repo's current state rather than enforcing a fixed target that would create oscillation between pass and fail.
+
+[^12]: Humble and Farley, *Continuous Delivery*, 2010. The "attempt everything, require nothing except hard gates" pattern extends the deployment pipeline concept from code delivery to quality assurance: the pipeline is a sequence of checks, each of which provides information even when it cannot enforce a requirement.
+
+[^13]: Juran, *Juran's Quality Control Handbook*, 1951/1979. Quality debt is Juran's "chronic waste" translated to software infrastructure: the accumulated cost of inconsistent standards that is accepted as normal because it accumulated gradually rather than appearing all at once.
+
+[^14]: Crosby, *Quality Is Free*, 1979. The three mechanisms of institutional trust (consistency, honesty, automation) map to Crosby's four absolutes of quality management: conformance to requirements (consistency), prevention rather than inspection (automation), zero defects standard (honesty), and measurement of cost of non-conformance (the quality debt analysis).
+
+[^15]: Deming, *Out of the Crisis*, 1986. Deming's "system of profound knowledge" requires all four components (appreciation for a system, knowledge of variation, theory of knowledge, psychology) — paralleling the three mechanisms of institutional trust that must all be present for the compound effect to emerge.
