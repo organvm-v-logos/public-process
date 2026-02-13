@@ -1,0 +1,46 @@
+# seed.yaml — Automation Contract for organvm-v-logos/public-process
+# Schema: seed/v1.0
+# Generated: 2026-02-12 (AUTONOMY Sprint)
+# Category: flagship_with_deps
+
+schema_version: "1.0"
+organ: V
+organ_name: Public Process
+repo: public-process
+org: organvm-v-logos
+
+metadata:
+  implementation_status: PRODUCTION
+  tier: flagship
+  promotion_status: PUBLIC_PROCESS
+  last_validated: "2026-02-11"
+  generated: "2026-02-12"
+  sprint: "AUTONOMY"
+
+agents:
+  - name: ci
+    trigger: on_push
+    workflow: .github/workflows/ci-minimal.yml
+    description: "Continuous integration pipeline"
+
+consumes:
+  - type: dependency
+    source: organvm-i-theoria/recursive-engine--generative-entity
+    description: Depends on organvm-i-theoria/recursive-engine--generative-entity
+  - type: dependency
+    source: organvm-ii-poiesis/metasystem-master
+    description: Depends on organvm-ii-poiesis/metasystem-master
+  - type: dependency
+    source: organvm-iii-ergon/public-record-data-scrapper
+    description: Depends on organvm-iii-ergon/public-record-data-scrapper
+  - type: dependency
+    source: organvm-iv-taxis/agentic-titan
+    description: Depends on organvm-iv-taxis/agentic-titan
+
+subscriptions:
+  - event: governance.updated
+    source: ORGAN-IV
+    action: Check compliance with updated governance rules
+  - event: promotion.completed
+    source: ORGAN-IV
+    action: Draft essay about promoted repo
