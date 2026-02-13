@@ -19,11 +19,31 @@ word_count: 4000
 
 ## The Uncomfortable Inventory
 
-Let me state the numbers plainly. Of the 67 non-infrastructure repositories in the eight-organ system — excluding the 8 `.github` org repos and the 5 archived entries — approximately 30 contain substantial code. By substantial I mean: a functional implementation that does what the README says it does, with at least some tests, a dependency file, and enough code that a developer could clone the repo and run something. These are the real ones. `recursive-engine--generative-entity` with its 1,254 tests. `public-record-data-scrapper` with its 2,055 tests and live Vercel deployment. `agentic-titan` with its 1,095+ tests across 18 development phases. `metasystem-master` with its monorepo consolidating 12 components. The ORGAN-III SaaS products with active revenue. The ORGAN-I theoretical frameworks with working Python implementations.
+Let me state the numbers plainly. Of the 67 non-infrastructure repositories in the eight-organ system — excluding the 8 `.github` org repos and the 5 archived entries — approximately 30 contain substantial code. By substantial I mean: a functional implementation that does what the README says it does, with at least some tests, a dependency file, and enough code that a developer could clone the repo and run something. These are the real ones. `recursive-engine--generative-entity` with its 1,254 tests. `public-record-data-scrapper` with its 2,055 tests and live Vercel deployment. `agentic-titan` with its 1,095+ tests across 18 development phases. `metasystem-master` with its monorepo consolidating 12 components. The ORGAN-III SaaS products with active revenue. The ORGAN-I theoretical frameworks with working Python implementations[^1].
 
 About 8 more repos have skeleton implementations — enough code to demonstrate a concept, maybe a few source files and a basic structure, but not a complete system. `example-generative-music`, `example-choreographic-interface`, `example-theatre-dialogue`, `audio-synthesis-bridge`, `client-sdk` — these are proofs of concept. They show intent and architecture. They do not show completion.
 
-That leaves roughly 32 repos that are, to be direct about it, README-only. They have documentation — often 2,500 to 4,500 words of carefully written, portfolio-quality documentation — but the code described in that documentation does not yet exist. The README for `salon-archive` in ORGAN-VI describes a transcription pipeline, topic taxonomy, and session metadata system. The code behind it is not written. The README for `distribution-strategy` in ORGAN-VII describes audience segmentation, channel strategy, and content calendar systems. The implementation is not there.
+That leaves roughly 32 repos that are, to be direct about it, README-only. They have documentation — often 2,500 to 4,500 words of carefully written, portfolio-quality documentation — but the code described in that documentation does not yet exist. The README for `salon-archive` in ORGAN-VI describes a transcription pipeline, topic taxonomy, and session metadata system. The code behind it is not written. The README for `distribution-strategy` in ORGAN-VII describes audience segmentation, channel strategy, and content calendar systems. The implementation is not there[^2].
+
+```mermaid
+graph TD
+    subgraph "Documentation-Implementation Relationship"
+        DOC[Documentation<br/>270,000 words] -->|"Specifies"| IMPL[Implementation]
+        IMPL -->|"Validates"| DOC
+        DOC -->|"Precedes"| IMPL
+    end
+    subgraph "Current State"
+        T1["Tier 1: Production<br/>~8 repos"] --- T2["Tier 2: Comprehensive<br/>~12 repos"]
+        T2 --- T3["Tier 3: Partial<br/>~10 repos"]
+        T3 --- T4["Tier 4: Skeleton<br/>~8 repos"]
+        T4 --- T5["Tier 5: README-only<br/>~32 repos"]
+    end
+    DOC -.->|"Full alignment"| T1
+    DOC -.->|"Strong alignment"| T2
+    DOC -.->|"Partial alignment"| T3
+    DOC -.->|"Structural only"| T4
+    DOC -.->|"Specification only"| T5
+```
 
 This is the documentation-implementation gap, and any honest accounting of the eight-organ system must confront it directly. A system that claims 270,000 words of documentation across 72 repos and 8 org profiles should also state clearly that approximately half of those repos document intentions rather than implementations. The question is not whether the gap exists — it does, unambiguously — but what it means and whether it represents a failure or a methodology.
 
@@ -31,13 +51,13 @@ This is the documentation-implementation gap, and any honest accounting of the e
 
 ## Why Documentation-First Is Not Fraud
 
-The instinct, when confronted with a README-only repo, is to feel defensive. The accusation writes itself: "You documented software that does not exist. That is vaporware. That is dishonest." I have thought about this accusation carefully, and I believe it is wrong — but it deserves a serious response rather than a dismissal.
+The instinct, when confronted with a README-only repo, is to feel defensive. The accusation writes itself: "You documented software that does not exist. That is vaporware. That is dishonest." I have thought about this accusation carefully, and I believe it is wrong — but it deserves a serious response rather than a dismissal[^3].
 
 The first observation is that the READMEs do not lie. They do not claim that the code exists when it does not. The registry tracks documentation status separately from implementation status, and the status vocabulary makes the distinction explicit. A repo with status `ACTIVE` and documentation_status `DEPLOYED` means: the repo is active, and its README is deployed. It does not mean the README describes running code. A repo with status `SKELETON` means exactly what it says — there is a structural outline but not a complete implementation. A repo with status `EMPTY` means there is nothing beyond the README itself. The system does not pretend.
 
-The second observation is that documentation-first development is a legitimate methodology, not a euphemism for procrastination. In specification-driven development (SDD) — the methodology adopted for this project and documented in `docs/standards/11-specification-driven-development.md` — the specification precedes the implementation by design. You write the spec. You validate the spec against requirements. You implement against the spec. This is not novel. It is the standard approach in systems engineering, API design (OpenAPI specs are written before endpoints are coded), and architecture documentation (ADRs are written before the decision is implemented). The only unusual thing about the organvm system is that the specs are READMEs written at portfolio quality, visible to the public, rather than internal design documents hidden in a wiki.
+The second observation is that documentation-first development is a legitimate methodology, not a euphemism for procrastination. In specification-driven development (SDD) — the methodology adopted for this project and documented in `docs/standards/11-specification-driven-development.md` — the specification precedes the implementation by design. You write the spec. You validate the spec against requirements. You implement against the spec. This is not novel. It is the standard approach in systems engineering, API design (OpenAPI specs are written before endpoints are coded), and architecture documentation (ADRs are written before the decision is implemented)[^4]. The only unusual thing about the organvm system is that the specs are READMEs written at portfolio quality, visible to the public, rather than internal design documents hidden in a wiki.
 
-The third observation is about audience. Article V of the constitution states: "Every README is a portfolio piece, written for grant reviewers and hiring managers, not just developers." The audience for these READMEs is not solely — or even primarily — the developer who will implement the code. It is the evaluator who needs to understand what the system does, why it exists, and what it demonstrates about the author's capabilities. A well-written README for a yet-to-be-implemented system demonstrates architectural thinking, problem decomposition, and domain understanding. These are capabilities. The README is evidence of those capabilities whether or not the code behind it exists yet.
+The third observation is about audience. Article V of the constitution states: "Every README is a portfolio piece, written for grant reviewers and hiring managers, not just developers." The audience for these READMEs is not solely — or even primarily — the developer who will implement the code. It is the evaluator who needs to understand what the system does, why it exists, and what it demonstrates about the author's capabilities. A well-written README for a yet-to-be-implemented system demonstrates architectural thinking, problem decomposition, and domain understanding. These are capabilities. The README is evidence of those capabilities whether or not the code behind it exists yet[^5].
 
 This does not mean the gap is irrelevant. It means the gap must be understood correctly. The documentation-implementation gap is not a debt to be hidden. It is a phase of development to be narrated.
 
@@ -47,9 +67,23 @@ This does not mean the gap is irrelevant. It means the gap must be understood co
 
 The gap is not binary. It is a spectrum, and understanding the spectrum matters for evaluating the system honestly.
 
+<figure>
+<table>
+<thead><tr><th>Tier</th><th>Description</th><th>Repos</th><th>Gap Size</th><th>Examples</th></tr></thead>
+<tbody>
+<tr><td>Tier 1: Production</td><td>Fully implemented, deployed, generating value</td><td>~8</td><td>None</td><td>public-record-data-scrapper, classroom-rpg-aetheria</td></tr>
+<tr><td>Tier 2: Comprehensive</td><td>Substantial code, meaningful tests, not deployed</td><td>~12</td><td>Deployment gap</td><td>recursive-engine (1,254 tests), agentic-titan (1,095+ tests)</td></tr>
+<tr><td>Tier 3: Partial</td><td>Real code demonstrating concept, incomplete</td><td>~10</td><td>Quantitative gap</td><td>narratological-algorithmic-lenses, tab-bookmark-manager</td></tr>
+<tr><td>Tier 4: Skeleton</td><td>Project structure, few source files, proof of concept</td><td>~8</td><td>Large structural gap</td><td>example-generative-music, client-sdk</td></tr>
+<tr><td>Tier 5: README-only</td><td>Documentation as specification, no code</td><td>~32</td><td>Complete gap</td><td>salon-archive, distribution-strategy</td></tr>
+</tbody>
+</table>
+<figcaption>Table 1. The five-tier spectrum of documentation-implementation alignment across 67 non-infrastructure repos.</figcaption>
+</figure>
+
 **Tier 1: Production systems (approximately 8 repos).** These are fully implemented, deployed, and generating value. `public-record-data-scrapper` serves paying B2B subscribers. `classroom-rpg-aetheria` is a deployed SaaS product with active revenue. `gamified-coach-interface` is live. `trade-perpetual-future` is operational. These repos have no documentation-implementation gap. The code matches the README. The tests verify the claims.
 
-**Tier 2: Comprehensive implementations (approximately 12 repos).** These have substantial code, meaningful test suites, and working implementations, but may not be deployed to production. `recursive-engine--generative-entity` has 1,254 tests and 85% coverage — it works, it is tested, it is not deployed as a user-facing product. `agentic-titan` has 1,095+ tests across 18 phases — it is a complete research implementation, not a commercial deployment. `metasystem-master` consolidates 12 components into a working monorepo. The gap here is between "implemented and tested" and "deployed and serving users," which is a different kind of gap — one that involves infrastructure, distribution, and product management rather than engineering.
+**Tier 2: Comprehensive implementations (approximately 12 repos).** These have substantial code, meaningful test suites, and working implementations, but may not be deployed to production. `recursive-engine--generative-entity` has 1,254 tests and 85% coverage — it works, it is tested, it is not deployed as a user-facing product. `agentic-titan` has 1,095+ tests across 18 phases — it is a complete research implementation, not a commercial deployment. `metasystem-master` consolidates 12 components into a working monorepo. The gap here is between "implemented and tested" and "deployed and serving users," which is a different kind of gap — one that involves infrastructure, distribution, and product management rather than engineering[^6].
 
 **Tier 3: Partial implementations (approximately 10 repos).** These have real code that demonstrates the concept but is not complete. `narratological-algorithmic-lenses` has algorithms that formalize narrative principles, but not all 92 described in the README are fully implemented. `tab-bookmark-manager` has an ML backend and browser extension scaffold but is not production-ready. The documentation describes the full vision; the code implements part of it. The gap is quantitative — some fraction of the documented functionality exists.
 
@@ -57,13 +91,13 @@ The gap is not binary. It is a spectrum, and understanding the spectrum matters 
 
 **Tier 5: README-only (approximately 32 repos).** These have documentation but no code. The READMEs are the specification. They describe what the system will do, how it will be architected, what problems it will solve. `salon-archive`, `reading-group-curriculum`, `announcement-templates`, `social-automation`, `distribution-strategy`, `showcase-portfolio`, `archive-past-works`, `case-studies-methodology`, `learning-resources`, `academic-publication`. Some of these will be implemented. Some may remain as documentation — specification artifacts that describe a domain without producing executable code. That is legitimate. Not every specification becomes an implementation.
 
-The spectrum reveals something important: the documentation-implementation gap is not uniform. It is 32 repos out of 67, but those 32 repos are concentrated in ORGAN-II's community-facing repos, ORGAN-VI's community infrastructure, and ORGAN-VII's marketing automation. The organs with the most implementation depth — ORGAN-I (theory), ORGAN-III (commerce), ORGAN-IV (orchestration) — have the smallest gaps. The theoretical frameworks are implemented. The commercial products are deployed. The orchestration hub has working workflows and validation scripts. The gap lives primarily in the support organs — the community, marketing, and documentation infrastructure that surrounds the core creative and commercial work.
+The spectrum reveals something important: the documentation-implementation gap is not uniform. It is 32 repos out of 67, but those 32 repos are concentrated in ORGAN-II's community-facing repos, ORGAN-VI's community infrastructure, and ORGAN-VII's marketing automation. The organs with the most implementation depth — ORGAN-I (theory), ORGAN-III (commerce), ORGAN-IV (orchestration) — have the smallest gaps. The theoretical frameworks are implemented. The commercial products are deployed. The orchestration hub has working workflows and validation scripts. The gap lives primarily in the support organs — the community, marketing, and documentation infrastructure that surrounds the core creative and commercial work[^7].
 
 ---
 
 ## The AI-Conductor Model and the Gap
 
-The documentation-implementation gap is inseparable from the AI-conductor workflow model that produced the documentation in the first place. In the AI-conductor model, AI generates volume while human ensures accuracy and voice. The TE (Tokens-Expended) budget model measures effort in LLM API tokens, not human-hours. A 3,000-word README costs approximately 72,000 tokens to generate, revise, and validate. That is a few dollars of API cost and perhaps an hour of human review time.
+The documentation-implementation gap is inseparable from the AI-conductor workflow model that produced the documentation in the first place. In the AI-conductor model, AI generates volume while human ensures accuracy and voice. The TE (Tokens-Expended) budget model measures effort in LLM API tokens, not human-hours. A 3,000-word README costs approximately 72,000 tokens to generate, revise, and validate. That is a few dollars of API cost and perhaps an hour of human review time[^8].
 
 This means documentation is cheap to produce. Not cheap in the dismissive sense — the quality standards are high, the Stranger Test is demanding, and every README passes a scoring rubric. But cheap in the economic sense: the marginal cost of writing one more portfolio-quality README is measured in API tokens, not in days of technical writing. This fundamentally changes the calculus of documentation-first development. When documentation is expensive (requiring a human writer spending a full day per README), writing documentation for unimplemented code is a poor allocation of resources. When documentation is economical (requiring AI generation plus human review), writing documentation for unimplemented code is a reasonable investment in specification, planning, and portfolio positioning.
 
@@ -71,7 +105,7 @@ The AI-conductor model made it possible to produce 270,000 words of documentatio
 
 That velocity is what creates the gap. The documentation was written faster than the code could be. And that is not a bug — it is the design. The documentation serves as the specification that guides future implementation. The 32 README-only repos are not empty promises. They are work orders. Each README describes, in detail, what needs to be built, how it should be architected, what problems it must solve, and how it connects to the rest of the eight-organ system. When implementation begins on any of these repos, the README is the starting point — not a blank page, but a 3,000-word specification that has already been validated against the portfolio rubric, the dependency rules, and the constitutional principles.
 
-The analogy I keep returning to is architectural blueprints. An architect does not apologize for producing blueprints before the building exists. The blueprints are the work. They demonstrate capability, vision, and systematic thinking. They are evaluated on their own terms — clarity, completeness, structural integrity, aesthetic vision — not solely on whether the building has been constructed yet. The 32 README-only repos are blueprints. Some will be built this year. Some will be built next year. Some may never be built, because the planning process revealed that they are not worth building. That, too, is a valid outcome. The specification process sometimes concludes that the specified system should not exist. The documentation still has value — it is the record of a decision-making process.
+The analogy I keep returning to is architectural blueprints. An architect does not apologize for producing blueprints before the building exists. The blueprints are the work. They demonstrate capability, vision, and systematic thinking. They are evaluated on their own terms — clarity, completeness, structural integrity, aesthetic vision — not solely on whether the building has been constructed yet. The 32 README-only repos are blueprints. Some will be built this year. Some will be built next year. Some may never be built, because the planning process revealed that they are not worth building. That, too, is a valid outcome. The specification process sometimes concludes that the specified system should not exist. The documentation still has value — it is the record of a decision-making process[^9].
 
 ---
 
@@ -79,9 +113,23 @@ The analogy I keep returning to is architectural blueprints. An architect does n
 
 The gap will narrow. Not all at once, and not uniformly, but it will narrow because the eight-organ system is designed to make narrowing it tractable.
 
+```mermaid
+graph LR
+    subgraph "Four Narrowing Mechanisms"
+        TIER[Tier Prioritization] -->|"Flagships first"| NARROW[Gap Narrows]
+        STATE[State Machine] -->|"Pull toward promotion"| NARROW
+        AUDIT[Monthly Audit] -->|"Visibility pressure"| NARROW
+        PUBLIC[Public Process] -->|"Accountability"| NARROW
+    end
+    NARROW --> FUTURE["12-Month Projection"]
+    FUTURE --> F1["Tier 2 → Deployed"]
+    FUTURE --> F2["Tier 3-4 → Fill incrementally"]
+    FUTURE --> F3["Tier 5 → Begin or remain specs"]
+```
+
 The first mechanism is prioritization through the tier system. Flagship repos are the highest priority for implementation completeness. All 7 flagships (recursive-engine, metasystem-master, public-record-data-scrapper, agentic-titan, public-process, orchestration-start-here, and organvm-corpvs-testamentvm) have substantial implementations. The standard repos are next. The stubs and archives are lowest priority. This tiering means the gap narrows where it matters most first.
 
-The second mechanism is the promotion state machine. A repo at LOCAL status can remain README-only indefinitely — LOCAL is the workshop, and workshops are allowed to be incomplete. But a repo that wants to move to CANDIDATE (proposed for cross-organ promotion) must have enough implementation to justify the promotion. The state machine creates pull: as repos want to advance through the system, they must close their documentation-implementation gap to qualify for promotion.
+The second mechanism is the promotion state machine. A repo at LOCAL status can remain README-only indefinitely — LOCAL is the workshop, and workshops are allowed to be incomplete. But a repo that wants to move to CANDIDATE (proposed for cross-organ promotion) must have enough implementation to justify the promotion. The state machine creates pull: as repos want to advance through the system, they must close their documentation-implementation gap to qualify for promotion[^10].
 
 The third mechanism is the monthly organ audit. Every month, the automated audit workflow checks system health across all 8 organs. Repos that have been README-only for extended periods will show up as stale in the audit report. This creates visibility. The gap is not hidden in a backlog or a forgotten project board. It is surfaced monthly, in a structured report, as part of the institutional record. That visibility creates gentle but persistent pressure to narrow the gap.
 
@@ -93,11 +141,21 @@ I expect the gap to narrow significantly over the next 12 months, following a pa
 
 ## The Honesty Argument
 
-I could have hidden the gap. The simplest approach would have been to document only repos that have implementations, producing a smaller but fully consistent portfolio. Instead of 72 documented repos across 8 organs, the system would have perhaps 30 documented repos across 4 or 5 organs. The word count would be lower. The consistency would be higher. And the system would be less useful.
+I could have hidden the gap. The simplest approach would have been to document only repos that have implementations, producing a smaller but fully consistent portfolio. Instead of 72 documented repos across 8 organs, the system would have perhaps 30 documented repos across 4 or 5 organs. The word count would be lower. The consistency would be higher. And the system would be less useful[^11].
 
 The gap is visible because visibility is more valuable than consistency. A grant reviewer who encounters the eight-organ system and discovers that some repos are README-only will form one of two conclusions. If the documentation is poor — generic boilerplate, vague descriptions, no specificity — the reviewer will conclude that the system is padded. Fair enough. But if the documentation is strong — specific problem statements, clear architectural decisions, genuine portfolio language, honest status tracking — the reviewer will conclude something different: that this practitioner thinks comprehensively, plans rigorously, and documents honestly.
 
 The constitution's quality gates enforce the second outcome. The Portfolio Gate asks: "Does this README pass the Stranger Test?" The Completeness Gate asks: "Are all TBD markers resolved? Zero broken links? No placeholder content?" A README-only repo that passes both gates is a genuinely useful specification, regardless of whether the implementation exists yet. It demonstrates the ability to think through a system before building it, to anticipate integration points, to plan for dependencies and failure modes. These are engineering capabilities. The README is evidence.
+
+<figure>
+<div class="stat-grid">
+<div class="stat"><div class="stat-value">67</div><div class="stat-label">Non-Infrastructure Repos</div></div>
+<div class="stat"><div class="stat-value">30</div><div class="stat-label">With Substantial Code</div></div>
+<div class="stat"><div class="stat-value">32</div><div class="stat-label">README-Only (Specs)</div></div>
+<div class="stat"><div class="stat-value">270K</div><div class="stat-label">Words of Documentation</div></div>
+</div>
+<figcaption>Figure 1. The documentation-implementation inventory — honest numbers for an honest accounting.</figcaption>
+</figure>
 
 The honesty argument extends to the meta-system essays themselves. Essay 01 ("How We Orchestrate Eight Organs") describes the full system without hiding the incomplete parts. Essay 04 ("Building in Public") explicitly discusses the prefix correction from "organvum" to "organvm" — a propagated typo that required 170 replacements across 34 files. The public process does not curate failure out of the narrative. It includes failure as evidence of a system that corrects itself.
 
@@ -107,11 +165,11 @@ This essay — Essay 07 — is the most direct expression of that honesty princi
 
 ## The Case Against Waiting
 
-The alternative to documentation-first is documentation-after — the conventional approach where you build the system, then document it. This approach avoids the documentation-implementation gap entirely, because documentation is only produced for implemented systems. It is also the approach that produces the average GitHub profile: repos with sparse or absent READMEs, no visible architecture, no cross-references, no governance, no way for a stranger to understand what they are looking at.
+The alternative to documentation-first is documentation-after — the conventional approach where you build the system, then document it. This approach avoids the documentation-implementation gap entirely, because documentation is only produced for implemented systems. It is also the approach that produces the average GitHub profile: repos with sparse or absent READMEs, no visible architecture, no cross-references, no governance, no way for a stranger to understand what they are looking at[^12].
 
 I know that profile. I had that profile. Before the eight-organ system, my GitHub presence was exactly what documentation-after produces: dozens of repos, some excellent and some experimental, with no narrative connecting them and no documentation adequate for external evaluation. The code was there. The legibility was not.
 
-Documentation-after fails for a specific reason: there is never a good time to write documentation. After the implementation is working, the next implementation beckons. After the product is deployed, the customers need support. After the system is stable, there are features to build. Documentation is perpetually deferred because it is never the most urgent task. It is always important and never pressing. And so it does not get written, and the profile accumulates repos without narrative, and the grant reviewer clicks through three repos with empty READMEs and moves on.
+Documentation-after fails for a specific reason: there is never a good time to write documentation. After the implementation is working, the next implementation beckons. After the product is deployed, the customers need support. After the system is stable, there are features to build. Documentation is perpetually deferred because it is never the most urgent task. It is always important and never pressing. And so it does not get written, and the profile accumulates repos without narrative, and the grant reviewer clicks through three repos with empty READMEs and moves on[^13].
 
 Documentation-first avoids this failure mode by making documentation the first deliverable, not the last. The AI-conductor model makes this practical by collapsing the cost of documentation production from days to hours. The quality gates make it rigorous by enforcing portfolio-quality standards on every README. The registry makes it trackable by recording documentation status as a first-class field.
 
@@ -123,11 +181,11 @@ The gap narrows over time. The opposite gap — implementation without documenta
 
 ## Precedents and Parallels
 
-Documentation-first is not unique to the organvm system, though applying it at this scale to creative infrastructure is unusual. The practice has well-established precedents in other domains.
+Documentation-first is not unique to the organvm system, though applying it at this scale to creative infrastructure is unusual. The practice has well-established precedents in other domains[^14].
 
 Amazon's "working backwards" methodology requires product teams to write a press release and FAQ before writing any code. The press release describes the product as if it already exists. The FAQ addresses customer questions that the product has not yet answered. The entire document is a specification in narrative form — functionally identical to what the organvm READMEs do for each repository. Amazon does not consider these documents vaporware. They consider them the starting point of a rigorous development process. The README-only repos in the eight-organ system serve exactly the same function.
 
-In architecture and urban planning, the practice is even older. Architectural competitions are won with drawings, models, and written proposals — not with buildings. The documentation is the deliverable. The building comes later, if funding is secured and permits are granted. Some of the most influential architectural proposals in history were never built. Superstudio's Continuous Monument, Archigram's Walking City, Cedric Price's Fun Palace — these are documentation-only projects that shaped an entire discipline. The documentation had independent value because it demonstrated thinking, methodology, and vision. The same principle applies to the 32 README-only repos in the organvm system. Each one demonstrates architectural thinking about a specific domain. Some will be built. Some may not. The thinking is the contribution.
+In architecture and urban planning, the practice is even older. Architectural competitions are won with drawings, models, and written proposals — not with buildings. The documentation is the deliverable. The building comes later, if funding is secured and permits are granted. Some of the most influential architectural proposals in history were never built. Superstudio's Continuous Monument, Archigram's Walking City, Cedric Price's Fun Palace — these are documentation-only projects that shaped an entire discipline. The documentation had independent value because it demonstrated thinking, methodology, and vision. The same principle applies to the 32 README-only repos in the organvm system. Each one demonstrates architectural thinking about a specific domain. Some will be built. Some may not. The thinking is the contribution[^15].
 
 The open-source RFC (Request for Comments) process is another parallel. RFCs describe protocols, formats, and architectures before implementation exists. RFC 2616 (HTTP/1.1) was a specification document before any web server implemented it. RFC 7540 (HTTP/2) was documentation before it was code. The internet was documented before it was built — or more precisely, the documentation and the building happened in parallel, with documentation leading. Nobody considers RFCs to be fraud because they describe systems that do not yet exist. They are specifications. The organvm READMEs are specifications that happen to be written in portfolio language rather than in protocol notation.
 
@@ -142,3 +200,33 @@ The immediate next step is the Platinum Sprint, which adds CI/CD, badges, CHANGE
 Beyond the Platinum Sprint, the gap narrows through ordinary development work — picking up repos, implementing the specifications their READMEs describe, and advancing them through the tier system. The monthly audit tracks progress. The public process documents it. The registry records it. And the essays — including this one — provide the narrative context that makes the gap legible rather than shameful.
 
 Thirty-two README-only repos, documented at portfolio quality, in a system that coordinates 78 repositories across 8 GitHub organizations. That is the current state. It is honest. It is a methodology. And it is a starting point, not an endpoint.
+
+[^1]: McConnell, Steve, *Code Complete: A Practical Handbook of Software Construction*, 2nd ed., Microsoft Press, 2004. McConnell's distinction between construction quality and design quality applies directly: the 30 repos with substantial code demonstrate construction quality, while the full 67 demonstrate design quality.
+
+[^2]: Brooks, Frederick P., *The Mythical Man-Month: Essays on Software Engineering*, Anniversary ed., Addison-Wesley, 1995 (orig. 1975). Brooks's observation that the hardest part of software is the conceptual design, not the coding, lends credibility to documentation-as-specification.
+
+[^3]: Parnas, David L., "On the Criteria To Be Used in Decomposing Systems into Modules," *Communications of the ACM*, vol. 15, no. 12, 1972, pp. 1053-1058. Parnas's foundational argument for information hiding and modular decomposition supports the legitimacy of specifying module boundaries before implementing module internals.
+
+[^4]: Fowler, Martin, *Patterns of Enterprise Application Architecture*, Addison-Wesley, 2002. Fowler's catalog demonstrates that architectural patterns can be fully specified, evaluated, and compared before any implementation work begins.
+
+[^5]: Norman, Donald A., *The Design of Everyday Things*, Revised and expanded ed., Basic Books, 2013. Norman's emphasis on conceptual models over implementation details parallels the README's function: communicating the mental model to the evaluator, regardless of implementation completeness.
+
+[^6]: Martin, Robert C., *Clean Architecture: A Craftsman's Guide to Software Structure and Design*, Prentice Hall, 2017. Martin's distinction between policy and detail maps to the gap between documentation (policy) and implementation (detail) — policy should be decided first.
+
+[^7]: Meadows, Donella H., *Thinking in Systems: A Primer*, Chelsea Green Publishing, 2008. Meadows's concept of system boundaries explains the concentration of the gap in support organs: the core system (I, III, IV) is implemented because it is the leverage point, while the periphery (VI, VII) can remain specification-level without systemic risk.
+
+[^8]: Deming, W. Edwards, *Out of the Crisis*, MIT Press, 1986. Deming's transformation of quality from an expense to an investment applies to the token economics argument: the cost of documentation is an investment in specification quality, not an expense charged against unbuilt software.
+
+[^9]: Knuth, Donald E., "Literate Programming," *The Computer Journal*, vol. 27, no. 2, 1984, pp. 97-111. Knuth's vision of programs as literary works intended for human readers elevates documentation from afterthought to primary artifact — precisely the inversion that documentation-first development requires.
+
+[^10]: Deming, *Out of the Crisis*, 1986. The promotion state machine operationalizes Deming's Plan-Do-Check-Act cycle: documentation is Plan, implementation is Do, CI is Check, promotion is Act.
+
+[^11]: Brooks, *The Mythical Man-Month*, 1975. Brooks's argument for conceptual integrity over implementation completeness supports the decision to document the full system rather than only the implemented subset.
+
+[^12]: Fowler, Martin, *Patterns of Enterprise Application Architecture*, 2002. Fowler notes that the most damaging architectural decisions are those never documented — the documentation-after approach systematically produces undocumented architectures.
+
+[^13]: McConnell, *Code Complete*, 2004. McConnell identifies "documentation procrastination" as one of the most common software engineering failures, supporting the argument that documentation-after systematically under-produces documentation.
+
+[^14]: Parnas, "On the Criteria To Be Used in Decomposing Systems into Modules," 1972. Parnas's methodology of defining module interfaces before implementations is a direct precedent for the README-as-specification approach.
+
+[^15]: Meadows, *Thinking in Systems*, 2008. Meadows's observation that system design is itself a creative act — independent of system operation — validates the position that specification documents have value independent of whether the specified system is built.
