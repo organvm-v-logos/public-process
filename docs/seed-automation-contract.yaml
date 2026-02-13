@@ -1,0 +1,95 @@
+version: 1
+
+project:
+  name: "public-process"
+  codename: "translucent-exposure"
+  description: "Public-facing APIs and interfaces for external developers and systems."
+  owners:
+    - handle: "4jp"
+      role: "architect"
+  repo:
+    monorepo: false
+    package_manager: "npm"
+    type: "api-gateway"
+
+organ:
+  number: V
+  role: "exposure"
+  github_org: "TBD"  # To be assigned
+  upstream: ["III"]  # Receives from Commerce
+  downstream: ["VI"] # Sends to Community
+
+domain:
+  problem_statement: >
+    Provide stable, documented, and secure public interfaces for external
+    developers to integrate with the omni-dromenon metasystem.
+  personas:
+    - id: "external-developer"
+      description: "Third-party developers building integrations."
+    - id: "api-consumer"
+      description: "Services consuming public APIs."
+
+architecture:
+  style: "api-first"
+  tech_stack:
+    backend: "Node.js 20 (Express)"
+    api_spec: "OpenAPI 3.1"
+    documentation: "Redoc"
+    infra: "Google Cloud Run"
+
+coding_standards:
+  language: "TypeScript"
+  style:
+    formatter: "prettier"
+    linter: "eslint"
+  api_standards:
+    versioning: "url-path"  # /v1/, /v2/
+    authentication: "OAuth2 + API Keys"
+    rate_limiting: true
+
+growth_objectives:
+  roadmap_epics:
+    - id: "public-api-v1"
+      title: "Public API Launch"
+      description: "Initial public API with core functionality exposed."
+      modules: ["public-api-specs"]
+    - id: "sdk-release"
+      title: "Client SDK Release"
+      description: "Official SDKs for major languages."
+      modules: ["client-sdks-external"]
+
+dreamcatcher:
+  enabled: true
+  schedule: "on-demand"
+  budget:
+    max_loops: 20
+    max_files_touched: 5
+  providers:
+    architect: "claude-3-5-sonnet"
+    builder: "gpt-4o"
+    critic: "gemini-1.5-pro"
+
+automation_contract:
+  ai_access:
+    read_paths: ["public-api-specs/**", "client-sdks-external/**"]
+    write_paths: ["public-api-specs/**", "client-sdks-external/**"]
+    disallowed_writes: ["seed.yaml", ".env", "commercial-manifests/**"]
+  gates:
+    inbound:
+      - name: "security-review"
+        required: true
+        description: "All public APIs must pass security audit."
+    outbound:
+      - name: "documentation-complete"
+        required: true
+        description: "All public APIs must have complete documentation."
+
+knowledge_graph:
+  enabled: true
+  db_path: "/Users/4jp/.metasystem/metastore.db"
+  auto_index: true
+  integration:
+    query_before_work: true
+    log_decisions: true
+    log_file_changes: true
+    cross_project_learning: true
