@@ -20,19 +20,37 @@ word_count: 4500
 
 ## The Lesson of the First Sprint
 
-The original plan was to document everything at once. Forty-four repositories, comprehensive READMEs, all eight organs, simultaneous deployment. It was an appealing plan. It was also a terrible plan. Not because the ambition was wrong, but because it confused volume with quality. Writing forty-four mediocre READMEs is worse than writing seven excellent ones, because mediocrity at scale creates a different kind of failure — the failure of uniformity, where every repo looks the same, reads the same, and communicates nothing distinctive to the reviewer scrolling through the profile.
+The original plan was to document everything at once. Forty-four repositories, comprehensive READMEs, all eight organs, simultaneous deployment. It was an appealing plan. It was also a terrible plan. Not because the ambition was wrong, but because it confused volume with quality. Writing forty-four mediocre READMEs is worse than writing seven excellent ones, because mediocrity at scale creates a different kind of failure — the failure of uniformity, where every repo looks the same, reads the same, and communicates nothing distinctive to the reviewer scrolling through the profile[^1].
 
 Amendment A of the project constitution captures the lesson that replaced that plan: "The Bronze Sprint produces the Minimum Viable Launch: 5 flagships (one per organ I-V) + stubs for VI-VII + hardened registry + process essay. Completion is criteria-driven (D-08 success criteria), not time-boxed. '5 Perfect Repos > 44 Mediocre Repos.'"
 
-That phrase — "5 Perfect Repos > 44 Mediocre Repos" — is the principle that the entire tiered quality system rests on. It asserts that quality has a threshold below which documentation actively harms the portfolio. A 500-word README with generic boilerplate is not just less helpful than a 4,000-word README with specific technical details and portfolio language — it is actively harmful, because it signals carelessness. A grant reviewer who encounters five repos with thin documentation will infer that the entire system is thin. The quality of the worst repo in the system sets the perceived quality of the whole system.
+That phrase — "5 Perfect Repos > 44 Mediocre Repos" — is the principle that the entire tiered quality system rests on. It asserts that quality has a threshold below which documentation actively harms the portfolio. A 500-word README with generic boilerplate is not just less helpful than a 4,000-word README with specific technical details and portfolio language — it is actively harmful, because it signals carelessness. A grant reviewer who encounters five repos with thin documentation will infer that the entire system is thin. The quality of the worst repo in the system sets the perceived quality of the whole system[^2].
 
 The tiered approach — Bronze, Silver, Gold, and now Platinum — resolves this by producing quality in layers. Each sprint adds a different kind of quality to the system, building on the foundation laid by the previous sprint. No sprint proceeds until the previous sprint's criteria are met. And each sprint's criteria are specific, measurable, and grounded in the constitutional quality gates.
+
+```mermaid
+graph LR
+    B["Bronze Sprint<br/>Feb 10"]:::bronze --> S["Silver Sprint<br/>Feb 10"]:::silver
+    S --> G["Gold Sprint<br/>Feb 10"]:::gold
+    G --> GF["Gap-Fill Sprint<br/>Feb 11"]:::gapfill
+    GF --> P["Platinum Sprint<br/>Feb 11"]:::platinum
+    B -.- B1["7 flagships<br/>~25K words"]
+    S -.- S1["58 READMEs<br/>~202K words"]
+    G -.- G1["Essays + infra<br/>~22K words"]
+    GF -.- GF1["13 READMEs<br/>~41K words"]
+    P -.- P1["CI + badges + ADRs<br/>65 repos"]
+    classDef bronze fill:#cd7f32,color:#fff
+    classDef silver fill:#c0c0c0,color:#000
+    classDef gold fill:#ffd700,color:#000
+    classDef gapfill fill:#8fbc8f,color:#000
+    classDef platinum fill:#e5e4e2,color:#000
+```
 
 ---
 
 ## Bronze: The Flagships
 
-The Bronze Sprint ran on February 10, 2026, and produced 7 flagship READMEs — one for each of the five primary organs (I through V), plus organizational profile stubs for ORGAN-VI and ORGAN-VII. Total output: approximately 25,000 words across 7 repos and 2 org profiles. Every flagship scored 90 or above on the documentation rubric.
+The Bronze Sprint ran on February 10, 2026, and produced 7 flagship READMEs — one for each of the five primary organs (I through V), plus organizational profile stubs for ORGAN-VI and ORGAN-VII. Total output: approximately 25,000 words across 7 repos and 2 org profiles. Every flagship scored 90 or above on the documentation rubric[^3].
 
 The rubric itself — documented in `docs/planning/01-readme-audit-framework.md` — evaluates READMEs across 100 points in four dimensions:
 
@@ -40,13 +58,26 @@ The rubric itself — documented in `docs/planning/01-readme-audit-framework.md`
 
 **Content Completeness (35 points):** Is the problem statement clear? Are there working examples? Are dependencies documented? Is the architecture explained? Does the README cover installation, usage, testing, and contribution? This dimension catches the most common failure in developer documentation: the README that tells you what the software is but not how to use it, or how to use it but not why it exists.
 
-**Accuracy and Currency (20 points):** Do the links work? Do the code examples run? Does the documentation match the current state of the code? Are version numbers accurate? This dimension catches drift — the inevitable divergence between documentation and implementation that occurs in any maintained project.
+**Accuracy and Currency (20 points):** Do the links work? Do the code examples run? Does the documentation match the current state of the code? Are version numbers accurate? This dimension catches drift — the inevitable divergence between documentation and implementation that occurs in any maintained project[^4].
 
 **Portfolio Relevance (20 points):** Is it clear why this repo exists within the eight-organ system? Does the README connect the project to the larger portfolio? Is the language appropriate for grant reviewers and hiring managers, not just developers? Does the README pass the Stranger Test — would someone encountering this for the first time be convinced of the work's significance?
 
+<figure>
+<table>
+<thead><tr><th>Rubric Dimension</th><th>Points</th><th>Key Question</th></tr></thead>
+<tbody>
+<tr><td>Existence & Accessibility</td><td>25</td><td>Can a stranger find and read this documentation?</td></tr>
+<tr><td>Content Completeness</td><td>35</td><td>Does the documentation explain what, why, and how?</td></tr>
+<tr><td>Accuracy & Currency</td><td>20</td><td>Do the claims match the current state of the code?</td></tr>
+<tr><td>Portfolio Relevance</td><td>20</td><td>Does the README pass the Stranger Test?</td></tr>
+</tbody>
+</table>
+<figcaption>Table 1. The 100-point documentation rubric used across all four quality sprints.</figcaption>
+</figure>
+
 The flagship READMEs were the proving ground for these criteria. `recursive-engine--generative-entity` scored 96/100, with its 3,738-word README covering the symbolic processing architecture, the 21 organ handlers, the ritual syntax DSL, the test suite (1,254 tests, 85% coverage), and the epistemological rationale for treating myth and identity as computational processes. `public-record-data-scrapper` reached 4,455 words and covered the 50-state collection infrastructure, the B2B subscription model, the 2,055-test validation suite, and the ethical framework for public records access. `agentic-titan` hit 4,678 words — the longest Bronze Sprint README — covering six agent topologies, 1,095+ tests, and 18 development phases.
 
-Each flagship README had to accomplish something that shorter documentation cannot: it had to make the reader care. Not just understand — care. A grant reviewer reading the recursive-engine README should come away thinking: "This person understands something important about recursive systems and has built infrastructure to explore it seriously." A hiring manager reading the agentic-titan README should come away thinking: "This person can architect multi-agent systems at production quality." The word count targets (3,000+ words for flagships) exist because it takes that many words to build a genuine argument for a project's significance. You cannot pass the Stranger Test in 500 words.
+Each flagship README had to accomplish something that shorter documentation cannot: it had to make the reader care. Not just understand — care. A grant reviewer reading the recursive-engine README should come away thinking: "This person understands something important about recursive systems and has built infrastructure to explore it seriously." A hiring manager reading the agentic-titan README should come away thinking: "This person can architect multi-agent systems at production quality." The word count targets (3,000+ words for flagships) exist because it takes that many words to build a genuine argument for a project's significance. You cannot pass the Stranger Test in 500 words[^5].
 
 The Bronze Sprint completed with 34/34 validation items passing. The registry was updated. The flagships were deployed to GitHub. The system was visible for the first time.
 
@@ -54,7 +85,7 @@ The Bronze Sprint completed with 34/34 validation items passing. The registry wa
 
 ## Silver: The Full Corpus
 
-The Silver Sprint ran immediately after Bronze, also on February 10, 2026. Its scope was comprehensive: every non-infrastructure repo across all 7 organs at a minimum of 2,000 words. The output was enormous: 58 repo READMEs totaling approximately 202,000 words, plus expanded organizational profiles for all 8 orgs.
+The Silver Sprint ran immediately after Bronze, also on February 10, 2026. Its scope was comprehensive: every non-infrastructure repo across all 7 organs at a minimum of 2,000 words. The output was enormous: 58 repo READMEs totaling approximately 202,000 words, plus expanded organizational profiles for all 8 orgs[^6].
 
 The word count distribution by organ tells a story about the system's structure:
 
@@ -68,7 +99,17 @@ The word count distribution by organ tells a story about the system's structure:
 
 - **ORGAN-V through VII:** Smaller organ-specific documentation plus expanded org profiles (632 to 1,213 words per profile).
 
-The Silver Sprint introduced a challenge that the Bronze Sprint did not face: maintaining voice consistency across 58 READMEs. When you write 7 flagships, each one gets individual attention. When you write 58 READMEs in a single sprint using the AI-conductor model, the risk of generic boilerplate increases dramatically. The same templates, the same AI models, the same prompt patterns — they can produce documentation that reads like it was stamped from a mold. Every repo sounds the same. Every problem statement uses the same sentence structures. Every architecture section follows the same outline.
+<figure>
+<div class="stat-grid">
+<div class="stat"><div class="stat-value">58</div><div class="stat-label">READMEs Written</div></div>
+<div class="stat"><div class="stat-value">202K</div><div class="stat-label">Words Produced</div></div>
+<div class="stat"><div class="stat-value">2,000+</div><div class="stat-label">Min Words Per README</div></div>
+<div class="stat"><div class="stat-value">5,078</div><div class="stat-label">Max Words (metasystem-master)</div></div>
+</div>
+<figcaption>Figure 1. Silver Sprint output metrics — scaling quality from 7 flagships to 58 comprehensive READMEs.</figcaption>
+</figure>
+
+The Silver Sprint introduced a challenge that the Bronze Sprint did not face: maintaining voice consistency across 58 READMEs. When you write 7 flagships, each one gets individual attention. When you write 58 READMEs in a single sprint using the AI-conductor model, the risk of generic boilerplate increases dramatically. The same templates, the same AI models, the same prompt patterns — they can produce documentation that reads like it was stamped from a mold. Every repo sounds the same. Every problem statement uses the same sentence structures. Every architecture section follows the same outline[^7].
 
 The mitigation was specificity. Each README was required to include: the exact test count (not "comprehensive tests" but "1,254 tests" or "2,055 tests"), the exact word count of the README itself, specific architectural decisions unique to that project, specific integration points with other repos in the organ, and specific portfolio positioning that differentiates the repo from its siblings. `narratological-algorithmic-lenses` (3,728 words) could not read like `call-function--ontological` (4,233 words) even though both are ORGAN-I theory repos, because one formalizes narrative as algorithm and the other builds an ontological function-calling framework grounded in Continental philosophy. The specificity requirement forced each README to earn its word count with unique content rather than filling space with reusable paragraphs.
 
@@ -78,7 +119,7 @@ Two technical issues surfaced during the Silver Sprint that affected quality. `m
 
 ## Gold: System-Level Quality
 
-The Gold Sprint ran on February 10, 2026 — the same day as Bronze and Silver. Where Bronze established individual repo quality and Silver established corpus-wide coverage, Gold focused on system-level quality: the properties that emerge from the interaction of repos, organs, and governance, rather than from individual documents.
+The Gold Sprint ran on February 10, 2026 — the same day as Bronze and Silver. Where Bronze established individual repo quality and Silver established corpus-wide coverage, Gold focused on system-level quality: the properties that emerge from the interaction of repos, organs, and governance, rather than from individual documents[^8].
 
 The Gold Sprint produced five categories of deliverables:
 
@@ -92,7 +133,21 @@ The Gold Sprint produced five categories of deliverables:
 
 **G5: Registry hardening.** The registry was updated to reflect Gold Sprint completeness. All organs' launch status was updated. Validation scripts confirmed 0 dependency violations and 0 circular dependencies.
 
-The Gold Sprint's contribution to the quality ladder is qualitative rather than quantitative. Bronze established the floor (7 excellent READMEs). Silver established the breadth (58 repos at 2,000+ words). Gold established the depth — the system-level properties (dependency validation, community health, essays, orchestration infrastructure) that make the eight-organ system more than a collection of well-documented repos.
+<figure>
+<table>
+<thead><tr><th>Sprint</th><th>Focus</th><th>Primary Output</th><th>Word Count</th><th>Key Metric</th></tr></thead>
+<tbody>
+<tr><td>Bronze</td><td>Individual excellence</td><td>7 flagship READMEs</td><td>~25K</td><td>All scored 90+/100</td></tr>
+<tr><td>Silver</td><td>Corpus-wide coverage</td><td>58 READMEs + 8 org profiles</td><td>~202K</td><td>All 2,000+ words</td></tr>
+<tr><td>Gold</td><td>System-level coherence</td><td>5 essays + infra + health files</td><td>~22K</td><td>0 dependency violations</td></tr>
+<tr><td>Gap-Fill</td><td>Uniform population</td><td>13 READMEs + 11 new repos</td><td>~41K</td><td>All 8 organs substantive</td></tr>
+<tr><td>Platinum</td><td>Verifiable quality</td><td>65 CI + badges + ADRs</td><td>N/A</td><td>228/228 checks passed</td></tr>
+</tbody>
+</table>
+<figcaption>Table 2. The five-sprint quality ladder — each sprint adds a distinct dimension of quality to the system.</figcaption>
+</figure>
+
+The Gold Sprint's contribution to the quality ladder is qualitative rather than quantitative. Bronze established the floor (7 excellent READMEs). Silver established the breadth (58 repos at 2,000+ words). Gold established the depth — the system-level properties (dependency validation, community health, essays, orchestration infrastructure) that make the eight-organ system more than a collection of well-documented repos[^9].
 
 ---
 
@@ -109,7 +164,7 @@ The Gap-Fill Sprint (February 11, 2026) produced:
 - **4 repos archived** (ORGAN-II monorepo fragments consolidated into metasystem-master).
 - **Approximately 41,000 new words** bringing the total to approximately 270,000.
 
-The Gap-Fill Sprint's most significant contribution was making ORGAN-VI and ORGAN-VII substantive. Before the sprint, ORGAN-VI (Koinonia, Community) had only its org profile — no repos beyond the infrastructure `.github`. After the sprint, it had `salon-archive` (3,054 words) and `reading-group-curriculum` (3,200 words), both private, invitation-only repos with detailed documentation of community infrastructure. ORGAN-VII (Kerygma, Marketing) went from org-profile-only to three repos: `announcement-templates` (3,219 words), `social-automation` (3,130 words), and `distribution-strategy` (3,782 words).
+The Gap-Fill Sprint's most significant contribution was making ORGAN-VI and ORGAN-VII substantive. Before the sprint, ORGAN-VI (Koinonia, Community) had only its org profile — no repos beyond the infrastructure `.github`. After the sprint, it had `salon-archive` (3,054 words) and `reading-group-curriculum` (3,200 words), both private, invitation-only repos with detailed documentation of community infrastructure. ORGAN-VII (Kerygma, Marketing) went from org-profile-only to three repos: `announcement-templates` (3,219 words), `social-automation` (3,130 words), and `distribution-strategy` (3,782 words)[^10].
 
 This matters because Article III of the constitution requires all eight organs to be visible at launch. Before the Gap-Fill Sprint, ORGAN-VI and ORGAN-VII were visible only through their org profiles. After the sprint, they had substantive repos with portfolio-quality documentation. The eight-organ system was, for the first time, uniformly populated.
 
@@ -119,19 +174,44 @@ The sprint also elevated `orchestration-start-here` to flagship tier (the system
 
 ## Platinum: The Infrastructure Layer
 
-The Platinum Sprint adds what the previous sprints could not: automated infrastructure that makes quality claims verifiable rather than merely stated.
+The Platinum Sprint adds what the previous sprints could not: automated infrastructure that makes quality claims verifiable rather than merely stated[^11].
 
 A README can claim that a project has 1,254 tests. Without CI, that claim is unverifiable by a reviewer who does not clone and run the test suite. With CI — specifically, with the `ci-python.yml` template that runs pytest and uploads coverage reports — the claim becomes a green badge. The CI badge is not documentation. It is evidence. It runs every time code is pushed. It either passes or it does not. The reviewer does not need to trust the author. The reviewer can trust the machine.
+
+```mermaid
+graph TD
+    subgraph "Platinum Infrastructure Per Repo"
+        CI["CI Workflow<br/>(4 templates)"] --> BADGE["Badge Row<br/>(6 badges)"]
+        CI --> COV["Coverage Report<br/>(Codecov)"]
+        CHANGE["CHANGELOG<br/>(Keep a Changelog)"] --> RECORD["Temporal Record"]
+        ADR["ADR Templates<br/>(2 per repo)"] --> WHY["Decision Rationale"]
+    end
+    BADGE --> TRUST["Institutional Trust"]
+    COV --> TRUST
+    RECORD --> TRUST
+    WHY --> TRUST
+    TRUST --> STRANGER["Passes Stranger Test"]
+```
 
 The Platinum Sprint adds four categories of infrastructure to every repository with code:
 
 **CI/CD workflows.** Four templates (`ci-python.yml`, `ci-typescript.yml`, `ci-mixed.yml`, `ci-minimal.yml`) cover every technology stack in the system. The templates use graceful degradation — detecting the environment, running appropriate checks, and reporting results without blocking on non-critical failures. The philosophy is detailed in Essay 06 ("Testing the Meta-System"): the CI should match the maturity of the code. Production repos get strict CI. Skeleton repos get structural validation. Documentation repos get link and format checking.
 
-**Standardized badge rows.** The badge template at `templates/badges/badge-row.md` produces a six-badge row: CI status, coverage, license, organ number, repo status, and primary language. The badge row is a visual contract — it makes the repo's quality claims visible at a glance. A reviewer scanning the ORGAN-I repositories sees a consistent row of badges on every repo, each badge backed by automated validation. The consistency signals institutional quality. The automation signals production-ready thinking.
+**Standardized badge rows.** The badge template at `templates/badges/badge-row.md` produces a six-badge row: CI status, coverage, license, organ number, repo status, and primary language. The badge row is a visual contract — it makes the repo's quality claims visible at a glance. A reviewer scanning the ORGAN-I repositories sees a consistent row of badges on every repo, each badge backed by automated validation. The consistency signals institutional quality. The automation signals production-ready thinking[^12].
 
 **CHANGELOGs.** The template at `templates/changelog/CHANGELOG.md` follows the Keep a Changelog format and Semantic Versioning. CHANGELOGs create a temporal record of the project's evolution — what changed, when, and why. For grant reviewers evaluating long-term sustainability, a maintained CHANGELOG is stronger evidence than a README, because it demonstrates ongoing activity rather than a one-time documentation effort. The CHANGELOG also serves as a natural home for the Platinum Sprint additions themselves: "Added: CI/CD workflow, standardized badge row, ADR documentation."
 
 **Architecture Decision Records (ADRs).** The templates at `templates/adr/001-initial-architecture.md` and `002-integration-patterns.md` follow the standard ADR format: Status, Date, Context, Decision, Consequences (positive and negative), References. ADRs document the why behind architectural choices — the kind of reasoning that hiring managers at AI labs specifically look for. A repo with three ADRs demonstrates that the author makes deliberate architectural decisions and records the reasoning for future reference. This is the operational definition of "production-ready thinking."
+
+<figure>
+<div class="stat-grid">
+<div class="stat"><div class="stat-value">65</div><div class="stat-label">CI Workflows Deployed</div></div>
+<div class="stat"><div class="stat-value">130</div><div class="stat-label">ADRs Created (2/repo)</div></div>
+<div class="stat"><div class="stat-value">65</div><div class="stat-label">CHANGELOGs</div></div>
+<div class="stat"><div class="stat-value">228/228</div><div class="stat-label">Validation Checks Passed</div></div>
+</div>
+<figcaption>Figure 2. Platinum Sprint deployment metrics — automated quality infrastructure across the full system.</figcaption>
+</figure>
 
 ---
 
@@ -139,11 +219,11 @@ The Platinum Sprint adds four categories of infrastructure to every repository w
 
 The four-tier progression reveals something about quality that is not obvious from any single tier.
 
-**Bronze teaches that quality requires focus.** You cannot write 44 excellent READMEs at once. You can write 7. The constraint forces prioritization — which repos matter most, which audiences matter most, which claims matter most. The 7 flagship READMEs are the best documentation in the system not because they received the most tokens but because they received the most human attention. Each one was drafted, reviewed, scored against the rubric, revised, and validated before deployment.
+**Bronze teaches that quality requires focus.** You cannot write 44 excellent READMEs at once. You can write 7. The constraint forces prioritization — which repos matter most, which audiences matter most, which claims matter most. The 7 flagship READMEs are the best documentation in the system not because they received the most tokens but because they received the most human attention. Each one was drafted, reviewed, scored against the rubric, revised, and validated before deployment[^13].
 
 **Silver teaches that quality requires process.** Scaling from 7 to 58 READMEs requires a repeatable process that produces consistently good output across different domains. The AI-conductor model provides the generation. The scoring rubric provides the quality standard. The constitutional principles provide the constraints. Without process, scaling produces either inconsistency (some repos get 4,000 words of specific detail while others get 2,000 words of boilerplate) or homogeneity (all repos read the same because the same template was applied without customization). Process avoids both failure modes.
 
-**Gold teaches that quality is systemic.** Individual repo quality is necessary but not sufficient. The meta-system essays, the dependency validation, the community health files, the orchestration infrastructure — these are properties of the system, not of any individual repo. A grant reviewer evaluating the eight-organ system does not evaluate 72 repos independently. They evaluate the system as a whole: does it cohere? do the parts connect? is there governance? The Gold Sprint addresses these system-level questions.
+**Gold teaches that quality is systemic.** Individual repo quality is necessary but not sufficient. The meta-system essays, the dependency validation, the community health files, the orchestration infrastructure — these are properties of the system, not of any individual repo. A grant reviewer evaluating the eight-organ system does not evaluate 72 repos independently. They evaluate the system as a whole: does it cohere? do the parts connect? is there governance? The Gold Sprint addresses these system-level questions[^14].
 
 **Platinum teaches that quality must be verifiable.** Documentation can claim anything. CI proves it. Badges show it. CHANGELOGs record it. ADRs explain it. The Platinum layer converts stated quality into demonstrated quality — the kind that a reviewer can verify without reading a word of code.
 
@@ -155,7 +235,7 @@ The progression from Bronze to Platinum is also a progression in audience trust.
 
 The rubric, the tiers, and the sprints all serve a single goal: producing documentation that functions as a portfolio. This is Article V of the constitution: "Every README is a portfolio piece, written for grant reviewers and hiring managers, not just developers."
 
-What does this mean in practice? It means the README must do five things simultaneously:
+What does this mean in practice? It means the README must do five things simultaneously[^15]:
 
 **1. Explain the problem domain.** Not just what the software does, but why the problem it addresses matters. `public-record-data-scrapper` does not just scrape public records. It addresses the fragmentation of 50 different state-level UCC filing systems into a normalized API — a problem that matters for due diligence, compliance, and financial transparency. The domain explanation connects the technical work to real-world significance.
 
@@ -176,3 +256,33 @@ The Platinum Sprint brings the quality ladder to its current final tier. Bronze 
 The next quality evolution is not a fifth tier. It is maintenance — the sustained effort to keep the documentation accurate as implementations evolve, to keep the CI green as dependencies change, to keep the badges honest as code is added or refactored. Quality ladders are easy to climb and difficult to maintain. The monthly audit, the automated validation, and the public process essays create the institutional pressure that makes maintenance tractable.
 
 As described in Essay 07 ("The Documentation-Implementation Gap"), approximately 32 repos have documentation but not yet code. As those repos gain implementations, each one will climb the quality ladder from ci-minimal (structural validation only) to ci-python, ci-typescript, or ci-mixed (full linting, type checking, and testing). Each rung they climb produces a more honest badge row, a more specific CHANGELOG entry, and a more convincing portfolio signal. The quality ladder does not end with the Platinum Sprint. It provides the rungs that every repo will climb as the system matures.
+
+[^1]: Crosby, Philip B., *Quality Is Free: The Art of Making Quality Certain*, McGraw-Hill, 1979. Crosby's central insight — that the cost of quality is less than the cost of non-quality — underpins the decision to invest in tiered quality infrastructure rather than accepting mediocre documentation.
+
+[^2]: Deming, W. Edwards, *Out of the Crisis*, MIT Press, 1986. Deming's principle that quality is determined by the system, not by individual outputs, explains why the worst repo sets the perceived quality of the entire system.
+
+[^3]: CMMI Product Team, *CMMI for Development, Version 1.3*, Carnegie Mellon University, Software Engineering Institute, 2010. The maturity model concept — staged progression from ad hoc to optimizing — directly informs the Bronze-to-Platinum ladder structure.
+
+[^4]: McConnell, Steve, *Code Complete: A Practical Handbook of Software Construction*, 2nd ed., Microsoft Press, 2004. McConnell's emphasis on code-documentation correspondence and the dangers of documentation drift motivates the Accuracy and Currency rubric dimension.
+
+[^5]: Humphrey, Watts S., *Managing the Software Process*, Addison-Wesley, 1989. Humphrey's Personal Software Process demonstrates that disciplined, measured process produces higher quality output — the same principle that the 100-point rubric operationalizes.
+
+[^6]: Juran, Joseph M., *Juran's Quality Control Handbook*, 3rd ed., McGraw-Hill, 1951/1979. Juran's Pareto principle ("vital few and trivial many") applies to the Silver Sprint challenge: maintaining distinctiveness across 58 READMEs requires resisting the convergence toward a mean that bulk production naturally creates.
+
+[^7]: Senge, Peter M., *The Fifth Discipline: The Art and Practice of the Learning Organization*, Doubleday, 1990. Senge's concept of personal mastery applied to organizational learning explains why voice consistency requires deliberate batching and organ-specific context rather than uniform prompting.
+
+[^8]: Meadows, Donella H., *Thinking in Systems: A Primer*, Chelsea Green Publishing, 2008. Meadows's distinction between stocks and flows applies: Bronze/Silver are stocks (accumulated documentation), Gold is the flow (the system-level processes that connect and validate those stocks).
+
+[^9]: Deming, *Out of the Crisis*, 1986. The Gold Sprint operationalizes Deming's "system of profound knowledge" — understanding variation, theory of knowledge, psychology, and appreciation for a system — at the meta-system level.
+
+[^10]: Brooks, Frederick P., *The Mythical Man-Month: Essays on Software Engineering*, Anniversary ed., Addison-Wesley, 1995 (orig. 1975). Brooks's insistence on conceptual integrity across all components of a system explains why ORGAN-VI and ORGAN-VII needed substantive repos, not just profile stubs.
+
+[^11]: Crosby, *Quality Is Free*, 1979. The Platinum Sprint embodies Crosby's "zero defects" philosophy applied not to manufacturing but to infrastructure: every repo gets CI, every repo gets badges, no exceptions.
+
+[^12]: Humphrey, *Managing the Software Process*, 1989. The standardized badge row is a visual implementation of Humphrey's measurement framework — making quality metrics visible and comparable across all process units.
+
+[^13]: CMMI Product Team, *CMMI for Development*, 2010. The Bronze Sprint corresponds to CMMI Level 3 (Defined): a documented, standardized process for producing high-quality output, applied consistently to the most critical deliverables.
+
+[^14]: Senge, *The Fifth Discipline*, 1990. Senge's systems thinking — seeing the interconnections rather than the components — is precisely what the Gold Sprint delivers: essays, dependency validation, and orchestration that reveal the system behind the repos.
+
+[^15]: McConnell, *Code Complete*, 2004. McConnell's five dimensions of software quality (external quality, internal quality, process quality, commercial quality, and readiness for use) map directly to the five requirements for a portfolio-quality README.
