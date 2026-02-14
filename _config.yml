@@ -36,8 +36,8 @@ feed:
   path: feed.xml
   posts_limit: 20
 
-# Analytics (uncomment to enable GoatCounter — privacy-respecting, no cookies, GDPR-compliant)
-# goatcounter_url: https://organvm.goatcounter.com
+# Analytics (GoatCounter — privacy-respecting, no cookies, GDPR-compliant)
+goatcounter_url: https://organvm.goatcounter.com
 
 # Exclude from build
 exclude:
