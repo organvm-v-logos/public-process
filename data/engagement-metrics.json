@@ -1,26 +1,64 @@
 {
-  "version": "1.0",
-  "updated": "2026-02-11",
-  "note": "Metrics will be populated once Ghost analytics and POSSE tracking are active.",
+  "version": "2.0",
+  "updated": "2026-02-17",
+  "updated_by": "LOGOS Sprint \u2014 Session 1 data reconciliation",
+  "note": "Metrics infrastructure being built. GoatCounter integration via analytics-engine repo. Essay counts reconciled from _posts/ directory.",
   "essays": {
-    "total_published": 16,
-    "meta_system": 10,
-    "subsidiary": 6,
-    "estimated_total_words": 59000
+    "total_published": 40,
+    "by_category": {
+      "meta-system": 16,
+      "subsidiary": 6,
+      "uncategorized": 10,
+      "guide": 4,
+      "governance-practice": 1,
+      "product-update": 1,
+      "reflection": 1,
+      "retrospective": 1
+    },
+    "total_words": 129527,
+    "date_range": {
+      "first": "2026-02-10",
+      "latest": "2026-02-17"
+    }
   },
   "channels": {
-    "jekyll_site": {"status": "ACTIVE", "url": "https://organvm-v-logos.github.io/public-process/"},
-    "rss_feed": {"status": "ACTIVE", "url": "https://organvm-v-logos.github.io/public-process/feed.xml"},
-    "mastodon": {"status": "ACTIVE", "verified": "2026-02-11"},
-    "discord": {"status": "ACTIVE", "verified": "2026-02-11"},
-    "ghost_newsletter": {"status": "PLANNED"},
-    "linkedin": {"status": "PLANNED"}
+    "jekyll_site": {
+      "status": "ACTIVE",
+      "url": "https://organvm-v-logos.github.io/public-process/"
+    },
+    "rss_feed": {
+      "status": "ACTIVE",
+      "url": "https://organvm-v-logos.github.io/public-process/feed.xml"
+    },
+    "mastodon": {
+      "status": "ACTIVE",
+      "verified": "2026-02-11"
+    },
+    "discord": {
+      "status": "ACTIVE",
+      "verified": "2026-02-11"
+    },
+    "buttondown_newsletter": {
+      "status": "PLANNED"
+    },
+    "linkedin": {
+      "status": "PLANNED"
+    }
+  },
+  "analytics": {
+    "platform": "goatcounter",
+    "status": "PLANNED",
+    "tracking_repo": "organvm-v-logos/analytics-engine",
+    "dashboard_url": null,
+    "api_endpoint": null
   },
   "engagement": {
     "rss_subscribers": null,
     "newsletter_subscribers": null,
     "mastodon_followers": null,
     "discord_members": null,
-    "total_page_views": null
+    "total_page_views": null,
+    "top_essays_by_views": [],
+    "referrer_breakdown": {}
   }
 }
