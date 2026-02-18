@@ -6,13 +6,23 @@ permalink: /about/
 
 # About Public Process
 
-## What Is ORGAN-V?
+## Who I Am
 
-Public Process is the public-facing essay series of **organvm** — an eight-organ creative-institutional system that coordinates approximately 80 GitHub repositories across 8 GitHub organizations. ORGAN-V (Logos) is the discourse layer: the place where the system explains itself, documents its decisions, examines its failures, and builds in public.
+I build environments for creative work to grow in.
 
-The word *logos* carries deliberate weight. In its Greek origins, logos means not just "word" but "reason" — the principle of order and intelligibility underlying a system. ORGAN-V does not merely describe what the organvm system does. It articulates *why* it is structured as it is, *how* decisions are made, and *what* those decisions mean for creative practice, institutional design, and the relationship between human direction and AI-generated volume.
+That sentence took five years to write. Not because the words are difficult, but because it took five years of building — 97 repositories, 8 organizations, 33 development sprints, 404,000 words of documentation — before I trusted the evidence over the narrative. The narrative said "I'm not sure what I am." The evidence said: you're a person who builds creative systems at institutional scale, alone, at full intensity, and documents everything.
 
-Every essay published here is simultaneously a piece of critical writing and a portfolio artifact. The audience includes grant reviewers, hiring managers, collaborators, and anyone interested in how a single practitioner can sustain a complex creative infrastructure using modern tooling and disciplined governance.
+I work under the handle **@4444J99**. I'm a creative technologist, systems architect, and writer. My reference points are Brian Eno (the studio as compositional instrument), Trent Reznor and Prince (solo production because no one else would commit at the required level), Brian Wilson (the edit as the creative act), and Terrence Malick (the creature formed in the assembly). These aren't comparisons of quality — they're descriptions of a shared method: design the environment, generate the material, assemble in the edit.
+
+The organvm system is what came out of that method. It coordinates theory, art, commerce, governance, public discourse, community, and marketing under a single documented architecture. I built it because nothing else would hold all the things I actually do. The full argument is in two essays: [The Solo Auteur Method]({{ site.baseurl }}{% post_url 2026-02-18-the-solo-auteur-method %}) and [What I've Done Is What I Am]({{ site.baseurl }}{% post_url 2026-02-17-what-ive-done-is-what-i-am %}).
+
+## What Is Public Process
+
+Public Process is ORGAN-V (Logos) of the organvm system — the discourse layer. This is where the system explains itself, documents its decisions, examines its failures, and builds in public.
+
+The word *logos* carries deliberate weight. In its Greek origins, logos means not just "word" but "reason" — the principle of order and intelligibility underlying a system. These essays don't merely describe what the system does. They articulate *why* it is structured as it is, *how* decisions are made, and *what* those decisions mean for creative practice, institutional design, and the relationship between human direction and AI-generated volume.
+
+Every essay published here is simultaneously a piece of critical writing and a portfolio artifact. The audience includes grant reviewers, residency committees, potential collaborators, and anyone interested in how a single practitioner can sustain a complex creative infrastructure using modern tooling and disciplined governance.
 
 ## The Eight-Organ Model
 
@@ -38,11 +48,15 @@ The organvm system divides creative-institutional work into eight specialized or
 
 The organs are not peers — they form a directed acyclic graph. Theory (I) feeds Art (II) feeds Commerce (III). Orchestration (IV) governs all. Logos (V), Koinonia (VI), and Kerygma (VII) are lateral organs that draw from the system but do not create upstream dependencies. This unidirectional flow is enforced as a constitutional invariant: ORGAN-III cannot depend on ORGAN-II internals, and ORGAN-II cannot reach back into ORGAN-I's decision architecture. The constraint prevents the kind of circular dependency that collapses complex systems into ungovernable tangles.
 
-## The Author
+## How I Work
 
-The organvm system is designed and maintained by a creative technologist and AI engineer operating under the handle **@4444J99**. The system reflects five years of autonomous creative practice — building infrastructure that sustains artistic work without institutional employment, grants, or external funding (though those are welcomed).
+I direct. I don't perform.
 
-The methodology is the **AI-conductor model**: AI generates volume, the human directs strategy and ensures accuracy. This is not "AI wrote everything" — it is a specific workflow with defined roles, quality gates, and economics. The planning corpus alone exceeds 270,000 words. The human contribution is the decision architecture, the governance model, the priority framework, and the editorial judgment that distinguishes portfolio-quality documentation from generic boilerplate.
+I use AI tools the way Brian Wilson used session musicians: I design the architecture, specify the requirements, review the output, and make editorial decisions about what stays, what changes, and what gets cut. The AI generates volume; I provide vision and judgment. This is the AI-conductor model — a specific methodology with defined roles, quality gates, and accountability structures.
+
+This isn't a confession and it isn't a shortcut. When Wilson brought in session musicians for *Pet Sounds*, nobody said he "didn't really make the album." The creative intelligence — the thing that makes it *Pet Sounds* instead of background music — was Wilson's editorial vision. The same principle applies here. The planning corpus alone exceeds 270,000 words. The human contribution is the decision architecture, the governance model, the priority framework, and the editorial judgment that distinguishes a documented creative system from a pile of repositories.
+
+The full methodology is documented in [The Solo Auteur Method]({{ site.baseurl }}{% post_url 2026-02-18-the-solo-auteur-method %}).
 
 ## How to Follow
 

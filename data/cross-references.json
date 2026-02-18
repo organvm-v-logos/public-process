@@ -1,7 +1,7 @@
 {
   "version": "1.1",
   "updated": "2026-02-17",
-  "total": 41,
+  "total": 42,
   "entries": {
     "2026-02-10-building-in-public.md": {
       "title": "Building in Public: Radical Transparency as Creative Methodology",
@@ -674,6 +674,25 @@
         "governance"
       ],
       "category": "retrospective"
+    },
+    "2026-02-17-what-ive-done-is-what-i-am.md": {
+      "title": "What I've Done Is What I Am",
+      "related_repos": [
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-v-logos/public-process"
+      ],
+      "tags": [
+        "identity",
+        "imposter-syndrome",
+        "creative-practice",
+        "solo-production",
+        "portfolio",
+        "building-in-public",
+        "honesty",
+        "meta-system"
+      ],
+      "category": "meta-system"
     },
     "2026-02-18-the-solo-auteur-method.md": {
       "title": "The Solo Auteur Method",

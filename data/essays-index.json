@@ -2,10 +2,10 @@
   "version": "1.1",
   "updated": "2026-02-17",
   "generated_by": "essay-pipeline indexer v0.1.0",
-  "total_essays": 41,
-  "total_words": 131919,
+  "total_essays": 42,
+  "total_words": 134347,
   "categories": {
-    "meta-system": 20,
+    "meta-system": 21,
     "case-study": 7,
     "guide": 6,
     "retrospective": 4,
@@ -14,21 +14,21 @@
   "tag_frequency": {
     "governance": 10,
     "methodology": 9,
-    "creative-practice": 8,
+    "creative-practice": 9,
     "infrastructure": 7,
     "orchestration": 5,
+    "meta-system": 5,
+    "portfolio": 5,
+    "building-in-public": 4,
     "retrospective": 4,
     "institutional-design": 4,
-    "meta-system": 4,
-    "portfolio": 4,
     "ai-conductor": 4,
     "documentation": 4,
+    "honesty": 4,
     "ci-cd": 4,
     "guide": 4,
-    "building-in-public": 3,
     "organ-iii": 3,
     "commerce": 3,
-    "honesty": 3,
     "theory": 3,
     "automation": 3,
     "systems-engineering": 3,
@@ -51,6 +51,7 @@
     "beta": 2,
     "shipping": 2,
     "organ-model": 2,
+    "solo-production": 2,
     "open-source": 1,
     "community": 1,
     "lessons-learned": 1,
@@ -156,7 +157,8 @@
     "assessment": 1,
     "decisions": 1,
     "ADR": 1,
-    "solo-production": 1,
+    "identity": 1,
+    "imposter-syndrome": 1,
     "AI-augmented": 1,
     "auteur": 1,
     "process-as-product": 1
@@ -835,6 +837,25 @@
       "portfolio_relevance": "HIGH"
     },
     {
+      "filename": "2026-02-17-what-ive-done-is-what-i-am.md",
+      "title": "What I've Done Is What I Am",
+      "date": "2026-02-17",
+      "category": "meta-system",
+      "tags": [
+        "identity",
+        "imposter-syndrome",
+        "creative-practice",
+        "solo-production",
+        "portfolio",
+        "building-in-public",
+        "honesty",
+        "meta-system"
+      ],
+      "word_count": 2263,
+      "reading_time": "12 min",
+      "portfolio_relevance": "CRITICAL"
+    },
+    {
       "filename": "2026-02-18-the-solo-auteur-method.md",
       "title": "The Solo Auteur Method",
       "date": "2026-02-18",
@@ -848,7 +869,7 @@
         "process-as-product",
         "organ-model"
       ],
-      "word_count": 1822,
+      "word_count": 1987,
       "reading_time": "12 min",
       "portfolio_relevance": "CRITICAL"
     }
