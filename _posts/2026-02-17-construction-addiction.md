@@ -4,7 +4,7 @@ title: "The Construction Addiction: When Building Becomes Avoidance"
 author: "@4444J99"
 date: "2026-02-17"
 tags: [governance, self-assessment, anti-patterns, building-in-public, operational-cadence, honesty]
-category: "reflection"
+category: "retrospective"
 excerpt: "The eight-organ system diagnosed its own compulsive building pattern — and then kept building. This essay examines what construction addiction looks like from the inside, why self-awareness doesn't automatically produce behavior change, and what finally breaks the cycle."
 portfolio_relevance: "HIGH"
 related_repos:

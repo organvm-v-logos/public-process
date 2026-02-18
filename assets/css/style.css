@@ -448,6 +448,67 @@ tr:hover td {
   margin-top: 0.3em;
 }
 
+/* --- Category Badges --- */
+.category-badge {
+  display: inline-block;
+  padding: 0.15em 0.55em;
+  border-radius: 12px;
+  font-size: 0.78em;
+  font-weight: 500;
+  text-decoration: none;
+  border: 1px solid transparent;
+  transition: opacity 0.15s ease;
+  vertical-align: middle;
+}
+
+.category-badge:hover {
+  opacity: 0.85;
+  text-decoration: none;
+}
+
+.category-meta-system {
+  background: rgba(88, 166, 255, 0.15);
+  color: #58a6ff;
+  border-color: rgba(88, 166, 255, 0.3);
+}
+
+.category-case-study {
+  background: rgba(163, 113, 247, 0.15);
+  color: #a371f7;
+  border-color: rgba(163, 113, 247, 0.3);
+}
+
+.category-guide {
+  background: rgba(62, 200, 79, 0.15);
+  color: #3ec84f;
+  border-color: rgba(62, 200, 79, 0.3);
+}
+
+.category-methodology {
+  background: rgba(219, 171, 9, 0.15);
+  color: #dbab09;
+  border-color: rgba(219, 171, 9, 0.3);
+}
+
+.category-retrospective {
+  background: rgba(248, 81, 73, 0.15);
+  color: #f85149;
+  border-color: rgba(248, 81, 73, 0.3);
+}
+
+/* --- Category Chips (filter bar) --- */
+.category-chips {
+  margin: 1em 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
+
+.category-chips .category-badge {
+  font-size: 0.85em;
+  padding: 0.3em 0.8em;
+}
+
 /* --- Responsive --- */
 @media (max-width: 600px) {
   .header-inner {

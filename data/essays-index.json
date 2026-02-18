@@ -1,18 +1,15 @@
 {
   "version": "1.1",
   "updated": "2026-02-17",
-  "generated_by": "Session 1.5 — Reinforcement Sprint data regeneration",
+  "generated_by": "essay-pipeline indexer v0.1.0",
   "total_essays": 40,
-  "total_words": 147867,
+  "total_words": 130097,
   "categories": {
-    "meta-system": 18,
-    "subsidiary": 6,
+    "meta-system": 19,
+    "case-study": 7,
     "guide": 6,
-    "methodology": 4,
-    "retrospective": 3,
-    "governance-practice": 1,
-    "product-update": 1,
-    "reflection": 1
+    "retrospective": 4,
+    "methodology": 4
   },
   "tag_frequency": {
     "governance": 10,
@@ -162,10 +159,10 @@
   },
   "essays": [
     {
-      "number": 1,
       "filename": "2026-02-10-building-in-public.md",
       "title": "Building in Public: Radical Transparency as Creative Methodology",
       "date": "2026-02-10",
+      "category": "meta-system",
       "tags": [
         "building-in-public",
         "transparency",
@@ -173,22 +170,15 @@
         "open-source",
         "community"
       ],
-      "category": "meta-system",
-      "excerpt": "Why building in public is not marketing but methodology — how radical transparency in governance, documentation, and process creates stronger creative infrastructure and genuine audience connection.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-v-logos/public-process",
-        "organvm-vi-koinonia/.github",
-        "organvm-vii-kerygma/.github"
-      ],
+      "word_count": 3214,
       "reading_time": "12 min",
-      "word_count": 3000
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 2,
       "filename": "2026-02-10-five-years-autonomous-creative.md",
       "title": "Five Years of Autonomous Creative Systems: What I've Learned About Orchestration",
       "date": "2026-02-10",
+      "category": "meta-system",
       "tags": [
         "retrospective",
         "autonomous-systems",
@@ -196,24 +186,15 @@
         "lessons-learned",
         "creative-practice"
       ],
-      "category": "meta-system",
-      "excerpt": "A retrospective on five years of building autonomous creative infrastructure — from chaotic solo repositories to an eight-organ system coordinating 79 repos across 8 organizations, and the governance lessons that emerged from repeated failure.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-ii-poiesis/metasystem-master",
-        "organvm-iii-ergon/public-record-data-scrapper",
-        "organvm-iv-taxis/agentic-titan",
-        "organvm-v-logos/public-process"
-      ],
+      "word_count": 5311,
       "reading_time": "18 min",
-      "word_count": 4500
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 3,
       "filename": "2026-02-10-governance-as-creative-practice.md",
       "title": "Governance as Creative Practice: Why the Eight-Organ System Exists",
       "date": "2026-02-10",
+      "category": "meta-system",
       "tags": [
         "governance",
         "creative-practice",
@@ -221,23 +202,15 @@
         "artistic-methodology",
         "institutional-design"
       ],
-      "category": "meta-system",
-      "excerpt": "How treating governance as an artistic medium — not bureaucratic overhead — enables sustained autonomous creative practice across eight specialized organs.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-iv-taxis/agentic-titan",
-        "organvm-iv-taxis/petasum-super-petasum",
-        "organvm-i-theoria/system-governance-framework",
-        "organvm-i-theoria/recursive-engine--generative-entity"
-      ],
+      "word_count": 4288,
       "reading_time": "16 min",
-      "word_count": 4000
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 4,
       "filename": "2026-02-10-how-we-orchestrate-eight-organs.md",
       "title": "How We Orchestrate Eight Organs Across 79 Repositories",
       "date": "2026-02-10",
+      "category": "meta-system",
       "tags": [
         "orchestration",
         "meta-system",
@@ -245,24 +218,15 @@
         "infrastructure",
         "portfolio"
       ],
-      "category": "meta-system",
-      "excerpt": "A detailed account of how eight specialized organs — theory, art, commerce, orchestration, public process, community, and marketing — coordinate across 79 GitHub repositories to sustain autonomous creative practice.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-iv-taxis/agentic-titan",
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-ii-poiesis/metasystem-master",
-        "organvm-iii-ergon/public-record-data-scrapper"
-      ],
+      "word_count": 5080,
       "reading_time": "20 min",
-      "word_count": 5000
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 5,
       "filename": "2026-02-10-meta-system-as-portfolio-asset.md",
       "title": "The Meta-System as Portfolio Asset: Why Application Reviewers Care About Orchestration",
       "date": "2026-02-10",
+      "category": "meta-system",
       "tags": [
         "portfolio",
         "grants",
@@ -271,23 +235,15 @@
         "infrastructure",
         "career-strategy"
       ],
-      "category": "meta-system",
-      "excerpt": "How meta-system documentation — registries, governance rules, orchestration workflows — has become the strongest portfolio asset in a landscape where funders and hiring managers evaluate infrastructure capacity, not just individual outputs.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-iv-taxis/agentic-titan",
-        "organvm-v-logos/public-process",
-        "organvm-iii-ergon/public-record-data-scrapper"
-      ],
+      "word_count": 3556,
       "reading_time": "14 min",
-      "word_count": 3500
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 6,
       "filename": "2026-02-11-aetheria-rpg-post-mortem.md",
       "title": "Aetheria RPG Post-Mortem: A Full I→II→III Pipeline Retrospective",
       "date": "2026-02-11",
+      "category": "case-study",
       "tags": [
         "organ-iii",
         "commerce",
@@ -297,21 +253,15 @@
         "post-mortem",
         "revenue"
       ],
-      "category": "subsidiary",
-      "excerpt": "A candid post-mortem of Aetheria, the educational RPG system that traced the full pipeline from gamification theory in ORGAN-I through game design in ORGAN-II to commercial SaaS product in ORGAN-III — what worked, what failed, and what the numbers actually say.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iii-ergon/classroom-rpg-aetheria",
-        "organvm-iii-ergon/gamified-coach-interface"
-      ],
+      "word_count": 3541,
       "reading_time": "19 min",
-      "word_count": 4300
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 7,
       "filename": "2026-02-11-ai-conductor-methodology.md",
       "title": "AI-Conductor Methodology: Directing 270,000 Words of Documentation",
       "date": "2026-02-11",
+      "category": "meta-system",
       "tags": [
         "ai-conductor",
         "methodology",
@@ -320,22 +270,15 @@
         "llm",
         "workflow"
       ],
-      "category": "meta-system",
-      "excerpt": "The AI-conductor workflow model in detail — how 270,000 words of portfolio-quality documentation were produced in days rather than months, the token economics behind it, the risks of AI-generated content, and the quality assurance techniques that make the output trustworthy.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-v-logos/public-process",
-        "organvm-iv-taxis/orchestration-start-here",
-        "meta-organvm/organvm-corpvs-testamentvm"
-      ],
+      "word_count": 3695,
       "reading_time": "20 min",
-      "word_count": 5000
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 8,
       "filename": "2026-02-11-bronze-to-platinum.md",
       "title": "From Bronze to Platinum: Quality Ladders for Creative Infrastructure",
       "date": "2026-02-11",
+      "category": "meta-system",
       "tags": [
         "quality-tiers",
         "bronze-sprint",
@@ -345,24 +288,15 @@
         "documentation",
         "portfolio"
       ],
-      "category": "meta-system",
-      "excerpt": "The tiered quality system that scaled documentation from 7 flagship READMEs to 270,000 words across 72 repos — how each tier builds on the previous, what makes a README portfolio-quality, and what the Platinum additions (CI, badges, CHANGELOGs, ADRs) complete.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-v-logos/public-process",
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-iii-ergon/public-record-data-scrapper",
-        "organvm-ii-poiesis/metasystem-master"
-      ],
+      "word_count": 3601,
       "reading_time": "18 min",
-      "word_count": 4500
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 9,
       "filename": "2026-02-11-choreographic-interface.md",
       "title": "The Choreographic Interface: Designing Systems for Human Movement",
       "date": "2026-02-11",
+      "category": "case-study",
       "tags": [
         "organ-ii",
         "art",
@@ -371,22 +305,15 @@
         "sensor-art",
         "residency"
       ],
-      "category": "subsidiary",
-      "excerpt": "How the choreographic interface pipeline transforms body movement into digital response — from sensor ingestion through mapping layers to real-time audiovisual output — and what this means for residency applications at Eyebeam, Somerset House, and the Processing Foundation.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-ii-poiesis/example-choreographic-interface",
-        "organvm-ii-poiesis/metasystem-master",
-        "organvm-ii-poiesis/example-interactive-installation"
-      ],
+      "word_count": 3920,
       "reading_time": "18 min",
-      "word_count": 4200
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 10,
       "filename": "2026-02-11-coaching-platform-metrics.md",
       "title": "Coaching Platform Metrics: Commerce Retrospective with Actual Numbers",
       "date": "2026-02-11",
+      "category": "case-study",
       "tags": [
         "organ-iii",
         "commerce",
@@ -395,22 +322,15 @@
         "metrics",
         "retrospective"
       ],
-      "category": "subsidiary",
-      "excerpt": "A transparent metrics retrospective on the gamified coaching platform — revenue trajectory, engagement data, retention curves, and an honest assessment of what 'commerce' means when the goal is organizational sustainability rather than profit maximization.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iii-ergon/gamified-coach-interface",
-        "organvm-iii-ergon/classroom-rpg-aetheria",
-        "organvm-iii-ergon/public-record-data-scrapper"
-      ],
+      "word_count": 3393,
       "reading_time": "18 min",
-      "word_count": 4100
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 11,
       "filename": "2026-02-11-documentation-implementation-gap.md",
       "title": "The Documentation-Implementation Gap: Honest Accounting",
       "date": "2026-02-11",
+      "category": "meta-system",
       "tags": [
         "documentation",
         "implementation",
@@ -419,23 +339,15 @@
         "ai-conductor",
         "creative-infrastructure"
       ],
-      "category": "meta-system",
-      "excerpt": "An honest assessment of the gap between documentation and implementation across 67 non-infrastructure repos — why 32 README-only repos is honest rather than shameful, how documentation-first development works, and how the gap narrows over time.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-v-logos/public-process",
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-iii-ergon/public-record-data-scrapper"
-      ],
+      "word_count": 3643,
       "reading_time": "16 min",
-      "word_count": 4000
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 12,
       "filename": "2026-02-11-epistemic-tuning-explained.md",
       "title": "Epistemic Tuning Explained",
       "date": "2026-02-11",
+      "category": "case-study",
       "tags": [
         "organ-i",
         "theory",
@@ -444,21 +356,15 @@
         "ai",
         "methodology"
       ],
-      "category": "subsidiary",
-      "excerpt": "How knowledge atomization, vector search over Claude conversations, and an eight-phase auto-revision engine create a system that knows what it knows — and adjusts that knowledge deliberately.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-i-theoria/my-knowledge-base",
-        "organvm-i-theoria/linguistic-atomization-framework"
-      ],
+      "word_count": 3984,
       "reading_time": "19 min",
-      "word_count": 4420
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 13,
       "filename": "2026-02-11-generative-music-case-study.md",
       "title": "Generative Music Case Study",
       "date": "2026-02-11",
+      "category": "case-study",
       "tags": [
         "organ-ii",
         "art",
@@ -467,22 +373,15 @@
         "creative-coding",
         "case-study"
       ],
-      "category": "subsidiary",
-      "excerpt": "How symbolic narrative events from a recursive engine become live generative music through the Omni-Dromenon performance infrastructure, and what machine-composed performance actually sounds like.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-ii-poiesis/example-generative-music",
-        "organvm-ii-poiesis/metasystem-master",
-        "organvm-ii-poiesis/audio-synthesis-bridge"
-      ],
+      "word_count": 3838,
       "reading_time": "19 min",
-      "word_count": 4380
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 14,
       "filename": "2026-02-11-recursive-engines-at-scale.md",
       "title": "Recursive Engines at Scale",
       "date": "2026-02-11",
+      "category": "case-study",
       "tags": [
         "organ-i",
         "theory",
@@ -491,21 +390,15 @@
         "architecture",
         "scale"
       ],
-      "category": "subsidiary",
-      "excerpt": "How a 21-organ recursive engine with 1,254 tests scales symbolic processing from philosophical abstraction to production infrastructure, and what breaks when you try.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-i-theoria/narratological-algorithmic-lenses"
-      ],
+      "word_count": 3726,
       "reading_time": "18 min",
-      "word_count": 4350
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 15,
       "filename": "2026-02-11-testing-the-meta-system.md",
       "title": "Testing the Meta-System: CI/CD Across Eight Organs",
       "date": "2026-02-11",
+      "category": "meta-system",
       "tags": [
         "ci-cd",
         "testing",
@@ -514,23 +407,15 @@
         "infrastructure",
         "platinum-sprint"
       ],
-      "category": "meta-system",
-      "excerpt": "How continuous integration works at scale across 8 GitHub organizations and 78 repositories — the challenges of testing documentation-heavy repos, graceful degradation in CI workflows, and what 'green' means for a creative-institutional system.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-iii-ergon/public-record-data-scrapper",
-        "organvm-iv-taxis/agentic-titan"
-      ],
+      "word_count": 4280,
       "reading_time": "18 min",
-      "word_count": 4500
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 16,
       "filename": "2026-02-11-uniform-quality-at-scale.md",
       "title": "Uniform Quality at Scale: How Every Repo Earns Its Badges",
       "date": "2026-02-11",
+      "category": "meta-system",
       "tags": [
         "uniform-quality",
         "badges",
@@ -539,24 +424,15 @@
         "institutional-trust",
         "infrastructure"
       ],
-      "category": "meta-system",
-      "excerpt": "The philosophy of uniform quality treatment — why every repo with code gets the same Platinum infrastructure regardless of size, how graceful degradation makes this tractable, and how badge rows build institutional trust at scale.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-iii-ergon/public-record-data-scrapper",
-        "organvm-ii-poiesis/metasystem-master",
-        "organvm-iv-taxis/agentic-titan"
-      ],
+      "word_count": 3548,
       "reading_time": "18 min",
-      "word_count": 4500
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 17,
       "filename": "2026-02-12-the-parallel-launch.md",
       "title": "The Parallel Launch: Why We Shipped 81 Repositories Simultaneously",
       "date": "2026-02-12",
+      "category": "retrospective",
       "tags": [
         "parallel-launch",
         "systems-engineering",
@@ -564,23 +440,15 @@
         "orchestration",
         "infrastructure"
       ],
-      "category": "retrospective",
-      "excerpt": "On February 11, 2026, all eight organs of the organvm system went operational simultaneously — 81 repositories across 8 GitHub organizations. This is the account of why we made that choice, how we executed it, and what we learned.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-iv-taxis/agentic-titan",
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-v-logos/public-process"
-      ],
+      "word_count": 4364,
       "reading_time": "18 min",
-      "word_count": 4347
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 18,
       "filename": "2026-02-13-aesthetic-nervous-system.md",
       "title": "The Aesthetic Nervous System: How taste.yaml Cascades Across Eight Organs",
       "date": "2026-02-13",
+      "category": "methodology",
       "tags": [
         "aesthetic-system",
         "taste-yaml",
@@ -588,20 +456,15 @@
         "creative-governance",
         "organ-aesthetic"
       ],
-      "category": "methodology",
-      "excerpt": "Every creative system faces the coherence problem. This essay describes the cascading aesthetic governance system — taste.yaml, organ-aesthetic.yaml, and per-repo creative briefs — that propagates aesthetic constraints across eight organs and 89 repositories.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "meta-organvm/.github"
-      ],
+      "word_count": 3180,
       "reading_time": "13 min",
-      "word_count": 3181
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 19,
       "filename": "2026-02-13-archive-paradox.md",
       "title": "The Archive Paradox: Why Deleting Repositories Is an Act of Creation",
       "date": "2026-02-13",
+      "category": "methodology",
       "tags": [
         "archiving",
         "creative-destruction",
@@ -609,21 +472,15 @@
         "curation",
         "systems-design"
       ],
-      "category": "methodology",
-      "excerpt": "We archived seven repositories on a Tuesday. It took less than fifteen minutes — yet those fifteen minutes represented one of the most significant architectural decisions in the system's history, clarifying what the system actually was by removing what it was not.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-ii-poiesis/metasystem-master",
-        "organvm-ii-poiesis/a-mavs-olevm"
-      ],
+      "word_count": 2816,
       "reading_time": "12 min",
-      "word_count": 2818
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 20,
       "filename": "2026-02-13-bootstrap-to-scale.md",
       "title": "Bootstrap to Scale: How Artists Build Institutions",
       "date": "2026-02-13",
+      "category": "meta-system",
       "tags": [
         "institutions",
         "creative-practice",
@@ -631,21 +488,15 @@
         "bootstrap",
         "sustainability"
       ],
-      "category": "meta-system",
-      "excerpt": "There is a moment in every creative practitioner's life when the work outgrows the person. This essay examines how individual artists transition from solo garage projects to institutional-scale creative infrastructure — and why the tension between artistic authenticity and institutional legibility is the central design problem.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-v-logos/public-process"
-      ],
+      "word_count": 3228,
       "reading_time": "13 min",
-      "word_count": 3230
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 21,
       "filename": "2026-02-13-dependency-graph.md",
       "title": "The Dependency Graph: No Back-Edges Allowed",
       "date": "2026-02-13",
+      "category": "guide",
       "tags": [
         "dependency-graph",
         "dag",
@@ -653,20 +504,15 @@
         "organ-system",
         "governance"
       ],
-      "category": "guide",
-      "excerpt": "There is one rule in the organvm system enforced above all others: dependencies flow in one direction. This essay explains where the no-back-edges rule came from, how it is enforced via CI, and why well-chosen constraints enable creativity rather than limiting it.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here"
-      ],
+      "word_count": 3225,
       "reading_time": "13 min",
-      "word_count": 3219
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 22,
       "filename": "2026-02-13-deploying-the-portfolio.md",
       "title": "Deploying the Portfolio: From 81 Repos to 9 Applications",
       "date": "2026-02-13",
+      "category": "meta-system",
       "tags": [
         "portfolio",
         "applications",
@@ -675,21 +521,15 @@
         "systems-engineering",
         "documentation"
       ],
-      "category": "meta-system",
-      "excerpt": "The transition from building an 81-repository system to deploying it as evidence across 9 job applications, grants, and fellowships — and the engineering problem of compressing 335,000 words for different reviewers.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-v-logos/public-process"
-      ],
+      "word_count": 4029,
       "reading_time": "17 min",
-      "word_count": 4027
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 23,
       "filename": "2026-02-13-how-this-was-built.md",
       "title": "How This Was Built: AI, Compressed Time, and the Gap Between Documentation and Code",
       "date": "2026-02-13",
+      "category": "meta-system",
       "tags": [
         "transparency",
         "ai-conductor",
@@ -698,22 +538,15 @@
         "meta-system",
         "building-in-public"
       ],
-      "category": "meta-system",
-      "excerpt": "An honest account of how one person and an AI built an eight-organ system in five days — what the AI did, what the human did, what's real, what's aspiration, and why this essay exists.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "meta-organvm/organvm-corpvs-testamentvm",
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-v-logos/public-process"
-      ],
+      "word_count": 1394,
       "reading_time": "15 min",
-      "word_count": 3200
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 24,
       "filename": "2026-02-13-provenance-as-practice.md",
       "title": "Provenance as Practice: Tracking 2,012 Files Across Eight Organs",
       "date": "2026-02-13",
+      "category": "methodology",
       "tags": [
         "provenance",
         "material-tracking",
@@ -721,18 +554,15 @@
         "classification",
         "ingestion"
       ],
-      "category": "methodology",
-      "excerpt": "Every creative practitioner accumulates material without structure. The ALCHEMIA sprint inventoried 2,012 files, classified 94.5%, and deployed 568 to repos — a case study in why provenance tracking is essential at institutional scale.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [],
+      "word_count": 3184,
       "reading_time": "13 min",
-      "word_count": 3149
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 25,
       "filename": "2026-02-13-registry-driven-development.md",
       "title": "Registry-Driven Development: How a JSON File Governs 81 Repositories",
       "date": "2026-02-13",
+      "category": "meta-system",
       "tags": [
         "registry",
         "infrastructure",
@@ -741,23 +571,15 @@
         "platform-engineering",
         "json-schema"
       ],
-      "category": "meta-system",
-      "excerpt": "The design and evolution of registry-v2.json — a single JSON file that serves as the authoritative source of truth for 81 repositories across 8 GitHub organizations, encoding status, dependencies, documentation tiers, and promotion state.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "meta-organvm/organvm-corpvs-testamentvm",
-        "organvm-v-logos/public-process",
-        "organvm-i-theoria/system-governance-framework"
-      ],
+      "word_count": 4845,
       "reading_time": "22 min",
-      "word_count": 4800
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 26,
       "filename": "2026-02-13-seed-contracts.md",
       "title": "Seed Contracts: Declarative Dependency in Multi-Repo Systems",
       "date": "2026-02-13",
+      "category": "methodology",
       "tags": [
         "seed-yaml",
         "contracts",
@@ -765,21 +587,15 @@
         "orchestration",
         "microservices"
       ],
-      "category": "methodology",
-      "excerpt": "When you operate 89 repositories across 8 organizations, dependency knowledge must be machine-readable. The AUTONOMY sprint deployed seed.yaml contracts to 82 repos, creating a 115-edge dependency mesh with 5 autonomous agents.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-i-theoria/recursive-engine--generative-entity"
-      ],
+      "word_count": 3276,
       "reading_time": "14 min",
-      "word_count": 3263
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 27,
       "filename": "2026-02-13-the-convergence.md",
       "title": "The Convergence: Zero Repos in Limbo, Zero Unresolved Provenance",
       "date": "2026-02-13",
+      "category": "retrospective",
       "tags": [
         "convergence",
         "sprint-retrospective",
@@ -787,20 +603,15 @@
         "completeness",
         "systems-engineering"
       ],
-      "category": "retrospective",
-      "excerpt": "The last mile between 'almost done' and 'done' is a maze of edge cases. The CONVERGENCE sprint promoted the final 7 repos to PRODUCTION, resolved 961 provenance entries, and achieved zero exceptions across 82 repositories.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-v-logos/public-process"
-      ],
+      "word_count": 3834,
       "reading_time": "16 min",
-      "word_count": 3825
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 28,
       "filename": "2026-02-13-the-promotion-pipeline.md",
       "title": "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System",
       "date": "2026-02-14",
+      "category": "meta-system",
       "tags": [
         "promotion-pipeline",
         "devops",
@@ -809,24 +620,15 @@
         "state-machines",
         "automation"
       ],
-      "category": "meta-system",
-      "excerpt": "How the organvm system uses a four-stage promotion pipeline — DESIGN_ONLY, SKELETON, PROTOTYPE, PRODUCTION — to enforce quality standards across 81 repositories, and what 17 promotions in a single sprint taught us about automated quality gates.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-iii-ergon/public-record-data-scrapper",
-        "organvm-ii-poiesis/metasystem-master",
-        "organvm-iv-taxis/agentic-titan"
-      ],
+      "word_count": 4662,
       "reading_time": "20 min",
-      "word_count": 4800
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 29,
       "filename": "2026-02-13-why-ai-function-calling-needs-ontological-grounding.md",
       "title": "Why AI Function Calling Needs Ontological Grounding",
       "date": "2026-02-13",
+      "category": "guide",
       "tags": [
         "ai-engineering",
         "ontology",
@@ -836,22 +638,15 @@
         "aristotle",
         "peirce"
       ],
-      "category": "guide",
-      "excerpt": "Large language models learned to call functions, but the schemas that describe tools carry unexamined ontological assumptions. Heidegger, Aristotle, and Peirce illuminate specific design opportunities current architectures miss.",
-      "portfolio_relevance": "CRITICAL",
-      "related_repos": [
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-v-logos/public-process"
-      ],
+      "word_count": 4003,
       "reading_time": "16 min",
-      "word_count": 3908
+      "portfolio_relevance": "CRITICAL"
     },
     {
-      "number": 30,
       "filename": "2026-02-14-promotion-pipeline.md",
       "title": "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System",
       "date": "2026-02-14",
+      "category": "meta-system",
       "tags": [
         "promotion-pipeline",
         "devops",
@@ -860,24 +655,15 @@
         "state-machines",
         "automation"
       ],
-      "category": "meta-system",
-      "excerpt": "How the organvm system uses a four-stage promotion pipeline — DESIGN_ONLY, SKELETON, PROTOTYPE, PRODUCTION — to enforce quality standards across 81 repositories, and what 17 promotions in a single sprint taught us about automated quality gates.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-iii-ergon/public-record-data-scrapper",
-        "organvm-ii-poiesis/metasystem-master",
-        "organvm-iv-taxis/agentic-titan"
-      ],
+      "word_count": 4662,
       "reading_time": "20 min",
-      "word_count": 4800
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 31,
       "filename": "2026-02-16-governance-frameworks-for-artists.md",
       "title": "Governance Frameworks for Artists: Why Creative Practice Needs Institutional Thinking",
       "date": "2026-02-16",
+      "category": "guide",
       "tags": [
         "governance",
         "artists",
@@ -886,22 +672,15 @@
         "frameworks",
         "guide"
       ],
-      "category": "guide",
-      "excerpt": "Most artists don't think about governance. They should. A practical guide to applying institutional governance patterns — registries, state machines, dependency graphs, and audit trails — to creative practice.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-iv-taxis/system-governance-framework",
-        "organvm-v-logos/public-process"
-      ],
+      "word_count": 1678,
       "reading_time": "14 min",
-      "word_count": 3000
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 32,
       "filename": "2026-02-16-how-to-think-about-autonomous-systems.md",
       "title": "How to Think About Autonomous Systems: A Practitioner's Guide",
       "date": "2026-02-16",
+      "category": "guide",
       "tags": [
         "autonomous-systems",
         "orchestration",
@@ -910,22 +689,15 @@
         "systems-thinking",
         "guide"
       ],
-      "category": "guide",
-      "excerpt": "A practical framework for reasoning about autonomous creative systems — from dependency graphs to governance constraints, drawn from five years of building the eight-organ system.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-iv-taxis/agentic-titan",
-        "organvm-i-theoria/recursive-engine--generative-entity"
-      ],
+      "word_count": 1665,
       "reading_time": "15 min",
-      "word_count": 3200
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 33,
       "filename": "2026-02-16-promotions-in-practice.md",
       "title": "Promotions in Practice: What We Learned Exercising the State Machine",
       "date": "2026-02-16",
+      "category": "meta-system",
       "tags": [
         "governance",
         "state-machine",
@@ -933,21 +705,15 @@
         "archives",
         "institutional-design"
       ],
-      "category": "governance-practice",
-      "excerpt": "What actually happens when you run formal promotions and archives through a governance state machine — the friction, the surprises, and what it reveals about institutional design.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-iv-taxis/system-governance-framework"
-      ],
+      "word_count": 1108,
       "reading_time": "8 min",
-      "word_count": 2500
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 34,
       "filename": "2026-02-16-twenty-six-sprints-in-six-days.md",
       "title": "Twenty-Six Sprints in Six Days: What the AI-Conductor Model Actually Looks Like",
       "date": "2026-02-16",
+      "category": "meta-system",
       "tags": [
         "ai-conductor",
         "sprints",
@@ -957,22 +723,15 @@
         "retrospective",
         "meta-system"
       ],
-      "category": "meta-system",
-      "excerpt": "Between February 10 and February 16, the eight-organ system executed 26 named sprints — from IGNITION through PROPAGATIO. This essay examines what that velocity means, what it cost, and what it reveals about AI-augmented creative infrastructure.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "meta-organvm/organvm-corpvs-testamentvm",
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-v-logos/public-process"
-      ],
+      "word_count": 1282,
       "reading_time": "14 min",
-      "word_count": 3100
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 35,
       "filename": "2026-02-16-what-it-takes-to-ship-a-product-from-inside-an-organ-system.md",
       "title": "What It Takes to Ship a Product from Inside an Organ System",
       "date": "2026-02-16",
+      "category": "case-study",
       "tags": [
         "organ-iii",
         "product-development",
@@ -981,22 +740,15 @@
         "life-my-midst-in",
         "creative-infrastructure"
       ],
-      "category": "product-update",
-      "excerpt": "The eight-organ system was designed to produce things, not just theorize about them. This is the story of taking life-my--midst--in from 65 commits in a monorepo to a database-backed beta — and what infrastructure makes that transition possible.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iii-ergon/life-my--midst--in",
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-iii-ergon/public-record-data-scrapper"
-      ],
+      "word_count": 1221,
       "reading_time": "12 min",
-      "word_count": 2800
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 36,
       "filename": "2026-02-16-why-the-organ-model-separates-commerce-from-theory.md",
       "title": "Why the Organ Model Separates Commerce from Theory",
       "date": "2026-02-16",
+      "category": "meta-system",
       "tags": [
         "organ-model",
         "theory",
@@ -1005,22 +757,15 @@
         "institutional-design",
         "creative-practice"
       ],
-      "category": "meta-system",
-      "excerpt": "The eight-organ system enforces a strict separation between theoretical research (ORGAN-I) and commercial products (ORGAN-III). This essay explains why that boundary exists, what it costs, and what it makes possible.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-iii-ergon/public-record-data-scrapper",
-        "organvm-iv-taxis/orchestration-start-here"
-      ],
+      "word_count": 1606,
       "reading_time": "14 min",
-      "word_count": 3100
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 37,
       "filename": "2026-02-17-constraint-alchemy-workshop.md",
       "title": "Constraint Alchemy: How Limitations Become Creative Fuel",
       "date": "2026-02-17",
+      "category": "guide",
       "tags": [
         "constraints",
         "methodology",
@@ -1029,22 +774,15 @@
         "guide",
         "resource-constraints"
       ],
-      "category": "guide",
-      "excerpt": "A practical methodology for transmuting constraints — no budget, no team, no time — into architectural decisions that make your work stronger. With a framework, five techniques, and examples from building a 97-repository system solo.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-i-theoria/recursive-engine--generative-entity",
-        "organvm-iii-ergon/life-my--midst--in"
-      ],
+      "word_count": 2556,
       "reading_time": "11 min",
-      "word_count": 2600
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 38,
       "filename": "2026-02-17-construction-addiction.md",
       "title": "The Construction Addiction: When Building Becomes Avoidance",
       "date": "2026-02-17",
+      "category": "retrospective",
       "tags": [
         "governance",
         "self-assessment",
@@ -1053,22 +791,15 @@
         "operational-cadence",
         "honesty"
       ],
-      "category": "reflection",
-      "excerpt": "The eight-organ system diagnosed its own compulsive building pattern — and then kept building. This essay examines what construction addiction looks like from the inside, why self-awareness doesn't automatically produce behavior change, and what finally breaks the cycle.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "meta-organvm/organvm-corpvs-testamentvm",
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-iii-ergon/life-my--midst--in"
-      ],
+      "word_count": 1672,
       "reading_time": "10 min",
-      "word_count": 2600
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 39,
       "filename": "2026-02-17-performance-platform-methodology.md",
       "title": "Performance-Platform Methodology: When Is Your Product Ready for Users?",
       "date": "2026-02-17",
+      "category": "guide",
       "tags": [
         "product",
         "methodology",
@@ -1078,22 +809,15 @@
         "shipping",
         "guide"
       ],
-      "category": "guide",
-      "excerpt": "A structured framework for evaluating whether a platform or product is genuinely ready for users — drawn from assessing 27 commerce repositories and selecting one beta candidate from a 97-repository system.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "organvm-iii-ergon/life-my--midst--in",
-        "organvm-iii-ergon/public-record-data-scrapper",
-        "organvm-iii-ergon/fetch-familiar-friends"
-      ],
+      "word_count": 2045,
       "reading_time": "9 min",
-      "word_count": 2150
+      "portfolio_relevance": "HIGH"
     },
     {
-      "number": 40,
       "filename": "2026-02-17-twelve-decisions.md",
       "title": "Twelve Decisions That Shaped a 97-Repository System",
       "date": "2026-02-17",
+      "category": "retrospective",
       "tags": [
         "architecture",
         "decisions",
@@ -1102,16 +826,9 @@
         "systems-design",
         "governance"
       ],
-      "category": "retrospective",
-      "excerpt": "Every architecture is a record of decisions. Here are the twelve choices — from Greek naming schemes to billing guardrails — that turned a solo creative practice into an eight-organ institutional system spanning 97 repositories.",
-      "portfolio_relevance": "HIGH",
-      "related_repos": [
-        "meta-organvm/organvm-corpvs-testamentvm",
-        "organvm-iv-taxis/orchestration-start-here",
-        "organvm-iii-ergon/life-my--midst--in"
-      ],
+      "word_count": 1944,
       "reading_time": "8 min",
-      "word_count": 2000
+      "portfolio_relevance": "HIGH"
     }
   ]
 }

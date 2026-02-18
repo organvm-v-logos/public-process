@@ -4,7 +4,7 @@ title: "Coaching Platform Metrics: Commerce Retrospective with Actual Numbers"
 author: "@4444J99"
 date: "2026-02-11"
 tags: [organ-iii, commerce, coaching, saas, metrics, retrospective]
-category: "subsidiary"
+category: "case-study"
 excerpt: "A transparent metrics retrospective on the gamified coaching platform — revenue trajectory, engagement data, retention curves, and an honest assessment of what 'commerce' means when the goal is organizational sustainability rather than profit maximization."
 portfolio_relevance: "HIGH"
 related_repos:

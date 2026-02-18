@@ -4,7 +4,7 @@ title: "The Choreographic Interface: Designing Systems for Human Movement"
 author: "@4444J99"
 date: "2026-02-11"
 tags: [organ-ii, art, choreography, interactive-performance, sensor-art, residency]
-category: "subsidiary"
+category: "case-study"
 excerpt: "How the choreographic interface pipeline transforms body movement into digital response — from sensor ingestion through mapping layers to real-time audiovisual output — and what this means for residency applications at Eyebeam, Somerset House, and the Processing Foundation."
 portfolio_relevance: "HIGH"
 related_repos:

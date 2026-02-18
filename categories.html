@@ -1,0 +1,38 @@
+---
+layout: default
+title: "Categories"
+---
+
+<h1>Categories</h1>
+
+<p>40 essays across 5 canonical categories. Each category serves a distinct purpose in the portfolio narrative.</p>
+
+<div class="category-chips">
+  <a href="#meta-system" class="category-badge category-meta-system">meta-system</a>
+  <a href="#case-study" class="category-badge category-case-study">case-study</a>
+  <a href="#guide" class="category-badge category-guide">guide</a>
+  <a href="#methodology" class="category-badge category-methodology">methodology</a>
+  <a href="#retrospective" class="category-badge category-retrospective">retrospective</a>
+</div>
+
+<hr>
+
+{% assign categories = "meta-system,case-study,guide,methodology,retrospective" | split: "," %}
+{% assign descriptions = "System architecture, governance, philosophy, and the meta-layer connecting all eight organs.|Deep dives into specific projects, repos, or implementations.|Prescriptive, instructional content — how-to essays that teach a method or approach.|Specific methods, frameworks, or approaches — the 'why' behind a technique.|Looking back at sprints, launches, or processes with honest assessment." | split: "|" %}
+
+{% for cat in categories %}
+{% assign cat_posts = site.posts | where: "category", cat %}
+
+<h2 id="{{ cat }}">{{ cat }} <span class="tag-count">({{ cat_posts.size }})</span></h2>
+<p class="meta">{{ descriptions[forloop.index0] }}</p>
+
+<ul class="tag-posts">
+  {% for post in cat_posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <span class="meta">{{ post.date | date: "%b %d" }} · {{ post.reading_time }}</span>
+  </li>
+  {% endfor %}
+</ul>
+
+{% endfor %}

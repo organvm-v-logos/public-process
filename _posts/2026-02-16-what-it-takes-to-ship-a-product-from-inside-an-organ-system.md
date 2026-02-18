@@ -4,7 +4,7 @@ title: "What It Takes to Ship a Product from Inside an Organ System"
 author: "@4444J99"
 date: "2026-02-16"
 tags: [organ-iii, product-development, beta, shipping, life-my-midst-in, creative-infrastructure]
-category: "product-update"
+category: "case-study"
 excerpt: "The eight-organ system was designed to produce things, not just theorize about them. This is the story of taking life-my--midst--in from 65 commits in a monorepo to a database-backed beta — and what infrastructure makes that transition possible."
 portfolio_relevance: "HIGH"
 related_repos:

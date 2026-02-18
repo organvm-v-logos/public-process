@@ -4,7 +4,7 @@ title: "Epistemic Tuning Explained"
 author: "@4444J99"
 date: "2026-02-11"
 tags: [organ-i, theory, epistemology, knowledge-management, ai, methodology]
-category: "subsidiary"
+category: "case-study"
 excerpt: "How knowledge atomization, vector search over Claude conversations, and an eight-phase auto-revision engine create a system that knows what it knows — and adjusts that knowledge deliberately."
 portfolio_relevance: "HIGH"
 related_repos:

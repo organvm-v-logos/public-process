@@ -4,7 +4,7 @@ title: "Generative Music Case Study"
 author: "@4444J99"
 date: "2026-02-11"
 tags: [organ-ii, art, generative-music, performance, creative-coding, case-study]
-category: "subsidiary"
+category: "case-study"
 excerpt: "How symbolic narrative events from a recursive engine become live generative music through the Omni-Dromenon performance infrastructure, and what machine-composed performance actually sounds like."
 portfolio_relevance: "HIGH"
 related_repos:

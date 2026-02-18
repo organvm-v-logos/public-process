@@ -4,7 +4,7 @@ title: "Recursive Engines at Scale"
 author: "@4444J99"
 date: "2026-02-11"
 tags: [organ-i, theory, recursive-systems, python, architecture, scale]
-category: "subsidiary"
+category: "case-study"
 excerpt: "How a 21-organ recursive engine with 1,254 tests scales symbolic processing from philosophical abstraction to production infrastructure, and what breaks when you try."
 portfolio_relevance: "HIGH"
 related_repos:

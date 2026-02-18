@@ -4,7 +4,7 @@ title: "Promotions in Practice: What We Learned Exercising the State Machine"
 author: "@4444J99"
 date: "2026-02-16"
 tags: [governance, state-machine, promotions, archives, institutional-design]
-category: "governance-practice"
+category: "meta-system"
 excerpt: "What actually happens when you run formal promotions and archives through a governance state machine — the friction, the surprises, and what it reveals about institutional design."
 portfolio_relevance: "HIGH"
 related_repos:

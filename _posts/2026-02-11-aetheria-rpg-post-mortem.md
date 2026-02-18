@@ -4,7 +4,7 @@ title: "Aetheria RPG Post-Mortem: A Full I→II→III Pipeline Retrospective"
 author: "@4444J99"
 date: "2026-02-11"
 tags: [organ-iii, commerce, education, rpg, gamification, post-mortem, revenue]
-category: "subsidiary"
+category: "case-study"
 excerpt: "A candid post-mortem of Aetheria, the educational RPG system that traced the full pipeline from gamification theory in ORGAN-I through game design in ORGAN-II to commercial SaaS product in ORGAN-III — what worked, what failed, and what the numbers actually say."
 portfolio_relevance: "HIGH"
 related_repos:

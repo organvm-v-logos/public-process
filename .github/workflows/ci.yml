@@ -1,4 +1,4 @@
-name: Minimal CI
+name: Public Process CI
 
 on:
   push:
@@ -11,50 +11,56 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout public-process
         uses: actions/checkout@v6
 
-      - name: Detect repository type
-        id: detect
+      - name: Checkout essay-pipeline
+        uses: actions/checkout@v6
+        with:
+          repository: organvm-v-logos/essay-pipeline
+          path: _pipeline
+
+      - name: Checkout editorial-standards
+        uses: actions/checkout@v6
+        with:
+          repository: organvm-v-logos/editorial-standards
+          path: _standards
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Validate frontmatter
+        working-directory: _pipeline
         run: |
-          if [ -f "Package.swift" ]; then
-            echo "type=swift" >> $GITHUB_OUTPUT
-          elif [ -f "Gemfile" ] || [ -f "_config.yml" ]; then
-            echo "type=ruby" >> $GITHUB_OUTPUT
-          elif [ -f "package.json" ]; then
-            echo "type=node" >> $GITHUB_OUTPUT
-          elif [ -f "pyproject.toml" ] || [ -f "requirements.txt" ]; then
-            echo "type=python" >> $GITHUB_OUTPUT
+          python -m src.validator \
+            --posts-dir ../_posts/ \
+            --schema ../_standards/schemas/frontmatter-schema.yaml
+
+      - name: Check data drift
+        working-directory: _pipeline
+        run: |
+          python -m src.indexer \
+            --posts-dir ../_posts/ \
+            --output-dir ../data/
+          cd ..
+          if git diff --quiet data/; then
+            echo "::notice::Data files are up to date"
           else
-            echo "type=generic" >> $GITHUB_OUTPUT
+            echo "::warning::Data files are out of date — run the indexer locally"
+            git diff --stat data/
           fi
 
       - name: Validate structure
         run: |
-          echo "Repository structure:"
-          ls -la
-          echo ""
           echo "README check:"
-          if [ -f "README.md" ]; then
-            echo "::notice::README.md found"
-            wc -w README.md
-          else
-            echo "::warning::No README.md found"
-          fi
-          echo ""
+          test -f "README.md" && echo "::notice::README.md found" || echo "::warning::No README.md found"
           echo "License check:"
-          if [ -f "LICENSE" ] || [ -f "LICENSE.md" ]; then
-            echo "::notice::License file found"
-          else
-            echo "::warning::No license file found"
-          fi
-
-      - name: Jekyll build check
-        if: steps.detect.outputs.type == 'ruby'
-        run: |
-          if [ -f "_config.yml" ]; then
-            echo "::notice::Jekyll site detected"
-          fi
+          test -f "LICENSE" && echo "::notice::License file found" || echo "::warning::No license file found"
 
       - name: Success
-        run: echo "::notice::Minimal CI validation passed"
+        run: echo "::notice::Public Process CI passed"
