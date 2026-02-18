@@ -1,7 +1,7 @@
 {
   "version": "1.1",
   "updated": "2026-02-17",
-  "total": 40,
+  "total": 41,
   "entries": {
     "2026-02-10-building-in-public.md": {
       "title": "Building in Public: Radical Transparency as Creative Methodology",
@@ -674,6 +674,25 @@
         "governance"
       ],
       "category": "retrospective"
+    },
+    "2026-02-18-the-solo-auteur-method.md": {
+      "title": "The Solo Auteur Method",
+      "related_repos": [
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-v-logos/public-process",
+        "organvm-iv-taxis/agentic-titan"
+      ],
+      "tags": [
+        "methodology",
+        "creative-practice",
+        "solo-production",
+        "AI-augmented",
+        "auteur",
+        "process-as-product",
+        "organ-model"
+      ],
+      "category": "meta-system"
     }
   }
 }

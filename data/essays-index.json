@@ -2,10 +2,10 @@
   "version": "1.1",
   "updated": "2026-02-17",
   "generated_by": "essay-pipeline indexer v0.1.0",
-  "total_essays": 40,
-  "total_words": 130097,
+  "total_essays": 41,
+  "total_words": 131919,
   "categories": {
-    "meta-system": 19,
+    "meta-system": 20,
     "case-study": 7,
     "guide": 6,
     "retrospective": 4,
@@ -13,8 +13,8 @@
   },
   "tag_frequency": {
     "governance": 10,
-    "methodology": 8,
-    "creative-practice": 7,
+    "methodology": 9,
+    "creative-practice": 8,
     "infrastructure": 7,
     "orchestration": 5,
     "retrospective": 4,
@@ -50,6 +50,7 @@
     "systems-thinking": 2,
     "beta": 2,
     "shipping": 2,
+    "organ-model": 2,
     "open-source": 1,
     "community": 1,
     "lessons-learned": 1,
@@ -145,7 +146,6 @@
     "sprints": 1,
     "product-development": 1,
     "life-my-midst-in": 1,
-    "organ-model": 1,
     "separation-of-concerns": 1,
     "constraints": 1,
     "resource-constraints": 1,
@@ -155,7 +155,11 @@
     "product": 1,
     "assessment": 1,
     "decisions": 1,
-    "ADR": 1
+    "ADR": 1,
+    "solo-production": 1,
+    "AI-augmented": 1,
+    "auteur": 1,
+    "process-as-product": 1
   },
   "essays": [
     {
@@ -829,6 +833,24 @@
       "word_count": 1944,
       "reading_time": "8 min",
       "portfolio_relevance": "HIGH"
+    },
+    {
+      "filename": "2026-02-18-the-solo-auteur-method.md",
+      "title": "The Solo Auteur Method",
+      "date": "2026-02-18",
+      "category": "meta-system",
+      "tags": [
+        "methodology",
+        "creative-practice",
+        "solo-production",
+        "AI-augmented",
+        "auteur",
+        "process-as-product",
+        "organ-model"
+      ],
+      "word_count": 1822,
+      "reading_time": "12 min",
+      "portfolio_relevance": "CRITICAL"
     }
   ]
 }
