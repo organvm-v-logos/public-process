@@ -1,9 +1,17 @@
 ---
 layout: essay
 title: "The Archive Paradox: Why Deleting Repositories Is an Act of Creation"
-date: 2026-02-13
+author: "@4444J99"
+date: "2026-02-13"
 tags: [archiving, creative-destruction, repository-management, curation, systems-design]
-description: "Why archiving seven repositories strengthened the organvm system, and how the deliberate act of removing code became one of the most creative decisions in the project's history."
+category: "methodology"
+excerpt: "We archived seven repositories on a Tuesday. It took less than fifteen minutes — yet those fifteen minutes represented one of the most significant architectural decisions in the system's history, clarifying what the system actually was by removing what it was not."
+portfolio_relevance: "HIGH"
+related_repos:
+  - organvm-ii-poiesis/metasystem-master
+  - organvm-ii-poiesis/a-mavs-olevm
+reading_time: "12 min"
+word_count: 2818
 ---
 
 # The Archive Paradox: Why Deleting Repositories Is an Act of Creation

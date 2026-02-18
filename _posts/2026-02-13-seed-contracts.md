@@ -1,9 +1,17 @@
 ---
 layout: essay
 title: "Seed Contracts: Declarative Dependency in Multi-Repo Systems"
-date: 2026-02-13
+author: "@4444J99"
+date: "2026-02-13"
 tags: [seed-yaml, contracts, dependencies, orchestration, microservices]
-description: "How the AUTONOMY sprint deployed seed.yaml contracts to 82 of 88 repos, creating a machine-readable dependency mesh with 115 edges, and why declarative contracts are superior to ad-hoc integration for creative-institutional systems."
+category: "methodology"
+excerpt: "When you operate 89 repositories across 8 organizations, dependency knowledge must be machine-readable. The AUTONOMY sprint deployed seed.yaml contracts to 82 repos, creating a 115-edge dependency mesh with 5 autonomous agents."
+portfolio_relevance: "CRITICAL"
+related_repos:
+  - organvm-iv-taxis/orchestration-start-here
+  - organvm-i-theoria/recursive-engine--generative-entity
+reading_time: "14 min"
+word_count: 3263
 ---
 
 # Seed Contracts: Declarative Dependency in Multi-Repo Systems

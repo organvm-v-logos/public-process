@@ -20,7 +20,7 @@ metadata:
 agents:
   - name: ci
     trigger: on_push
-    workflow: .github/workflows/ci-minimal.yml
+    workflow: .github/workflows/ci.yml
     description: "Continuous integration pipeline"
 
 consumes:
@@ -36,6 +36,29 @@ consumes:
   - type: dependency
     source: organvm-iv-taxis/agentic-titan
     description: Depends on organvm-iv-taxis/agentic-titan
+
+produces:
+  - type: essay-markdown
+    format: jekyll-post
+    consumers:
+      - organ: ORGAN-VI
+        repos: ["reading-group-curriculum"]
+        relationship: "curriculum-source"
+      - organ: ORGAN-VII
+        repos: ["social-automation"]
+        relationship: "distribution-source"
+  - type: essays-index
+    format: json
+    consumers:
+      - organ: ORGAN-V
+        repos: ["essay-pipeline", "analytics-engine"]
+        relationship: "indexes"
+  - type: rss-feed
+    format: atom-xml
+    consumers:
+      - organ: EXTERNAL
+        repos: []
+        relationship: "syndication"
 
 subscriptions:
   - event: governance.updated

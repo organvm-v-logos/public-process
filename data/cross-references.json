@@ -1,8 +1,15 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "updated": "2026-02-17",
-  "generated_by": "LOGOS Sprint \u2014 Session 1 data reconciliation",
+  "generated_by": "Session 1.5 — Reinforcement Sprint data regeneration",
+  "notes": {
+    "duplicate_title": "2026-02-13-the-promotion-pipeline.md and 2026-02-14-promotion-pipeline.md share identical title and content. Using filename as key resolves the collision.",
+    "key_format": "essay_to_repos uses filename as key (changed from title in v1.0 to handle title collisions)"
+  },
   "repo_to_essays": {
+    "meta-organvm/.github": [
+      "The Aesthetic Nervous System: How taste.yaml Cascades Across Eight Organs"
+    ],
     "meta-organvm/organvm-corpvs-testamentvm": [
       "AI-Conductor Methodology: Directing 270,000 Words of Documentation",
       "How This Was Built: AI, Compressed Time, and the Gap Between Documentation and Code",
@@ -29,7 +36,10 @@
       "Recursive Engines at Scale",
       "Testing the Meta-System: CI/CD Across Eight Organs",
       "Uniform Quality at Scale: How Every Repo Earns Its Badges",
+      "The Parallel Launch: Why We Shipped 81 Repositories Simultaneously",
+      "Seed Contracts: Declarative Dependency in Multi-Repo Systems",
       "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System",
+      "Why AI Function Calling Needs Ontological Grounding",
       "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System",
       "How to Think About Autonomous Systems: A Practitioner's Guide",
       "Why the Organ Model Separates Commerce from Theory",
@@ -38,6 +48,9 @@
     "organvm-i-theoria/system-governance-framework": [
       "Governance as Creative Practice: Why the Eight-Organ System Exists",
       "Registry-Driven Development: How a JSON File Governs 81 Repositories"
+    ],
+    "organvm-ii-poiesis/a-mavs-olevm": [
+      "The Archive Paradox: Why Deleting Repositories Is an Act of Creation"
     ],
     "organvm-ii-poiesis/audio-synthesis-bridge": [
       "Generative Music Case Study"
@@ -58,18 +71,19 @@
       "The Choreographic Interface: Designing Systems for Human Movement",
       "Generative Music Case Study",
       "Uniform Quality at Scale: How Every Repo Earns Its Badges",
+      "The Archive Paradox: Why Deleting Repositories Is an Act of Creation",
       "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System",
       "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System"
     ],
     "organvm-iii-ergon/classroom-rpg-aetheria": [
-      "Aetheria RPG Post-Mortem: A Full I\u2192II\u2192III Pipeline Retrospective",
+      "Aetheria RPG Post-Mortem: A Full I→II→III Pipeline Retrospective",
       "Coaching Platform Metrics: Commerce Retrospective with Actual Numbers"
     ],
     "organvm-iii-ergon/fetch-familiar-friends": [
       "Performance-Platform Methodology: When Is Your Product Ready for Users?"
     ],
     "organvm-iii-ergon/gamified-coach-interface": [
-      "Aetheria RPG Post-Mortem: A Full I\u2192II\u2192III Pipeline Retrospective",
+      "Aetheria RPG Post-Mortem: A Full I→II→III Pipeline Retrospective",
       "Coaching Platform Metrics: Commerce Retrospective with Actual Numbers"
     ],
     "organvm-iii-ergon/life-my--midst--in": [
@@ -101,6 +115,7 @@
       "The Meta-System as Portfolio Asset: Why Application Reviewers Care About Orchestration",
       "Testing the Meta-System: CI/CD Across Eight Organs",
       "Uniform Quality at Scale: How Every Repo Earns Its Badges",
+      "The Parallel Launch: Why We Shipped 81 Repositories Simultaneously",
       "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System",
       "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System",
       "How to Think About Autonomous Systems: A Practitioner's Guide"
@@ -113,9 +128,15 @@
       "The Documentation-Implementation Gap: Honest Accounting",
       "Testing the Meta-System: CI/CD Across Eight Organs",
       "Uniform Quality at Scale: How Every Repo Earns Its Badges",
+      "The Parallel Launch: Why We Shipped 81 Repositories Simultaneously",
+      "Bootstrap to Scale: How Artists Build Institutions",
+      "The Dependency Graph: No Back-Edges Allowed",
+      "Deploying the Portfolio: From 81 Repos to 9 Applications",
       "How This Was Built: AI, Compressed Time, and the Gap Between Documentation and Code",
       "Registry-Driven Development: How a JSON File Governs 81 Repositories",
+      "Seed Contracts: Declarative Dependency in Multi-Repo Systems",
       "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System",
+      "Why AI Function Calling Needs Ontological Grounding",
       "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System",
       "Governance Frameworks for Artists: Why Creative Practice Needs Institutional Thinking",
       "How to Think About Autonomous Systems: A Practitioner's Guide",
@@ -141,8 +162,13 @@
       "AI-Conductor Methodology: Directing 270,000 Words of Documentation",
       "From Bronze to Platinum: Quality Ladders for Creative Infrastructure",
       "The Documentation-Implementation Gap: Honest Accounting",
+      "The Parallel Launch: Why We Shipped 81 Repositories Simultaneously",
+      "Bootstrap to Scale: How Artists Build Institutions",
+      "Deploying the Portfolio: From 81 Repos to 9 Applications",
       "How This Was Built: AI, Compressed Time, and the Gap Between Documentation and Code",
       "Registry-Driven Development: How a JSON File Governs 81 Repositories",
+      "The Convergence: Zero Repos in Limbo, Zero Unresolved Provenance",
+      "Why AI Function Calling Needs Ontological Grounding",
       "Governance Frameworks for Artists: Why Creative Practice Needs Institutional Thinking",
       "Twenty-Six Sprints in Six Days: What the AI-Conductor Model Actually Looks Like"
     ],
@@ -154,171 +180,325 @@
     ]
   },
   "essay_to_repos": {
-    "AI-Conductor Methodology: Directing 270,000 Words of Documentation": [
-      "organvm-v-logos/public-process",
-      "organvm-iv-taxis/orchestration-start-here",
-      "meta-organvm/organvm-corpvs-testamentvm"
-    ],
-    "Aetheria RPG Post-Mortem: A Full I\u2192II\u2192III Pipeline Retrospective": [
-      "organvm-iii-ergon/classroom-rpg-aetheria",
-      "organvm-iii-ergon/gamified-coach-interface"
-    ],
-    "Bootstrap to Scale: How Artists Build Institutions": [],
-    "Building in Public: Radical Transparency as Creative Methodology": [
-      "organvm-v-logos/public-process",
-      "organvm-vi-koinonia/.github",
-      "organvm-vii-kerygma/.github"
-    ],
-    "Coaching Platform Metrics: Commerce Retrospective with Actual Numbers": [
-      "organvm-iii-ergon/gamified-coach-interface",
-      "organvm-iii-ergon/classroom-rpg-aetheria",
-      "organvm-iii-ergon/public-record-data-scrapper"
-    ],
-    "Constraint Alchemy: How Limitations Become Creative Fuel": [
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-i-theoria/recursive-engine--generative-entity",
-      "organvm-iii-ergon/life-my--midst--in"
-    ],
-    "Deploying the Portfolio: From 81 Repos to 9 Applications": [],
-    "Epistemic Tuning Explained": [
-      "organvm-i-theoria/my-knowledge-base",
-      "organvm-i-theoria/linguistic-atomization-framework"
-    ],
-    "Five Years of Autonomous Creative Systems: What I've Learned About Orchestration": [
-      "organvm-i-theoria/recursive-engine--generative-entity",
-      "organvm-ii-poiesis/metasystem-master",
-      "organvm-iii-ergon/public-record-data-scrapper",
-      "organvm-iv-taxis/agentic-titan",
-      "organvm-v-logos/public-process"
-    ],
-    "From Bronze to Platinum: Quality Ladders for Creative Infrastructure": [
-      "organvm-v-logos/public-process",
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-i-theoria/recursive-engine--generative-entity",
-      "organvm-iii-ergon/public-record-data-scrapper",
-      "organvm-ii-poiesis/metasystem-master"
-    ],
-    "Generative Music Case Study": [
-      "organvm-ii-poiesis/example-generative-music",
-      "organvm-ii-poiesis/metasystem-master",
-      "organvm-ii-poiesis/audio-synthesis-bridge"
-    ],
-    "Governance Frameworks for Artists: Why Creative Practice Needs Institutional Thinking": [
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-iv-taxis/system-governance-framework",
-      "organvm-v-logos/public-process"
-    ],
-    "Governance as Creative Practice: Why the Eight-Organ System Exists": [
-      "organvm-iv-taxis/agentic-titan",
-      "organvm-iv-taxis/petasum-super-petasum",
-      "organvm-i-theoria/system-governance-framework",
-      "organvm-i-theoria/recursive-engine--generative-entity"
-    ],
-    "How This Was Built: AI, Compressed Time, and the Gap Between Documentation and Code": [
-      "meta-organvm/organvm-corpvs-testamentvm",
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-v-logos/public-process"
-    ],
-    "How We Orchestrate Eight Organs Across 79 Repositories": [
-      "organvm-iv-taxis/agentic-titan",
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-i-theoria/recursive-engine--generative-entity",
-      "organvm-ii-poiesis/metasystem-master",
-      "organvm-iii-ergon/public-record-data-scrapper"
-    ],
-    "How to Think About Autonomous Systems: A Practitioner's Guide": [
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-iv-taxis/agentic-titan",
-      "organvm-i-theoria/recursive-engine--generative-entity"
-    ],
-    "Performance-Platform Methodology: When Is Your Product Ready for Users?": [
-      "organvm-iii-ergon/life-my--midst--in",
-      "organvm-iii-ergon/public-record-data-scrapper",
-      "organvm-iii-ergon/fetch-familiar-friends"
-    ],
-    "Promotions in Practice: What We Learned Exercising the State Machine": [
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-iv-taxis/system-governance-framework"
-    ],
-    "Provenance as Practice: Tracking 2,012 Files Across Eight Organs": [],
-    "Recursive Engines at Scale": [
-      "organvm-i-theoria/recursive-engine--generative-entity",
-      "organvm-i-theoria/narratological-algorithmic-lenses"
-    ],
-    "Registry-Driven Development: How a JSON File Governs 81 Repositories": [
-      "organvm-iv-taxis/orchestration-start-here",
-      "meta-organvm/organvm-corpvs-testamentvm",
-      "organvm-v-logos/public-process",
-      "organvm-i-theoria/system-governance-framework"
-    ],
-    "Seed Contracts: Declarative Dependency in Multi-Repo Systems": [],
-    "Testing the Meta-System: CI/CD Across Eight Organs": [
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-i-theoria/recursive-engine--generative-entity",
-      "organvm-iii-ergon/public-record-data-scrapper",
-      "organvm-iv-taxis/agentic-titan"
-    ],
-    "The Aesthetic Nervous System: How taste.yaml Cascades Across Eight Organs": [],
-    "The Archive Paradox: Why Deleting Repositories Is an Act of Creation": [],
-    "The Choreographic Interface: Designing Systems for Human Movement": [
-      "organvm-ii-poiesis/example-choreographic-interface",
-      "organvm-ii-poiesis/metasystem-master",
-      "organvm-ii-poiesis/example-interactive-installation"
-    ],
-    "The Construction Addiction: When Building Becomes Avoidance": [
-      "meta-organvm/organvm-corpvs-testamentvm",
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-iii-ergon/life-my--midst--in"
-    ],
-    "The Convergence: Zero Repos in Limbo, Zero Unresolved Provenance": [],
-    "The Dependency Graph: No Back-Edges Allowed": [],
-    "The Documentation-Implementation Gap: Honest Accounting": [
-      "organvm-v-logos/public-process",
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-i-theoria/recursive-engine--generative-entity",
-      "organvm-iii-ergon/public-record-data-scrapper"
-    ],
-    "The Meta-System as Portfolio Asset: Why Application Reviewers Care About Orchestration": [
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-iv-taxis/agentic-titan",
-      "organvm-v-logos/public-process",
-      "organvm-iii-ergon/public-record-data-scrapper"
-    ],
-    "The Parallel Launch: Why We Shipped 81 Repositories Simultaneously": [],
-    "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System": [
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-i-theoria/recursive-engine--generative-entity",
-      "organvm-iii-ergon/public-record-data-scrapper",
-      "organvm-ii-poiesis/metasystem-master",
-      "organvm-iv-taxis/agentic-titan"
-    ],
-    "Twelve Decisions That Shaped a 97-Repository System": [
-      "meta-organvm/organvm-corpvs-testamentvm",
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-iii-ergon/life-my--midst--in"
-    ],
-    "Twenty-Six Sprints in Six Days: What the AI-Conductor Model Actually Looks Like": [
-      "meta-organvm/organvm-corpvs-testamentvm",
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-v-logos/public-process"
-    ],
-    "Uniform Quality at Scale: How Every Repo Earns Its Badges": [
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-i-theoria/recursive-engine--generative-entity",
-      "organvm-iii-ergon/public-record-data-scrapper",
-      "organvm-ii-poiesis/metasystem-master",
-      "organvm-iv-taxis/agentic-titan"
-    ],
-    "What It Takes to Ship a Product from Inside an Organ System": [
-      "organvm-iii-ergon/life-my--midst--in",
-      "organvm-iv-taxis/orchestration-start-here",
-      "organvm-iii-ergon/public-record-data-scrapper"
-    ],
-    "Why AI Function Calling Needs Ontological Grounding": [],
-    "Why the Organ Model Separates Commerce from Theory": [
-      "organvm-i-theoria/recursive-engine--generative-entity",
-      "organvm-iii-ergon/public-record-data-scrapper",
-      "organvm-iv-taxis/orchestration-start-here"
-    ]
+    "2026-02-10-building-in-public.md": {
+      "title": "Building in Public: Radical Transparency as Creative Methodology",
+      "repos": [
+        "organvm-v-logos/public-process",
+        "organvm-vi-koinonia/.github",
+        "organvm-vii-kerygma/.github"
+      ]
+    },
+    "2026-02-10-five-years-autonomous-creative.md": {
+      "title": "Five Years of Autonomous Creative Systems: What I've Learned About Orchestration",
+      "repos": [
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-ii-poiesis/metasystem-master",
+        "organvm-iii-ergon/public-record-data-scrapper",
+        "organvm-iv-taxis/agentic-titan",
+        "organvm-v-logos/public-process"
+      ]
+    },
+    "2026-02-10-governance-as-creative-practice.md": {
+      "title": "Governance as Creative Practice: Why the Eight-Organ System Exists",
+      "repos": [
+        "organvm-iv-taxis/agentic-titan",
+        "organvm-iv-taxis/petasum-super-petasum",
+        "organvm-i-theoria/system-governance-framework",
+        "organvm-i-theoria/recursive-engine--generative-entity"
+      ]
+    },
+    "2026-02-10-how-we-orchestrate-eight-organs.md": {
+      "title": "How We Orchestrate Eight Organs Across 79 Repositories",
+      "repos": [
+        "organvm-iv-taxis/agentic-titan",
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-ii-poiesis/metasystem-master",
+        "organvm-iii-ergon/public-record-data-scrapper"
+      ]
+    },
+    "2026-02-10-meta-system-as-portfolio-asset.md": {
+      "title": "The Meta-System as Portfolio Asset: Why Application Reviewers Care About Orchestration",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-iv-taxis/agentic-titan",
+        "organvm-v-logos/public-process",
+        "organvm-iii-ergon/public-record-data-scrapper"
+      ]
+    },
+    "2026-02-11-aetheria-rpg-post-mortem.md": {
+      "title": "Aetheria RPG Post-Mortem: A Full I→II→III Pipeline Retrospective",
+      "repos": [
+        "organvm-iii-ergon/classroom-rpg-aetheria",
+        "organvm-iii-ergon/gamified-coach-interface"
+      ]
+    },
+    "2026-02-11-ai-conductor-methodology.md": {
+      "title": "AI-Conductor Methodology: Directing 270,000 Words of Documentation",
+      "repos": [
+        "organvm-v-logos/public-process",
+        "organvm-iv-taxis/orchestration-start-here",
+        "meta-organvm/organvm-corpvs-testamentvm"
+      ]
+    },
+    "2026-02-11-bronze-to-platinum.md": {
+      "title": "From Bronze to Platinum: Quality Ladders for Creative Infrastructure",
+      "repos": [
+        "organvm-v-logos/public-process",
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-iii-ergon/public-record-data-scrapper",
+        "organvm-ii-poiesis/metasystem-master"
+      ]
+    },
+    "2026-02-11-choreographic-interface.md": {
+      "title": "The Choreographic Interface: Designing Systems for Human Movement",
+      "repos": [
+        "organvm-ii-poiesis/example-choreographic-interface",
+        "organvm-ii-poiesis/metasystem-master",
+        "organvm-ii-poiesis/example-interactive-installation"
+      ]
+    },
+    "2026-02-11-coaching-platform-metrics.md": {
+      "title": "Coaching Platform Metrics: Commerce Retrospective with Actual Numbers",
+      "repos": [
+        "organvm-iii-ergon/gamified-coach-interface",
+        "organvm-iii-ergon/classroom-rpg-aetheria",
+        "organvm-iii-ergon/public-record-data-scrapper"
+      ]
+    },
+    "2026-02-11-documentation-implementation-gap.md": {
+      "title": "The Documentation-Implementation Gap: Honest Accounting",
+      "repos": [
+        "organvm-v-logos/public-process",
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-iii-ergon/public-record-data-scrapper"
+      ]
+    },
+    "2026-02-11-epistemic-tuning-explained.md": {
+      "title": "Epistemic Tuning Explained",
+      "repos": [
+        "organvm-i-theoria/my-knowledge-base",
+        "organvm-i-theoria/linguistic-atomization-framework"
+      ]
+    },
+    "2026-02-11-generative-music-case-study.md": {
+      "title": "Generative Music Case Study",
+      "repos": [
+        "organvm-ii-poiesis/example-generative-music",
+        "organvm-ii-poiesis/metasystem-master",
+        "organvm-ii-poiesis/audio-synthesis-bridge"
+      ]
+    },
+    "2026-02-11-recursive-engines-at-scale.md": {
+      "title": "Recursive Engines at Scale",
+      "repos": [
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-i-theoria/narratological-algorithmic-lenses"
+      ]
+    },
+    "2026-02-11-testing-the-meta-system.md": {
+      "title": "Testing the Meta-System: CI/CD Across Eight Organs",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-iii-ergon/public-record-data-scrapper",
+        "organvm-iv-taxis/agentic-titan"
+      ]
+    },
+    "2026-02-11-uniform-quality-at-scale.md": {
+      "title": "Uniform Quality at Scale: How Every Repo Earns Its Badges",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-iii-ergon/public-record-data-scrapper",
+        "organvm-ii-poiesis/metasystem-master",
+        "organvm-iv-taxis/agentic-titan"
+      ]
+    },
+    "2026-02-12-the-parallel-launch.md": {
+      "title": "The Parallel Launch: Why We Shipped 81 Repositories Simultaneously",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-iv-taxis/agentic-titan",
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-v-logos/public-process"
+      ]
+    },
+    "2026-02-13-aesthetic-nervous-system.md": {
+      "title": "The Aesthetic Nervous System: How taste.yaml Cascades Across Eight Organs",
+      "repos": [
+        "meta-organvm/.github"
+      ]
+    },
+    "2026-02-13-archive-paradox.md": {
+      "title": "The Archive Paradox: Why Deleting Repositories Is an Act of Creation",
+      "repos": [
+        "organvm-ii-poiesis/metasystem-master",
+        "organvm-ii-poiesis/a-mavs-olevm"
+      ]
+    },
+    "2026-02-13-bootstrap-to-scale.md": {
+      "title": "Bootstrap to Scale: How Artists Build Institutions",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-v-logos/public-process"
+      ]
+    },
+    "2026-02-13-dependency-graph.md": {
+      "title": "The Dependency Graph: No Back-Edges Allowed",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here"
+      ]
+    },
+    "2026-02-13-deploying-the-portfolio.md": {
+      "title": "Deploying the Portfolio: From 81 Repos to 9 Applications",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-v-logos/public-process"
+      ]
+    },
+    "2026-02-13-how-this-was-built.md": {
+      "title": "How This Was Built: AI, Compressed Time, and the Gap Between Documentation and Code",
+      "repos": [
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-v-logos/public-process"
+      ]
+    },
+    "2026-02-13-provenance-as-practice.md": {
+      "title": "Provenance as Practice: Tracking 2,012 Files Across Eight Organs",
+      "repos": []
+    },
+    "2026-02-13-registry-driven-development.md": {
+      "title": "Registry-Driven Development: How a JSON File Governs 81 Repositories",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "organvm-v-logos/public-process",
+        "organvm-i-theoria/system-governance-framework"
+      ]
+    },
+    "2026-02-13-seed-contracts.md": {
+      "title": "Seed Contracts: Declarative Dependency in Multi-Repo Systems",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-i-theoria/recursive-engine--generative-entity"
+      ]
+    },
+    "2026-02-13-the-convergence.md": {
+      "title": "The Convergence: Zero Repos in Limbo, Zero Unresolved Provenance",
+      "repos": [
+        "organvm-v-logos/public-process"
+      ]
+    },
+    "2026-02-13-the-promotion-pipeline.md": {
+      "title": "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-iii-ergon/public-record-data-scrapper",
+        "organvm-ii-poiesis/metasystem-master",
+        "organvm-iv-taxis/agentic-titan"
+      ]
+    },
+    "2026-02-13-why-ai-function-calling-needs-ontological-grounding.md": {
+      "title": "Why AI Function Calling Needs Ontological Grounding",
+      "repos": [
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-v-logos/public-process"
+      ]
+    },
+    "2026-02-14-promotion-pipeline.md": {
+      "title": "The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-iii-ergon/public-record-data-scrapper",
+        "organvm-ii-poiesis/metasystem-master",
+        "organvm-iv-taxis/agentic-titan"
+      ]
+    },
+    "2026-02-16-governance-frameworks-for-artists.md": {
+      "title": "Governance Frameworks for Artists: Why Creative Practice Needs Institutional Thinking",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-iv-taxis/system-governance-framework",
+        "organvm-v-logos/public-process"
+      ]
+    },
+    "2026-02-16-how-to-think-about-autonomous-systems.md": {
+      "title": "How to Think About Autonomous Systems: A Practitioner's Guide",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-iv-taxis/agentic-titan",
+        "organvm-i-theoria/recursive-engine--generative-entity"
+      ]
+    },
+    "2026-02-16-promotions-in-practice.md": {
+      "title": "Promotions in Practice: What We Learned Exercising the State Machine",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-iv-taxis/system-governance-framework"
+      ]
+    },
+    "2026-02-16-twenty-six-sprints-in-six-days.md": {
+      "title": "Twenty-Six Sprints in Six Days: What the AI-Conductor Model Actually Looks Like",
+      "repos": [
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-v-logos/public-process"
+      ]
+    },
+    "2026-02-16-what-it-takes-to-ship-a-product-from-inside-an-organ-system.md": {
+      "title": "What It Takes to Ship a Product from Inside an Organ System",
+      "repos": [
+        "organvm-iii-ergon/life-my--midst--in",
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-iii-ergon/public-record-data-scrapper"
+      ]
+    },
+    "2026-02-16-why-the-organ-model-separates-commerce-from-theory.md": {
+      "title": "Why the Organ Model Separates Commerce from Theory",
+      "repos": [
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-iii-ergon/public-record-data-scrapper",
+        "organvm-iv-taxis/orchestration-start-here"
+      ]
+    },
+    "2026-02-17-constraint-alchemy-workshop.md": {
+      "title": "Constraint Alchemy: How Limitations Become Creative Fuel",
+      "repos": [
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-i-theoria/recursive-engine--generative-entity",
+        "organvm-iii-ergon/life-my--midst--in"
+      ]
+    },
+    "2026-02-17-construction-addiction.md": {
+      "title": "The Construction Addiction: When Building Becomes Avoidance",
+      "repos": [
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-iii-ergon/life-my--midst--in"
+      ]
+    },
+    "2026-02-17-performance-platform-methodology.md": {
+      "title": "Performance-Platform Methodology: When Is Your Product Ready for Users?",
+      "repos": [
+        "organvm-iii-ergon/life-my--midst--in",
+        "organvm-iii-ergon/public-record-data-scrapper",
+        "organvm-iii-ergon/fetch-familiar-friends"
+      ]
+    },
+    "2026-02-17-twelve-decisions.md": {
+      "title": "Twelve Decisions That Shaped a 97-Repository System",
+      "repos": [
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "organvm-iv-taxis/orchestration-start-here",
+        "organvm-iii-ergon/life-my--midst--in"
+      ]
+    }
   }
 }

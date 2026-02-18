@@ -1,9 +1,18 @@
 ---
 layout: essay
 title: "Why AI Function Calling Needs Ontological Grounding"
-date: 2026-02-13
+author: "@4444J99"
+date: "2026-02-13"
 tags: [ai-engineering, ontology, philosophy, function-calling, heidegger, aristotle, peirce]
-description: "An examination of how Heideggerian ready-to-hand, Aristotelian four causes, and Peircean semiotics illuminate the hidden assumptions in AI tool use and function calling"
+category: "guide"
+excerpt: "Large language models learned to call functions, but the schemas that describe tools carry unexamined ontological assumptions. Heidegger, Aristotle, and Peirce illuminate specific design opportunities current architectures miss."
+portfolio_relevance: "CRITICAL"
+related_repos:
+  - organvm-i-theoria/recursive-engine--generative-entity
+  - organvm-iv-taxis/orchestration-start-here
+  - organvm-v-logos/public-process
+reading_time: "16 min"
+word_count: 3908
 ---
 
 # Why AI Function Calling Needs Ontological Grounding

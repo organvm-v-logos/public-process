@@ -1,9 +1,15 @@
 ---
 layout: essay
 title: "Provenance as Practice: Tracking 2,012 Files Across Eight Organs"
-date: 2026-02-13
+author: "@4444J99"
+date: "2026-02-13"
 tags: [provenance, material-tracking, digital-archives, classification, ingestion]
-description: "The ALCHEMIA sprint's material ingestion pipeline inventoried 2,012 files, classified 94.5%, and deployed 568 to specific repos — a case study in why provenance tracking matters for creative practitioners building institutional-scale systems."
+category: "methodology"
+excerpt: "Every creative practitioner accumulates material without structure. The ALCHEMIA sprint inventoried 2,012 files, classified 94.5%, and deployed 568 to repos — a case study in why provenance tracking is essential at institutional scale."
+portfolio_relevance: "HIGH"
+related_repos: []
+reading_time: "13 min"
+word_count: 3149
 ---
 
 # Provenance as Practice: Tracking 2,012 Files Across Eight Organs

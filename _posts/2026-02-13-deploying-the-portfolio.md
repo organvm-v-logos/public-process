@@ -1,9 +1,17 @@
 ---
 layout: essay
 title: "Deploying the Portfolio: From 81 Repos to 9 Applications"
-date: 2026-02-13
+author: "@4444J99"
+date: "2026-02-13"
 tags: [portfolio, applications, deployment, career, systems-engineering, documentation]
-description: "The transition from building an 81-repository creative-institutional system to deploying it as evidence in job applications, grant proposals, and fellowship submissions — what reviewers see versus what the system contains."
+category: "meta-system"
+excerpt: "The transition from building an 81-repository system to deploying it as evidence across 9 job applications, grants, and fellowships — and the engineering problem of compressing 335,000 words for different reviewers."
+portfolio_relevance: "CRITICAL"
+related_repos:
+  - organvm-iv-taxis/orchestration-start-here
+  - organvm-v-logos/public-process
+reading_time: "17 min"
+word_count: 4027
 ---
 
 There is a moment in any large building project where the work shifts from construction to presentation. You stop adding rooms and start opening doors. The building is not finished — buildings are never finished — but it is habitable, and now the question changes. It is no longer "can I make this work?" but "can I make someone else see that it works?"

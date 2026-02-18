@@ -1,9 +1,16 @@
 ---
 layout: essay
 title: "The Dependency Graph: No Back-Edges Allowed"
-date: 2026-02-13
+author: "@4444J99"
+date: "2026-02-13"
 tags: [dependency-graph, dag, architectural-constraints, organ-system, governance]
-description: "How a single architectural constraint — no back-edges in the dependency graph — shapes the entire organvm system, and why the most liberating thing you can do for a creative system is tell it where it cannot go."
+category: "guide"
+excerpt: "There is one rule in the organvm system enforced above all others: dependencies flow in one direction. This essay explains where the no-back-edges rule came from, how it is enforced via CI, and why well-chosen constraints enable creativity rather than limiting it."
+portfolio_relevance: "CRITICAL"
+related_repos:
+  - organvm-iv-taxis/orchestration-start-here
+reading_time: "13 min"
+word_count: 3219
 ---
 
 # The Dependency Graph: No Back-Edges Allowed

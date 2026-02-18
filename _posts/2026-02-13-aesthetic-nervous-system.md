@@ -1,9 +1,16 @@
 ---
 layout: essay
 title: "The Aesthetic Nervous System: How taste.yaml Cascades Across Eight Organs"
-date: 2026-02-13
+author: "@4444J99"
+date: "2026-02-13"
 tags: [aesthetic-system, taste-yaml, design-systems, creative-governance, organ-aesthetic]
-description: "How the ALCHEMIA sprint designed and deployed a cascading aesthetic governance system using taste.yaml, organ-aesthetic.yaml, and per-repo creative briefs — and why creative systems need aesthetic constraints the way software needs type systems."
+category: "methodology"
+excerpt: "Every creative system faces the coherence problem. This essay describes the cascading aesthetic governance system — taste.yaml, organ-aesthetic.yaml, and per-repo creative briefs — that propagates aesthetic constraints across eight organs and 89 repositories."
+portfolio_relevance: "CRITICAL"
+related_repos:
+  - meta-organvm/.github
+reading_time: "13 min"
+word_count: 3181
 ---
 
 # The Aesthetic Nervous System: How taste.yaml Cascades Across Eight Organs

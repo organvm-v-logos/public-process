@@ -1,9 +1,17 @@
 ---
 layout: essay
 title: "Bootstrap to Scale: How Artists Build Institutions"
-date: 2026-02-13
+author: "@4444J99"
+date: "2026-02-13"
 tags: [institutions, creative-practice, scaling, bootstrap, sustainability]
-description: "How individual creative practitioners transition from solo garage projects to institutional-scale creative infrastructure, and why the tension between artistic authenticity and institutional legibility is the central design problem of our era."
+category: "meta-system"
+excerpt: "There is a moment in every creative practitioner's life when the work outgrows the person. This essay examines how individual artists transition from solo garage projects to institutional-scale creative infrastructure — and why the tension between artistic authenticity and institutional legibility is the central design problem."
+portfolio_relevance: "CRITICAL"
+related_repos:
+  - organvm-iv-taxis/orchestration-start-here
+  - organvm-v-logos/public-process
+reading_time: "13 min"
+word_count: 3230
 ---
 
 # Bootstrap to Scale: How Artists Build Institutions

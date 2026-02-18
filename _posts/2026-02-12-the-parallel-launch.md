@@ -1,9 +1,19 @@
 ---
 layout: essay
 title: "The Parallel Launch: Why We Shipped 81 Repositories Simultaneously"
-date: 2026-02-12
+author: "@4444J99"
+date: "2026-02-12"
 tags: [parallel-launch, systems-engineering, project-management, orchestration, infrastructure]
-description: "How and why the organvm system launched all eight organs simultaneously — the strategic reasoning, the technical challenges, and the lessons learned from coordinating an 81-repository parallel deployment."
+category: "retrospective"
+excerpt: "On February 11, 2026, all eight organs of the organvm system went operational simultaneously — 81 repositories across 8 GitHub organizations. This is the account of why we made that choice, how we executed it, and what we learned."
+portfolio_relevance: "CRITICAL"
+related_repos:
+  - organvm-iv-taxis/orchestration-start-here
+  - organvm-iv-taxis/agentic-titan
+  - organvm-i-theoria/recursive-engine--generative-entity
+  - organvm-v-logos/public-process
+reading_time: "18 min"
+word_count: 4347
 ---
 
 # The Parallel Launch: Why We Shipped 81 Repositories Simultaneously
