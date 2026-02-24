@@ -3,7 +3,7 @@ layout: essay
 title: "The Solo Auteur Method"
 author: "@4444J99"
 date: "2026-02-18"
-tags: [methodology, creative-practice, solo-production, AI-augmented, auteur, process-as-product, organ-model]
+tags: [methodology, creative-practice, solo-production, ai-augmented, auteur, process-as-product, organ-model]
 category: "meta-system"
 excerpt: "A methodology for building creative systems alone at full intensity — using AI tools the way Brian Eno used generative systems, the way Trent Reznor became a one-person orchestra. The process of creation is the product."
 portfolio_relevance: "CRITICAL"

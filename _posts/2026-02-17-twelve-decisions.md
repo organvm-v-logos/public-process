@@ -3,7 +3,7 @@ layout: essay
 title: "Twelve Decisions That Shaped a 97-Repository System"
 author: "@4444J99"
 date: "2026-02-17"
-tags: [architecture, decisions, ADR, retrospective, systems-design, governance]
+tags: [architecture, decisions, adr, retrospective, systems-design, governance]
 category: "retrospective"
 excerpt: "Every architecture is a record of decisions. Here are the twelve choices — from Greek naming schemes to billing guardrails — that turned a solo creative practice into an eight-organ institutional system spanning 97 repositories."
 portfolio_relevance: "HIGH"

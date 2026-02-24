@@ -12,6 +12,11 @@ highlighter: rouge
 permalink: /essays/:title/
 
 # Collections — essays as first-class content
+# Dual-directory pattern:
+#   _posts/  = All 42 essays in blog-post format (powers the feed, index, date-sorted listings)
+#   essays/  = 16 flagship long-form essays organized by category (meta-system/, subsidiary/)
+#              These are the Jekyll collection items that get their own permalink pages.
+# Both directories are active and intentional. _posts/ is the complete corpus; essays/ is the curated showcase.
 collections:
   essays:
     output: true
