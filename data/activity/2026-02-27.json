@@ -1,0 +1,458 @@
+{
+  "generated": "2026-02-27T23:27:36Z",
+  "since": "2026-02-27",
+  "until": "2026-02-28",
+  "summary": {
+    "total_commits": 75,
+    "repos_active": 9,
+    "files_changed": 699,
+    "organs_touched": [
+      "III",
+      "Personal",
+      "V",
+      "VII"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "4444J99": {
+          "commits": [
+            {
+              "hash": "d231152",
+              "date": "2026-02-27",
+              "message": "feat: add GitHub Sponsors funding configuration"
+            }
+          ],
+          "files_changed": 1
+        },
+        "application-pipeline": {
+          "commits": [
+            {
+              "hash": "cb21087",
+              "date": "2026-02-27",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "22f706c",
+              "date": "2026-02-27",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "5b50945",
+              "date": "2026-02-27",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "4d3db38",
+              "date": "2026-02-27",
+              "message": "fix: correctly align submitted and staged applications based on explicit user commands"
+            },
+            {
+              "hash": "ac969e9",
+              "date": "2026-02-27",
+              "message": "revert: undo accidental submission logging for 19 roles"
+            },
+            {
+              "hash": "8dd864a",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for three Perplexity senior roles"
+            },
+            {
+              "hash": "8782398",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for final set of Anthropic roles"
+            },
+            {
+              "hash": "7e71ce1",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for final three Anthropic roles"
+            },
+            {
+              "hash": "99d1bd9",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Anthropic Sandboxing (Systems)"
+            },
+            {
+              "hash": "2ef0638",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for all remaining Anthropic roles"
+            },
+            {
+              "hash": "6cd94dc",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for three more Anthropic engineer roles"
+            },
+            {
+              "hash": "69eb885",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for three more Anthropic staff roles"
+            },
+            {
+              "hash": "e9c7b13",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for three Anthropic staff roles"
+            },
+            {
+              "hash": "d786490",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for three Elastic senior roles"
+            },
+            {
+              "hash": "974f869",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Temporal EMEA, Notion Early Career, and Elastic Tech Writer"
+            },
+            {
+              "hash": "225018a",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for GitLab and Cohere FDE roles"
+            },
+            {
+              "hash": "44ae7ea",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Temporal EMEA, Notion Search, and MongoDB Tech Writer"
+            },
+            {
+              "hash": "9a88a97",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Anthropic EMEA, Resend DX, and Elastic Python DevTools"
+            },
+            {
+              "hash": "35c3c7f",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Temporal, Stripe Alliances, and Stripe Privy"
+            },
+            {
+              "hash": "71cda65",
+              "date": "2026-02-27",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "f36c75f",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Scale AI Senior Software Engineer, Agentic Data Products"
+            },
+            {
+              "hash": "46e9c0d",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Scale AI Senior Software Engineer, Agentic Data Products"
+            },
+            {
+              "hash": "6f44121",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Temporal Staff Developer Advocate, Platform Engineering"
+            },
+            {
+              "hash": "20ecec0",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Temporal Staff Developer Advocate, Platform Engineering"
+            },
+            {
+              "hash": "f2a0bb4",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Temporal Technical Writer"
+            },
+            {
+              "hash": "1a950b0",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Temporal Technical Writer"
+            },
+            {
+              "hash": "b094a63",
+              "date": "2026-02-27",
+              "message": "feat: finalize application materials for Scale AI Senior Software Engineer, Agentic Data Products"
+            },
+            {
+              "hash": "65413be",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Scale AI Senior Software Engineer, Agentic Data Products"
+            },
+            {
+              "hash": "79dd904",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Temporal Staff Developer Advocate, Platform Engineering"
+            },
+            {
+              "hash": "e573a79",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Temporal Technical Writer"
+            },
+            {
+              "hash": "f56eee5",
+              "date": "2026-02-27",
+              "message": "feat: log submissions for Anthropic Agent SDK, Deepgram, and OpenAI"
+            },
+            {
+              "hash": "b642cd9",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for OpenAI Software Engineer, Full-Stack — Developer Experience"
+            },
+            {
+              "hash": "65e0075",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Deepgram Staff Developer Advocate"
+            },
+            {
+              "hash": "7ee4800",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Anthropic Software Engineer, Agent SDK - Claude Code"
+            },
+            {
+              "hash": "c2ad48c",
+              "date": "2026-02-27",
+              "message": "feat: log submission for Google AMI Grants"
+            },
+            {
+              "hash": "6976425",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Google AMI Grants"
+            },
+            {
+              "hash": "dd8029e",
+              "date": "2026-02-27",
+              "message": "feat: log submission for LACMA Art + Technology Lab"
+            },
+            {
+              "hash": "07fb73e",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for LACMA Art + Technology Lab"
+            },
+            {
+              "hash": "a4d880b",
+              "date": "2026-02-27",
+              "message": "feat: log submission for NEW INC (New Museum)"
+            },
+            {
+              "hash": "85cadc7",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for NEW INC (New Museum)"
+            },
+            {
+              "hash": "07bb63e",
+              "date": "2026-02-27",
+              "message": "feat: log submission for Eyebeam Speculating on Plurality"
+            },
+            {
+              "hash": "6d22fed",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Eyebeam Speculating on Plurality"
+            },
+            {
+              "hash": "fb9cd20",
+              "date": "2026-02-27",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "37f9303",
+              "date": "2026-02-27",
+              "message": "feat: log submission for Creative Capital 2027 Open Call"
+            },
+            {
+              "hash": "f597c0f",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Creative Capital 2027 Open Call"
+            },
+            {
+              "hash": "e6b21c9",
+              "date": "2026-02-27",
+              "message": "feat: log submission for Prix Ars Electronica 2026 — Digital Humanity"
+            },
+            {
+              "hash": "dd8f65e",
+              "date": "2026-02-27",
+              "message": "feat: complete application materials for Prix Ars Electronica 2026 — Digital Humanity"
+            },
+            {
+              "hash": "5bd8f7e",
+              "date": "2026-02-27",
+              "message": "feat: log submission for S+T+ARTS Prize 2026"
+            }
+          ],
+          "files_changed": 526
+        },
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "abebc67",
+              "date": "2026-02-27",
+              "message": "feat: add consulting services section to capability mapping page"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "peer-audited--behavioral-blockchain": {
+          "commits": [
+            {
+              "hash": "6682999",
+              "date": "2026-02-27",
+              "message": "feat: Sprint 1+2 — compliance hardening, attestation flow, mobile parity"
+            },
+            {
+              "hash": "82fc972",
+              "date": "2026-02-27",
+              "message": "docs: fix internal cross-references after file renames, add docs/CLAUDE.md"
+            },
+            {
+              "hash": "5f57279",
+              "date": "2026-02-27",
+              "message": "docs: normalize research filenames to kebab-case and reorganize reference library"
+            },
+            {
+              "hash": "7a248bc",
+              "date": "2026-02-27",
+              "message": "docs: add feature backlog from 37-doc ingestion, update MANIFEST to v2.0.0"
+            },
+            {
+              "hash": "43ee188",
+              "date": "2026-02-27",
+              "message": "chore: apply GitHub Repository Standards — root hygiene, README, community health"
+            },
+            {
+              "hash": "0ac6d7d",
+              "date": "2026-02-27",
+              "message": "chore: gitignore coverage dirs, add mobile fastlane + turbo scripts, track research docs"
+            },
+            {
+              "hash": "7f59f0d",
+              "date": "2026-02-27",
+              "message": "feat(ci,test,e2e): full sweep — test hardening, E2E, CI/CD maturation"
+            },
+            {
+              "hash": "26d7a23",
+              "date": "2026-02-27",
+              "message": "fix(deps): upgrade faraday 1.8.0 → 1.10.5 to patch SSRF vulnerability"
+            },
+            {
+              "hash": "c9c6681",
+              "date": "2026-02-27",
+              "message": "fix(deps): patch fast-xml-parser CVE and update fastlane"
+            },
+            {
+              "hash": "237523a",
+              "date": "2026-02-27",
+              "message": "fix(android): pin Gradle daemon to JDK 21 for Kotlin 2.1.x compatibility"
+            },
+            {
+              "hash": "4962439",
+              "date": "2026-02-27",
+              "message": "chore(mobile): restore Gradle plugin resolution, clean iOS build artifacts"
+            },
+            {
+              "hash": "4dd6196",
+              "date": "2026-02-27",
+              "message": "fix(api): resolve worker process teardown leaks in webhook and anomaly tests"
+            },
+            {
+              "hash": "5fa286d",
+              "date": "2026-02-27",
+              "message": "fix(android): simplify Gradle plugin resolution to use direct paths"
+            },
+            {
+              "hash": "5ebf568",
+              "date": "2026-02-27",
+              "message": "fix(android): resolve build plugin resolution and add trace-id tests"
+            }
+          ],
+          "files_changed": 141
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        "editorial-standards": {
+          "commits": [
+            {
+              "hash": "f22a727",
+              "date": "2026-02-27",
+              "message": "feat: add captain's log schema, template, and optional references field"
+            }
+          ],
+          "files_changed": 3
+        },
+        "essay-pipeline": {
+          "commits": [
+            {
+              "hash": "6fe76a5",
+              "date": "2026-02-27",
+              "message": "fix: anchor bare dates to midnight for reliable same-day commit capture"
+            },
+            {
+              "hash": "f8f8fad",
+              "date": "2026-02-27",
+              "message": "feat: add workspace activity scanner and captain's log scaffolder"
+            },
+            {
+              "hash": "c7b784a",
+              "date": "2026-02-27",
+              "message": "feat: add dual content type support for essays and logs"
+            }
+          ],
+          "files_changed": 5
+        },
+        "public-process": {
+          "commits": [
+            {
+              "hash": "b9a4291",
+              "date": "2026-02-27",
+              "message": "chore: add _site to gitignore"
+            },
+            {
+              "hash": "9355512",
+              "date": "2026-02-27",
+              "message": "feat: add activity stats bar to captain's log layout"
+            },
+            {
+              "hash": "ce39a29",
+              "date": "2026-02-27",
+              "message": "fix: drop github-pages gem, upgrade to Jekyll 4.4 for Ruby 4.0 compat"
+            },
+            {
+              "hash": "038f1e0",
+              "date": "2026-02-27",
+              "message": "essay: first captain's log entry and regenerated data artifacts"
+            },
+            {
+              "hash": "95e4603",
+              "date": "2026-02-27",
+              "message": "feat: add captain's log collection, references partial, and cross-links"
+            }
+          ],
+          "files_changed": 18
+        }
+      }
+    },
+    "VII": {
+      "name": "Kerygma",
+      "repos": {
+        "announcement-templates": {
+          "commits": [
+            {
+              "hash": "823940d",
+              "date": "2026-02-27",
+              "message": "feat: add weekly-digest template for Sunday newsletter"
+            }
+          ],
+          "files_changed": 2
+        },
+        "social-automation": {
+          "commits": [
+            {
+              "hash": "02319a8",
+              "date": "2026-02-27",
+              "message": "feat: add visibility field to GhostPost for paid membership tiers"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}
