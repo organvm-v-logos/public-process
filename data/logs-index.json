@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "updated": "2026-02-27",
+  "generated_by": "essay-pipeline indexer v0.2.0",
+  "total_logs": 1,
+  "total_words": 545,
+  "mood_frequency": {
+    "breakthrough": 1
+  },
+  "tag_frequency": {
+    "building-in-public": 1,
+    "infrastructure": 1,
+    "revenue": 1,
+    "content-cadence": 1
+  },
+  "logs": [
+    {
+      "filename": "2026-02-27-captains-log.md",
+      "title": "First Light — Content Cadence, Revenue Infrastructure, Going Public",
+      "date": "2026-02-27",
+      "mood": "breakthrough",
+      "tags": [
+        "building-in-public",
+        "infrastructure",
+        "revenue",
+        "content-cadence"
+      ],
+      "word_count": 545,
+      "organs_touched": [
+        "III",
+        "V",
+        "VII"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-02-17",
+  "updated": "2026-02-27",
   "generated_by": "essay-pipeline indexer v0.1.0",
   "total_essays": 42,
   "total_words": 134347,
@@ -156,10 +156,10 @@
     "product": 1,
     "assessment": 1,
     "decisions": 1,
-    "ADR": 1,
+    "adr": 1,
     "identity": 1,
     "imposter-syndrome": 1,
-    "AI-augmented": 1,
+    "ai-augmented": 1,
     "auteur": 1,
     "process-as-product": 1
   },
@@ -827,7 +827,7 @@
       "tags": [
         "architecture",
         "decisions",
-        "ADR",
+        "adr",
         "retrospective",
         "systems-design",
         "governance"
@@ -864,7 +864,7 @@
         "methodology",
         "creative-practice",
         "solo-production",
-        "AI-augmented",
+        "ai-augmented",
         "auteur",
         "process-as-product",
         "organ-model"

@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-02-17",
+  "updated": "2026-02-27",
   "total": 42,
   "entries": {
     "2026-02-10-building-in-public.md": {
@@ -668,7 +668,7 @@
       "tags": [
         "architecture",
         "decisions",
-        "ADR",
+        "adr",
         "retrospective",
         "systems-design",
         "governance"
@@ -706,7 +706,7 @@
         "methodology",
         "creative-practice",
         "solo-production",
-        "AI-augmented",
+        "ai-augmented",
         "auteur",
         "process-as-product",
         "organ-model"
