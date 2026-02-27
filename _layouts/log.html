@@ -13,6 +13,14 @@ layout: default
   </div>
   {% endif %}
 
+  {% if page.activity %}
+  <div class="activity-stats">
+    <span>{{ page.activity.commits }} commits</span>
+    <span>{{ page.activity.repos_active }} repos</span>
+    <span>{{ page.activity.files_changed }} files changed</span>
+  </div>
+  {% endif %}
+
   {{ content }}
 
   {% if page.organs_touched %}
