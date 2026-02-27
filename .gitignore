@@ -50,6 +50,7 @@ Thumbs.db
 dist/
 build/
 out/
+_site/
 
 # Coverage
 htmlcov/
