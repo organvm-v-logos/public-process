@@ -1,0 +1,11 @@
+{% if page.references %}
+<hr>
+<section class="references">
+  <h3>References</h3>
+  <ol>
+    {% for ref in page.references %}
+    <li>{{ ref }}</li>
+    {% endfor %}
+  </ol>
+</section>
+{% endif %}

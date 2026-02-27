@@ -1,0 +1,27 @@
+# content-calendar.yaml — Forward-looking content schedule
+# This is the editorial calendar, distinct from the historical publication-calendar.json.
+# Updated manually as essays are planned, drafted, and published.
+
+schedule:
+  essays:
+    cadence: "3x/week"
+    days: [monday, wednesday, friday]
+  logs:
+    cadence: "daily"
+    days: [monday, tuesday, wednesday, thursday, friday, saturday, sunday]
+
+# Essay queue — upcoming planned essays
+# Status: planned → drafting → review → ready → published
+essay_queue:
+  # - slug: example-essay-slug
+  #   category: methodology
+  #   target_date: "2026-03-03"
+  #   status: planned
+  #   notes: ""
+  []
+
+# Log streak tracking
+log_streak:
+  current: 0
+  longest: 0
+  last_date: null

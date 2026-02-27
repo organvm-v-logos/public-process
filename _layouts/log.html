@@ -1,13 +1,11 @@
 ---
 layout: default
 ---
-<article>
+<article class="log-entry">
   <h1>{{ page.title }}</h1>
   <div class="meta">
     <span>{{ page.date | date: "%B %d, %Y" }}</span>
-    {% if page.category %}<a href="{{ site.baseurl }}/categories/#{{ page.category }}" class="category-badge category-{{ page.category }}">{{ page.category }}</a>{% endif %}
-    {% if page.reading_time %}<span>{{ page.reading_time }}</span>{% endif %}
-    {% if page.word_count %}<span>{{ page.word_count }} words</span>{% endif %}
+    {% if page.mood %}<span class="mood mood-{{ page.mood }}">{{ page.mood }}</span>{% endif %}
   </div>
   {% if page.tags.size > 0 %}
   <div class="meta">
@@ -17,22 +15,21 @@ layout: default
 
   {{ content }}
 
-  {% include references.html %}
-
-  {% if page.related_repos %}
-  <hr>
-  <h3>Related Repositories</h3>
-  <ul>
-    {% for repo in page.related_repos %}
-    <li><a href="https://github.com/{{ repo }}">{{ repo }}</a></li>
-    {% endfor %}
-  </ul>
+  {% if page.organs_touched %}
+  <div class="organs-touched">
+    <span class="label">Organs touched:</span>
+    {% for organ in page.organs_touched %}<span class="organ-badge">{{ organ }}</span>{% endfor %}
+  </div>
   {% endif %}
 
-  {% if page.tags.size > 0 %}
-  <div class="essay-tags">
-    <p class="essay-tags-label">Tagged:</p>
-    {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}" class="tag">{{ tag }}</a> {% endfor %}
+  {% if page.links %}
+  <div class="log-links">
+    <h3>Links</h3>
+    <ul>
+      {% for link in page.links %}
+      <li><a href="{{ link }}">{{ link }}</a></li>
+      {% endfor %}
+    </ul>
   </div>
   {% endif %}
 
