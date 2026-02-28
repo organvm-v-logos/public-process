@@ -6,6 +6,9 @@ author:
   name: "@4444J99"
   url: "https://github.com/4444J99"
 
+# Data directory (pipeline-generated JSON artifacts)
+data_dir: data
+
 # Build
 markdown: kramdown
 highlighter: rouge

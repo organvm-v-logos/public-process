@@ -9,6 +9,22 @@ Essays about building an eight-organ creative-institutional system. Theory, art,
 
 ---
 
+{% assign idx = site.data["essays-index"] %}
+<div class="stat-grid">
+  <div class="stat">
+    <div class="stat-value">{{ idx.total_essays }}</div>
+    <div class="stat-label">Essays</div>
+  </div>
+  <div class="stat">
+    <div class="stat-value">{{ idx.total_words | divided_by: 1000 }}k</div>
+    <div class="stat-label">Words</div>
+  </div>
+  <div class="stat">
+    <div class="stat-value">{{ idx.categories | size }}</div>
+    <div class="stat-label">Categories</div>
+  </div>
+</div>
+
 ## Essays
 
 <div class="category-chips">

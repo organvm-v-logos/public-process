@@ -552,9 +552,176 @@ tr:hover td {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .organ-heatmap {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   figure {
     padding: 0.8em;
   }
+}
+
+/* --- Data Visualization: Bar Charts --- */
+.bar-chart {
+  margin: 1.5em 0;
+}
+
+.bar-row {
+  margin-bottom: 0.8em;
+}
+
+.bar-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  margin-bottom: 0.3em;
+  font-size: 0.9em;
+}
+
+.bar-label code {
+  font-size: 0.85em;
+}
+
+.bar-count {
+  color: var(--muted);
+  font-size: 0.85em;
+  margin-left: auto;
+}
+
+.bar-track {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  height: 8px;
+  overflow: hidden;
+}
+
+.bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  background: var(--accent);
+  transition: width 0.3s ease;
+}
+
+.category-fill-meta-system { background: #58a6ff; }
+.category-fill-case-study { background: #a371f7; }
+.category-fill-guide { background: #3ec84f; }
+.category-fill-methodology { background: #dbab09; }
+.category-fill-retrospective { background: #f85149; }
+
+/* --- Data Visualization: Tag Cloud --- */
+.tag-cloud .tag sup {
+  font-size: 0.7em;
+  color: var(--muted);
+  margin-left: 0.15em;
+}
+
+/* --- Data Visualization: Timeline --- */
+.timeline {
+  margin: 1.5em 0;
+}
+
+.timeline-row {
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+  margin-bottom: 0.5em;
+}
+
+.timeline-date {
+  font-size: 0.85em;
+  color: var(--muted);
+  font-family: monospace;
+  min-width: 6.5em;
+  flex-shrink: 0;
+}
+
+.timeline-bar-track {
+  flex: 1;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  height: 8px;
+  overflow: hidden;
+}
+
+.timeline-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  background: var(--accent);
+}
+
+.timeline-count {
+  font-size: 0.85em;
+  color: var(--muted);
+  min-width: 2em;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+/* --- Data Visualization: Connection Table --- */
+.connection-table {
+  font-size: 0.88em;
+}
+
+.repo-badge {
+  display: inline-block;
+  background: var(--surface);
+  color: var(--accent);
+  padding: 0.15em 0.5em;
+  border-radius: 10px;
+  font-size: 0.8em;
+  margin: 0.15em 0.2em;
+  border: 1px solid var(--border);
+  font-family: monospace;
+}
+
+/* --- Data Visualization: Organ Heatmap --- */
+.organ-heatmap {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.8em;
+  margin: 1.5em 0;
+}
+
+.organ-cell {
+  text-align: center;
+  padding: 1em 0.5em;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+.organ-count {
+  font-size: 1.6em;
+  font-weight: 700;
+  color: var(--accent);
+  line-height: 1.2;
+}
+
+.organ-name {
+  font-size: 0.75em;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 0.3em;
+}
+
+/* --- Data Visualization: Empty State --- */
+.empty-state {
+  text-align: center;
+  padding: 3em 1em;
+  color: var(--muted);
+}
+
+.empty-state p {
+  max-width: 480px;
+  margin: 0.6em auto;
+}
+
+/* --- Data Visualization: Surfaced Items --- */
+.surfaced-item h3 {
+  margin-top: 0.5em;
 }
 
 @media (max-width: 400px) {
