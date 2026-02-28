@@ -1,0 +1,73 @@
+name: Weekly Data Refresh
+
+on:
+  schedule:
+    - cron: "0 6 * * 0"  # Sunday 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout public-process
+        uses: actions/checkout@v4
+
+      - name: Checkout essay-pipeline
+        uses: actions/checkout@v4
+        with:
+          repository: organvm-v-logos/essay-pipeline
+          path: essay-pipeline
+
+      - name: Checkout editorial-standards
+        uses: actions/checkout@v4
+        with:
+          repository: organvm-v-logos/editorial-standards
+          path: editorial-standards
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install essay-pipeline
+        run: pip install -e essay-pipeline/
+
+      - name: Validate essays
+        run: |
+          python -m src.validator \
+            --posts-dir _posts/ \
+            --schema editorial-standards/schemas/frontmatter-schema.yaml
+
+      - name: Validate logs
+        run: |
+          if [ -d "_logs" ] && [ -n "$(ls -A _logs/*.md 2>/dev/null)" ]; then
+            python -m src.validator \
+              --posts-dir _logs/ \
+              --schema editorial-standards/schemas/log-schema.yaml \
+              --content-type log
+          else
+            echo "No logs to validate"
+          fi
+
+      - name: Regenerate data artifacts
+        run: |
+          LOGS_ARG=""
+          if [ -d "_logs" ] && [ -n "$(ls -A _logs/*.md 2>/dev/null)" ]; then
+            LOGS_ARG="--logs-dir _logs/"
+          fi
+
+          python -m src.indexer \
+            --posts-dir _posts/ \
+            $LOGS_ARG \
+            --output-dir data/
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: refresh data artifacts $(date -u +%Y-%m-%d)"
+          git push
