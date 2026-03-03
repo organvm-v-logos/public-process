@@ -1,7 +1,7 @@
 {
   "version": "1.1",
-  "updated": "2026-02-27",
-  "total": 42,
+  "updated": "2026-03-03",
+  "total": 46,
   "entries": {
     "2026-02-10-building-in-public.md": {
       "title": "Building in Public: Radical Transparency as Creative Methodology",
@@ -712,6 +712,78 @@
         "organ-model"
       ],
       "category": "meta-system"
+    },
+    "2026-02-21-the-distribution-problem.md": {
+      "title": "The Distribution Problem: Why Building in Public Means Nothing Without a Megaphone",
+      "related_repos": [
+        "organvm-vii-kerygma/kerygma-pipeline",
+        "organvm-vii-kerygma/social-automation",
+        "organvm-vii-kerygma/distribution-strategy",
+        "organvm-vii-kerygma/announcement-templates"
+      ],
+      "tags": [
+        "organ-vii",
+        "distribution-strategy",
+        "building-in-public",
+        "posse",
+        "social-automation",
+        "guide"
+      ],
+      "category": "guide"
+    },
+    "2026-02-24-community-infrastructure-for-one.md": {
+      "title": "Community Infrastructure for One: Building ORGAN-VI Before the Community Arrives",
+      "related_repos": [
+        "organvm-vi-koinonia/community-hub",
+        "organvm-vi-koinonia/reading-group-curriculum",
+        "organvm-vi-koinonia/salon-archive",
+        "organvm-vi-koinonia/adaptive-personal-syllabus"
+      ],
+      "tags": [
+        "organ-vi",
+        "community",
+        "infrastructure",
+        "salon-archive",
+        "reading-group",
+        "case-study"
+      ],
+      "category": "case-study"
+    },
+    "2026-02-27-writing-as-system-architecture.md": {
+      "title": "Writing as System Architecture: How ORGAN-V Became the System's Memory",
+      "related_repos": [
+        "organvm-v-logos/public-process",
+        "organvm-v-logos/essay-pipeline",
+        "organvm-v-logos/editorial-standards"
+      ],
+      "tags": [
+        "organ-v",
+        "writing",
+        "documentation",
+        "methodology",
+        "essay-pipeline",
+        "editorial-standards"
+      ],
+      "category": "methodology"
+    },
+    "2026-03-02-two-weeks-and-forty-six-essays.md": {
+      "title": "Two Weeks and Forty-Six Essays: The ORGAN-V Production Retrospective",
+      "related_repos": [
+        "organvm-v-logos/public-process",
+        "organvm-v-logos/essay-pipeline",
+        "organvm-v-logos/editorial-standards",
+        "meta-organvm/organvm-corpvs-testamentvm"
+      ],
+      "tags": [
+        "retrospective",
+        "organ-v",
+        "writing",
+        "production",
+        "metrics",
+        "self-assessment",
+        "honesty"
+      ],
+      "category": "retrospective"
     }
   }
 }
