@@ -1,0 +1,121 @@
+{
+  "generated": "2026-03-03T23:32:08Z",
+  "since": "2026-03-02",
+  "until": "2026-03-03",
+  "summary": {
+    "total_commits": 17,
+    "repos_active": 2,
+    "files_changed": 2189,
+    "organs_touched": [
+      "META",
+      "Personal"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "application-pipeline": {
+          "commits": [
+            {
+              "hash": "61cd6d7",
+              "date": "2026-03-02",
+              "message": "Stage all changes"
+            },
+            {
+              "hash": "58c1d9b",
+              "date": "2026-03-02",
+              "message": "docs: comprehensive summary of Phases 1-5 completion"
+            },
+            {
+              "hash": "3e4f7ee",
+              "date": "2026-03-02",
+              "message": "docs: update implementation checklist (Phases 1-5 complete)"
+            },
+            {
+              "hash": "f20b068",
+              "date": "2026-03-02",
+              "message": "feat: implement Phases 3-5 (automation, signals, growth)"
+            },
+            {
+              "hash": "59d983a",
+              "date": "2026-03-02",
+              "message": "fix: update tests to match Phase 1 & 2 refactoring (1370 tests passing)"
+            },
+            {
+              "hash": "253dcd9",
+              "date": "2026-03-02",
+              "message": "feat: add Phase 2 validation gates (resume, state, preflight)"
+            },
+            {
+              "hash": "ad8ba71",
+              "date": "2026-03-02",
+              "message": "feat: implement clean API layer for CLI/MCP (Phase 1)"
+            },
+            {
+              "hash": "5b1238b",
+              "date": "2026-03-02",
+              "message": "docs: comprehensive evaluation-to-growth analysis and phased implementation roadmap"
+            },
+            {
+              "hash": "831141a",
+              "date": "2026-03-02",
+              "message": "Stage and commit all changes"
+            },
+            {
+              "hash": "1362849",
+              "date": "2026-03-02",
+              "message": "Update"
+            },
+            {
+              "hash": "cd04cac",
+              "date": "2026-03-02",
+              "message": "fix: handle None outcome in conversion dashboard hypothesis display"
+            },
+            {
+              "hash": "3342be4",
+              "date": "2026-03-02",
+              "message": "chore: execute pipeline forward propulsion — backfill, profiles, hypotheses"
+            },
+            {
+              "hash": "dbbd68b",
+              "date": "2026-03-02",
+              "message": "feat: pipeline forward propulsion — freshness backfill, job profiles, batch hypotheses"
+            },
+            {
+              "hash": "9439108",
+              "date": "2026-03-02",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "0eec3a0",
+              "date": "2026-03-02",
+              "message": "feat: evaluation-to-growth v2 — 52 fixes across 5 tiers (972 tests passing)"
+            },
+            {
+              "hash": "a496224",
+              "date": "2026-03-02",
+              "message": "chore: stage all changes"
+            }
+          ],
+          "files_changed": 2188
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "fbabd3b",
+              "date": "2026-03-02",
+              "message": "chore(soak): daily snapshot 2026-03-02"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}
