@@ -13,6 +13,7 @@ related_repos:
   - organvm-iv-taxis/orchestration-start-here
 reading_time: "14 min"
 word_count: 3100
+references: []
 ---
 
 # Why the Organ Model Separates Commerce from Theory

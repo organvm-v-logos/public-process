@@ -14,6 +14,7 @@ related_repos:
   - organvm-iv-taxis/agentic-titan
 reading_time: "12 min"
 word_count: 2700
+references: []
 ---
 
 # The Solo Auteur Method

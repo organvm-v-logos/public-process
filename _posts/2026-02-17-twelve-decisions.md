@@ -13,6 +13,7 @@ related_repos:
   - organvm-iii-ergon/life-my--midst--in
 reading_time: "8 min"
 word_count: 2000
+references: []
 ---
 
 # Twelve Decisions That Shaped a 97-Repository System

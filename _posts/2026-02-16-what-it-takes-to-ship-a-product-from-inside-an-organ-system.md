@@ -13,6 +13,7 @@ related_repos:
   - organvm-iii-ergon/public-record-data-scrapper
 reading_time: "12 min"
 word_count: 2800
+references: []
 ---
 
 # What It Takes to Ship a Product from Inside an Organ System

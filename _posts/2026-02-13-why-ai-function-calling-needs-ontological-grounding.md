@@ -13,6 +13,7 @@ related_repos:
   - organvm-v-logos/public-process
 reading_time: "16 min"
 word_count: 3908
+references: []
 ---
 
 # Why AI Function Calling Needs Ontological Grounding

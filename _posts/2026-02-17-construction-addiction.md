@@ -13,6 +13,7 @@ related_repos:
   - organvm-iii-ergon/life-my--midst--in
 reading_time: "10 min"
 word_count: 2600
+references: []
 ---
 
 # The Construction Addiction: When Building Becomes Avoidance

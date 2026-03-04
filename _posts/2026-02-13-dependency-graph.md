@@ -11,6 +11,7 @@ related_repos:
   - organvm-iv-taxis/orchestration-start-here
 reading_time: "13 min"
 word_count: 3219
+references: []
 ---
 
 # The Dependency Graph: No Back-Edges Allowed

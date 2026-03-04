@@ -12,6 +12,7 @@ related_repos:
   - organvm-i-theoria/narratological-algorithmic-lenses
 reading_time: "18 min"
 word_count: 4350
+references: []
 ---
 
 # Recursive Engines at Scale

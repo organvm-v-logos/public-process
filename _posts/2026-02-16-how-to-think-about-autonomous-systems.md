@@ -13,6 +13,7 @@ related_repos:
   - organvm-i-theoria/recursive-engine--generative-entity
 reading_time: "15 min"
 word_count: 3200
+references: []
 ---
 
 # How to Think About Autonomous Systems: A Practitioner's Guide

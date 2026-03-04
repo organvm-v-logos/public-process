@@ -3,7 +3,7 @@
   "updated": "2026-03-03",
   "generated_by": "essay-pipeline indexer v0.3.0",
   "total_essays": 46,
-  "total_words": 141924,
+  "total_words": 142690,
   "categories": {
     "meta-system": 21,
     "case-study": 8,
@@ -898,7 +898,7 @@
         "social-automation",
         "guide"
       ],
-      "word_count": 1663,
+      "word_count": 1844,
       "reading_time": "9 min",
       "portfolio_relevance": "HIGH"
     },
@@ -915,7 +915,7 @@
         "reading-group",
         "case-study"
       ],
-      "word_count": 1830,
+      "word_count": 1988,
       "reading_time": "10 min",
       "portfolio_relevance": "HIGH"
     },
@@ -932,7 +932,7 @@
         "essay-pipeline",
         "editorial-standards"
       ],
-      "word_count": 2104,
+      "word_count": 2286,
       "reading_time": "10 min",
       "portfolio_relevance": "HIGH"
     },
@@ -950,7 +950,7 @@
         "self-assessment",
         "honesty"
       ],
-      "word_count": 1980,
+      "word_count": 2225,
       "reading_time": "10 min",
       "portfolio_relevance": "HIGH"
     }

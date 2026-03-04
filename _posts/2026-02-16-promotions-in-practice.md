@@ -12,6 +12,7 @@ related_repos:
   - organvm-iv-taxis/system-governance-framework
 reading_time: "8 min"
 word_count: 2500
+references: []
 ---
 
 # Promotions in Practice: What We Learned Exercising the State Machine

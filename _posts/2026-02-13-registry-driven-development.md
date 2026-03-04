@@ -14,6 +14,7 @@ related_repos:
   - organvm-i-theoria/system-governance-framework
 reading_time: "22 min"
 word_count: 4800
+references: []
 ---
 
 # Registry-Driven Development: How a JSON File Governs 81 Repositories

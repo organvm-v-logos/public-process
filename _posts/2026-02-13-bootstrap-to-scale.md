@@ -12,6 +12,7 @@ related_repos:
   - organvm-v-logos/public-process
 reading_time: "13 min"
 word_count: 3230
+references: []
 ---
 
 # Bootstrap to Scale: How Artists Build Institutions

@@ -1,10 +1,10 @@
-{% if page.references %}
+{% if page.references and page.references.size > 0 %}
 <hr>
 <section class="references">
   <h3>References</h3>
   <ol>
     {% for ref in page.references %}
-    <li>{{ ref }}</li>
+    <li id="ref-{{ forloop.index }}">{{ ref }}</li>
     {% endfor %}
   </ol>
 </section>

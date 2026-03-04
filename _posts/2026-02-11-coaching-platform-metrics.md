@@ -13,6 +13,7 @@ related_repos:
   - organvm-iii-ergon/public-record-data-scrapper
 reading_time: "18 min"
 word_count: 4100
+references: []
 ---
 
 # Coaching Platform Metrics: Commerce Retrospective with Actual Numbers

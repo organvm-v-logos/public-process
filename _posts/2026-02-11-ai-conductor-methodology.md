@@ -13,6 +13,7 @@ related_repos:
   - meta-organvm/organvm-corpvs-testamentvm
 reading_time: "20 min"
 word_count: 5000
+references: []
 ---
 
 # AI-Conductor Methodology: Directing 270,000 Words of Documentation

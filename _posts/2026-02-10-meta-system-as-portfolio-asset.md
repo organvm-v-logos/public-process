@@ -14,6 +14,7 @@ related_repos:
   - organvm-iii-ergon/public-record-data-scrapper
 reading_time: "14 min"
 word_count: 3500
+references: []
 ---
 
 # The Meta-System as Portfolio Asset: Why Application Reviewers Care About Orchestration

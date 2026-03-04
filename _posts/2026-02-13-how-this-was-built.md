@@ -13,6 +13,7 @@ related_repos:
   - organvm-v-logos/public-process
 reading_time: "15 min"
 word_count: 3200
+references: []
 ---
 
 # How This Was Built: AI, Compressed Time, and the Gap Between Documentation and Code

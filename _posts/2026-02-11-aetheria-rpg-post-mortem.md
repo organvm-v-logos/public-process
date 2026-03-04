@@ -12,6 +12,7 @@ related_repos:
   - organvm-iii-ergon/gamified-coach-interface
 reading_time: "19 min"
 word_count: 4300
+references: []
 ---
 
 # Aetheria RPG Post-Mortem: A Full I→II→III Pipeline Retrospective

@@ -13,6 +13,7 @@ related_repos:
   - organvm-vii-kerygma/.github
 reading_time: "12 min"
 word_count: 3000
+references: []
 ---
 
 # Building in Public: Radical Transparency as Creative Methodology

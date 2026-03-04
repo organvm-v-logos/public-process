@@ -13,6 +13,7 @@ related_repos:
   - organvm-iii-ergon/fetch-familiar-friends
 reading_time: "9 min"
 word_count: 2150
+references: []
 ---
 
 # Performance-Platform Methodology: When Is Your Product Ready for Users?

@@ -12,6 +12,7 @@ related_repos:
   - organvm-i-theoria/linguistic-atomization-framework
 reading_time: "19 min"
 word_count: 4420
+references: []
 ---
 
 # Epistemic Tuning Explained

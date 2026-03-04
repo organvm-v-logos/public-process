@@ -11,6 +11,7 @@ related_repos:
   - meta-organvm/.github
 reading_time: "13 min"
 word_count: 3181
+references: []
 ---
 
 # The Aesthetic Nervous System: How taste.yaml Cascades Across Eight Organs

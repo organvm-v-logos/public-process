@@ -12,6 +12,7 @@ related_repos:
   - organvm-v-logos/public-process
 reading_time: "17 min"
 word_count: 4027
+references: []
 ---
 
 There is a moment in any large building project where the work shifts from construction to presentation. You stop adding rooms and start opening doors. The building is not finished — buildings are never finished — but it is habitable, and now the question changes. It is no longer "can I make this work?" but "can I make someone else see that it works?"

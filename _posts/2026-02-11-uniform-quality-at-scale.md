@@ -15,6 +15,7 @@ related_repos:
   - organvm-iv-taxis/agentic-titan
 reading_time: "18 min"
 word_count: 4500
+references: []
 ---
 
 # Uniform Quality at Scale: How Every Repo Earns Its Badges

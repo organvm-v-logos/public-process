@@ -12,6 +12,7 @@ related_repos:
   - organvm-i-theoria/recursive-engine--generative-entity
 reading_time: "14 min"
 word_count: 3263
+references: []
 ---
 
 # Seed Contracts: Declarative Dependency in Multi-Repo Systems

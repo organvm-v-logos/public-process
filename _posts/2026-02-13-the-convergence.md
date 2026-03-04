@@ -11,6 +11,7 @@ related_repos:
   - organvm-v-logos/public-process
 reading_time: "16 min"
 word_count: 3825
+references: []
 ---
 
 # The Convergence: Zero Repos in Limbo, Zero Unresolved Provenance

@@ -15,6 +15,7 @@ related_repos:
   - organvm-v-logos/public-process
 reading_time: "18 min"
 word_count: 4500
+references: []
 ---
 
 # Five Years of Autonomous Creative Systems: What I've Learned About Orchestration

@@ -15,6 +15,7 @@ related_repos:
   - organvm-iv-taxis/agentic-titan
 reading_time: "20 min"
 word_count: 4800
+references: []
 ---
 
 # The Promotion Pipeline: From DESIGN_ONLY to PRODUCTION in an Eight-Organ System

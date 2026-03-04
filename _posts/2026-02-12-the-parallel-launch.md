@@ -14,6 +14,7 @@ related_repos:
   - organvm-v-logos/public-process
 reading_time: "18 min"
 word_count: 4347
+references: []
 ---
 
 # The Parallel Launch: Why We Shipped 81 Repositories Simultaneously

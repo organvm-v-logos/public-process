@@ -14,6 +14,7 @@ related_repos:
   - organvm-i-theoria/recursive-engine--generative-entity
 reading_time: "16 min"
 word_count: 4000
+references: []
 ---
 
 # Governance as Creative Practice: Why the Eight-Organ System Exists

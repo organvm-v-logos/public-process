@@ -15,6 +15,7 @@ related_repos:
   - organvm-iii-ergon/public-record-data-scrapper
 reading_time: "20 min"
 word_count: 5000
+references: []
 ---
 
 # How We Orchestrate Eight Organs Across 79 Repositories

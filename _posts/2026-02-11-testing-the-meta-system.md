@@ -14,6 +14,7 @@ related_repos:
   - organvm-iv-taxis/agentic-titan
 reading_time: "18 min"
 word_count: 4500
+references: []
 ---
 
 # Testing the Meta-System: CI/CD Across Eight Organs

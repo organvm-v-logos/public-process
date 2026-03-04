@@ -13,6 +13,7 @@ related_repos:
   - organvm-ii-poiesis/example-interactive-installation
 reading_time: "18 min"
 word_count: 4200
+references: []
 ---
 
 # The Choreographic Interface: Designing Systems for Human Movement

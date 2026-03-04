@@ -13,6 +13,7 @@ related_repos:
   - organvm-ii-poiesis/audio-synthesis-bridge
 reading_time: "19 min"
 word_count: 4380
+references: []
 ---
 
 # Generative Music Case Study

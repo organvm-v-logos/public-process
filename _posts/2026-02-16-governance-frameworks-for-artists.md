@@ -13,6 +13,7 @@ related_repos:
   - organvm-v-logos/public-process
 reading_time: "14 min"
 word_count: 3000
+references: []
 ---
 
 # Governance Frameworks for Artists: Why Creative Practice Needs Institutional Thinking

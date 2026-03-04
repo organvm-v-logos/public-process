@@ -13,6 +13,7 @@ related_repos:
   - organvm-iii-ergon/life-my--midst--in
 reading_time: "11 min"
 word_count: 2600
+references: []
 ---
 
 # Constraint Alchemy: How Limitations Become Creative Fuel

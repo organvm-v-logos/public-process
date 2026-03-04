@@ -12,6 +12,7 @@ related_repos:
   - organvm-ii-poiesis/a-mavs-olevm
 reading_time: "12 min"
 word_count: 2818
+references: []
 ---
 
 # The Archive Paradox: Why Deleting Repositories Is an Act of Creation

@@ -15,6 +15,7 @@ related_repos:
   - organvm-ii-poiesis/metasystem-master
 reading_time: "18 min"
 word_count: 4500
+references: []
 ---
 
 # From Bronze to Platinum: Quality Ladders for Creative Infrastructure
