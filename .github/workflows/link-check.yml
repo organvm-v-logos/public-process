@@ -1,0 +1,48 @@
+name: Link Health Check
+
+on:
+  schedule:
+    - cron: "0 8 * * 1"  # Monday 08:00 UTC (weekly)
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout public-process
+        uses: actions/checkout@v6
+
+      - name: Checkout essay-pipeline
+        uses: actions/checkout@v6
+        with:
+          repository: organvm-v-logos/essay-pipeline
+          path: _pipeline
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -e _pipeline/
+
+      - name: Check all links
+        working-directory: _pipeline
+        run: |
+          python -m src.link_checker \
+            --posts-dir ../_posts/ \
+            --logs-dir ../_logs/ \
+            --output ../data/link-report.json \
+            --timeout 15 \
+            --retries 3
+
+      - name: Report broken links
+        if: failure()
+        run: |
+          echo "::warning::Broken links detected — see link-report.json"
+          cat data/link-report.json | python -c "
+          import json, sys
+          r = json.load(sys.stdin)
+          for u in r.get('broken', []):
+            print(f'::error file={u[\"file\"]},line={u[\"line\"]}::{u[\"url\"]} returned {u.get(\"status_code\", u.get(\"error\", \"unknown\"))}')
+          "

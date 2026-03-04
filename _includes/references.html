@@ -4,7 +4,7 @@
   <h3>References</h3>
   <ol>
     {% for ref in page.references %}
-    <li id="ref-{{ forloop.index }}">{{ ref }}</li>
+    <li id="ref-{{ forloop.index }}">{{ ref | markdownify | replace: '<p>', '' | replace: '</p>', '' | strip }}</li>
     {% endfor %}
   </ol>
 </section>

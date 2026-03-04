@@ -14,16 +14,16 @@ related_repos:
 reading_time: "10 min"
 word_count: 2500
 references:
-  - "[1] Donald Knuth, \"Literate Programming,\" *The Computer Journal*, vol. 27, no. 2, 1984, pp. 97-111."
-  - "[2] Michael Nygard, \"Documenting Architecture Decisions,\" cognitect.com, 2011."
-  - "[3] Alfred Korzybski, *Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics*, Institute of General Semantics, 1933."
-  - "[4] Donald Schön, *The Reflective Practitioner: How Professionals Think in Action*, Basic Books, 1983."
-  - "[5] Erich Gamma et al., *Design Patterns: Elements of Reusable Object-Oriented Software*, Addison-Wesley, 1994."
-  - "[6] Martin Fowler, \"Continuous Integration,\" martinfowler.com, 2006."
-  - "[7] Ralph Kimball and Margy Ross, *The Data Warehouse Toolkit*, 3rd ed., Wiley, 2013."
-  - "[8] Fred Brooks, *The Mythical Man-Month*, Addison-Wesley, 1975."
-  - "[9] Stewart Brand, *How Buildings Learn: What Happens After They're Built*, Viking, 1994."
-  - "[10] Christopher Alexander, *A Pattern Language*, Oxford University Press, 1977."
+  - "[1] Donald Knuth, \"[Literate Programming](https://en.wikipedia.org/wiki/Literate_programming),\" *The Computer Journal*, vol. 27, no. 2, 1984, pp. 97-111."
+  - "[2] Michael Nygard, \"[Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions),\" cognitect.com, 2011."
+  - "[3] Alfred Korzybski, [*Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics*](https://en.wikipedia.org/wiki/Science_and_Sanity), Institute of General Semantics, 1933."
+  - "[4] Donald Schön, [*The Reflective Practitioner: How Professionals Think in Action*](https://en.wikipedia.org/wiki/The_Reflective_Practitioner), Basic Books, 1983."
+  - "[5] Erich Gamma et al., [*Design Patterns: Elements of Reusable Object-Oriented Software*](https://en.wikipedia.org/wiki/Design_Patterns), Addison-Wesley, 1994."
+  - "[6] Martin Fowler, \"[Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html),\" martinfowler.com, 2006."
+  - "[7] Ralph Kimball and Margy Ross, [*The Data Warehouse Toolkit*](https://en.wikipedia.org/wiki/The_Data_Warehouse_Toolkit), 3rd ed., Wiley, 2013."
+  - "[8] Fred Brooks, [*The Mythical Man-Month*](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), Addison-Wesley, 1975."
+  - "[9] Stewart Brand, [*How Buildings Learn: What Happens After They're Built*](https://en.wikipedia.org/wiki/How_Buildings_Learn), Viking, 1994."
+  - "[10] Christopher Alexander, [*A Pattern Language*](https://en.wikipedia.org/wiki/A_Pattern_Language), Oxford University Press, 1977."
 ---
 
 # Writing as System Architecture: How ORGAN-V Became the System's Memory

@@ -15,16 +15,16 @@ related_repos:
 reading_time: "9 min"
 word_count: 2200
 references:
-  - "[1] IndieWeb Community, \"POSSE — Publish (on your) Own Site, Syndicate Elsewhere,\" indieweb.org/POSSE, accessed 2026."
-  - "[2] Tantek Çelik, \"Why IndieWeb,\" tantek.com, 2014."
-  - "[3] Cory Doctorow, \"The Internet's Enshittification,\" Pluralistic, 2023."
-  - "[4] Chris Anderson, *The Long Tail: Why the Future of Business Is Selling Less of More*, Hyperion, 2006."
-  - "[5] Seth Godin, *Tribes: We Need You to Lead Us*, Portfolio, 2008."
-  - "[6] RSS Advisory Board, \"RSS 2.0 Specification,\" rssboard.org, 2009."
-  - "[7] Mark Nottingham and Robert Sayre, \"The Atom Syndication Format,\" RFC 4287, IETF, 2005."
-  - "[8] Anil Dash, \"The Web We Lost,\" anildash.com, 2012."
-  - "[9] Hossein Derakhshan, \"The Web We Have to Save,\" Matter, 2015."
-  - "[10] Mike Monteiro, *Ruined by Design*, Mule Design, 2019."
+  - "[1] IndieWeb Community, \"[POSSE](https://indieweb.org/POSSE) — Publish (on your) Own Site, Syndicate Elsewhere,\" indieweb.org, accessed 2026."
+  - "[2] Tantek Çelik, \"Why IndieWeb,\" [tantek.com](https://tantek.com/), 2014."
+  - "[3] Cory Doctorow, \"[The Internet's Enshittification](https://pluralistic.net/2023/01/21/potemkin-ai/),\" Pluralistic, 2023."
+  - "[4] Chris Anderson, [*The Long Tail: Why the Future of Business Is Selling Less of More*](<https://en.wikipedia.org/wiki/The_Long_Tail_(book)>), Hyperion, 2006."
+  - "[5] Seth Godin, [*Tribes: We Need You to Lead Us*](<https://en.wikipedia.org/wiki/Tribes_(Seth_Godin_book)>), Portfolio, 2008."
+  - "[6] RSS Advisory Board, \"[RSS 2.0 Specification](https://www.rssboard.org/rss-specification),\" rssboard.org, 2009."
+  - "[7] Mark Nottingham and Robert Sayre, \"The Atom Syndication Format,\" [RFC 4287](https://datatracker.ietf.org/doc/html/rfc4287), IETF, 2005."
+  - "[8] Anil Dash, \"[The Web We Lost](https://anildash.com/2012/12/13/the_web_we_lost/),\" anildash.com, 2012."
+  - "[9] Hossein Derakhshan, \"[The Web We Have to Save](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426),\" Matter, 2015."
+  - "[10] Mike Monteiro, [*Ruined by Design*](https://www.ruinedby.design/), Mule Design, 2019."
 ---
 
 # The Distribution Problem: Why Building in Public Means Nothing Without a Megaphone

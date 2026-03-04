@@ -15,16 +15,16 @@ related_repos:
 reading_time: "10 min"
 word_count: 2400
 references:
-  - "[1] Etienne Wenger, *Communities of Practice: Learning, Meaning, and Identity*, Cambridge University Press, 1998."
-  - "[2] Douglas Hofstadter, *Gödel, Escher, Bach: An Eternal Golden Braid*, Basic Books, 1979."
-  - "[3] Gilles Deleuze and Félix Guattari, *A Thousand Plateaus*, University of Minnesota Press, 1987."
-  - "[4] Niklas Luhmann, *Social Systems*, Stanford University Press, 1995."
-  - "[5] Gregory Bateson, *Steps to an Ecology of Mind*, University of Chicago Press, 1972."
-  - "[6] Eric Ries, *The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*, Crown Business, 2011."
-  - "[7] Nadia Eghbal, *Working in Public: The Making and Maintenance of Open Source Software*, Stripe Press, 2020."
-  - "[8] Steven Johnson, *Where Good Ideas Come From: The Natural History of Innovation*, Riverhead Books, 2010."
-  - "[9] Deschooling Society, Ivan Illich, Harper & Row, 1971."
-  - "[10] Robert Putnam, *Bowling Alone: The Collapse and Revival of American Community*, Simon & Schuster, 2000."
+  - "[1] Etienne Wenger, [*Communities of Practice: Learning, Meaning, and Identity*](https://en.wikipedia.org/wiki/Community_of_practice), Cambridge University Press, 1998."
+  - "[2] Douglas Hofstadter, [*Gödel, Escher, Bach: An Eternal Golden Braid*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach), Basic Books, 1979."
+  - "[3] Gilles Deleuze and Félix Guattari, [*A Thousand Plateaus*](https://en.wikipedia.org/wiki/A_Thousand_Plateaus), University of Minnesota Press, 1987."
+  - "[4] Niklas Luhmann, [*Social Systems*](<https://en.wikipedia.org/wiki/Social_Systems_(book)>), Stanford University Press, 1995."
+  - "[5] Gregory Bateson, [*Steps to an Ecology of Mind*](https://en.wikipedia.org/wiki/Steps_to_an_Ecology_of_Mind), University of Chicago Press, 1972."
+  - "[6] Eric Ries, [*The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses*](https://en.wikipedia.org/wiki/The_Lean_Startup), Crown Business, 2011."
+  - "[7] Nadia Eghbal, [*Working in Public: The Making and Maintenance of Open Source Software*](https://press.stripe.com/working-in-public), Stripe Press, 2020."
+  - "[8] Steven Johnson, [*Where Good Ideas Come From: The Natural History of Innovation*](https://en.wikipedia.org/wiki/Where_Good_Ideas_Come_From), Riverhead Books, 2010."
+  - "[9] Ivan Illich, [*Deschooling Society*](https://en.wikipedia.org/wiki/Deschooling_Society), Harper & Row, 1971."
+  - "[10] Robert Putnam, [*Bowling Alone: The Collapse and Revival of American Community*](https://en.wikipedia.org/wiki/Bowling_Alone), Simon & Schuster, 2000."
 ---
 
 # Community Infrastructure for One: Building ORGAN-VI Before the Community Arrives

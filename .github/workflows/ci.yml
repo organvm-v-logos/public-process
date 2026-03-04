@@ -32,7 +32,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install pyyaml
+        run: pip install pyyaml httpx
 
       - name: Validate frontmatter
         working-directory: _pipeline
@@ -54,6 +54,15 @@ jobs:
             echo "::warning::Data files are out of date — run the indexer locally"
             git diff --stat data/
           fi
+
+      - name: Check internal links
+        working-directory: _pipeline
+        run: |
+          python -m src.link_checker \
+            --posts-dir ../_posts/ \
+            --logs-dir ../_logs/ \
+            --internal-only \
+            --output /dev/null
 
       - name: Validate structure
         run: |

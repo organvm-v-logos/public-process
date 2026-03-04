@@ -15,16 +15,16 @@ related_repos:
 reading_time: "10 min"
 word_count: 2300
 references:
-  - "[1] Paul Graham, \"The Age of the Essay,\" paulgraham.com, 2004."
-  - "[2] Anne Lamott, *Bird by Bird: Some Instructions on Writing and Life*, Anchor Books, 1994."
-  - "[3] Stephen King, *On Writing: A Memoir of the Craft*, Scribner, 2000."
-  - "[4] Cal Newport, *Deep Work: Rules for Focused Success in a Distracted World*, Grand Central Publishing, 2016."
-  - "[5] Esther Derby and Diana Larsen, *Agile Retrospectives: Making Good Teams Great*, Pragmatic Bookshelf, 2006."
-  - "[6] William Zinsser, *On Writing Well*, Harper Perennial, 2006."
-  - "[7] George Orwell, \"Politics and the English Language,\" Horizon, 1946."
-  - "[8] Daniel Kahneman, *Thinking, Fast and Slow*, Farrar, Straus and Giroux, 2011."
-  - "[9] Andy Hunt and Dave Thomas, *The Pragmatic Programmer*, Addison-Wesley, 1999."
-  - "[10] Kent Beck, *Extreme Programming Explained*, Addison-Wesley, 1999."
+  - "[1] Paul Graham, \"[The Age of the Essay](https://paulgraham.com/essay.html),\" paulgraham.com, 2004."
+  - "[2] Anne Lamott, [*Bird by Bird: Some Instructions on Writing and Life*](https://en.wikipedia.org/wiki/Bird_by_Bird), Anchor Books, 1994."
+  - "[3] Stephen King, [*On Writing: A Memoir of the Craft*](https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft), Scribner, 2000."
+  - "[4] Cal Newport, [*Deep Work: Rules for Focused Success in a Distracted World*](https://calnewport.com/deep-work/), Grand Central Publishing, 2016."
+  - "[5] Esther Derby and Diana Larsen, [*Agile Retrospectives: Making Good Teams Great*](https://pragprog.com/titles/dlret/agile-retrospectives/), Pragmatic Bookshelf, 2006."
+  - "[6] William Zinsser, [*On Writing Well*](https://en.wikipedia.org/wiki/On_Writing_Well), Harper Perennial, 2006."
+  - "[7] George Orwell, \"[Politics and the English Language](https://en.wikipedia.org/wiki/Politics_and_the_English_Language),\" Horizon, 1946."
+  - "[8] Daniel Kahneman, [*Thinking, Fast and Slow*](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow), Farrar, Straus and Giroux, 2011."
+  - "[9] Andy Hunt and Dave Thomas, [*The Pragmatic Programmer*](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), Addison-Wesley, 1999."
+  - "[10] Kent Beck, [*Extreme Programming Explained*](https://en.wikipedia.org/wiki/Extreme_programming), Addison-Wesley, 1999."
 ---
 
 # Two Weeks and Forty-Six Essays: The ORGAN-V Production Retrospective
