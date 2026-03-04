@@ -1,17 +1,28 @@
 {
   "version": "1.0",
-  "updated": "2026-02-27",
-  "generated_by": "essay-pipeline indexer v0.2.0",
-  "total_logs": 1,
-  "total_words": 545,
+  "updated": "2026-03-03",
+  "generated_by": "essay-pipeline indexer v0.3.0",
+  "total_logs": 5,
+  "total_words": 5726,
   "mood_frequency": {
-    "breakthrough": 1
+    "focused": 2,
+    "breakthrough": 1,
+    "reflective": 1,
+    "routine": 1
   },
   "tag_frequency": {
+    "infrastructure": 5,
+    "testing": 2,
     "building-in-public": 1,
-    "infrastructure": 1,
     "revenue": 1,
-    "content-cadence": 1
+    "content-cadence": 1,
+    "deployment": 1,
+    "omega-sprint": 1,
+    "maintenance": 1,
+    "documentation": 1,
+    "feature": 1,
+    "automation": 1,
+    "self-assessment": 1
   },
   "logs": [
     {
@@ -23,13 +34,83 @@
         "building-in-public",
         "infrastructure",
         "revenue",
-        "content-cadence"
+        "content-cadence",
+        "testing"
       ],
-      "word_count": 545,
+      "word_count": 1687,
       "organs_touched": [
         "III",
+        "META",
         "V",
         "VII"
+      ]
+    },
+    {
+      "filename": "2026-02-28-captains-log.md",
+      "title": "The Omega Sprint — 224 Commits, 85 Repos, Everything Everywhere All at Once",
+      "date": "2026-02-28",
+      "mood": "focused",
+      "tags": [
+        "infrastructure",
+        "deployment",
+        "testing",
+        "omega-sprint"
+      ],
+      "word_count": 2298,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-03-01-captains-log.md",
+      "title": "The Quiet After — Three Commits and a Long Exhale",
+      "date": "2026-03-01",
+      "mood": "reflective",
+      "tags": [
+        "infrastructure",
+        "maintenance"
+      ],
+      "word_count": 526,
+      "organs_touched": [
+        "I",
+        "META"
+      ]
+    },
+    {
+      "filename": "2026-03-02-captains-log.md",
+      "title": "Pipeline Deep Dive — Application Infrastructure Matures",
+      "date": "2026-03-02",
+      "mood": "focused",
+      "tags": [
+        "infrastructure",
+        "documentation",
+        "feature"
+      ],
+      "word_count": 620,
+      "organs_touched": [
+        "META"
+      ]
+    },
+    {
+      "filename": "2026-03-03-captains-log.md",
+      "title": "Systems Talking to Themselves — Automation, Evaluation, Backups",
+      "date": "2026-03-03",
+      "mood": "routine",
+      "tags": [
+        "infrastructure",
+        "automation",
+        "self-assessment"
+      ],
+      "word_count": 595,
+      "organs_touched": [
+        "META"
       ]
     }
   ]
