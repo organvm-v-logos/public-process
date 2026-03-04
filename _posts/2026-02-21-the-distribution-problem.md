@@ -31,34 +31,34 @@ references:
 
 ## The Silence After Launch
 
-I published 42 essays in two weeks. Built a Jekyll site with Atom feeds, frontmatter validation, and automated data indexing. Pushed it all to GitHub Pages. Set up the RSS. Made everything public.
+I published 42 essays in two weeks. Built a [Jekyll](https://jekyllrb.com/) site with [Atom](https://en.wikipedia.org/wiki/Atom_(web_standard)) feeds, frontmatter validation, and automated data indexing. Pushed it all to [GitHub Pages](https://pages.github.com/). Set up the [RSS](https://en.wikipedia.org/wiki/RSS). Made everything public.
 
 Then I waited.
 
-Nothing happened. Of course nothing happened. The work was public, but "public" doesn't mean "visible." A repository on GitHub is technically accessible to eight billion people. Functionally, it's accessible to zero — unless you tell someone it exists. The internet is not a meritocracy where good work rises to the surface. The internet is a noise floor where everything drowns unless it has amplification. Anil Dash called this "the web we lost" [8] — a shift from discoverable, interlinked content to platform-siloed invisibility.
+Nothing happened. Of course nothing happened. The work was public, but "public" doesn't mean "visible." A repository on GitHub is technically accessible to eight billion people. Functionally, it's accessible to zero — unless you tell someone it exists. The internet is not a meritocracy where good work rises to the surface. The internet is a noise floor where everything drowns unless it has amplification. [Anil Dash](https://anildash.com/) called this ["the web we lost"](https://anildash.com/2012/12/13/the_web_we_lost/) [[8]](#ref-8) — a shift from discoverable, interlinked content to platform-siloed invisibility.
 
 This is the distribution problem, and it's the problem that ORGAN-VII exists to solve.
 
 ## What POSSE Means
 
-POSSE stands for **Publish (on your) Own Site, Syndicate Elsewhere**. It's an [IndieWeb](https://indieweb.org/POSSE) principle [1], articulated by Tantek Çelik and the IndieWeb community [2], not something I invented, but it maps perfectly onto how the ORGANVM system handles distribution.
+[POSSE](https://indieweb.org/POSSE) stands for **Publish (on your) Own Site, Syndicate Elsewhere**. It's an [IndieWeb](https://indieweb.org/POSSE) principle [[1]](#ref-1), articulated by [Tantek Çelik](https://tantek.com/) and the IndieWeb community [[2]](#ref-2), not something I invented, but it maps perfectly onto how the ORGANVM system handles distribution.
 
-The core idea: your canonical content lives on infrastructure you control. In our case, that's the Jekyll site at `public-process`. Every essay, every RSS entry, every data artifact lives there. That's the source of truth. Distribution — to Mastodon, Discord, email, wherever — is syndication from that source. The canonical URL always points home.
+The core idea: your canonical content lives on infrastructure you control. In our case, that's the Jekyll site at [`public-process`](https://github.com/organvm-v-logos/public-process). Every essay, every RSS entry, every data artifact lives there. That's the source of truth. Distribution — to [Mastodon](https://joinmastodon.org/), [Discord](https://discord.com/), email, wherever — is syndication from that source. The canonical URL always points home.
 
-Why this matters: platforms die. Twitter became X and changed the rules. Medium changed its paywall model. Substack will change something eventually. If your canonical content lives on someone else's platform, you're a tenant. Cory Doctorow's analysis of platform "enshittification" [3] describes this precisely: platforms attract users, then extract value from them. POSSE makes you an owner who syndicates copies to tenants' platforms. If Mastodon disappears tomorrow, the essays still exist at their canonical URLs. If Discord shuts down, the announcement history is gone but the content isn't.
+Why this matters: platforms die. Twitter became X and changed the rules. Medium changed its paywall model. Substack will change something eventually. If your canonical content lives on someone else's platform, you're a tenant. [Cory Doctorow](https://craphound.com/)'s analysis of platform "enshittification" [[3]](#ref-3) describes this precisely: platforms attract users, then extract value from them. POSSE makes you an owner who syndicates copies to tenants' platforms. If Mastodon disappears tomorrow, the essays still exist at their canonical URLs. If Discord shuts down, the announcement history is gone but the content isn't.
 
 ORGAN-VII implements POSSE as a pipeline, not a manual process. The architecture has four components:
 
-1. **kerygma-pipeline** — the orchestrator that detects new content and triggers distribution
-2. **social-automation** — platform-specific adapters for Mastodon, Discord, and future channels
-3. **distribution-strategy** — configuration defining what gets distributed where, with what formatting
-4. **announcement-templates** — the actual message templates, parameterized per platform
+1. **[`kerygma-pipeline`](https://github.com/organvm-vii-kerygma/kerygma-pipeline)** — the orchestrator that detects new content and triggers distribution
+2. **[`social-automation`](https://github.com/organvm-vii-kerygma/social-automation)** — platform-specific adapters for Mastodon, Discord, and future channels
+3. **[`distribution-strategy`](https://github.com/organvm-vii-kerygma/distribution-strategy)** — configuration defining what gets distributed where, with what formatting
+4. **[`announcement-templates`](https://github.com/organvm-vii-kerygma/announcement-templates)** — the actual message templates, parameterized per platform
 
 ## How Distribution Actually Works
 
 Here's a concrete example. I publish an essay — say, this one. The essay lands in `public-process/_posts/` as a Markdown file. The CI pipeline validates frontmatter, regenerates the index, and deploys to GitHub Pages. The Jekyll build produces an Atom feed entry.
 
-At this point, the essay is "public." It has a URL. It appears in the RSS feed. And approximately zero people have seen it. Hossein Derakhshan, returning to the web after six years in prison, described discovering that the interlinked web had been replaced by platform streams [9]. The same problem applies here: content outside the streams is functionally invisible.
+At this point, the essay is "public." It has a URL. It appears in the RSS feed. And approximately zero people have seen it. [Hossein Derakhshan](https://en.wikipedia.org/wiki/Hossein_Derakhshan), returning to the web after six years in prison, described discovering that the interlinked web had been replaced by platform streams [[9]](#ref-9). The same problem applies here: content outside the streams is functionally invisible.
 
 The distribution pipeline picks up the new feed entry. It reads the essay's frontmatter — title, excerpt, tags, category — and routes it through the distribution strategy. The strategy says: essays tagged `guide` go to the general Mastodon account with a summary and link. Essays tagged `case-study` get a thread format on Mastodon (excerpt, key findings, link). All essays get posted to the Discord announcements channel.
 
@@ -80,11 +80,11 @@ This is POSSE in practice: one source of truth, multiple syndicated representati
 
 Here's the uncomfortable truth about distribution infrastructure: it's boring. Nobody wants to build it.
 
-Chris Anderson's *The Long Tail* [4] promised that the internet would solve distribution by making niche content findable. Two decades later, that promise holds only for content inside platform algorithms — not for content on independently hosted sites.
+[Chris Anderson](https://en.wikipedia.org/wiki/Chris_Anderson_(writer))'s [*The Long Tail*](https://en.wikipedia.org/wiki/The_Long_Tail_(book)) [[4]](#ref-4) promised that the internet would solve distribution by making niche content findable. Two decades later, that promise holds only for content inside platform algorithms — not for content on independently hosted sites.
 
 Building the essays is exciting. Designing the governance model is intellectually stimulating. Writing the frontmatter schema is satisfying in a "everything has its place" kind of way. But building the pipeline that posts your essay to Mastodon with the right hashtags? That's plumbing. It's unglamorous, it breaks in platform-specific ways, and it has no creative upside. The output is a social media post that gets three likes.
 
-This is why most "building in public" practitioners don't actually have distribution infrastructure. They have a blog, and they manually cross-post to Twitter or Mastodon when they remember, and they write a thread when they feel like it. The distribution is ad hoc, inconsistent, and entirely dependent on the creator's motivation on any given day. Seth Godin's concept of "tribes" [5] — small groups organized around shared interest — suggests that distribution to even a tiny committed audience matters more than broadcast reach.
+This is why most "building in public" practitioners don't actually have distribution infrastructure. They have a blog, and they manually cross-post to Twitter or Mastodon when they remember, and they write a thread when they feel like it. The distribution is ad hoc, inconsistent, and entirely dependent on the creator's motivation on any given day. [Seth Godin](https://seths.blog/)'s concept of "tribes" [[5]](#ref-5) — small groups organized around shared interest — suggests that distribution to even a tiny committed audience matters more than broadcast reach.
 
 ORGAN-VII exists because I recognized this pattern in myself. Left to my own devices, I will build for months and distribute nothing. The distribution muscle atrophies. The work accumulates in private repos and published-but-invisible sites. The megaphone sits unused while the work piles up.
 
@@ -92,9 +92,9 @@ Automation solves this. Not by making distribution creative — it's still plumb
 
 ## The Four Components in Detail
 
-**kerygma-pipeline** is the central orchestrator. "Kerygma" is Greek for proclamation — the public announcement of something significant. The pipeline watches for new content (currently via RSS polling, eventually via webhook) (leveraging standard syndication formats [6][7]) and triggers the distribution workflow. It handles deduplication (don't announce the same essay twice), scheduling (don't flood all channels simultaneously), and error recovery (retry on platform failures).
+**kerygma-pipeline** is the central orchestrator. "Kerygma" is Greek for proclamation — the public announcement of something significant. The pipeline watches for new content (currently via RSS polling, eventually via webhook) (leveraging standard syndication formats [[6]](#ref-6)[[7]](#ref-7)) and triggers the distribution workflow. It handles deduplication (don't announce the same essay twice), scheduling (don't flood all channels simultaneously), and error recovery (retry on platform failures).
 
-**social-automation** contains the platform adapters. Each adapter knows how to authenticate with a platform, format content for that platform's conventions, and post it. The Mastodon adapter handles character limits, hashtag formatting, and content warnings. The Discord adapter handles embed creation, channel routing, and role mentions. Each adapter is independent — you can add a Bluesky adapter without touching the Mastodon code.
+**social-automation** contains the platform adapters. Each adapter knows how to authenticate with a platform, format content for that platform's conventions, and post it. The Mastodon adapter handles character limits, hashtag formatting, and content warnings. The Discord adapter handles embed creation, channel routing, and role mentions. Each adapter is independent — you can add a [Bluesky](https://bsky.app/) adapter without touching the Mastodon code.
 
 **distribution-strategy** is the routing configuration. It maps content attributes (category, tags, relevance level) to distribution channels and formats. A `CRITICAL` relevance essay might get a longer thread format on Mastodon. A `case-study` might get posted to a specific Discord channel. The strategy is declarative — it says what should happen, not how.
 
@@ -115,7 +115,7 @@ As of this writing, the distribution metrics are:
 - Mastodon followers: single digits
 - Discord server members: single digits
 - RSS subscribers: unknown, likely single digits
-- Essay views: unmeasured (GoatCounter is planned but not deployed)
+- Essay views: unmeasured ([GoatCounter](https://www.goatcounter.com/) is planned but not deployed)
 
 These numbers are humbling. Forty-two essays, a validated pipeline, automated governance — and the audience is effectively me and whatever bots crawl GitHub Pages.
 
@@ -127,7 +127,7 @@ The POSSE infrastructure has value independent of current audience size, for the
 
 When (if) the audience grows, the distribution pipeline is already in place. New content gets syndicated automatically. New platforms get added as adapters. The distribution strategy routes content based on attributes, not manual decisions. The system doesn't need me to remember to post.
 
-More importantly, the distribution infrastructure is evidence of **professional practice**. As Mike Monteiro argues, professional practice means taking responsibility for how your work reaches people — not just how it's made [10]. Grant reviewers, residency committees, and potential collaborators can see that the distribution problem was identified, analyzed, and addressed architecturally. They can see that the practitioner thinks about audience, about syndication, about the relationship between creation and distribution. The infrastructure is the argument: this person doesn't just make things. They think about how things reach people.
+More importantly, the distribution infrastructure is evidence of **professional practice**. As [Mike Monteiro](https://monteiro.studio/) argues, professional practice means taking responsibility for how your work reaches people — not just how it's made [[10]](#ref-10). Grant reviewers, residency committees, and potential collaborators can see that the distribution problem was identified, analyzed, and addressed architecturally. They can see that the practitioner thinks about audience, about syndication, about the relationship between creation and distribution. The infrastructure is the argument: this person doesn't just make things. They think about how things reach people.
 
 Whether the things actually reach people yet is a separate question. The infrastructure says they will, eventually, if the audience materializes. And the essays will still be at their canonical URLs either way.
 
