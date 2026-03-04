@@ -1,0 +1,70 @@
+---
+layout: default
+---
+<article class="dissertation-chapter">
+  <div class="dissertation-header">
+    <a href="{{ site.baseurl }}/dissertations/" class="dissertation-back">&larr; Back to dissertation overview</a>
+    <h1>{{ page.title }}</h1>
+    <div class="meta">
+      <span>{{ page.dissertation_title }}</span>
+      {% if page.chapter != nil %}<span>Chapter {{ page.chapter }} of 7</span>{% endif %}
+      <span>{{ page.author }}</span>
+      <span>{{ page.date | date: "%B %d, %Y" }}</span>
+    </div>
+    <div class="meta">
+      {% if page.word_count %}<span>{{ page.word_count | divided_by: 1000.0 | round: 1 }}k words</span>{% endif %}
+      {% if page.reading_time %}<span>{{ page.reading_time }}</span>{% endif %}
+    </div>
+    {% if page.tags.size > 0 %}
+    <div class="meta">
+      {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}" class="tag">{{ tag }}</a>{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+
+  {{ content }}
+
+  {% include references.html %}
+
+  {% if page.related_repos %}
+  <hr>
+  <h3>Related Repositories</h3>
+  <ul>
+    {% for repo in page.related_repos %}
+    <li><a href="https://github.com/{{ repo }}">{{ repo }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% assign dissertation_slug = page.dissertation %}
+  {% assign chapters = site.dissertations | where: "dissertation", dissertation_slug | sort: "chapter" %}
+  {% if chapters.size > 1 %}
+  <nav class="chapter-nav">
+    {% assign current_index = nil %}
+    {% for ch in chapters %}
+      {% if ch.url == page.url %}
+        {% assign current_index = forloop.index0 %}
+      {% endif %}
+    {% endfor %}
+
+    {% if current_index != nil %}
+      {% assign prev_index = current_index | minus: 1 %}
+      {% assign next_index = current_index | plus: 1 %}
+
+      {% if prev_index >= 0 %}
+      <div class="nav-prev">
+        <span class="nav-label">&larr; Previous Chapter</span>
+        <a href="{{ chapters[prev_index].url | relative_url }}">{{ chapters[prev_index].title }}</a>
+      </div>
+      {% endif %}
+
+      {% if next_index < chapters.size %}
+      <div class="nav-next">
+        <span class="nav-label">Next Chapter &rarr;</span>
+        <a href="{{ chapters[next_index].url | relative_url }}">{{ chapters[next_index].title }}</a>
+      </div>
+      {% endif %}
+    {% endif %}
+  </nav>
+  {% endif %}
+</article>

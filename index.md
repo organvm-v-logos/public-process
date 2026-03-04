@@ -25,6 +25,25 @@ Essays about building an eight-organ creative-institutional system. Theory, art,
   </div>
 </div>
 
+## Dissertations
+
+Doctoral-length academic treatments of ORGANVM projects.
+
+{% assign diss_chapters = site.dissertations | where: "dissertation", "precision-pipeline" | sort: "chapter" %}
+{% if diss_chapters.size > 0 %}
+### [Precision Over Volume]({{ site.baseurl }}/dissertations/)
+
+A ~50,000-word doctoral thesis on career application pipeline optimization. {{ diss_chapters.size }} chapters spanning multi-criteria decision analysis, network theory, portfolio optimization, and formal mathematical proofs.
+
+<div class="meta">
+  <span>March 2026</span>
+  <span>~50k words</span>
+  <a href="{{ site.baseurl }}/dissertations/" class="category-badge category-methodology">dissertation</a>
+</div>
+{% endif %}
+
+---
+
 ## Essays
 
 <div class="category-chips">

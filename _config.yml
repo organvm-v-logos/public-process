@@ -24,6 +24,9 @@ collections:
   essays:
     output: true
     permalink: /essays/:title/
+  dissertations:
+    output: true
+    permalink: /dissertations/:path/
   logs:
     output: true
     permalink: /log/:year/:month/:day/
@@ -35,6 +38,10 @@ defaults:
       type: "essays"
     values:
       layout: "essay"
+  - scope:
+      type: "dissertations"
+    values:
+      layout: "dissertation"
   - scope:
       path: "_logs"
       type: "logs"
