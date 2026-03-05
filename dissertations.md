@@ -52,3 +52,49 @@ The theoretical framework integrates six research traditions spanning seven deca
 ### Source Repository
 
 - [4444J99/application-pipeline](https://github.com/4444J99/application-pipeline) --- The production system analyzed in this dissertation
+
+---
+
+## Loss-Averse Commitment Devices with Decentralized Peer Audit
+
+**A Cybernetic Framework for Financially-Staked Behavioral Contracts**
+
+Design, Formalization, and Prototype Evaluation of the Styx Peer-Audited Behavioral Market
+
+**Author:** Anthony James Padavano | **Date:** March 2026 | **Institution:** Humboldt International University
+
+<div class="stat-grid">
+  <div class="stat">
+    <div class="stat-value">8</div>
+    <div class="stat-label">Chapters</div>
+  </div>
+  <div class="stat">
+    <div class="stat-value">~58k</div>
+    <div class="stat-label">Words</div>
+  </div>
+  <div class="stat">
+    <div class="stat-value">7</div>
+    <div class="stat-label">Research Traditions</div>
+  </div>
+  <div class="stat">
+    <div class="stat-value">100</div>
+    <div class="stat-label">References</div>
+  </div>
+</div>
+
+### Abstract
+
+Digital behavioral health applications exhibit a median 15-day retention rate of 3.9%, revealing a structural failure in consequence delivery rather than motivation supply. This dissertation proposes, formalizes, and prototypically implements a peer-audited behavioral market that restores consequence density through three interlocking mechanisms: (1) prospect-theoretic financial stakes calibrated by a loss aversion coefficient of 1.955, (2) a decentralized Fury audit network whose incentive compatibility is proved via mechanism design, and (3) a cybernetic Human Vice Control System that models seven behavioral drive categories as interacting negative-feedback control nodes.
+
+The theoretical framework integrates seven research traditions: prospect theory, mechanism design, control theory, commitment device theory, platform economics, contingency management, and cryptographic audit. Through nine formal theorems and a working prototype with 467+ automated tests, the dissertation demonstrates this architecture satisfies safety, financial integrity, and legal classification constraints.
+
+### Table of Contents
+
+{% assign chapters = site.dissertations | where: "dissertation", "styx-behavioral-market" | sort: "chapter" %}
+{% for chapter in chapters %}
+1. [{{ chapter.title }}]({{ chapter.url | relative_url }}) — {{ chapter.word_count | divided_by: 1000.0 | round: 1 }}k words, {{ chapter.reading_time }}
+{% endfor %}
+
+### Source Repository
+
+- [organvm-iii-ergon/peer-audited--behavioral-blockchain](https://github.com/organvm-iii-ergon/peer-audited--behavioral-blockchain) --- The production prototype analyzed in this dissertation
