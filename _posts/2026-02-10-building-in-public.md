@@ -11,8 +11,8 @@ related_repos:
   - organvm-v-logos/public-process
   - organvm-vi-koinonia/.github
   - organvm-vii-kerygma/.github
-reading_time: "12 min"
-word_count: 3000
+reading_time: "13 min"
+word_count: 3214
 references: []
 ---
 

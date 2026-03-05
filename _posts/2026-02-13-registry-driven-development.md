@@ -12,8 +12,8 @@ related_repos:
   - meta-organvm/organvm-corpvs-testamentvm
   - organvm-v-logos/public-process
   - organvm-i-theoria/system-governance-framework
-reading_time: "22 min"
-word_count: 4800
+reading_time: "19 min"
+word_count: 4845
 references: []
 ---
 

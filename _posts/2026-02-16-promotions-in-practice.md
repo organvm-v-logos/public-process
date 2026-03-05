@@ -10,8 +10,8 @@ portfolio_relevance: "HIGH"
 related_repos:
   - organvm-iv-taxis/orchestration-start-here
   - organvm-iv-taxis/system-governance-framework
-reading_time: "8 min"
-word_count: 2500
+reading_time: "4 min"
+word_count: 1108
 references: []
 ---
 

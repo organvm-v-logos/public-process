@@ -10,8 +10,8 @@ portfolio_relevance: "CRITICAL"
 related_repos:
   - organvm-iv-taxis/orchestration-start-here
   - organvm-v-logos/public-process
-reading_time: "17 min"
-word_count: 4027
+reading_time: "16 min"
+word_count: 4029
 references: []
 ---
 
