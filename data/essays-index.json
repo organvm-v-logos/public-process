@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "updated": "2026-03-04",
+  "updated": "2026-03-05",
   "generated_by": "essay-pipeline indexer v0.3.0",
   "total_essays": 48,
   "total_words": 144796,
@@ -200,6 +200,7 @@
         "community"
       ],
       "word_count": 3214,
+      "readability_score": 65.8,
       "reading_time": "13 min",
       "portfolio_relevance": "HIGH"
     },
@@ -216,6 +217,7 @@
         "creative-practice"
       ],
       "word_count": 5311,
+      "readability_score": 64.8,
       "reading_time": "21 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -232,6 +234,7 @@
         "institutional-design"
       ],
       "word_count": 4288,
+      "readability_score": 65.3,
       "reading_time": "17 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -248,6 +251,7 @@
         "portfolio"
       ],
       "word_count": 5080,
+      "readability_score": 65.5,
       "reading_time": "20 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -265,6 +269,7 @@
         "career-strategy"
       ],
       "word_count": 3556,
+      "readability_score": 64.3,
       "reading_time": "14 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -283,6 +288,7 @@
         "revenue"
       ],
       "word_count": 3541,
+      "readability_score": 63.1,
       "reading_time": "14 min",
       "portfolio_relevance": "HIGH"
     },
@@ -300,6 +306,7 @@
         "workflow"
       ],
       "word_count": 3695,
+      "readability_score": 65.2,
       "reading_time": "15 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -318,6 +325,7 @@
         "portfolio"
       ],
       "word_count": 3601,
+      "readability_score": 67.0,
       "reading_time": "14 min",
       "portfolio_relevance": "HIGH"
     },
@@ -335,6 +343,7 @@
         "residency"
       ],
       "word_count": 3920,
+      "readability_score": 63.0,
       "reading_time": "16 min",
       "portfolio_relevance": "HIGH"
     },
@@ -352,6 +361,7 @@
         "retrospective"
       ],
       "word_count": 3393,
+      "readability_score": 61.4,
       "reading_time": "14 min",
       "portfolio_relevance": "HIGH"
     },
@@ -369,6 +379,7 @@
         "creative-infrastructure"
       ],
       "word_count": 3643,
+      "readability_score": 66.7,
       "reading_time": "15 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -386,6 +397,7 @@
         "methodology"
       ],
       "word_count": 3984,
+      "readability_score": 63.1,
       "reading_time": "16 min",
       "portfolio_relevance": "HIGH"
     },
@@ -403,6 +415,7 @@
         "case-study"
       ],
       "word_count": 3838,
+      "readability_score": 62.1,
       "reading_time": "15 min",
       "portfolio_relevance": "HIGH"
     },
@@ -420,6 +433,7 @@
         "scale"
       ],
       "word_count": 3726,
+      "readability_score": 64.6,
       "reading_time": "15 min",
       "portfolio_relevance": "HIGH"
     },
@@ -437,6 +451,7 @@
         "platinum-sprint"
       ],
       "word_count": 4280,
+      "readability_score": 65.9,
       "reading_time": "17 min",
       "portfolio_relevance": "HIGH"
     },
@@ -454,6 +469,7 @@
         "infrastructure"
       ],
       "word_count": 3548,
+      "readability_score": 65.5,
       "reading_time": "14 min",
       "portfolio_relevance": "HIGH"
     },
@@ -470,6 +486,7 @@
         "infrastructure"
       ],
       "word_count": 4364,
+      "readability_score": 66.3,
       "reading_time": "17 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -486,6 +503,7 @@
         "organ-aesthetic"
       ],
       "word_count": 3180,
+      "readability_score": 63.6,
       "reading_time": "13 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -502,6 +520,7 @@
         "systems-design"
       ],
       "word_count": 2816,
+      "readability_score": 64.7,
       "reading_time": "11 min",
       "portfolio_relevance": "HIGH"
     },
@@ -518,6 +537,7 @@
         "sustainability"
       ],
       "word_count": 3228,
+      "readability_score": 64.5,
       "reading_time": "13 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -534,6 +554,7 @@
         "governance"
       ],
       "word_count": 3225,
+      "readability_score": 62.1,
       "reading_time": "13 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -551,6 +572,7 @@
         "documentation"
       ],
       "word_count": 4029,
+      "readability_score": 67.0,
       "reading_time": "16 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -568,6 +590,7 @@
         "building-in-public"
       ],
       "word_count": 1394,
+      "readability_score": 69.2,
       "reading_time": "6 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -584,6 +607,7 @@
         "ingestion"
       ],
       "word_count": 3184,
+      "readability_score": 63.8,
       "reading_time": "13 min",
       "portfolio_relevance": "HIGH"
     },
@@ -601,6 +625,7 @@
         "json-schema"
       ],
       "word_count": 4845,
+      "readability_score": 63.5,
       "reading_time": "19 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -617,6 +642,7 @@
         "microservices"
       ],
       "word_count": 3276,
+      "readability_score": 65.0,
       "reading_time": "13 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -633,6 +659,7 @@
         "systems-engineering"
       ],
       "word_count": 3834,
+      "readability_score": 66.3,
       "reading_time": "15 min",
       "portfolio_relevance": "HIGH"
     },
@@ -650,6 +677,7 @@
         "automation"
       ],
       "word_count": 4662,
+      "readability_score": 66.6,
       "reading_time": "19 min",
       "portfolio_relevance": "HIGH"
     },
@@ -668,6 +696,7 @@
         "peirce"
       ],
       "word_count": 4003,
+      "readability_score": 62.6,
       "reading_time": "16 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -685,6 +714,7 @@
         "automation"
       ],
       "word_count": 4662,
+      "readability_score": 66.6,
       "reading_time": "19 min",
       "portfolio_relevance": "HIGH"
     },
@@ -702,6 +732,7 @@
         "guide"
       ],
       "word_count": 1678,
+      "readability_score": 65.7,
       "reading_time": "7 min",
       "portfolio_relevance": "HIGH"
     },
@@ -719,6 +750,7 @@
         "guide"
       ],
       "word_count": 1665,
+      "readability_score": 67.8,
       "reading_time": "7 min",
       "portfolio_relevance": "HIGH"
     },
@@ -735,6 +767,7 @@
         "institutional-design"
       ],
       "word_count": 1108,
+      "readability_score": 68.7,
       "reading_time": "4 min",
       "portfolio_relevance": "HIGH"
     },
@@ -753,6 +786,7 @@
         "meta-system"
       ],
       "word_count": 1282,
+      "readability_score": 63.0,
       "reading_time": "5 min",
       "portfolio_relevance": "HIGH"
     },
@@ -770,6 +804,7 @@
         "creative-infrastructure"
       ],
       "word_count": 1221,
+      "readability_score": 65.5,
       "reading_time": "5 min",
       "portfolio_relevance": "HIGH"
     },
@@ -787,6 +822,7 @@
         "creative-practice"
       ],
       "word_count": 1606,
+      "readability_score": 67.5,
       "reading_time": "6 min",
       "portfolio_relevance": "HIGH"
     },
@@ -804,6 +840,7 @@
         "resource-constraints"
       ],
       "word_count": 2556,
+      "readability_score": 68.2,
       "reading_time": "10 min",
       "portfolio_relevance": "HIGH"
     },
@@ -821,6 +858,7 @@
         "honesty"
       ],
       "word_count": 1672,
+      "readability_score": 67.7,
       "reading_time": "7 min",
       "portfolio_relevance": "HIGH"
     },
@@ -839,6 +877,7 @@
         "guide"
       ],
       "word_count": 2045,
+      "readability_score": 67.1,
       "reading_time": "8 min",
       "portfolio_relevance": "HIGH"
     },
@@ -856,6 +895,7 @@
         "governance"
       ],
       "word_count": 1944,
+      "readability_score": 68.8,
       "reading_time": "8 min",
       "portfolio_relevance": "HIGH"
     },
@@ -875,6 +915,7 @@
         "meta-system"
       ],
       "word_count": 2263,
+      "readability_score": 69.2,
       "reading_time": "9 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -893,6 +934,7 @@
         "organ-model"
       ],
       "word_count": 1987,
+      "readability_score": 67.3,
       "reading_time": "8 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -910,6 +952,7 @@
         "guide"
       ],
       "word_count": 1873,
+      "readability_score": 67.6,
       "reading_time": "7 min",
       "portfolio_relevance": "HIGH"
     },
@@ -927,6 +970,7 @@
         "case-study"
       ],
       "word_count": 2019,
+      "readability_score": 66.5,
       "reading_time": "8 min",
       "portfolio_relevance": "HIGH"
     },
@@ -944,6 +988,7 @@
         "editorial-standards"
       ],
       "word_count": 2312,
+      "readability_score": 66.5,
       "reading_time": "9 min",
       "portfolio_relevance": "HIGH"
     },
@@ -962,6 +1007,7 @@
         "honesty"
       ],
       "word_count": 2258,
+      "readability_score": 67.7,
       "reading_time": "9 min",
       "portfolio_relevance": "HIGH"
     },
@@ -980,6 +1026,7 @@
         "mathematical-proofs"
       ],
       "word_count": 185,
+      "readability_score": 59.1,
       "reading_time": "200 min",
       "portfolio_relevance": "CRITICAL"
     },
@@ -998,6 +1045,7 @@
         "operations"
       ],
       "word_count": 1802,
+      "readability_score": 67.4,
       "reading_time": "7 min",
       "portfolio_relevance": "HIGH"
     }

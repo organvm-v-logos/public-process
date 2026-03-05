@@ -319,6 +319,7 @@ The system is live. The process is public. The methodology is documented. What c
 - [Quality Policy](docs/quality-policy.md)
 - [Contributor Runway](docs/contributor-runway.md)
 - [Distribution Instrumentation Standard](docs/distribution-instrumentation.md)
+- [Surfaced Items Data Contract](docs/data-contract-surfaced-items.md)
 
 ---
 
