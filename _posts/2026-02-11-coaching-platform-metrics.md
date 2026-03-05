@@ -11,8 +11,8 @@ related_repos:
   - organvm-iii-ergon/gamified-coach-interface
   - organvm-iii-ergon/classroom-rpg-aetheria
   - organvm-iii-ergon/public-record-data-scrapper
-reading_time: "18 min"
-word_count: 4100
+reading_time: "14 min"
+word_count: 3393
 references: []
 ---
 

@@ -11,8 +11,8 @@ related_repos:
   - organvm-ii-poiesis/example-generative-music
   - organvm-ii-poiesis/metasystem-master
   - organvm-ii-poiesis/audio-synthesis-bridge
-reading_time: "19 min"
-word_count: 4380
+reading_time: "15 min"
+word_count: 3838
 references: []
 ---
 

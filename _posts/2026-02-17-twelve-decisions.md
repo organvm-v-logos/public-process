@@ -12,7 +12,7 @@ related_repos:
   - organvm-iv-taxis/orchestration-start-here
   - organvm-iii-ergon/life-my--midst--in
 reading_time: "8 min"
-word_count: 2000
+word_count: 1944
 references: []
 ---
 

@@ -10,8 +10,8 @@ portfolio_relevance: "HIGH"
 related_repos:
   - organvm-ii-poiesis/metasystem-master
   - organvm-ii-poiesis/a-mavs-olevm
-reading_time: "12 min"
-word_count: 2818
+reading_time: "11 min"
+word_count: 2816
 references: []
 ---
 

@@ -9,7 +9,7 @@ excerpt: "Every creative practitioner accumulates material without structure. Th
 portfolio_relevance: "HIGH"
 related_repos: []
 reading_time: "13 min"
-word_count: 3149
+word_count: 3184
 references: []
 ---
 

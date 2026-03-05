@@ -1,0 +1,55 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+WORKSPACE_ROOT="$(cd "$REPO_ROOT/.." && pwd)"
+CHANGED="$(git diff --cached --name-only)"
+
+if ! printf '%s\n' "$CHANGED" | grep -Eq '^(_posts/|_logs/|_layouts/|_includes/|assets/|data/|_config\.yml|Gemfile|Gemfile\.lock|docs/|index\.md|about\.md|connections\.md|dashboard\.md|reading\.md|dissertations\.md)'; then
+    exit 0
+fi
+
+echo "[pre-commit] public-process checks"
+
+# Validate content and drift when workspace siblings are available.
+if [ -d "$WORKSPACE_ROOT/essay-pipeline/src" ] && [ -d "$WORKSPACE_ROOT/editorial-standards/schemas" ]; then
+    if [ -x "$WORKSPACE_ROOT/essay-pipeline/.venv/bin/python" ]; then
+        PY="$WORKSPACE_ROOT/essay-pipeline/.venv/bin/python"
+    else
+        PY="python3"
+    fi
+
+    (
+        cd "$WORKSPACE_ROOT/essay-pipeline"
+        "$PY" -m src.validator \
+            --posts-dir "$REPO_ROOT/_posts/" \
+            --schema "$WORKSPACE_ROOT/editorial-standards/schemas/frontmatter-schema.yaml"
+        if [ -d "$REPO_ROOT/_logs" ]; then
+            "$PY" -m src.validator \
+                --posts-dir "$REPO_ROOT/_logs/" \
+                --schema "$WORKSPACE_ROOT/editorial-standards/schemas/log-schema.yaml" \
+                --content-type log
+        fi
+        "$PY" -m src.indexer \
+            --posts-dir "$REPO_ROOT/_posts/" \
+            --logs-dir "$REPO_ROOT/_logs/" \
+            --output-dir "$REPO_ROOT/data/"
+    )
+
+    if ! git -C "$REPO_ROOT" diff --quiet -- data/; then
+        echo "[pre-commit] data artifacts changed. Stage updated files in data/ before committing."
+        git -C "$REPO_ROOT" diff --stat -- data/
+        exit 1
+    fi
+else
+    echo "[pre-commit] workspace sibling repos not found; skipping validator/indexer checks"
+fi
+
+# Strict Jekyll build.
+if [ -x "/opt/homebrew/opt/ruby/bin/bundle" ]; then
+    PATH="/opt/homebrew/opt/ruby/bin:$PATH" /opt/homebrew/opt/ruby/bin/bundle exec jekyll build --strict_front_matter --future >/dev/null
+elif command -v bundle >/dev/null 2>&1; then
+    bundle exec jekyll build --strict_front_matter --future >/dev/null
+else
+    echo "[pre-commit] bundler not found; skipping jekyll build"
+fi

@@ -12,8 +12,8 @@ related_repos:
   - organvm-v-logos/essay-pipeline
   - organvm-v-logos/editorial-standards
   - meta-organvm/organvm-corpvs-testamentvm
-reading_time: "10 min"
-word_count: 2300
+reading_time: "9 min"
+word_count: 2258
 references:
   - "[1] Paul Graham, \"[The Age of the Essay](https://paulgraham.com/essay.html),\" paulgraham.com, 2004."
   - "[2] Anne Lamott, [*Bird by Bird: Some Instructions on Writing and Life*](https://en.wikipedia.org/wiki/Bird_by_Bird), Anchor Books, 1994."

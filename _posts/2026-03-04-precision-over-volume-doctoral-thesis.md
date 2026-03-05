@@ -8,9 +8,12 @@ category: "methodology"
 excerpt: "A ~50,000-word doctoral thesis applying multi-criteria decision analysis, social network theory, portfolio optimization, and five other research traditions to the problem of career application pipeline management. Includes formal mathematical proofs of optimality for precision-based strategies over volume-based approaches."
 portfolio_relevance: "CRITICAL"
 related_repos:
-  - 4444J99/application-pipeline
+  - organvm-v-logos/public-process
 reading_time: "200 min"
 word_count: 49969
+references: []
+word_count_policy: external
+word_count_override_reason: "This overview post reports aggregate dissertation chapters rather than only its local summary body."
 ---
 
 # Precision Over Volume: A Doctoral Thesis
