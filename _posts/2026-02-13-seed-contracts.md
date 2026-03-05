@@ -10,8 +10,8 @@ portfolio_relevance: "CRITICAL"
 related_repos:
   - organvm-iv-taxis/orchestration-start-here
   - organvm-i-theoria/recursive-engine--generative-entity
-reading_time: "14 min"
-word_count: 3263
+reading_time: "13 min"
+word_count: 3276
 references: []
 ---
 

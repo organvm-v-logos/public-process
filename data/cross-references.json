@@ -1,7 +1,7 @@
 {
   "version": "1.1",
-  "updated": "2026-03-03",
-  "total": 46,
+  "updated": "2026-03-04",
+  "total": 48,
   "entries": {
     "2026-02-10-building-in-public.md": {
       "title": "Building in Public: Radical Transparency as Creative Methodology",
@@ -784,6 +784,40 @@
         "honesty"
       ],
       "category": "retrospective"
+    },
+    "2026-03-04-precision-over-volume-doctoral-thesis.md": {
+      "title": "Precision Over Volume: A Doctoral Thesis on Career Pipeline Optimization",
+      "related_repos": [
+        "organvm-v-logos/public-process"
+      ],
+      "tags": [
+        "dissertation",
+        "mcda",
+        "career-pipeline",
+        "network-theory",
+        "portfolio-optimization",
+        "precision-hiring",
+        "mathematical-proofs"
+      ],
+      "category": "methodology"
+    },
+    "2026-03-05-the-autonomous-sprint.md": {
+      "title": "The Autonomous Sprint: When the System Maintains Itself",
+      "related_repos": [
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "meta-organvm/organvm-engine",
+        "organvm-v-logos/public-process"
+      ],
+      "tags": [
+        "autonomy",
+        "sprints",
+        "ai-conductor",
+        "security",
+        "accessibility",
+        "governance",
+        "operations"
+      ],
+      "category": "methodology"
     }
   }
 }

@@ -11,8 +11,8 @@ related_repos:
   - organvm-iv-taxis/orchestration-start-here
   - organvm-iv-taxis/agentic-titan
   - organvm-i-theoria/recursive-engine--generative-entity
-reading_time: "15 min"
-word_count: 3200
+reading_time: "7 min"
+word_count: 1665
 references: []
 ---
 

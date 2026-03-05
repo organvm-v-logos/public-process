@@ -11,8 +11,8 @@ related_repos:
   - meta-organvm/organvm-corpvs-testamentvm
   - organvm-iv-taxis/orchestration-start-here
   - organvm-v-logos/public-process
-reading_time: "15 min"
-word_count: 3200
+reading_time: "6 min"
+word_count: 1394
 references: []
 ---
 

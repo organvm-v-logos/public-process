@@ -13,8 +13,8 @@ related_repos:
   - organvm-i-theoria/recursive-engine--generative-entity
   - organvm-iii-ergon/public-record-data-scrapper
   - organvm-ii-poiesis/metasystem-master
-reading_time: "18 min"
-word_count: 4500
+reading_time: "14 min"
+word_count: 3601
 references: []
 ---
 

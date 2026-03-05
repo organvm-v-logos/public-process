@@ -13,8 +13,8 @@ related_repos:
   - organvm-iii-ergon/public-record-data-scrapper
   - organvm-iv-taxis/agentic-titan
   - organvm-v-logos/public-process
-reading_time: "18 min"
-word_count: 4500
+reading_time: "21 min"
+word_count: 5311
 references: []
 ---
 

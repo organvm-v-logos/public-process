@@ -11,8 +11,8 @@ related_repos:
   - organvm-iii-ergon/life-my--midst--in
   - organvm-iv-taxis/orchestration-start-here
   - organvm-iii-ergon/public-record-data-scrapper
-reading_time: "12 min"
-word_count: 2800
+reading_time: "5 min"
+word_count: 1221
 references: []
 ---
 
