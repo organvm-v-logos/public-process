@@ -1,19 +1,19 @@
 {
   "version": "1.1",
-  "updated": "2026-03-03",
+  "updated": "2026-03-04",
   "generated_by": "essay-pipeline indexer v0.3.0",
-  "total_essays": 46,
-  "total_words": 142809,
+  "total_essays": 48,
+  "total_words": 144796,
   "categories": {
     "meta-system": 21,
     "case-study": 8,
+    "methodology": 7,
     "guide": 7,
-    "retrospective": 5,
-    "methodology": 5
+    "retrospective": 5
   },
   "tag_frequency": {
+    "governance": 11,
     "methodology": 10,
-    "governance": 10,
     "creative-practice": 9,
     "infrastructure": 8,
     "building-in-public": 5,
@@ -21,11 +21,11 @@
     "orchestration": 5,
     "meta-system": 5,
     "portfolio": 5,
+    "ai-conductor": 5,
     "documentation": 5,
     "honesty": 5,
     "guide": 5,
     "institutional-design": 4,
-    "ai-conductor": 4,
     "ci-cd": 4,
     "organ-iii": 3,
     "commerce": 3,
@@ -50,6 +50,7 @@
     "quality-engineering": 2,
     "state-machines": 2,
     "systems-thinking": 2,
+    "sprints": 2,
     "beta": 2,
     "shipping": 2,
     "organ-model": 2,
@@ -147,7 +148,6 @@
     "state-machine": 1,
     "promotions": 1,
     "archives": 1,
-    "sprints": 1,
     "product-development": 1,
     "life-my-midst-in": 1,
     "separation-of-concerns": 1,
@@ -173,7 +173,18 @@
     "reading-group": 1,
     "essay-pipeline": 1,
     "editorial-standards": 1,
-    "production": 1
+    "production": 1,
+    "dissertation": 1,
+    "mcda": 1,
+    "career-pipeline": 1,
+    "network-theory": 1,
+    "portfolio-optimization": 1,
+    "precision-hiring": 1,
+    "mathematical-proofs": 1,
+    "autonomy": 1,
+    "security": 1,
+    "accessibility": 1,
+    "operations": 1
   },
   "essays": [
     {
@@ -189,7 +200,7 @@
         "community"
       ],
       "word_count": 3214,
-      "reading_time": "12 min",
+      "reading_time": "13 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -205,7 +216,7 @@
         "creative-practice"
       ],
       "word_count": 5311,
-      "reading_time": "18 min",
+      "reading_time": "21 min",
       "portfolio_relevance": "CRITICAL"
     },
     {
@@ -221,7 +232,7 @@
         "institutional-design"
       ],
       "word_count": 4288,
-      "reading_time": "16 min",
+      "reading_time": "17 min",
       "portfolio_relevance": "CRITICAL"
     },
     {
@@ -272,7 +283,7 @@
         "revenue"
       ],
       "word_count": 3541,
-      "reading_time": "19 min",
+      "reading_time": "14 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -289,7 +300,7 @@
         "workflow"
       ],
       "word_count": 3695,
-      "reading_time": "20 min",
+      "reading_time": "15 min",
       "portfolio_relevance": "CRITICAL"
     },
     {
@@ -307,7 +318,7 @@
         "portfolio"
       ],
       "word_count": 3601,
-      "reading_time": "18 min",
+      "reading_time": "14 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -324,7 +335,7 @@
         "residency"
       ],
       "word_count": 3920,
-      "reading_time": "18 min",
+      "reading_time": "16 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -341,7 +352,7 @@
         "retrospective"
       ],
       "word_count": 3393,
-      "reading_time": "18 min",
+      "reading_time": "14 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -358,7 +369,7 @@
         "creative-infrastructure"
       ],
       "word_count": 3643,
-      "reading_time": "16 min",
+      "reading_time": "15 min",
       "portfolio_relevance": "CRITICAL"
     },
     {
@@ -375,7 +386,7 @@
         "methodology"
       ],
       "word_count": 3984,
-      "reading_time": "19 min",
+      "reading_time": "16 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -392,7 +403,7 @@
         "case-study"
       ],
       "word_count": 3838,
-      "reading_time": "19 min",
+      "reading_time": "15 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -409,7 +420,7 @@
         "scale"
       ],
       "word_count": 3726,
-      "reading_time": "18 min",
+      "reading_time": "15 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -426,7 +437,7 @@
         "platinum-sprint"
       ],
       "word_count": 4280,
-      "reading_time": "18 min",
+      "reading_time": "17 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -443,7 +454,7 @@
         "infrastructure"
       ],
       "word_count": 3548,
-      "reading_time": "18 min",
+      "reading_time": "14 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -459,7 +470,7 @@
         "infrastructure"
       ],
       "word_count": 4364,
-      "reading_time": "18 min",
+      "reading_time": "17 min",
       "portfolio_relevance": "CRITICAL"
     },
     {
@@ -491,7 +502,7 @@
         "systems-design"
       ],
       "word_count": 2816,
-      "reading_time": "12 min",
+      "reading_time": "11 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -540,7 +551,7 @@
         "documentation"
       ],
       "word_count": 4029,
-      "reading_time": "17 min",
+      "reading_time": "16 min",
       "portfolio_relevance": "CRITICAL"
     },
     {
@@ -557,7 +568,7 @@
         "building-in-public"
       ],
       "word_count": 1394,
-      "reading_time": "15 min",
+      "reading_time": "6 min",
       "portfolio_relevance": "CRITICAL"
     },
     {
@@ -590,7 +601,7 @@
         "json-schema"
       ],
       "word_count": 4845,
-      "reading_time": "22 min",
+      "reading_time": "19 min",
       "portfolio_relevance": "CRITICAL"
     },
     {
@@ -606,7 +617,7 @@
         "microservices"
       ],
       "word_count": 3276,
-      "reading_time": "14 min",
+      "reading_time": "13 min",
       "portfolio_relevance": "CRITICAL"
     },
     {
@@ -622,7 +633,7 @@
         "systems-engineering"
       ],
       "word_count": 3834,
-      "reading_time": "16 min",
+      "reading_time": "15 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -639,7 +650,7 @@
         "automation"
       ],
       "word_count": 4662,
-      "reading_time": "20 min",
+      "reading_time": "19 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -674,7 +685,7 @@
         "automation"
       ],
       "word_count": 4662,
-      "reading_time": "20 min",
+      "reading_time": "19 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -691,7 +702,7 @@
         "guide"
       ],
       "word_count": 1678,
-      "reading_time": "14 min",
+      "reading_time": "7 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -708,7 +719,7 @@
         "guide"
       ],
       "word_count": 1665,
-      "reading_time": "15 min",
+      "reading_time": "7 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -724,7 +735,7 @@
         "institutional-design"
       ],
       "word_count": 1108,
-      "reading_time": "8 min",
+      "reading_time": "4 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -742,7 +753,7 @@
         "meta-system"
       ],
       "word_count": 1282,
-      "reading_time": "14 min",
+      "reading_time": "5 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -759,7 +770,7 @@
         "creative-infrastructure"
       ],
       "word_count": 1221,
-      "reading_time": "12 min",
+      "reading_time": "5 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -776,7 +787,7 @@
         "creative-practice"
       ],
       "word_count": 1606,
-      "reading_time": "14 min",
+      "reading_time": "6 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -793,7 +804,7 @@
         "resource-constraints"
       ],
       "word_count": 2556,
-      "reading_time": "11 min",
+      "reading_time": "10 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -810,7 +821,7 @@
         "honesty"
       ],
       "word_count": 1672,
-      "reading_time": "10 min",
+      "reading_time": "7 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -828,7 +839,7 @@
         "guide"
       ],
       "word_count": 2045,
-      "reading_time": "9 min",
+      "reading_time": "8 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -864,7 +875,7 @@
         "meta-system"
       ],
       "word_count": 2263,
-      "reading_time": "12 min",
+      "reading_time": "9 min",
       "portfolio_relevance": "CRITICAL"
     },
     {
@@ -882,7 +893,7 @@
         "organ-model"
       ],
       "word_count": 1987,
-      "reading_time": "12 min",
+      "reading_time": "8 min",
       "portfolio_relevance": "CRITICAL"
     },
     {
@@ -899,7 +910,7 @@
         "guide"
       ],
       "word_count": 1873,
-      "reading_time": "9 min",
+      "reading_time": "7 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -916,7 +927,7 @@
         "case-study"
       ],
       "word_count": 2019,
-      "reading_time": "10 min",
+      "reading_time": "8 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -933,7 +944,7 @@
         "editorial-standards"
       ],
       "word_count": 2312,
-      "reading_time": "10 min",
+      "reading_time": "9 min",
       "portfolio_relevance": "HIGH"
     },
     {
@@ -951,7 +962,43 @@
         "honesty"
       ],
       "word_count": 2258,
-      "reading_time": "10 min",
+      "reading_time": "9 min",
+      "portfolio_relevance": "HIGH"
+    },
+    {
+      "filename": "2026-03-04-precision-over-volume-doctoral-thesis.md",
+      "title": "Precision Over Volume: A Doctoral Thesis on Career Pipeline Optimization",
+      "date": "2026-03-04",
+      "category": "methodology",
+      "tags": [
+        "dissertation",
+        "mcda",
+        "career-pipeline",
+        "network-theory",
+        "portfolio-optimization",
+        "precision-hiring",
+        "mathematical-proofs"
+      ],
+      "word_count": 185,
+      "reading_time": "200 min",
+      "portfolio_relevance": "CRITICAL"
+    },
+    {
+      "filename": "2026-03-05-the-autonomous-sprint.md",
+      "title": "The Autonomous Sprint: When the System Maintains Itself",
+      "date": "2026-03-05",
+      "category": "methodology",
+      "tags": [
+        "autonomy",
+        "sprints",
+        "ai-conductor",
+        "security",
+        "accessibility",
+        "governance",
+        "operations"
+      ],
+      "word_count": 1802,
+      "reading_time": "7 min",
       "portfolio_relevance": "HIGH"
     }
   ]

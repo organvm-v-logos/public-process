@@ -10,8 +10,8 @@ portfolio_relevance: "HIGH"
 related_repos:
   - organvm-i-theoria/my-knowledge-base
   - organvm-i-theoria/linguistic-atomization-framework
-reading_time: "19 min"
-word_count: 4420
+reading_time: "16 min"
+word_count: 3984
 references: []
 ---
 

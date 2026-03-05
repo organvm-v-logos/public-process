@@ -12,8 +12,8 @@ related_repos:
   - organvm-iv-taxis/agentic-titan
   - organvm-i-theoria/recursive-engine--generative-entity
   - organvm-v-logos/public-process
-reading_time: "18 min"
-word_count: 4347
+reading_time: "17 min"
+word_count: 4364
 references: []
 ---
 

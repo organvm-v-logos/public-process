@@ -12,8 +12,8 @@ related_repos:
   - organvm-iv-taxis/orchestration-start-here
   - organvm-i-theoria/recursive-engine--generative-entity
   - organvm-iii-ergon/public-record-data-scrapper
-reading_time: "16 min"
-word_count: 4000
+reading_time: "15 min"
+word_count: 3643
 references: []
 ---
 
