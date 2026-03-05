@@ -15,6 +15,38 @@
   --max-width: 720px;
 }
 
+/* --- Skip Link (WCAG 2.1 AA) --- */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 1rem;
+  background: var(--accent);
+  color: var(--bg);
+  padding: 0.5em 1em;
+  border-radius: 0 0 4px 4px;
+  font-weight: 600;
+  z-index: 1000;
+  text-decoration: none;
+  transition: top 0.15s ease;
+}
+
+.skip-link:focus {
+  top: 0;
+  color: var(--bg);
+}
+
+/* --- Focus Styles (WCAG 2.1 AA) --- */
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
 /* --- Reset --- */
 * {
   margin: 0;
@@ -95,7 +127,7 @@ pre code {
 blockquote {
   border-left: 3px solid var(--accent);
   padding-left: 1em;
-  color: var(--muted);
+  color: #9ea7b1;
   margin: 1em 0;
 }
 
@@ -176,7 +208,7 @@ img {
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 0 1rem;
-  color: var(--muted);
+  color: #9ea7b1;
   font-size: 0.85em;
   text-align: center;
 }
