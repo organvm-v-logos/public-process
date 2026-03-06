@@ -1,0 +1,50 @@
+{
+  "generated": "2026-03-06T00:39:39Z",
+  "since": "2025-07-24",
+  "until": "2025-07-24",
+  "summary": {
+    "total_commits": 5,
+    "repos_active": 1,
+    "files_changed": 7,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "a183adb",
+              "date": "2025-07-24",
+              "message": "GrindrPlus: Disable a bunch of feature flags"
+            },
+            {
+              "hash": "d8a11a8",
+              "date": "2025-07-24",
+              "message": "GrindrPlus: Relocate `isBlockable()` hook"
+            },
+            {
+              "hash": "a64b578",
+              "date": "2025-07-24",
+              "message": "GrindrPlus: Add toggle to control BMI details"
+            },
+            {
+              "hash": "649f9a6",
+              "date": "2025-07-24",
+              "message": "GrindrPlus: Show Android ID on status dialog"
+            },
+            {
+              "hash": "d2d1afd",
+              "date": "2025-07-24",
+              "message": "GrindrPlus: Show warning about UK age verification"
+            }
+          ],
+          "files_changed": 7
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "generated": "2026-03-06T00:39:49Z",
+  "since": "2025-09-30",
+  "until": "2025-09-30",
+  "summary": {
+    "total_commits": 5,
+    "repos_active": 1,
+    "files_changed": 0,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "gemini-cli-blender-extension": {
+          "commits": [
+            {
+              "hash": "8cb6e53",
+              "date": "2025-09-30",
+              "message": "Update gemini-extension.json"
+            },
+            {
+              "hash": "416b0a6",
+              "date": "2025-09-30",
+              "message": "Update gemini-extension.json"
+            },
+            {
+              "hash": "968e30b",
+              "date": "2025-09-30",
+              "message": "Update gemini-extension.json"
+            },
+            {
+              "hash": "0dc15ed",
+              "date": "2025-09-30",
+              "message": "Create gemini-extension.json"
+            },
+            {
+              "hash": "ed50f1c",
+              "date": "2025-09-30",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

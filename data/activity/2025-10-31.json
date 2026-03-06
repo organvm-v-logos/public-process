@@ -1,0 +1,271 @@
+{
+  "generated": "2026-03-06T00:39:37Z",
+  "since": "2025-10-31",
+  "until": "2025-10-31",
+  "summary": {
+    "total_commits": 44,
+    "repos_active": 5,
+    "files_changed": 231,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "1577774",
+              "date": "2025-10-31",
+              "message": "Update checkout action to specific commit hash"
+            },
+            {
+              "hash": "1577774",
+              "date": "2025-10-31",
+              "message": "Update checkout action to specific commit hash"
+            }
+          ],
+          "files_changed": 211
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "a331118",
+              "date": "2025-10-31",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "f66e6aa",
+              "date": "2025-10-31",
+              "message": "Update research_repos.json"
+            },
+            {
+              "hash": "a9cd612",
+              "date": "2025-10-31",
+              "message": "Update dogcal-schedule.md"
+            },
+            {
+              "hash": "acd6606",
+              "date": "2025-10-31",
+              "message": "Update DOC_INDEX.md"
+            },
+            {
+              "hash": "0c27c78",
+              "date": "2025-10-31",
+              "message": "Update ROADMAP.md"
+            },
+            {
+              "hash": "232df76",
+              "date": "2025-10-31",
+              "message": "Remove NEXTday-AI-phase-2-guide.md as it doesn't belong"
+            },
+            {
+              "hash": "bb76f7f",
+              "date": "2025-10-31",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "41bb5b4",
+              "date": "2025-10-31",
+              "message": "Add: Comprehensive project analysis and task roadmap"
+            },
+            {
+              "hash": "aab3fac",
+              "date": "2025-10-31",
+              "message": "Update DISTILLED-dogcal-schedule.md"
+            },
+            {
+              "hash": "a331118",
+              "date": "2025-10-31",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "f66e6aa",
+              "date": "2025-10-31",
+              "message": "Update research_repos.json"
+            },
+            {
+              "hash": "a9cd612",
+              "date": "2025-10-31",
+              "message": "Update dogcal-schedule.md"
+            },
+            {
+              "hash": "acd6606",
+              "date": "2025-10-31",
+              "message": "Update DOC_INDEX.md"
+            },
+            {
+              "hash": "0c27c78",
+              "date": "2025-10-31",
+              "message": "Update ROADMAP.md"
+            },
+            {
+              "hash": "232df76",
+              "date": "2025-10-31",
+              "message": "Remove NEXTday-AI-phase-2-guide.md as it doesn't belong"
+            },
+            {
+              "hash": "bb76f7f",
+              "date": "2025-10-31",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "41bb5b4",
+              "date": "2025-10-31",
+              "message": "Add: Comprehensive project analysis and task roadmap"
+            },
+            {
+              "hash": "aab3fac",
+              "date": "2025-10-31",
+              "message": "Update DISTILLED-dogcal-schedule.md"
+            }
+          ],
+          "files_changed": 7
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "54ed9a6",
+              "date": "2025-10-31",
+              "message": "Use placeholder team names in CODEOWNERS to make customization more obvious"
+            },
+            {
+              "hash": "a6835ad",
+              "date": "2025-10-31",
+              "message": "Update QUICK_START.md"
+            },
+            {
+              "hash": "3e04b8d",
+              "date": "2025-10-31",
+              "message": "Update CODEOWNERS team references to use engineering and docs teams"
+            },
+            {
+              "hash": "fb3e20f",
+              "date": "2025-10-31",
+              "message": "Create PRINCIPLE_CONFLICTS.md file documenting conflict resolution matrix, 7-level priority hierarchy, precedent case studies, and escalation protocols for principle conflicts."
+            },
+            {
+              "hash": "98cf554",
+              "date": "2025-10-31",
+              "message": "Create issue for Annual Principles Audit Process & Checklist"
+            }
+          ],
+          "files_changed": 4
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "9a29fee",
+              "date": "2025-10-31",
+              "message": "Bump typescript from 5.7.3 to 5.9.3"
+            },
+            {
+              "hash": "9ce030e",
+              "date": "2025-10-31",
+              "message": "Bump vite from 6.4.1 to 7.1.12"
+            },
+            {
+              "hash": "4ad06e2",
+              "date": "2025-10-31",
+              "message": "Add comprehensive branch consolidation documentation"
+            },
+            {
+              "hash": "792e8a4",
+              "date": "2025-10-31",
+              "message": "Auto commit before switching to branch spark/iteration-1761417465250"
+            },
+            {
+              "hash": "4ffb050",
+              "date": "2025-10-31",
+              "message": "Fix TypeScript version to correct stable version 5.7.3"
+            },
+            {
+              "hash": "00c79a8",
+              "date": "2025-10-31",
+              "message": "Update all dependencies to latest compatible versions"
+            },
+            {
+              "hash": "6e6381c",
+              "date": "2025-10-31",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "9a29fee",
+              "date": "2025-10-31",
+              "message": "Bump typescript from 5.7.3 to 5.9.3"
+            },
+            {
+              "hash": "9ce030e",
+              "date": "2025-10-31",
+              "message": "Bump vite from 6.4.1 to 7.1.12"
+            },
+            {
+              "hash": "4ad06e2",
+              "date": "2025-10-31",
+              "message": "Add comprehensive branch consolidation documentation"
+            },
+            {
+              "hash": "792e8a4",
+              "date": "2025-10-31",
+              "message": "Auto commit before switching to branch spark/iteration-1761417465250"
+            },
+            {
+              "hash": "4ffb050",
+              "date": "2025-10-31",
+              "message": "Fix TypeScript version to correct stable version 5.7.3"
+            },
+            {
+              "hash": "00c79a8",
+              "date": "2025-10-31",
+              "message": "Update all dependencies to latest compatible versions"
+            },
+            {
+              "hash": "6e6381c",
+              "date": "2025-10-31",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 5
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "54ed9a6",
+              "date": "2025-10-31",
+              "message": "Use placeholder team names in CODEOWNERS to make customization more obvious"
+            },
+            {
+              "hash": "a6835ad",
+              "date": "2025-10-31",
+              "message": "Update QUICK_START.md"
+            },
+            {
+              "hash": "3e04b8d",
+              "date": "2025-10-31",
+              "message": "Update CODEOWNERS team references to use engineering and docs teams"
+            },
+            {
+              "hash": "fb3e20f",
+              "date": "2025-10-31",
+              "message": "Create PRINCIPLE_CONFLICTS.md file documenting conflict resolution matrix, 7-level priority hierarchy, precedent case studies, and escalation protocols for principle conflicts."
+            },
+            {
+              "hash": "98cf554",
+              "date": "2025-10-31",
+              "message": "Create issue for Annual Principles Audit Process & Checklist"
+            }
+          ],
+          "files_changed": 4
+        }
+      }
+    }
+  }
+}

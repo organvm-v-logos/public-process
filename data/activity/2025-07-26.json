@@ -1,0 +1,145 @@
+{
+  "generated": "2026-03-06T00:39:39Z",
+  "since": "2025-07-26",
+  "until": "2025-07-26",
+  "summary": {
+    "total_commits": 23,
+    "repos_active": 2,
+    "files_changed": 17,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "6eb38cc",
+              "date": "2025-07-26",
+              "message": "GrindrPlus: Update module manifest"
+            },
+            {
+              "hash": "3db9db8",
+              "date": "2025-07-26",
+              "message": "GrindrPlus: Bump module version to `4.5.0`"
+            },
+            {
+              "hash": "94adbe9",
+              "date": "2025-07-26",
+              "message": "GrindrPlus: Bring back QuickBlock"
+            },
+            {
+              "hash": "848084c",
+              "date": "2025-07-26",
+              "message": "GrindrPlus: Never paywall chats"
+            },
+            {
+              "hash": "0107d1d",
+              "date": "2025-07-26",
+              "message": "GrindrPlus: Antiblock is back!"
+            },
+            {
+              "hash": "37daa60",
+              "date": "2025-07-26",
+              "message": "GrindrPlus: Add server notification events"
+            },
+            {
+              "hash": "aecf820",
+              "date": "2025-07-26",
+              "message": "GrindrPlus: Fix double initialization(s)"
+            },
+            {
+              "hash": "f5976bb",
+              "date": "2025-07-26",
+              "message": "GrindrPlus: Fix invalid hook name"
+            },
+            {
+              "hash": "ea4d637",
+              "date": "2025-07-26",
+              "message": "GrindrPlus: Fix randomly broken `/tp` command"
+            },
+            {
+              "hash": "fe60f1e",
+              "date": "2025-07-26",
+              "message": "GrindrPlus: Introduce hook to keep WS alive"
+            }
+          ],
+          "files_changed": 16
+        },
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "e4a8f51",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "59330a5",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "42c4f36",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "320d89c",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "b78e21a",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "194098e",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "985f5d3",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "280b33d",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "c272ba1",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "dd954ca",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "3f58b9d",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "6370f32",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "8754384",
+              "date": "2025-07-26",
+              "message": "Update index.html"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

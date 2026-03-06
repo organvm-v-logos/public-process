@@ -1,0 +1,851 @@
+{
+  "generated": "2026-03-06T00:39:42Z",
+  "since": "2026-02-06",
+  "until": "2026-02-06",
+  "summary": {
+    "total_commits": 162,
+    "repos_active": 3,
+    "files_changed": 710,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "6f4b112",
+              "date": "2026-02-06",
+              "message": "docs: add comprehensive feature audit trail"
+            },
+            {
+              "hash": "c7b1ad9",
+              "date": "2026-02-06",
+              "message": "docs: update spec snapshot and manifest to reflect implementation"
+            },
+            {
+              "hash": "c2134ee",
+              "date": "2026-02-06",
+              "message": "feat(web): add e2e navigation/admin tests and blog content"
+            },
+            {
+              "hash": "1a1635c",
+              "date": "2026-02-06",
+              "message": "feat(infra): extract Helm secrets and add backup strategy"
+            },
+            {
+              "hash": "9f2338c",
+              "date": "2026-02-06",
+              "message": "feat(web): add bundle analyzer, web vitals, and CI size check"
+            },
+            {
+              "hash": "f3a8fcd",
+              "date": "2026-02-06",
+              "message": "feat(web): redesign pricing, add public assets, admin settings"
+            },
+            {
+              "hash": "d453851",
+              "date": "2026-02-06",
+              "message": "fix(devops): add healthchecks, fix deploy, update prod compose"
+            },
+            {
+              "hash": "741334b",
+              "date": "2026-02-06",
+              "message": "feat(api): add service status, settings, and feature flags"
+            },
+            {
+              "hash": "d56544e",
+              "date": "2026-02-06",
+              "message": "feat(web): complete Phase 2 medium effort tasks (2.10-2.14)"
+            },
+            {
+              "hash": "03ea675",
+              "date": "2026-02-06",
+              "message": "feat(web): replace mock data with API calls and enhance components"
+            },
+            {
+              "hash": "b76a055",
+              "date": "2026-02-06",
+              "message": "build(web): install and configure Tailwind CSS"
+            },
+            {
+              "hash": "f9a65fc",
+              "date": "2026-02-06",
+              "message": "feat(api): wire narrative routes to real database repos"
+            },
+            {
+              "hash": "aa4cd03",
+              "date": "2026-02-06",
+              "message": "feat(api): enrich seed data with comprehensive personas"
+            },
+            {
+              "hash": "745c9a0",
+              "date": "2026-02-06",
+              "message": "fix(web): make test narrative block types match PersistedNarrativeBlock"
+            },
+            {
+              "hash": "31b80c9",
+              "date": "2026-02-06",
+              "message": "fix(web): resolve final 14 ESLint warnings"
+            },
+            {
+              "hash": "44e65a7",
+              "date": "2026-02-06",
+              "message": "fix(web): eliminate all no-explicit-any warnings"
+            },
+            {
+              "hash": "2a0af42",
+              "date": "2026-02-06",
+              "message": "docs: add ADRs 011-012 to index"
+            },
+            {
+              "hash": "f9eb339",
+              "date": "2026-02-06",
+              "message": "fix(web): resolve floating-promise and formatting lint issues"
+            },
+            {
+              "hash": "4e9150c",
+              "date": "2026-02-06",
+              "message": "build(web): decouple ESLint from Next.js build"
+            },
+            {
+              "hash": "3e64096",
+              "date": "2026-02-06",
+              "message": "chore: remove tracked build artifacts from git index"
+            },
+            {
+              "hash": "59b8dc4",
+              "date": "2026-02-06",
+              "message": "chore: archive stale root-level documents"
+            },
+            {
+              "hash": "b7bf3b0",
+              "date": "2026-02-06",
+              "message": "chore: normalize package metadata and fix flaky test"
+            },
+            {
+              "hash": "763f8f5",
+              "date": "2026-02-06",
+              "message": "docs: add Phase 7 changelog, ADRs 011-012, update security"
+            },
+            {
+              "hash": "64332e7",
+              "date": "2026-02-06",
+              "message": "fix(infra): fix Helm template helpers and add missing values"
+            },
+            {
+              "hash": "f9f0ccb",
+              "date": "2026-02-06",
+              "message": "fix: resolve TS build errors and gitignore tsbuildinfo"
+            },
+            {
+              "hash": "e2d9dba",
+              "date": "2026-02-06",
+              "message": "feat(api): add WebSocket transport for GraphQL subscriptions"
+            },
+            {
+              "hash": "e68a14a",
+              "date": "2026-02-06",
+              "message": "feat(api): implement subscription resolvers + emit from mutations"
+            },
+            {
+              "hash": "ca40ee2",
+              "date": "2026-02-06",
+              "message": "feat(api): add EventEmitter-based PubSub for subscriptions"
+            },
+            {
+              "hash": "1120bce",
+              "date": "2026-02-06",
+              "message": "feat(core): add did:pkh resolver for blockchain addresses"
+            },
+            {
+              "hash": "f29abee",
+              "date": "2026-02-06",
+              "message": "feat(core): add did:jwk resolver"
+            },
+            {
+              "hash": "f920bb5",
+              "date": "2026-02-06",
+              "message": "feat(core): add did:key resolver with multibase encoding"
+            },
+            {
+              "hash": "300be3d",
+              "date": "2026-02-06",
+              "message": "feat(api): improve global auth hook with prefix matching"
+            },
+            {
+              "hash": "0298c1b",
+              "date": "2026-02-06",
+              "message": "feat: add SHA256 checksums + minimatch glob tag filtering"
+            },
+            {
+              "hash": "c3f548d",
+              "date": "2026-02-06",
+              "message": "feat(api): wire GraphQL timeline + narrative resolvers"
+            },
+            {
+              "hash": "a8094f9",
+              "date": "2026-02-06",
+              "message": "feat(api): add admin middleware to taxonomy + remove dev fallbacks"
+            },
+            {
+              "hash": "8fdd744",
+              "date": "2026-02-06",
+              "message": "feat(api): wire ownership middleware to all write routes"
+            },
+            {
+              "hash": "727dd79",
+              "date": "2026-02-06",
+              "message": "feat(api): migrate tests to buildTestApp + add disableAuth"
+            },
+            {
+              "hash": "7451481",
+              "date": "2026-02-06",
+              "message": "feat(api): wire GraphQL endpoint with depth limiting"
+            },
+            {
+              "hash": "c3f5396",
+              "date": "2026-02-06",
+              "message": "feat(core): add did:web resolver and DID API route"
+            },
+            {
+              "hash": "2a5df54",
+              "date": "2026-02-06",
+              "message": "feat(web): add blog with MDX support"
+            },
+            {
+              "hash": "f1732d3",
+              "date": "2026-02-06",
+              "message": "feat(web): add marketing landing page"
+            },
+            {
+              "hash": "441e131",
+              "date": "2026-02-06",
+              "message": "feat(design-system): add 10 new components"
+            },
+            {
+              "hash": "3207081",
+              "date": "2026-02-06",
+              "message": "feat(orchestrator): implement LLM-powered agents"
+            },
+            {
+              "hash": "de84c9c",
+              "date": "2026-02-06",
+              "message": "fix: harden security workflow and patch vulnerabilities"
+            },
+            {
+              "hash": "b33aeb2",
+              "date": "2026-02-06",
+              "message": "feat: add auth middleware, Dockerfiles, CI fixes, and cleanup"
+            },
+            {
+              "hash": "8421d61",
+              "date": "2026-02-06",
+              "message": "feat: add design system, PDF templates, DLQ, and UI polish"
+            },
+            {
+              "hash": "36b873f",
+              "date": "2026-02-06",
+              "message": "feat(infra): add deployment, monitoring, and release automation"
+            },
+            {
+              "hash": "585c136",
+              "date": "2026-02-06",
+              "message": "docs: Add Phase 4 documentation and DX improvements"
+            },
+            {
+              "hash": "d1f3e26",
+              "date": "2026-02-06",
+              "message": "feat: Add testing infrastructure — Playwright E2E, coverage scripts, and integration tests"
+            },
+            {
+              "hash": "6fca1e9",
+              "date": "2026-02-06",
+              "message": "feat: Implement webhook fulfillment and update billing roadmap"
+            },
+            {
+              "hash": "dc5f059",
+              "date": "2026-02-06",
+              "message": "feat: Add persistent DID registry and pgvector semantic search"
+            },
+            {
+              "hash": "d1495ad",
+              "date": "2026-02-06",
+              "message": "docs: Add API route authentication audit"
+            },
+            {
+              "hash": "a0ac4fd",
+              "date": "2026-02-06",
+              "message": "fix: Wire env validation in API and fix lint errors in index.ts"
+            },
+            {
+              "hash": "76596bf",
+              "date": "2026-02-06",
+              "message": "feat: Add Zod env validation for API and web apps"
+            },
+            {
+              "hash": "ee71531",
+              "date": "2026-02-06",
+              "message": "feat: Add husky + lint-staged pre-commit hooks"
+            },
+            {
+              "hash": "e5c0031",
+              "date": "2026-02-06",
+              "message": "feat: Standardize CI/CD workflows to Node 22 + pnpm 10"
+            },
+            {
+              "hash": "ea68ec3",
+              "date": "2026-02-06",
+              "message": "feat: Re-enable TypeScript strict mode in apps/web"
+            },
+            {
+              "hash": "e66a70e",
+              "date": "2026-02-06",
+              "message": "feat: Re-enable TypeScript strict mode in apps/api"
+            },
+            {
+              "hash": "d443c1b",
+              "date": "2026-02-06",
+              "message": "fix: Standardize moduleResolution to bundler across ESM packages"
+            },
+            {
+              "hash": "32b8b01",
+              "date": "2026-02-06",
+              "message": "fix: Upgrade design-system to React 19 peerDependency"
+            },
+            {
+              "hash": "b9a5fec",
+              "date": "2026-02-06",
+              "message": "fix: Split concatenated .gitignore patterns"
+            },
+            {
+              "hash": "25d670c",
+              "date": "2026-02-06",
+              "message": "fix: Use Node crypto for hashing and dynamic imports for ESM modules"
+            },
+            {
+              "hash": "6f4b112",
+              "date": "2026-02-06",
+              "message": "docs: add comprehensive feature audit trail"
+            },
+            {
+              "hash": "c7b1ad9",
+              "date": "2026-02-06",
+              "message": "docs: update spec snapshot and manifest to reflect implementation"
+            },
+            {
+              "hash": "c2134ee",
+              "date": "2026-02-06",
+              "message": "feat(web): add e2e navigation/admin tests and blog content"
+            },
+            {
+              "hash": "1a1635c",
+              "date": "2026-02-06",
+              "message": "feat(infra): extract Helm secrets and add backup strategy"
+            },
+            {
+              "hash": "9f2338c",
+              "date": "2026-02-06",
+              "message": "feat(web): add bundle analyzer, web vitals, and CI size check"
+            },
+            {
+              "hash": "f3a8fcd",
+              "date": "2026-02-06",
+              "message": "feat(web): redesign pricing, add public assets, admin settings"
+            },
+            {
+              "hash": "d453851",
+              "date": "2026-02-06",
+              "message": "fix(devops): add healthchecks, fix deploy, update prod compose"
+            },
+            {
+              "hash": "741334b",
+              "date": "2026-02-06",
+              "message": "feat(api): add service status, settings, and feature flags"
+            },
+            {
+              "hash": "d56544e",
+              "date": "2026-02-06",
+              "message": "feat(web): complete Phase 2 medium effort tasks (2.10-2.14)"
+            },
+            {
+              "hash": "03ea675",
+              "date": "2026-02-06",
+              "message": "feat(web): replace mock data with API calls and enhance components"
+            },
+            {
+              "hash": "b76a055",
+              "date": "2026-02-06",
+              "message": "build(web): install and configure Tailwind CSS"
+            },
+            {
+              "hash": "f9a65fc",
+              "date": "2026-02-06",
+              "message": "feat(api): wire narrative routes to real database repos"
+            },
+            {
+              "hash": "aa4cd03",
+              "date": "2026-02-06",
+              "message": "feat(api): enrich seed data with comprehensive personas"
+            },
+            {
+              "hash": "745c9a0",
+              "date": "2026-02-06",
+              "message": "fix(web): make test narrative block types match PersistedNarrativeBlock"
+            },
+            {
+              "hash": "31b80c9",
+              "date": "2026-02-06",
+              "message": "fix(web): resolve final 14 ESLint warnings"
+            },
+            {
+              "hash": "44e65a7",
+              "date": "2026-02-06",
+              "message": "fix(web): eliminate all no-explicit-any warnings"
+            },
+            {
+              "hash": "2a0af42",
+              "date": "2026-02-06",
+              "message": "docs: add ADRs 011-012 to index"
+            },
+            {
+              "hash": "f9eb339",
+              "date": "2026-02-06",
+              "message": "fix(web): resolve floating-promise and formatting lint issues"
+            },
+            {
+              "hash": "4e9150c",
+              "date": "2026-02-06",
+              "message": "build(web): decouple ESLint from Next.js build"
+            },
+            {
+              "hash": "3e64096",
+              "date": "2026-02-06",
+              "message": "chore: remove tracked build artifacts from git index"
+            },
+            {
+              "hash": "59b8dc4",
+              "date": "2026-02-06",
+              "message": "chore: archive stale root-level documents"
+            },
+            {
+              "hash": "b7bf3b0",
+              "date": "2026-02-06",
+              "message": "chore: normalize package metadata and fix flaky test"
+            },
+            {
+              "hash": "763f8f5",
+              "date": "2026-02-06",
+              "message": "docs: add Phase 7 changelog, ADRs 011-012, update security"
+            },
+            {
+              "hash": "64332e7",
+              "date": "2026-02-06",
+              "message": "fix(infra): fix Helm template helpers and add missing values"
+            },
+            {
+              "hash": "f9f0ccb",
+              "date": "2026-02-06",
+              "message": "fix: resolve TS build errors and gitignore tsbuildinfo"
+            },
+            {
+              "hash": "e2d9dba",
+              "date": "2026-02-06",
+              "message": "feat(api): add WebSocket transport for GraphQL subscriptions"
+            },
+            {
+              "hash": "e68a14a",
+              "date": "2026-02-06",
+              "message": "feat(api): implement subscription resolvers + emit from mutations"
+            },
+            {
+              "hash": "ca40ee2",
+              "date": "2026-02-06",
+              "message": "feat(api): add EventEmitter-based PubSub for subscriptions"
+            },
+            {
+              "hash": "1120bce",
+              "date": "2026-02-06",
+              "message": "feat(core): add did:pkh resolver for blockchain addresses"
+            },
+            {
+              "hash": "f29abee",
+              "date": "2026-02-06",
+              "message": "feat(core): add did:jwk resolver"
+            },
+            {
+              "hash": "f920bb5",
+              "date": "2026-02-06",
+              "message": "feat(core): add did:key resolver with multibase encoding"
+            },
+            {
+              "hash": "300be3d",
+              "date": "2026-02-06",
+              "message": "feat(api): improve global auth hook with prefix matching"
+            },
+            {
+              "hash": "0298c1b",
+              "date": "2026-02-06",
+              "message": "feat: add SHA256 checksums + minimatch glob tag filtering"
+            },
+            {
+              "hash": "c3f548d",
+              "date": "2026-02-06",
+              "message": "feat(api): wire GraphQL timeline + narrative resolvers"
+            },
+            {
+              "hash": "a8094f9",
+              "date": "2026-02-06",
+              "message": "feat(api): add admin middleware to taxonomy + remove dev fallbacks"
+            },
+            {
+              "hash": "8fdd744",
+              "date": "2026-02-06",
+              "message": "feat(api): wire ownership middleware to all write routes"
+            },
+            {
+              "hash": "727dd79",
+              "date": "2026-02-06",
+              "message": "feat(api): migrate tests to buildTestApp + add disableAuth"
+            },
+            {
+              "hash": "7451481",
+              "date": "2026-02-06",
+              "message": "feat(api): wire GraphQL endpoint with depth limiting"
+            },
+            {
+              "hash": "c3f5396",
+              "date": "2026-02-06",
+              "message": "feat(core): add did:web resolver and DID API route"
+            },
+            {
+              "hash": "2a5df54",
+              "date": "2026-02-06",
+              "message": "feat(web): add blog with MDX support"
+            },
+            {
+              "hash": "f1732d3",
+              "date": "2026-02-06",
+              "message": "feat(web): add marketing landing page"
+            },
+            {
+              "hash": "441e131",
+              "date": "2026-02-06",
+              "message": "feat(design-system): add 10 new components"
+            },
+            {
+              "hash": "3207081",
+              "date": "2026-02-06",
+              "message": "feat(orchestrator): implement LLM-powered agents"
+            },
+            {
+              "hash": "de84c9c",
+              "date": "2026-02-06",
+              "message": "fix: harden security workflow and patch vulnerabilities"
+            },
+            {
+              "hash": "b33aeb2",
+              "date": "2026-02-06",
+              "message": "feat: add auth middleware, Dockerfiles, CI fixes, and cleanup"
+            },
+            {
+              "hash": "8421d61",
+              "date": "2026-02-06",
+              "message": "feat: add design system, PDF templates, DLQ, and UI polish"
+            },
+            {
+              "hash": "36b873f",
+              "date": "2026-02-06",
+              "message": "feat(infra): add deployment, monitoring, and release automation"
+            },
+            {
+              "hash": "585c136",
+              "date": "2026-02-06",
+              "message": "docs: Add Phase 4 documentation and DX improvements"
+            },
+            {
+              "hash": "d1f3e26",
+              "date": "2026-02-06",
+              "message": "feat: Add testing infrastructure — Playwright E2E, coverage scripts, and integration tests"
+            },
+            {
+              "hash": "6fca1e9",
+              "date": "2026-02-06",
+              "message": "feat: Implement webhook fulfillment and update billing roadmap"
+            },
+            {
+              "hash": "dc5f059",
+              "date": "2026-02-06",
+              "message": "feat: Add persistent DID registry and pgvector semantic search"
+            },
+            {
+              "hash": "d1495ad",
+              "date": "2026-02-06",
+              "message": "docs: Add API route authentication audit"
+            },
+            {
+              "hash": "a0ac4fd",
+              "date": "2026-02-06",
+              "message": "fix: Wire env validation in API and fix lint errors in index.ts"
+            },
+            {
+              "hash": "76596bf",
+              "date": "2026-02-06",
+              "message": "feat: Add Zod env validation for API and web apps"
+            },
+            {
+              "hash": "ee71531",
+              "date": "2026-02-06",
+              "message": "feat: Add husky + lint-staged pre-commit hooks"
+            },
+            {
+              "hash": "e5c0031",
+              "date": "2026-02-06",
+              "message": "feat: Standardize CI/CD workflows to Node 22 + pnpm 10"
+            },
+            {
+              "hash": "ea68ec3",
+              "date": "2026-02-06",
+              "message": "feat: Re-enable TypeScript strict mode in apps/web"
+            },
+            {
+              "hash": "e66a70e",
+              "date": "2026-02-06",
+              "message": "feat: Re-enable TypeScript strict mode in apps/api"
+            },
+            {
+              "hash": "d443c1b",
+              "date": "2026-02-06",
+              "message": "fix: Standardize moduleResolution to bundler across ESM packages"
+            },
+            {
+              "hash": "32b8b01",
+              "date": "2026-02-06",
+              "message": "fix: Upgrade design-system to React 19 peerDependency"
+            },
+            {
+              "hash": "b9a5fec",
+              "date": "2026-02-06",
+              "message": "fix: Split concatenated .gitignore patterns"
+            },
+            {
+              "hash": "25d670c",
+              "date": "2026-02-06",
+              "message": "fix: Use Node crypto for hashing and dynamic imports for ESM modules"
+            }
+          ],
+          "files_changed": 372
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "a-i--skills": {
+          "commits": [
+            {
+              "hash": "18992e9",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Release v1.2.0    2 │    3 │ - Add missing shebangs to 10 standalone CLI scripts (specstory-guard, pdf)    4 │ - Fix health check false positives for __init__.py and test files    5 │ - Add Fixed section to CHANGELOG documenting all v1.2.0 bugfixes    6 │ - Bump version 1.1.1 → 1.2.0 in marketplace and Gemini extensions    7 │ - Regenerate .build/    8 │    9 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "566ff2f",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix skill count discrepancies in CATEGORIES.md    2 │    3 │ - Development > Frontend: remove canvas-design and three-js-interactive-builder    4 │   (they live in skills/creative/, already listed under Creative). 5 → 3,    5 │   making subcategory sum match the section header of 26.    6 │ - Documentation: change 7 → 4, remove document-skills entries (separate    7 │   collection, not under skills/documentation/). Add \"See also\" note.    8 │    9 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "4cc3ea7",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Revert development skill count to 26 in CLAUDE.md    2 │    3 │ The previous commit incorrectly changed this to 27. There are 26    4 │ skill directories under skills/development/.    5 │    6 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "d9ccd3f",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Update development skill count to 27 in CLAUDE.md    2 │    3 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "41fd844",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Remove volatile fields from lockfile and registry for CI stability    2 │    3 │ The generated_at timestamp and git_commit hash in skills-lock.json and    4 │ skills-registry.json cause CI freshness checks to always fail since    5 │ regeneration produces different values. Remove these non-functional    6 │ metadata fields so `refresh + git diff --exit-code` works reliably.    7 │    8 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "ba0851c",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix all broken references and enable --check-links in CI    2 │    3 │ Add 28 missing reference files across 16 skills:    4 │ - Development: aria-patterns, testing-tools, openapi-template, sdk-patterns,    5 │   github-actions-recipes, docker-patterns, monitoring-setup, deployment-checklist,    6 │   performance-patterns, testing-patterns, vitest-patterns, playwright-patterns,    7 │   mock-examples    8 │ - Creative: plugin-chains, daw-shortcuts, genre-conventions, shader-patterns,    9 │   patch-diagrams   10 │ - Professional: tools-stack, proposal-template, boilerplate-library,   11 │   follow-up-templates, linkedin-scripts, slide-templates   12 │ - Other: chain-comparison, peer-review-protocols, license-guide, github-actions   13 │   14 │ Fix false positives in link checker:   15 │ - Strip fenced code blocks before scanning for markdown links   16 │   (fixes recursive-systems-architect Python dict['key'](arg) pattern)   17 │ - Change skill-creator example filenames from backtick to italic formatting   18 │   19 │ Fix SKILL.md reference mismatches:   20 │ - content-distribution: content-calendar.md → content-calendar-template.md   21 │ - github-repo-curator: wrap badge template in 4-backtick fence, fix LICENSE link   22 │   23 │ Enable --check-links in CI validation workflow. Regenerate .build/.   24 │   25 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "cc10c2b",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix MCP server cache staleness with mtime-based invalidation    2 │    3 │ Add _cache_mtime tracking alongside _skills_cache. On each    4 │ _load_skills() call, compare REGISTRY_PATH.stat().st_mtime against    5 │ the cached mtime and invalidate when the registry file changes.    6 │    7 │ CI already has --check-links enabled (from commit 3).    8 │    9 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "914dfab",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Extract shared frontmatter library into scripts/skill_lib.py    2 │    3 │ New module provides:    4 │ - find_skill_dirs() — shared by 4 scripts    5 │ - extract_frontmatter() — lenient variant (returns empty dict on error)    6 │ - extract_frontmatter_strict() — raises ValueError on malformed input    7 │ - parse_list_field() — shared by 4 scripts    8 │    9 │ Updated importers:   10 │ - validate_skills.py (strict + parse_list_field + find_skill_dirs)   11 │ - generate_registry.py (lenient + parse_list_field + find_skill_dirs)   12 │ - generate_lockfile.py (find_skill_dirs)   13 │ - mcp-skill-server.py (lenient + parse_list_field)   14 │ - pr_validation_report.py (strict + parse_list_field)   15 │   16 │ Behavioral no-op — all validation passes identically.   17 │   18 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "63c84a5",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Harden release script with input validation    2 │    3 │ - Add semver format validation (must match X.Y.Z)    4 │ - Add shutil.which(\"gh\") check before attempting GitHub release    5 │    6 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "15243c0",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Improve lockfile to hash full skill directories    2 │    3 │ Replace _sha256(SKILL.md) with _sha256_tree(skill_dir) that hashes    4 │ ALL files in the skill directory (SKILL.md + references/ + assets/ +    5 │ scripts/), using sorted relative paths for determinism.    6 │    7 │ Bump lockfile version 1.1 → 1.2. Regenerate .build/.    8 │    9 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "1557e2f",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Consolidate duplicate CI workflows into single validate workflow    2 │    3 │ - Delete redundant .github/workflows/validate.yml    4 │ - Rewrite validate-skills.yml to merge all checks:    5 │   - Frontmatter validation with --check-links    6 │   - Generated file freshness (refresh + git diff --exit-code)    7 │   - Generated bundle validation    8 │   - Directory structure checks (from old validate.yml)    9 │   - Secret detection with proper error handling (exit 1 on match)   10 │ - Add branches: [main] filter, timeout-minutes: 10, fetch-depth: 0   11 │ - Remove unnecessary pip install pyyaml   12 │   13 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "398c520",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix validation script bugs    2 │    3 │ validate_skills.py:    4 │ - Promote complements cross-reference from WARNING to ERROR (matches includes)    5 │ - Add missing license field validation (was documented but not enforced)    6 │ - Enforce triggers for core non-bundle skills (bundles are exempt)    7 │    8 │ validate_generated_dirs.py:    9 │ - Add lockfile skill count cross-check against collection lists   10 │   11 │ core-vs-community.md:   12 │ - Document bundle exemption from triggers requirement   13 │   14 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "77c4013",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix documentation count mismatches    2 │    3 │ CLAUDE.md: development 27→26, knowledge 5→6, tools 3→6    4 │ CATEGORIES.md: total 99→101, development 25→26, tools 3→4, security 5→6    5 │ Add missing skills: iterative-code-exploration, fullstack-starter-pack, security-essentials-pack    6 │ Remove non-existent template-skill from Beginner-Friendly list    7 │    8 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "f89ca79",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add ecosystem-grade features: semantic fields, federation, registry, and tooling    2 │    3 │ Phase 1 - Schema Extension:    4 │ - 7 new optional frontmatter fields (inputs, outputs, side_effects, triggers,    5 │   complements, includes, tier) with validation    6 │ - Federation schema spec (docs/api/federation-schema.md) for third-party repos    7 │ - Activation conditions spec (docs/api/activation-conditions.md) with 5 trigger types    8 │ - 5 exemplar skills updated with new semantic fields    9 │   10 │ Phase 2 - Registry & Bundles:   11 │ - Machine-readable skills registry (scripts/generate_registry.py)   12 │ - MCP skill server with 7 tools (scripts/mcp-skill-server.py)   13 │ - Skill bundles: fullstack-starter-pack and security-essentials-pack   14 │ - Skill count: 99 → 101   15 │   16 │ Phase 3 - PR Validation & Health Checks:   17 │ - PR validation bot (.github/workflows/pr-comment.yml)   18 │ - Skill health check script and /skill-health command   19 │   20 │ Phase 4 - Overrides & Lockfile:   21 │ - Skill override system via SKILLS_CUSTOM_DIR   22 │ - Lockfile for reproducibility (scripts/generate_lockfile.py)   23 │   24 │ Phase 5 - Quality Tiers:   25 │ - Core vs community tier system with stricter core validation   26 │ - Tier list generation in refresh script   27 │   28 │ Phase 6 - Planner & Documentation:   29 │ - Skill planner agent for AI-driven skill composition   30 │ - /plan-workflow command for generating skill chains   31 │ - Updated all documentation (CONTRIBUTING, ROADMAP, CHANGELOG, CLAUDE.md, etc.)   32 │   33 │ Also adds .gitattributes to disable LFS for this repo (binaries are small   34 │ enough to store directly; global LFS config was causing push failures).   35 │   36 │ Regenerated all bundles (.build/)   37 │   38 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 277
+        },
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "441e1ac",
+              "date": "2026-02-06",
+              "message": "Update system-notes manifest to reference archived guide paths"
+            },
+            {
+              "hash": "ce91840",
+              "date": "2026-02-06",
+              "message": "Complete ~/System cleanup: fix stale doc reference, remove disabled plists"
+            },
+            {
+              "hash": "726474b",
+              "date": "2026-02-06",
+              "message": "Add .serena/ to gitignore"
+            },
+            {
+              "hash": "26836e5",
+              "date": "2026-02-06",
+              "message": "Add .serena/ to chezmoiignore"
+            },
+            {
+              "hash": "e0b09b7",
+              "date": "2026-02-06",
+              "message": "Add Clouds-Other and google-cloud-sdk to home-guard allowlist"
+            },
+            {
+              "hash": "6fda2af",
+              "date": "2026-02-06",
+              "message": "Add Dotfiles to home-guard allowlist"
+            },
+            {
+              "hash": "609a313",
+              "date": "2026-02-06",
+              "message": "Migrate remaining ~/System deps into chezmoi management"
+            },
+            {
+              "hash": "ed19764",
+              "date": "2026-02-06",
+              "message": "Fix naming-maintenance dry-run passing --apply to inner scripts"
+            },
+            {
+              "hash": "c9c3e98",
+              "date": "2026-02-06",
+              "message": "Add dotfiles, Finance, Legal, Projects to home-guard allowlist"
+            },
+            {
+              "hash": "dd50dc7",
+              "date": "2026-02-06",
+              "message": "Add normalize-names and photo-sort tools"
+            },
+            {
+              "hash": "227cc14",
+              "date": "2026-02-06",
+              "message": "Integrate ~/System automation into chezmoi-managed dotfiles"
+            },
+            {
+              "hash": "d0a751f",
+              "date": "2026-02-06",
+              "message": "Add convenience abbreviations and aliases to fish config"
+            },
+            {
+              "hash": "8262496",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix status line git info not rendering    2 │    3 │ Strip ANSI escape codes from statusline-command.sh — Claude Code's    4 │ status line doesn't render them, making git branch/status invisible.    5 │ Also guard grep -c with || true to prevent set -e exit on zero matches.    6 │    7 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "48e277b",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add cmdf alias for filtered chezmoi diff    2 │    3 │ Strips run_after chezmoiscript hunks from chezmoi diff output,    4 │ showing only actual file content changes. Added to both zsh and fish.    5 │    6 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "2ed2ce6",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix cargo symlink conflict, fish env gaps, and unicode drift    2 │    3 │ - Move cargo config to XDG source path (same pattern as    4 │   cursor/docker/gemini/continue) so chezmoi writes to the symlink    5 │   target instead of creating a conflicting real ~/.cargo/ directory    6 │ - Add missing env vars to fish config: MACHINE_STORAGE_PATH,    7 │   NPM_CONFIG_USERCONFIG, PROJECTS_DIR, FILE_CONTEXT_DIR    8 │ - Add Python Homebrew path to fish PATH section    9 │ - Use ensure_ascii=False in claude.json modify script to preserve   10 │   Unicode characters and eliminate cosmetic diff on chezmoi apply   11 │   12 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "3aa59c5",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Move docker, gemini, continue configs to XDG source paths    2 │    3 │ Same fix as cursor: chezmoi was writing these as real ~/.<app>    4 │ directories, conflicting with the XDG symlinks. Move sources to    5 │ dot_local/share/ so chezmoi writes to the symlink targets directly.    6 │    7 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "7d0fee4",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Move Cursor mcp.json to XDG source path to fix symlink conflict    2 │    3 │ Chezmoi was writing ~/.cursor/mcp.json as a real directory, which    4 │ conflicted with the XDG symlink (~/.cursor → ~/.local/share/cursor).    5 │ Move the source from private_dot_cursor/ to dot_local/share/private_cursor/    6 │ so chezmoi writes directly to the XDG target.    7 │    8 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "82b2a97",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add actionlint to manifest and Cargo bin to PATH    2 │    3 │ - Add actionlint to homebrew formulae so domus packages tracks it    4 │ - Add $CARGO_HOME/bin to PATH in zsh (10-path.zsh) and fish    5 │   (config.fish.tmpl) so rustup-managed binaries are discoverable    6 │    7 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "ebb4fa2",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix cleanup script to sort metasystem-core docs to their repo    2 │    3 │ The PHASE_*.md, FIXES_COMPLETED.md, and MIGRATION_LOG.md files are    4 │ metasystem-core project documentation, not disposable session artifacts.    5 │ Sort them to ~/Workspace/metasystem-core/ instead of trashing them.    6 │ Remove 6 already-gone files from the script.    7 │    8 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "a2f0b69",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix rsync failure on Dropbox ephemeral files during symlink migration    2 │    3 │ Dropbox creates transient log files that vanish mid-copy, causing    4 │ rsync exit code 23. Add --ignore-errors and || true so the merge    5 │ step completes even when individual files disappear.    6 │    7 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "c7a23aa",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Declutter home directory: XDG env vars, symlinks, and cleanup    2 │    3 │ Environment variables (eliminate ~/.<app> entirely):    4 │ - Add GNUPGHOME, NVM_DIR, BUN_INSTALL, IPYTHONDIR,    5 │   JUPYTER_CONFIG_DIR, JUPYTER_DATA_DIR, TF_DATA_DIR    6 │   to both zsh and fish configs    7 │    8 │ Symlink expansion (22 new apps → ~/.local/share/):    9 │ - anaconda, bundle, conda, continue, cursor, docker, dropbox,   10 │   expo, fx, gemini, github, gsutil, kube, minikube, npm,   11 │   playwright-mcp, semgrep, serena, titan, tmux, tooluniverse, venvs   12 │   13 │ One-time migrations:   14 │ - Migrate .cargo, .rustup, .gnupg, .nvm, .bun, .ipython,   15 │   .jupyter, .terraform.d to XDG locations   16 │ - Trash AI session artifacts (PHASE_*.md etc.), orphaned npm   17 │   files, stale VS Code tunnel plist   18 │ - Move stray docs to ~/Documents, stray projects to ~/Workspace   19 │ - Remove .gitignore_global and .viminfo via .chezmoiremove   20 │   21 │ Directory pre-creation:   22 │ - Add gnupg (mode 700), nvm, bun, ipython, jupyter, terraform   23 │   to setup-directories script   24 │   25 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "65ce099",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add $ZDOTDIR/.zshenv to fix session restore on exec zsh    2 │    3 │ When ZDOTDIR is inherited from the parent shell (e.g. exec zsh),    4 │ zsh reads $ZDOTDIR/.zshenv instead of ~/.zshenv, skipping the    5 │ SHELL_SESSIONS_DISABLE export. The new file re-sources ~/.zshenv    6 │ so all early env vars are set regardless of how the shell starts.    7 │    8 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "a961014",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix post-XDG issues: session restore, skills path, Claude Desktop config    2 │    3 │ - Disable macOS Terminal session restore (SHELL_SESSIONS_DISABLE=1) to    4 │   prevent /etc/zshrc_Apple_Terminal from overriding HISTFILE    5 │ - Fix ai-skills path in sync and link scripts to ~/Workspace/a-i--skills    6 │ - Reformat Claude Desktop config args to one-per-line matching runtime    7 │   formatter, add sidebarMode preference to eliminate spurious diffs    8 │    9 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "e915bd2",
+              "date": "2026-02-06",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Implement XDG compliance and reduce home directory clutter    2 │    3 │ ZDOTDIR migration:    4 │ - Create ~/.zshenv as single zsh file in $HOME (sets XDG vars + ZDOTDIR)    5 │ - Move .zshrc/.zprofile into ~/.config/zsh/ via ZDOTDIR    6 │ - Migrate zsh history to ~/.local/state/zsh/history    7 │ - Add .chezmoiremove to delete old home root files on apply    8 │    9 │ XDG env var shims:   10 │ - Add KUBECONFIG, NPM_CONFIG_CACHE, CLOUDSDK_CONFIG, CURL_HOME,   11 │   INPUTRC, LESSKEYIN, GOMODCACHE to zsh and fish configs   12 │ - Migrate GOPATH from ~/go to ~/.local/share/go   13 │ - Move curlrc, inputrc, lesskey, npmrc to ~/.config/ subdirs   14 │   15 │ Symlink management:   16 │ - Add run_after script to maintain 25 app symlinks   17 │   (~/.<app> → ~/.local/share/<app>) on every chezmoi apply   18 │   19 │ Cleanup:   20 │ - One-time removal of stale conda artifacts, old backups,   21 │   superseded files, and migrated zsh files   22 │ - Add new XDG dirs to setup-directories script   23 │   24 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 61
+        }
+      }
+    }
+  }
+}

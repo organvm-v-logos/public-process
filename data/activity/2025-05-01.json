@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-05-01",
+  "until": "2025-05-01",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 4,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "f41127a",
+              "date": "2025-05-01",
+              "message": "GrindrPlus: Add proper attribution to the original project"
+            },
+            {
+              "hash": "6b85902",
+              "date": "2025-05-01",
+              "message": "GrindrPlus: Fix cast exceptions in `Config.get()`"
+            }
+          ],
+          "files_changed": 4
+        }
+      }
+    }
+  }
+}

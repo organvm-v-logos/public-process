@@ -1,0 +1,315 @@
+{
+  "generated": "2026-03-06T00:39:41Z",
+  "since": "2025-11-08",
+  "until": "2025-11-08",
+  "summary": {
+    "total_commits": 56,
+    "repos_active": 3,
+    "files_changed": 40,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "861bcf2",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "9a70e40",
+              "date": "2025-11-08",
+              "message": "Update .github/SUPPORT.md"
+            },
+            {
+              "hash": "ff4a0d9",
+              "date": "2025-11-08",
+              "message": "Update .github/SUPPORT.md"
+            },
+            {
+              "hash": "8313da6",
+              "date": "2025-11-08",
+              "message": "Update .github/SUPPORT.md"
+            },
+            {
+              "hash": "fcca918",
+              "date": "2025-11-08",
+              "message": "Update .github/PULL_REQUEST_TEMPLATE.md"
+            },
+            {
+              "hash": "5e54aed",
+              "date": "2025-11-08",
+              "message": "Update .github/SUPPORT.md"
+            },
+            {
+              "hash": "56307c7",
+              "date": "2025-11-08",
+              "message": "Update .github/SUPPORT.md"
+            },
+            {
+              "hash": "b3c8ae9",
+              "date": "2025-11-08",
+              "message": "Update .github/workflows/release-drafter.yml"
+            },
+            {
+              "hash": "137a807",
+              "date": "2025-11-08",
+              "message": "Apply suggestions from code review"
+            },
+            {
+              "hash": "bb069aa",
+              "date": "2025-11-08",
+              "message": "Update .github/PULL_REQUEST_TEMPLATE.md"
+            },
+            {
+              "hash": "007efa6",
+              "date": "2025-11-08",
+              "message": "Update .github/PULL_REQUEST_TEMPLATE.md"
+            },
+            {
+              "hash": "a66f156",
+              "date": "2025-11-08",
+              "message": "Update .github/PULL_REQUEST_TEMPLATE.md"
+            },
+            {
+              "hash": "0fdda69",
+              "date": "2025-11-08",
+              "message": "Update .github/workflows/release-drafter.yml"
+            },
+            {
+              "hash": "f7a5ce4",
+              "date": "2025-11-08",
+              "message": "Add visual storytelling interface for non-technical users"
+            },
+            {
+              "hash": "a225bfd",
+              "date": "2025-11-08",
+              "message": "Add advanced GitHub workflows and comprehensive organization documentation"
+            },
+            {
+              "hash": "5270c78",
+              "date": "2025-11-08",
+              "message": "Add comprehensive GitHub organization features and governance"
+            },
+            {
+              "hash": "8460046",
+              "date": "2025-11-08",
+              "message": "Expand social hub with location-based discovery, AR gameplay, virtual pets, care sharing, and memorials"
+            },
+            {
+              "hash": "cd80425",
+              "date": "2025-11-08",
+              "message": "Expand social hub with location-based discovery, AR gameplay, virtual pets, care sharing, and memorials"
+            },
+            {
+              "hash": "56304aa",
+              "date": "2025-11-08",
+              "message": "Build comprehensive pet social hub with Pokemon GO-style mechanics"
+            },
+            {
+              "hash": "d1f2ff7",
+              "date": "2025-11-08",
+              "message": "Refactor data utilities for pet social health hub"
+            },
+            {
+              "hash": "31894d7",
+              "date": "2025-11-08",
+              "message": "Add initial social hub data utilities (WIP - refactoring to pet theme)"
+            },
+            {
+              "hash": "861bcf2",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "9a70e40",
+              "date": "2025-11-08",
+              "message": "Update .github/SUPPORT.md"
+            },
+            {
+              "hash": "ff4a0d9",
+              "date": "2025-11-08",
+              "message": "Update .github/SUPPORT.md"
+            },
+            {
+              "hash": "8313da6",
+              "date": "2025-11-08",
+              "message": "Update .github/SUPPORT.md"
+            },
+            {
+              "hash": "fcca918",
+              "date": "2025-11-08",
+              "message": "Update .github/PULL_REQUEST_TEMPLATE.md"
+            },
+            {
+              "hash": "5e54aed",
+              "date": "2025-11-08",
+              "message": "Update .github/SUPPORT.md"
+            },
+            {
+              "hash": "56307c7",
+              "date": "2025-11-08",
+              "message": "Update .github/SUPPORT.md"
+            },
+            {
+              "hash": "b3c8ae9",
+              "date": "2025-11-08",
+              "message": "Update .github/workflows/release-drafter.yml"
+            },
+            {
+              "hash": "137a807",
+              "date": "2025-11-08",
+              "message": "Apply suggestions from code review"
+            },
+            {
+              "hash": "bb069aa",
+              "date": "2025-11-08",
+              "message": "Update .github/PULL_REQUEST_TEMPLATE.md"
+            },
+            {
+              "hash": "007efa6",
+              "date": "2025-11-08",
+              "message": "Update .github/PULL_REQUEST_TEMPLATE.md"
+            },
+            {
+              "hash": "a66f156",
+              "date": "2025-11-08",
+              "message": "Update .github/PULL_REQUEST_TEMPLATE.md"
+            },
+            {
+              "hash": "0fdda69",
+              "date": "2025-11-08",
+              "message": "Update .github/workflows/release-drafter.yml"
+            },
+            {
+              "hash": "f7a5ce4",
+              "date": "2025-11-08",
+              "message": "Add visual storytelling interface for non-technical users"
+            },
+            {
+              "hash": "a225bfd",
+              "date": "2025-11-08",
+              "message": "Add advanced GitHub workflows and comprehensive organization documentation"
+            },
+            {
+              "hash": "5270c78",
+              "date": "2025-11-08",
+              "message": "Add comprehensive GitHub organization features and governance"
+            },
+            {
+              "hash": "8460046",
+              "date": "2025-11-08",
+              "message": "Expand social hub with location-based discovery, AR gameplay, virtual pets, care sharing, and memorials"
+            },
+            {
+              "hash": "cd80425",
+              "date": "2025-11-08",
+              "message": "Expand social hub with location-based discovery, AR gameplay, virtual pets, care sharing, and memorials"
+            },
+            {
+              "hash": "56304aa",
+              "date": "2025-11-08",
+              "message": "Build comprehensive pet social hub with Pokemon GO-style mechanics"
+            },
+            {
+              "hash": "d1f2ff7",
+              "date": "2025-11-08",
+              "message": "Refactor data utilities for pet social health hub"
+            },
+            {
+              "hash": "31894d7",
+              "date": "2025-11-08",
+              "message": "Add initial social hub data utilities (WIP - refactoring to pet theme)"
+            }
+          ],
+          "files_changed": 11
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "17e9bfb",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "471235a",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "17e9bfb",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "471235a",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            }
+          ],
+          "files_changed": 12
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "b5917f2",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "4313f2e",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "0598901",
+              "date": "2025-11-08",
+              "message": "Add initial HTML structure for Project Sentinel"
+            },
+            {
+              "hash": "e03a047",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "8db7cc7",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "b5917f2",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "4313f2e",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "0598901",
+              "date": "2025-11-08",
+              "message": "Add initial HTML structure for Project Sentinel"
+            },
+            {
+              "hash": "e03a047",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "8db7cc7",
+              "date": "2025-11-08",
+              "message": "Add files via upload"
+            }
+          ],
+          "files_changed": 17
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "generated": "2026-03-06T00:39:39Z",
+  "since": "2023-02-10",
+  "until": "2023-02-10",
+  "summary": {
+    "total_commits": 5,
+    "repos_active": 1,
+    "files_changed": 11,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "eb874d3",
+              "date": "2023-02-10",
+              "message": "CI build"
+            },
+            {
+              "hash": "4ea0201",
+              "date": "2023-02-10",
+              "message": "chore: release userscript 1.7.2"
+            },
+            {
+              "hash": "3cdc295",
+              "date": "2023-02-10",
+              "message": "style: fix lint"
+            },
+            {
+              "hash": "63bf4cd",
+              "date": "2023-02-10",
+              "message": "chore: bump dependencies"
+            },
+            {
+              "hash": "35ef064",
+              "date": "2023-02-10",
+              "message": "fix: respect `start` attribute on ordered-list"
+            }
+          ],
+          "files_changed": 11
+        }
+      }
+    }
+  }
+}

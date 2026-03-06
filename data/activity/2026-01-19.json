@@ -1,0 +1,477 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2026-01-19",
+  "until": "2026-01-19",
+  "summary": {
+    "total_commits": 76,
+    "repos_active": 13,
+    "files_changed": 328,
+    "organs_touched": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "c37b4db",
+              "date": "2026-01-19",
+              "message": "perf: Convert EmbeddingCache.save to async stream"
+            },
+            {
+              "hash": "9b75c5c",
+              "date": "2026-01-19",
+              "message": "Optimize getSearchSuggestions to use UNION ALL for reduced round trips"
+            },
+            {
+              "hash": "c2a5a65",
+              "date": "2026-01-19",
+              "message": "Perf: Optimize rowToAtomicUnit with batch loading"
+            },
+            {
+              "hash": "6a26276",
+              "date": "2026-01-19",
+              "message": "Optimize saveEmbedding by caching prepared statement and fix loop bug"
+            }
+          ],
+          "files_changed": 0
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "c37b4db",
+              "date": "2026-01-19",
+              "message": "perf: Convert EmbeddingCache.save to async stream"
+            },
+            {
+              "hash": "9b75c5c",
+              "date": "2026-01-19",
+              "message": "Optimize getSearchSuggestions to use UNION ALL for reduced round trips"
+            },
+            {
+              "hash": "c2a5a65",
+              "date": "2026-01-19",
+              "message": "Perf: Optimize rowToAtomicUnit with batch loading"
+            },
+            {
+              "hash": "6a26276",
+              "date": "2026-01-19",
+              "message": "Optimize saveEmbedding by caching prepared statement and fix loop bug"
+            }
+          ],
+          "files_changed": 0
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "c37b4db",
+              "date": "2026-01-19",
+              "message": "perf: Convert EmbeddingCache.save to async stream"
+            },
+            {
+              "hash": "9b75c5c",
+              "date": "2026-01-19",
+              "message": "Optimize getSearchSuggestions to use UNION ALL for reduced round trips"
+            },
+            {
+              "hash": "c2a5a65",
+              "date": "2026-01-19",
+              "message": "Perf: Optimize rowToAtomicUnit with batch loading"
+            },
+            {
+              "hash": "6a26276",
+              "date": "2026-01-19",
+              "message": "Optimize saveEmbedding by caching prepared statement and fix loop bug"
+            }
+          ],
+          "files_changed": 0
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "c37b4db",
+              "date": "2026-01-19",
+              "message": "perf: Convert EmbeddingCache.save to async stream"
+            },
+            {
+              "hash": "9b75c5c",
+              "date": "2026-01-19",
+              "message": "Optimize getSearchSuggestions to use UNION ALL for reduced round trips"
+            },
+            {
+              "hash": "c2a5a65",
+              "date": "2026-01-19",
+              "message": "Perf: Optimize rowToAtomicUnit with batch loading"
+            },
+            {
+              "hash": "6a26276",
+              "date": "2026-01-19",
+              "message": "Optimize saveEmbedding by caching prepared statement and fix loop bug"
+            },
+            {
+              "hash": "c37b4db",
+              "date": "2026-01-19",
+              "message": "perf: Convert EmbeddingCache.save to async stream"
+            },
+            {
+              "hash": "9b75c5c",
+              "date": "2026-01-19",
+              "message": "Optimize getSearchSuggestions to use UNION ALL for reduced round trips"
+            },
+            {
+              "hash": "c2a5a65",
+              "date": "2026-01-19",
+              "message": "Perf: Optimize rowToAtomicUnit with batch loading"
+            },
+            {
+              "hash": "6a26276",
+              "date": "2026-01-19",
+              "message": "Optimize saveEmbedding by caching prepared statement and fix loop bug"
+            }
+          ],
+          "files_changed": 0
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "c37b4db",
+              "date": "2026-01-19",
+              "message": "perf: Convert EmbeddingCache.save to async stream"
+            },
+            {
+              "hash": "9b75c5c",
+              "date": "2026-01-19",
+              "message": "Optimize getSearchSuggestions to use UNION ALL for reduced round trips"
+            },
+            {
+              "hash": "c2a5a65",
+              "date": "2026-01-19",
+              "message": "Perf: Optimize rowToAtomicUnit with batch loading"
+            },
+            {
+              "hash": "6a26276",
+              "date": "2026-01-19",
+              "message": "Optimize saveEmbedding by caching prepared statement and fix loop bug"
+            }
+          ],
+          "files_changed": 0
+        },
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "4f72a60",
+              "date": "2026-01-19",
+              "message": "Harden CLI output and capture cleanup branch SHAs"
+            },
+            {
+              "hash": "e5f162f",
+              "date": "2026-01-19",
+              "message": "docs: audit intentions of deleted Jules branches"
+            },
+            {
+              "hash": "19276ea",
+              "date": "2026-01-19",
+              "message": "docs: audit intentions of deleted Jules branches"
+            },
+            {
+              "hash": "bfc4585",
+              "date": "2026-01-19",
+              "message": "feat: add containment governance scaffold (resurrect PR #15)"
+            },
+            {
+              "hash": "ab6399d",
+              "date": "2026-01-19",
+              "message": "docs: add branch review report"
+            },
+            {
+              "hash": "db7adc6",
+              "date": "2026-01-19",
+              "message": "chore: harden Jules branch guard workflow"
+            },
+            {
+              "hash": "cef9adc",
+              "date": "2026-01-19",
+              "message": "chore: ignore generated branch cleanup lists"
+            },
+            {
+              "hash": "b157c1f",
+              "date": "2026-01-19",
+              "message": "chore: add Jules branch guard and cleanup report"
+            },
+            {
+              "hash": "4cf8050",
+              "date": "2026-01-19",
+              "message": "docs: add Jules coordination proposal and migration plans"
+            },
+            {
+              "hash": "39868ba",
+              "date": "2026-01-19",
+              "message": "feat: add Jules branch coordination preflight and cleanup"
+            },
+            {
+              "hash": "fa7e684",
+              "date": "2026-01-19",
+              "message": "Resolve merge conflicts for PR #14 and apply vault reorganization"
+            },
+            {
+              "hash": "9292ed0",
+              "date": "2026-01-19",
+              "message": "Consolidate 103 Jules tasks and migrate folder structure"
+            },
+            {
+              "hash": "0682347",
+              "date": "2026-01-19",
+              "message": "feat: Add standard repo auditing files"
+            },
+            {
+              "hash": "f527833",
+              "date": "2026-01-19",
+              "message": "feat: Create seed.yaml for Alchemical Engine"
+            }
+          ],
+          "files_changed": 96
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "313021e",
+              "date": "2026-01-19",
+              "message": "🎨 Palette: Auto-detect reduced motion preference"
+            },
+            {
+              "hash": "313021e",
+              "date": "2026-01-19",
+              "message": "🎨 Palette: Auto-detect reduced motion preference"
+            }
+          ],
+          "files_changed": 0
+        },
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "a3a632e",
+              "date": "2026-01-19",
+              "message": "feat: Add k6 load testing and Grafana dashboard infrastructure"
+            },
+            {
+              "hash": "c0fcb18",
+              "date": "2026-01-19",
+              "message": "feat: Prepare @in-midst-my-life/schema for npm publishing"
+            },
+            {
+              "hash": "585b05a",
+              "date": "2026-01-19",
+              "message": "docs: Add ADR-016/017, update glossary, and improve CI workflow"
+            },
+            {
+              "hash": "a05424e",
+              "date": "2026-01-19",
+              "message": "docs: Add comprehensive operations runbook and Grafana dashboard"
+            },
+            {
+              "hash": "b5e2f86",
+              "date": "2026-01-19",
+              "message": "feat: Add API versioning infrastructure"
+            },
+            {
+              "hash": "e5a4aeb",
+              "date": "2026-01-19",
+              "message": "refactor: Split oversized route files into modular structure"
+            },
+            {
+              "hash": "2dc6a41",
+              "date": "2026-01-19",
+              "message": "fix: Resolve TypeScript type errors across web and orchestrator"
+            },
+            {
+              "hash": "3cd732a",
+              "date": "2026-01-19",
+              "message": "feat: Refactor narrative module and add integration test infrastructure"
+            },
+            {
+              "hash": "a3a632e",
+              "date": "2026-01-19",
+              "message": "feat: Add k6 load testing and Grafana dashboard infrastructure"
+            },
+            {
+              "hash": "c0fcb18",
+              "date": "2026-01-19",
+              "message": "feat: Prepare @in-midst-my-life/schema for npm publishing"
+            },
+            {
+              "hash": "585b05a",
+              "date": "2026-01-19",
+              "message": "docs: Add ADR-016/017, update glossary, and improve CI workflow"
+            },
+            {
+              "hash": "a05424e",
+              "date": "2026-01-19",
+              "message": "docs: Add comprehensive operations runbook and Grafana dashboard"
+            },
+            {
+              "hash": "b5e2f86",
+              "date": "2026-01-19",
+              "message": "feat: Add API versioning infrastructure"
+            },
+            {
+              "hash": "e5a4aeb",
+              "date": "2026-01-19",
+              "message": "refactor: Split oversized route files into modular structure"
+            },
+            {
+              "hash": "2dc6a41",
+              "date": "2026-01-19",
+              "message": "fix: Resolve TypeScript type errors across web and orchestrator"
+            },
+            {
+              "hash": "3cd732a",
+              "date": "2026-01-19",
+              "message": "feat: Refactor narrative module and add integration test infrastructure"
+            }
+          ],
+          "files_changed": 76
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "c37b4db",
+              "date": "2026-01-19",
+              "message": "perf: Convert EmbeddingCache.save to async stream"
+            },
+            {
+              "hash": "9b75c5c",
+              "date": "2026-01-19",
+              "message": "Optimize getSearchSuggestions to use UNION ALL for reduced round trips"
+            },
+            {
+              "hash": "c2a5a65",
+              "date": "2026-01-19",
+              "message": "Perf: Optimize rowToAtomicUnit with batch loading"
+            },
+            {
+              "hash": "6a26276",
+              "date": "2026-01-19",
+              "message": "Optimize saveEmbedding by caching prepared statement and fix loop bug"
+            }
+          ],
+          "files_changed": 0
+        },
+        "my--father-mother": {
+          "commits": [
+            {
+              "hash": "ce63e98",
+              "date": "2026-01-19",
+              "message": "Add .gitignore"
+            },
+            {
+              "hash": "f38d580",
+              "date": "2026-01-19",
+              "message": "Add my--father-mother clipboard memory system"
+            },
+            {
+              "hash": "3dc6ae9",
+              "date": "2026-01-19",
+              "message": "Add CLAUDE.md for Claude Code guidance"
+            }
+          ],
+          "files_changed": 26
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "agent--claude-smith": {
+          "commits": [
+            {
+              "hash": "5afaf89",
+              "date": "2026-01-19",
+              "message": "docs: Improve CLAUDE.md with architecture and testing guidance"
+            },
+            {
+              "hash": "6f77438",
+              "date": "2026-01-19",
+              "message": "Add comprehensive tests for session-store.ts (97% coverage)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "agentic-titan": {
+          "commits": [
+            {
+              "hash": "24e419a",
+              "date": "2026-01-19",
+              "message": "Fix CI workflow: remove ChromaDB, make lint/typecheck non-blocking"
+            },
+            {
+              "hash": "499a50b",
+              "date": "2026-01-19",
+              "message": "Phase 9: Polish & Integration - Demo, CI, Dashboards, API Docs"
+            },
+            {
+              "hash": "b8d04c0",
+              "date": "2026-01-19",
+              "message": "Phase 8: Production Deployment - K3s, Helm, auto-scaling"
+            },
+            {
+              "hash": "3b81c40",
+              "date": "2026-01-19",
+              "message": "Phase 7: Advanced Features - Learning, Voting, Migration"
+            },
+            {
+              "hash": "6e7c1d7",
+              "date": "2026-01-19",
+              "message": "Phase 6: MCP Server - Expose agents via MCP protocol"
+            },
+            {
+              "hash": "b148b9d",
+              "date": "2026-01-19",
+              "message": "Phase 5: Real LLM Integration and Tool Infrastructure"
+            },
+            {
+              "hash": "59ab343",
+              "date": "2026-01-19",
+              "message": "Fix WebSocket support in dashboard"
+            },
+            {
+              "hash": "fc88903",
+              "date": "2026-01-19",
+              "message": "Fix agent archetype initialization to allow name override"
+            },
+            {
+              "hash": "97a5e0a",
+              "date": "2026-01-19",
+              "message": "Initial commit: Agentic Titan - Polymorphic Agent Swarm Architecture"
+            }
+          ],
+          "files_changed": 112
+        },
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "393a33e",
+              "date": "2026-01-19",
+              "message": "Add zoxide seed script for new machine setup"
+            },
+            {
+              "hash": "bd136ca",
+              "date": "2026-01-19",
+              "message": "Add modern shell tooling and editor configuration"
+            }
+          ],
+          "files_changed": 16
+        }
+      }
+    }
+  }
+}

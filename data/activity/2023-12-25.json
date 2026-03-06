@@ -1,0 +1,50 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-12-25",
+  "until": "2023-12-25",
+  "summary": {
+    "total_commits": 5,
+    "repos_active": 1,
+    "files_changed": 0,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "2d8a6ce",
+              "date": "2023-12-25",
+              "message": "fix: support pandoar-next"
+            },
+            {
+              "hash": "613247f",
+              "date": "2023-12-25",
+              "message": "fix: fix broken timestamp"
+            },
+            {
+              "hash": "b1ff972",
+              "date": "2023-12-25",
+              "message": "fix: port continuation merging back and remove conversation choice"
+            },
+            {
+              "hash": "dc157f7",
+              "date": "2023-12-25",
+              "message": "fix: build conversation list with bottom-up method (#193)"
+            },
+            {
+              "hash": "00ad390",
+              "date": "2023-12-25",
+              "message": "fix: remove localstorage legacy migrator"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

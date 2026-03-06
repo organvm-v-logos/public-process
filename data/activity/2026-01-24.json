@@ -1,0 +1,111 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2026-01-24",
+  "until": "2026-01-24",
+  "summary": {
+    "total_commits": 15,
+    "repos_active": 2,
+    "files_changed": 1348,
+    "organs_touched": [
+      "I",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "c550f97",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Address GitHub issues: close stale issues, remove emojis    2 │    3 │ Issue housekeeping (10 issues closed as not actionable):    4 │ - #27: Personal note, not technical issue    5 │ - #29: Error log superseded by #28    6 │ - #45: PR description posted as issue, work integrated    7 │ - #46: Copilot error log output    8 │ - #47: Copilot analysis output    9 │ - #48: Wrong repository reference   10 │ - #49, #50, #51, #52: Stale planning issues from Nov 2025   11 │   12 │ Issue #28 implemented - Remove emojis from project:   13 │ - Replace emojis with text alternatives: [OK], [FAIL], [WARN], [INFO], etc.   14 │ - Process 134 files: Python source, docs, configs   15 │ - Add scripts/remove_emojis.py utility for future use   16 │ - All Python files verified syntactically correct   17 │   18 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "4f4bdd7",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Root cleanup: reduce 103 files to 10, create src/habitat package    2 │    3 │ - Move 21 ZIP archives to ARCHIVE_RK01/distributions/ (gitignored)    4 │ - Move 9 SOP files to DOCUMENTATION/sops/    5 │ - Move 6 UID files to CATALOGS_AND_INDEXES/uids/    6 │ - Move 12 guide files to DOCUMENTATION/guides/    7 │ - Move 16 report files to PROJECT_MANAGEMENT/reports/    8 │ - Move 9 reference docs to DOCUMENTATION/reference/    9 │ - Move 5 utility scripts to scripts/utils/   10 │ - Move 5 data files to scripts/analysis/output/   11 │ - Create src/habitat/ Python package with __init__.py   12 │ - Move 7 Python source files to src/habitat/   13 │ - Update imports to use relative imports for package structure   14 │ - Update setup.py to use find_packages(where=\"src\")   15 │ - Update CLAUDE.md with new file paths   16 │ - Delete redundant files: SYSTEM_INDEX.md, root_overview.md   17 │   18 │ Final root: README.md, CLAUDE.md, SECURITY.md, ROADMAP.md, CHANGELOG.md,   19 │ setup.py, requirements.txt, MANIFEST.in, seed.yaml, style.registry.yml   20 │   21 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "0fdbd20",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Repository restructure: simplified naming convention    2 │    3 │ - Rename SS-TM_00-00_system-core → REGEOS_RG01    4 │ - Consolidate RC-VK archives into ARCHIVE_RK01    5 │ - Rename TEMPLATES_GENERALIZED → TEMPLATES_TP01    6 │ - Rename SB-ML_00-00_symbol-codex → TAGS_TA01    7 │ - Create SYSTEM_MAP_SM01 with experiments    8 │ - Rename PD-GG_00-00_guidance-protocols → DOCUMENTATION    9 │ - Rename PR-JC_00-00_projects-external → ARCHIVAL_STACK   10 │ - Rename MT-PR_00-00_meta-operations → PROJECT_MANAGEMENT   11 │ - Rename PB-RC_00-00_observation-logs → CATALOGS_AND_INDEXES   12 │ - Move POV-ENGAGEMENT to Users/   13 │ - Delete EMPTY_FOLDER_STRUCTURE   14 │ - Merge docs/ subfolders into appropriate targets   15 │ - Rename GT-WK → GATEWAY_GT01   16 │ - Rename FL-TR → ANOMALIES_FL01   17 │ - Rename FR-GM → FRAGMENTS_FR01   18 │ - Rename NR-TH → NARRATIVES_NR01   19 │ - Rename GM-DS → GAMEDESIGN_GD01   20 │ - Rename WR-KS → WORKSHOPS_WR01   21 │   22 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "edee80c",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Repository cleanup: UID compliance and consolidation    2 │    3 │ - Delete README 3.md, README 4.md (stub duplicates)    4 │ - Delete ARCHIVES special-char directory (older duplicates)    5 │ - Move GPT_Prompt_Picker.txt to GT-WK gateway-inputs    6 │ - Consolidate abloom/etceter4/gr1nd3r/met4morf_os into PR-JC    7 │ - Move 8 extraction directories to SS-TM _extracted/    8 │ - Move M4_LinguaLab to XP-PR experiments    9 │ - Move MEMORY_MODULES to MT-PR   10 │ - Consolidate ARCHIVE_RK01 into ARCHIVES   11 │ - Move README 2.md curriculum to PD-GG   12 │   13 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "a0fc2b9",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix CVE-2024-48908: Update lychee-action to v2    2 │    3 │ - Upgrade lycheeverse/lychee-action from v1 to v2 to fix arbitrary    4 │   code injection vulnerability in lycheeVersion input    5 │ - Addresses Dependabot alert #1 (GHSA-65rg-554r-9j5x, CVSS 6.9)    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "2226ed5",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Repository cleanup and content consolidation    2 │    3 │ - Remove 33 duplicate directories with numeric suffixes (macOS extraction artifacts)    4 │ - Consolidate MEMORY_MODULES variants: FULLFIXED → canonical, v1/REBUILT → _variants/    5 │ - Add extracted protocol directories: FINAL_RESET_PROTOCOLS_v1, GENESIS_CORE_v1,    6 │   META_PROTOCOLS_v1, NF06_FULL_IMPLEMENTATION_PACK, REBUILD_PHASE_ALPHA_v1,    7 │   REGE_OS_THREAD_EXPORT_COMPLETE, system_core_4lph4    8 │ - Add M4_LinguaLab linguistic analysis toolkit    9 │ - Add CLAUDE.md project instructions   10 │ - Clean RC-VK archives: removed 223MB vault_backup duplicate, nested duplicates   11 │ - Clean PD-GG: removed 7 INPD0000_instruction_pedagogy copies (2-8)   12 │ - Clean MT-PR: removed 8 learning-recursions duplicates   13 │   14 │ Space recovered: ~200MB total, RC-VK archives reduced from 808MB to 425MB   15 │   16 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "d9a8385",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Update README hero section and roadmap progress    2 │    3 │ - Add problem/approach/outcome hero section to README    4 │ - Update folder structure documentation with new guides    5 │ - Reference GLOSSARY.md, EMERGENCY_ACCESS.md, ARCHIVE_BACKUP_POLICY.md    6 │ - Mark recent completions in roadmap (security fix, path normalization, SOP corrections)    7 │ - Mark Phase 1 glossary, emergency access, and backup policy as complete    8 │ - Update last modified dates    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "dc2f50a",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Implement evaluation-to-growth review recommendations    2 │    3 │ - Remove false security claims: delete breach_detected() placeholder and    4 │   associated dead code in experimental_habitat_implementation.py    5 │ - Rename directories with special characters that broke shell tooling:    6 │   \"; M1R•R0R ; MR•01 ;\" -> MIRROR_MR01 and nested files    7 │ - Update SOP_SYSTEM_OVERVIEW.md with correct script paths (scripts/vault_utils/)    8 │   and add Experimental Habitat System documentation section    9 │ - Create emergency access guide with token recovery and rebuild procedures   10 │ - Create RE:GE:OS symbolic terminology glossary for onboarding   11 │ - Create archive backup policy documenting external backup strategy for   12 │   gitignored RC-VK_*/ directories   13 │ - Run UID audit and update generated index files   14 │   15 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "5a24aa1",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: activate UID system with content routing    2 │    3 │ Legacy directory consolidation:    4 │ - REGEOS_RG01 → SS-TM (system-core): RE-GE org bodies    5 │ - ARCHIVAL_STACK → NR-TH/digests + MT-PR: thread digests    6 │ - CATALOGS_AND_INDEXES → SB-ML + MT-PR: catalogs, crosswalks    7 │ - PROJECT_MANAGEMENT → MT-PR + SS-TM + SB-ML: changelogs, manifests    8 │ - TEMPLATES_TP01 → PD-GG + SB-ML: templates, registries    9 │ - SYSTEM_MAP_SM01 + TAGS_TA01 → SB-ML: system maps, tags   10 │ - ACTIVE_WORK → GT-WK + XP-PR + NR-TH: ChatGPT outputs, experiments   11 │ - DOCUMENTATION → PD-GG + SS-TM + SB-ML + MT-PR: vault guides   12 │   13 │ Generated indices:   14 │ - UIDS_MASTER_INDEX_generated.md   15 │ - UIDS_PLACEHOLDER_AUDIT.md   16 │ - UIDS_DUPLICATE_PATCH.md   17 │   18 │ Fixed uid_indexer.py: removed unused pandas import   19 │   20 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "59d6c81",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ chore: triage untracked files post-consolidation    2 │    3 │ SORT_NOW/ cleanup (74MB deleted):    4 │ - Removed redundant extracted directories    5 │ - Merged uid_indexer.py (31 → 239 lines) with enhanced features    6 │    7 │ File routing to UID directories:    8 │ - FL-TR: anomaly-stream files (timestamps, arcana)    9 │ - GT-WK: gateway-inputs (essay worksheets, ChatGPT outputs)   10 │ - MT-PR: meta-operations (checklists, recovery logs)   11 │ - PR-JC: projects-external (FORWARD_FUNDERS)   12 │ - SB-ML: symbol-codex (pattern docs)   13 │ - SS-TM: system-core (hierarchy, curriculum, SEAL)   14 │   15 │ Extended .gitignore patterns:   16 │ - SORT_NOW/, EMPTY_FOLDER_STRUCTURE/ (working queues)   17 │ - RC-VK_*/ (archive directories)   18 │ - *.zip (review individually)   19 │ - POV-ENGAGEMENT_*/ (external)   20 │   21 │ Removed debris:   22 │ - Extracted bundle directories   23 │ - Symlinks and macOS aliases   24 │ - Misplaced Users/ directory   25 │   26 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "92296a4",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ docs: add SOPs, guides, and indexes    2 │    3 │ Add operational documentation:    4 │ - SOP_INDEX.md: Master SOP index    5 │ - SOP_DAILY/WEEKLY/MONTHLY_CHECKLIST.md: Cadence checklists    6 │ - SOP_GITHUB_VERSIONING.md: Git workflow guide    7 │ - SOP_GPT_TO_OS.md: LLM output integration    8 │ - SOP_OBSIDIAN_SYNC.md: Sync procedures    9 │ - SOP_SYMBOLIC_NAMING.md: Naming conventions   10 │ - SOP_SYSTEM_OVERVIEW.md: Architecture overview   11 │   12 │ Add reference documents:   13 │ - UIDS_MASTER_INDEX.md: UID registry   14 │ - UID_Constitution_v2.md: UID specification   15 │ - VAULT_BOOTCHECKLIST.md: Startup validation   16 │ - VAULT_NAMING_GUIDE.md: Naming standards   17 │ - CLONE_PROTOCOL.md: Repository cloning   18 │ - MACOS_OVERLAY_GUIDE.md: macOS integration   19 │ - OBSIDIAN_STARTER.md: Getting started guide   20 │   21 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "b8120fc",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add vault utilities to scripts/vault_utils/    2 │    3 │ Move vault management scripts to organized location:    4 │ - generate_uid.py: UID generation utility    5 │ - initialize_vault.py: Vault initialization    6 │ - rename_uid.py: UID renaming tool    7 │ - sort_router.py: Content routing    8 │ - tag_suggestor.py: Tag suggestions    9 │ - uid_check.py: UID validation   10 │ - uid_indexer.py: UID indexing   11 │ - vault_freeze.py: Vault state capture   12 │ - vault_reset.py: Vault reset utility   13 │   14 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "f354cbc",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add organizational structure with 14 UID directories    2 │    3 │ Add semantic namespace directories following UID convention:    4 │ - FL-TR: anomaly-stream    5 │ - FR-GM: fragments-memory    6 │ - GM-DS: game-design-sandbox    7 │ - GT-WK: gateway-inputs    8 │ - MT-PR: meta-operations    9 │ - NR-TH: narrative-threads   10 │ - PB-RC: observation-logs   11 │ - PD-GG: guidance-protocols   12 │ - PR-JC: projects-external   13 │ - SB-ML: symbol-codex   14 │ - SS-TM: system-core   15 │ - WR-KS: workshop-series   16 │ - XP-PR: experiments-live   17 │   18 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "911ec21",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ chore: update .gitignore with exclusion patterns    2 │    3 │ Add patterns for:    4 │ - Obsidian copilot index chunks and bookmarks    5 │ - Gemini tool tracking files    6 │ - smart-env and space metadata    7 │ - security directory (never commit)    8 │ - macOS duplicate artifacts (* 2/ and * 2.md)    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 1347
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "0eed3dd",
+              "date": "2026-01-24",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Replace tealdeer with tlrc for tldr client    2 │    3 │ Resolves Homebrew symlink conflicts between tealdeer and tlrc packages.    4 │ Both provide the same tldr functionality; tlrc is now the preferred client.    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

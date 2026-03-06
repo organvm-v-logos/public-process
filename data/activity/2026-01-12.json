@@ -1,0 +1,277 @@
+{
+  "generated": "2026-03-06T00:39:27Z",
+  "since": "2026-01-12",
+  "until": "2026-01-12",
+  "summary": {
+    "total_commits": 41,
+    "repos_active": 8,
+    "files_changed": 210,
+    "organs_touched": [
+      "I",
+      "III",
+      "Personal"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "intake": {
+          "commits": [
+            {
+              "hash": "f3b6ced",
+              "date": "2026-01-12",
+              "message": "Fix formatting in dependabot.yml"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "56e1900",
+              "date": "2026-01-12",
+              "message": "docs: Update README with Phase 1 completion (15/15) and total progress (41%)"
+            },
+            {
+              "hash": "eeec889",
+              "date": "2026-01-12",
+              "message": "docs: Update Phase 1 completion status (15/15 tasks) in DEVELOPMENT_ROADMAP"
+            },
+            {
+              "hash": "dc98106",
+              "date": "2026-01-12",
+              "message": "feat: Complete Phase 1 - Smart Section Detection, Google Docs Integration, and RSS Export"
+            },
+            {
+              "hash": "9c49a92",
+              "date": "2026-01-12",
+              "message": "feat: Complete REST API - 38/38 endpoints implemented"
+            }
+          ],
+          "files_changed": 19
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "56e1900",
+              "date": "2026-01-12",
+              "message": "docs: Update README with Phase 1 completion (15/15) and total progress (41%)"
+            },
+            {
+              "hash": "eeec889",
+              "date": "2026-01-12",
+              "message": "docs: Update Phase 1 completion status (15/15 tasks) in DEVELOPMENT_ROADMAP"
+            },
+            {
+              "hash": "dc98106",
+              "date": "2026-01-12",
+              "message": "feat: Complete Phase 1 - Smart Section Detection, Google Docs Integration, and RSS Export"
+            },
+            {
+              "hash": "9c49a92",
+              "date": "2026-01-12",
+              "message": "feat: Complete REST API - 38/38 endpoints implemented"
+            }
+          ],
+          "files_changed": 19
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "56e1900",
+              "date": "2026-01-12",
+              "message": "docs: Update README with Phase 1 completion (15/15) and total progress (41%)"
+            },
+            {
+              "hash": "eeec889",
+              "date": "2026-01-12",
+              "message": "docs: Update Phase 1 completion status (15/15 tasks) in DEVELOPMENT_ROADMAP"
+            },
+            {
+              "hash": "dc98106",
+              "date": "2026-01-12",
+              "message": "feat: Complete Phase 1 - Smart Section Detection, Google Docs Integration, and RSS Export"
+            },
+            {
+              "hash": "9c49a92",
+              "date": "2026-01-12",
+              "message": "feat: Complete REST API - 38/38 endpoints implemented"
+            }
+          ],
+          "files_changed": 19
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "56e1900",
+              "date": "2026-01-12",
+              "message": "docs: Update README with Phase 1 completion (15/15) and total progress (41%)"
+            },
+            {
+              "hash": "eeec889",
+              "date": "2026-01-12",
+              "message": "docs: Update Phase 1 completion status (15/15 tasks) in DEVELOPMENT_ROADMAP"
+            },
+            {
+              "hash": "dc98106",
+              "date": "2026-01-12",
+              "message": "feat: Complete Phase 1 - Smart Section Detection, Google Docs Integration, and RSS Export"
+            },
+            {
+              "hash": "9c49a92",
+              "date": "2026-01-12",
+              "message": "feat: Complete REST API - 38/38 endpoints implemented"
+            },
+            {
+              "hash": "56e1900",
+              "date": "2026-01-12",
+              "message": "docs: Update README with Phase 1 completion (15/15) and total progress (41%)"
+            },
+            {
+              "hash": "eeec889",
+              "date": "2026-01-12",
+              "message": "docs: Update Phase 1 completion status (15/15 tasks) in DEVELOPMENT_ROADMAP"
+            },
+            {
+              "hash": "dc98106",
+              "date": "2026-01-12",
+              "message": "feat: Complete Phase 1 - Smart Section Detection, Google Docs Integration, and RSS Export"
+            },
+            {
+              "hash": "9c49a92",
+              "date": "2026-01-12",
+              "message": "feat: Complete REST API - 38/38 endpoints implemented"
+            }
+          ],
+          "files_changed": 19
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "56e1900",
+              "date": "2026-01-12",
+              "message": "docs: Update README with Phase 1 completion (15/15) and total progress (41%)"
+            },
+            {
+              "hash": "eeec889",
+              "date": "2026-01-12",
+              "message": "docs: Update Phase 1 completion status (15/15 tasks) in DEVELOPMENT_ROADMAP"
+            },
+            {
+              "hash": "dc98106",
+              "date": "2026-01-12",
+              "message": "feat: Complete Phase 1 - Smart Section Detection, Google Docs Integration, and RSS Export"
+            },
+            {
+              "hash": "9c49a92",
+              "date": "2026-01-12",
+              "message": "feat: Complete REST API - 38/38 endpoints implemented"
+            }
+          ],
+          "files_changed": 19
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "e168a51",
+              "date": "2026-01-12",
+              "message": "feat: Scaffold Phase 0 (Hunter Protocol + Theatrical UI)"
+            },
+            {
+              "hash": "8315f57",
+              "date": "2026-01-12",
+              "message": "Delete .github/README.md"
+            },
+            {
+              "hash": "ea3249a",
+              "date": "2026-01-12",
+              "message": "docs: Complete repository organization with all planning docs, config, and extensive README"
+            },
+            {
+              "hash": "125207f",
+              "date": "2026-01-12",
+              "message": "docs: Add execution summary - ready for parallel launch with 3-5 AI assistants"
+            },
+            {
+              "hash": "9c3b642",
+              "date": "2026-01-12",
+              "message": "docs: Add parallel execution guide for 3-5 AI assistants"
+            },
+            {
+              "hash": "2a2ab9f",
+              "date": "2026-01-12",
+              "message": "docs: Add comprehensive 4-month implementation roadmap (Monetization, Deployment, Portfolio, Stabilization, Marketing, Launch)"
+            },
+            {
+              "hash": "e168a51",
+              "date": "2026-01-12",
+              "message": "feat: Scaffold Phase 0 (Hunter Protocol + Theatrical UI)"
+            },
+            {
+              "hash": "8315f57",
+              "date": "2026-01-12",
+              "message": "Delete .github/README.md"
+            },
+            {
+              "hash": "ea3249a",
+              "date": "2026-01-12",
+              "message": "docs: Complete repository organization with all planning docs, config, and extensive README"
+            },
+            {
+              "hash": "125207f",
+              "date": "2026-01-12",
+              "message": "docs: Add execution summary - ready for parallel launch with 3-5 AI assistants"
+            },
+            {
+              "hash": "9c3b642",
+              "date": "2026-01-12",
+              "message": "docs: Add parallel execution guide for 3-5 AI assistants"
+            },
+            {
+              "hash": "2a2ab9f",
+              "date": "2026-01-12",
+              "message": "docs: Add comprehensive 4-month implementation roadmap (Monetization, Deployment, Portfolio, Stabilization, Marketing, Launch)"
+            }
+          ],
+          "files_changed": 94
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "56e1900",
+              "date": "2026-01-12",
+              "message": "docs: Update README with Phase 1 completion (15/15) and total progress (41%)"
+            },
+            {
+              "hash": "eeec889",
+              "date": "2026-01-12",
+              "message": "docs: Update Phase 1 completion status (15/15 tasks) in DEVELOPMENT_ROADMAP"
+            },
+            {
+              "hash": "dc98106",
+              "date": "2026-01-12",
+              "message": "feat: Complete Phase 1 - Smart Section Detection, Google Docs Integration, and RSS Export"
+            },
+            {
+              "hash": "9c49a92",
+              "date": "2026-01-12",
+              "message": "feat: Complete REST API - 38/38 endpoints implemented"
+            }
+          ],
+          "files_changed": 19
+        }
+      }
+    }
+  }
+}

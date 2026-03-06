@@ -1,0 +1,40 @@
+{
+  "generated": "2026-03-06T00:39:34Z",
+  "since": "2025-08-28",
+  "until": "2025-08-28",
+  "summary": {
+    "total_commits": 3,
+    "repos_active": 1,
+    "files_changed": 13,
+    "organs_touched": [
+      "II"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "f3710c5",
+              "date": "2025-08-28",
+              "message": "Add comprehensive beginner tutorial with visual guides and quick start materials"
+            },
+            {
+              "hash": "530220d",
+              "date": "2025-08-28",
+              "message": "Initial exploration and planning for beginner tutorial"
+            },
+            {
+              "hash": "324a347",
+              "date": "2025-08-28",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 13
+        }
+      }
+    }
+  }
+}

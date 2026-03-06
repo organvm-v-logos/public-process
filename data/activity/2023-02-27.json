@@ -1,0 +1,75 @@
+{
+  "generated": "2026-03-06T00:39:39Z",
+  "since": "2023-02-27",
+  "until": "2023-02-27",
+  "summary": {
+    "total_commits": 10,
+    "repos_active": 1,
+    "files_changed": 14,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "e602c7b",
+              "date": "2023-02-27",
+              "message": "feat: show timestamp on each chat post"
+            },
+            {
+              "hash": "58020e8",
+              "date": "2023-02-27",
+              "message": "CI build"
+            },
+            {
+              "hash": "e1790b6",
+              "date": "2023-02-27",
+              "message": "chore: release userscript 1.9.1"
+            },
+            {
+              "hash": "2147a91",
+              "date": "2023-02-27",
+              "message": "chore: script title and description support chinese"
+            },
+            {
+              "hash": "ce627a4",
+              "date": "2023-02-27",
+              "message": "CI build"
+            },
+            {
+              "hash": "799c2e6",
+              "date": "2023-02-27",
+              "message": "chore: release userscript 1.9.0"
+            },
+            {
+              "hash": "5479d02",
+              "date": "2023-02-27",
+              "message": "chore: disallow implicit any"
+            },
+            {
+              "hash": "8be8add",
+              "date": "2023-02-27",
+              "message": "feat: support image in chat"
+            },
+            {
+              "hash": "f79f3f6",
+              "date": "2023-02-27",
+              "message": "fix: hide redundent model bar in screenshot export"
+            },
+            {
+              "hash": "fefda82",
+              "date": "2023-02-27",
+              "message": "fix: try fix #53 with specific scale in html2canvas"
+            }
+          ],
+          "files_changed": 14
+        }
+      }
+    }
+  }
+}

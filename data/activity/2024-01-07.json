@@ -1,0 +1,70 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2024-01-07",
+  "until": "2024-01-07",
+  "summary": {
+    "total_commits": 9,
+    "repos_active": 1,
+    "files_changed": 7,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "8547f12",
+              "date": "2024-01-07",
+              "message": "chore: update API interface"
+            },
+            {
+              "hash": "18169fd",
+              "date": "2024-01-07",
+              "message": "chore: add `dist` to search exclude"
+            },
+            {
+              "hash": "e0eaa65",
+              "date": "2024-01-07",
+              "message": "fix: improve timestamp injection"
+            },
+            {
+              "hash": "c4662d4",
+              "date": "2024-01-07",
+              "message": "CI build"
+            },
+            {
+              "hash": "696a6f0",
+              "date": "2024-01-07",
+              "message": "chore: release userscript 2.19.0"
+            },
+            {
+              "hash": "c5bbb82",
+              "date": "2024-01-07",
+              "message": "fix: fix conversation started detection"
+            },
+            {
+              "hash": "e35bb3a",
+              "date": "2024-01-07",
+              "message": "fix(i18n): improve minor issues in translation"
+            },
+            {
+              "hash": "706cef2",
+              "date": "2024-01-07",
+              "message": "feat: support \"archive conversation\" in Export Conversations dialog"
+            },
+            {
+              "hash": "2960a92",
+              "date": "2024-01-07",
+              "message": "fix: fix upload button style"
+            }
+          ],
+          "files_changed": 7
+        }
+      }
+    }
+  }
+}

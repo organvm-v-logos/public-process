@@ -1,0 +1,530 @@
+{
+  "generated": "2026-03-06T00:39:37Z",
+  "since": "2025-12-23",
+  "until": "2025-12-23",
+  "summary": {
+    "total_commits": 98,
+    "repos_active": 4,
+    "files_changed": 65,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "ca0a0e4",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump recharts from 2.15.1 to 3.6.0"
+            },
+            {
+              "hash": "53de894",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump @radix-ui/react-slot from 1.1.2 to 1.2.4"
+            },
+            {
+              "hash": "b7525b3",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "abbad7d",
+              "date": "2025-12-23",
+              "message": "docs: add ORGANIZATION.md guide and update run script for new structure"
+            },
+            {
+              "hash": "94a8c02",
+              "date": "2025-12-23",
+              "message": "feat: reorganize repository with research, drafts, and satellites sections"
+            },
+            {
+              "hash": "f514f83",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "4237620",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump lucide-react from 0.484.0 to 0.562.0"
+            },
+            {
+              "hash": "15d15e0",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump tw-animate-css from 1.2.4 to 1.4.0"
+            },
+            {
+              "hash": "32d6e93",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump framer-motion from 12.6.3 to 12.23.26"
+            },
+            {
+              "hash": "3ae6a9e",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump react-day-picker from 9.6.7 to 9.13.0"
+            },
+            {
+              "hash": "c4da668",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump @phosphor-icons/react from 2.1.7 to 2.1.10"
+            },
+            {
+              "hash": "fad211c",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump react-resizable-panels from 2.1.7 to 4.0.15"
+            },
+            {
+              "hash": "294dae9",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump @radix-ui/react-toggle-group"
+            },
+            {
+              "hash": "141954a",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump @radix-ui/react-popover from 1.1.6 to 1.1.15"
+            },
+            {
+              "hash": "8ec47d5",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump actions/stale from 9 to 10"
+            },
+            {
+              "hash": "c0f873c",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump actions/upload-artifact from 4 to 6"
+            },
+            {
+              "hash": "09ebf2e",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump actions/github-script from 7 to 8"
+            },
+            {
+              "hash": "2fe0f10",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump actions/setup-python from 5 to 6"
+            },
+            {
+              "hash": "5f478f1",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump github/codeql-action from 3 to 4"
+            },
+            {
+              "hash": "eb66c0c",
+              "date": "2025-12-23",
+              "message": "docs: add implementation summary document"
+            },
+            {
+              "hash": "685b396",
+              "date": "2025-12-23",
+              "message": "fix: address code review feedback - fix docs links and markdown formatting"
+            },
+            {
+              "hash": "de349b7",
+              "date": "2025-12-23",
+              "message": "chore: remove deprecated .eslintignore (ESLint v9 uses ignores in config)"
+            },
+            {
+              "hash": "99e3eae",
+              "date": "2025-12-23",
+              "message": "docs: add comprehensive documentation structure and governance (Phase 5 & 6)"
+            },
+            {
+              "hash": "675a79a",
+              "date": "2025-12-23",
+              "message": "ci: add CI/CD workflows and code quality tools (Phase 3 & 4)"
+            },
+            {
+              "hash": "14651e9",
+              "date": "2025-12-23",
+              "message": "docs: add community health files and templates (Phase 1)"
+            },
+            {
+              "hash": "b00e278",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "0952cf8",
+              "date": "2025-12-23",
+              "message": "docs: add comprehensive implementation summary"
+            },
+            {
+              "hash": "9012394",
+              "date": "2025-12-23",
+              "message": "refactor: address code review feedback"
+            },
+            {
+              "hash": "9cfa7c1",
+              "date": "2025-12-23",
+              "message": "docs: add video production documentation and update README"
+            },
+            {
+              "hash": "43c9b22",
+              "date": "2025-12-23",
+              "message": "feat: add autonomous video production agent with GitHub Actions workflow"
+            },
+            {
+              "hash": "1cdf935",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "ca0a0e4",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump recharts from 2.15.1 to 3.6.0"
+            },
+            {
+              "hash": "53de894",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump @radix-ui/react-slot from 1.1.2 to 1.2.4"
+            },
+            {
+              "hash": "b7525b3",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "abbad7d",
+              "date": "2025-12-23",
+              "message": "docs: add ORGANIZATION.md guide and update run script for new structure"
+            },
+            {
+              "hash": "94a8c02",
+              "date": "2025-12-23",
+              "message": "feat: reorganize repository with research, drafts, and satellites sections"
+            },
+            {
+              "hash": "f514f83",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "4237620",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump lucide-react from 0.484.0 to 0.562.0"
+            },
+            {
+              "hash": "15d15e0",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump tw-animate-css from 1.2.4 to 1.4.0"
+            },
+            {
+              "hash": "32d6e93",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump framer-motion from 12.6.3 to 12.23.26"
+            },
+            {
+              "hash": "3ae6a9e",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump react-day-picker from 9.6.7 to 9.13.0"
+            },
+            {
+              "hash": "c4da668",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump @phosphor-icons/react from 2.1.7 to 2.1.10"
+            },
+            {
+              "hash": "fad211c",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump react-resizable-panels from 2.1.7 to 4.0.15"
+            },
+            {
+              "hash": "294dae9",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump @radix-ui/react-toggle-group"
+            },
+            {
+              "hash": "141954a",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump @radix-ui/react-popover from 1.1.6 to 1.1.15"
+            },
+            {
+              "hash": "8ec47d5",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump actions/stale from 9 to 10"
+            },
+            {
+              "hash": "c0f873c",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump actions/upload-artifact from 4 to 6"
+            },
+            {
+              "hash": "09ebf2e",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump actions/github-script from 7 to 8"
+            },
+            {
+              "hash": "2fe0f10",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump actions/setup-python from 5 to 6"
+            },
+            {
+              "hash": "5f478f1",
+              "date": "2025-12-23",
+              "message": "chore(deps)(deps): bump github/codeql-action from 3 to 4"
+            },
+            {
+              "hash": "eb66c0c",
+              "date": "2025-12-23",
+              "message": "docs: add implementation summary document"
+            },
+            {
+              "hash": "685b396",
+              "date": "2025-12-23",
+              "message": "fix: address code review feedback - fix docs links and markdown formatting"
+            },
+            {
+              "hash": "de349b7",
+              "date": "2025-12-23",
+              "message": "chore: remove deprecated .eslintignore (ESLint v9 uses ignores in config)"
+            },
+            {
+              "hash": "99e3eae",
+              "date": "2025-12-23",
+              "message": "docs: add comprehensive documentation structure and governance (Phase 5 & 6)"
+            },
+            {
+              "hash": "675a79a",
+              "date": "2025-12-23",
+              "message": "ci: add CI/CD workflows and code quality tools (Phase 3 & 4)"
+            },
+            {
+              "hash": "14651e9",
+              "date": "2025-12-23",
+              "message": "docs: add community health files and templates (Phase 1)"
+            },
+            {
+              "hash": "b00e278",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "0952cf8",
+              "date": "2025-12-23",
+              "message": "docs: add comprehensive implementation summary"
+            },
+            {
+              "hash": "9012394",
+              "date": "2025-12-23",
+              "message": "refactor: address code review feedback"
+            },
+            {
+              "hash": "9cfa7c1",
+              "date": "2025-12-23",
+              "message": "docs: add video production documentation and update README"
+            },
+            {
+              "hash": "43c9b22",
+              "date": "2025-12-23",
+              "message": "feat: add autonomous video production agent with GitHub Actions workflow"
+            },
+            {
+              "hash": "1cdf935",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 58
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "4ec3184",
+              "date": "2025-12-23",
+              "message": "style: remove leading empty line from test file"
+            },
+            {
+              "hash": "e261331",
+              "date": "2025-12-23",
+              "message": "refactor: clean up verbose comments in socketGuildAuth test"
+            },
+            {
+              "hash": "ab3ee50",
+              "date": "2025-12-23",
+              "message": "docs: add comprehensive merge conflicts resolution documentation"
+            },
+            {
+              "hash": "29b0e88",
+              "date": "2025-12-23",
+              "message": "feat: add missing test file and improve button accessibility"
+            },
+            {
+              "hash": "fbc2c50",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "4ec3184",
+              "date": "2025-12-23",
+              "message": "style: remove leading empty line from test file"
+            },
+            {
+              "hash": "e261331",
+              "date": "2025-12-23",
+              "message": "refactor: clean up verbose comments in socketGuildAuth test"
+            },
+            {
+              "hash": "ab3ee50",
+              "date": "2025-12-23",
+              "message": "docs: add comprehensive merge conflicts resolution documentation"
+            },
+            {
+              "hash": "29b0e88",
+              "date": "2025-12-23",
+              "message": "feat: add missing test file and improve button accessibility"
+            },
+            {
+              "hash": "fbc2c50",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 5
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "0ba34b4",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "fe24fb5",
+              "date": "2025-12-23",
+              "message": "docs: add comprehensive implementation summary"
+            },
+            {
+              "hash": "2d319b0",
+              "date": "2025-12-23",
+              "message": "fix: address code review security and quality issues"
+            },
+            {
+              "hash": "07e661a",
+              "date": "2025-12-23",
+              "message": "docs: update README with video production feature"
+            },
+            {
+              "hash": "f8d8dec",
+              "date": "2025-12-23",
+              "message": "feat: add validation, demo script, and installation guide"
+            },
+            {
+              "hash": "165e4aa",
+              "date": "2025-12-23",
+              "message": "feat: implement autonomous video production agent"
+            },
+            {
+              "hash": "2ea717c",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "0ba34b4",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "fe24fb5",
+              "date": "2025-12-23",
+              "message": "docs: add comprehensive implementation summary"
+            },
+            {
+              "hash": "2d319b0",
+              "date": "2025-12-23",
+              "message": "fix: address code review security and quality issues"
+            },
+            {
+              "hash": "07e661a",
+              "date": "2025-12-23",
+              "message": "docs: update README with video production feature"
+            },
+            {
+              "hash": "f8d8dec",
+              "date": "2025-12-23",
+              "message": "feat: add validation, demo script, and installation guide"
+            },
+            {
+              "hash": "165e4aa",
+              "date": "2025-12-23",
+              "message": "feat: implement autonomous video production agent"
+            },
+            {
+              "hash": "2ea717c",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 2
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "2b2ab82",
+              "date": "2025-12-23",
+              "message": "refactor: address code review feedback - eliminate duplication and improve escaping"
+            },
+            {
+              "hash": "ffd2cc8",
+              "date": "2025-12-23",
+              "message": "refactor: improve exception handling and fix regex inconsistency"
+            },
+            {
+              "hash": "782414e",
+              "date": "2025-12-23",
+              "message": "fix: address code review security and portability issues"
+            },
+            {
+              "hash": "0fc5c77",
+              "date": "2025-12-23",
+              "message": "fix: handle None headings in visual generator and add documentation"
+            },
+            {
+              "hash": "9267f99",
+              "date": "2025-12-23",
+              "message": "feat: add video production agent infrastructure"
+            },
+            {
+              "hash": "c9c1f3e",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "2b2ab82",
+              "date": "2025-12-23",
+              "message": "refactor: address code review feedback - eliminate duplication and improve escaping"
+            },
+            {
+              "hash": "ffd2cc8",
+              "date": "2025-12-23",
+              "message": "refactor: improve exception handling and fix regex inconsistency"
+            },
+            {
+              "hash": "782414e",
+              "date": "2025-12-23",
+              "message": "fix: address code review security and portability issues"
+            },
+            {
+              "hash": "0fc5c77",
+              "date": "2025-12-23",
+              "message": "fix: handle None headings in visual generator and add documentation"
+            },
+            {
+              "hash": "9267f99",
+              "date": "2025-12-23",
+              "message": "feat: add video production agent infrastructure"
+            },
+            {
+              "hash": "c9c1f3e",
+              "date": "2025-12-23",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

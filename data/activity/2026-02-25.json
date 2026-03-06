@@ -1,0 +1,283 @@
+{
+  "generated": "2026-03-06T00:39:27Z",
+  "since": "2026-02-25",
+  "until": "2026-02-25",
+  "summary": {
+    "total_commits": 44,
+    "repos_active": 5,
+    "files_changed": 6047,
+    "organs_touched": [
+      "II",
+      "III",
+      "META",
+      "Personal"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "application-pipeline": {
+          "commits": [
+            {
+              "hash": "ba9f872",
+              "date": "2026-02-25",
+              "message": "feat: record Awesome Foundation NYC submission via script"
+            },
+            {
+              "hash": "2ace58e",
+              "date": "2026-02-25",
+              "message": "chore: defer Stimpunks applications due to portal pause"
+            },
+            {
+              "hash": "ff01803",
+              "date": "2026-02-25",
+              "message": "chore: update application statuses"
+            },
+            {
+              "hash": "15e194f",
+              "date": "2026-02-25",
+              "message": "feat: enhance KRYPTO-VELAMEN documentation with visual section"
+            },
+            {
+              "hash": "c52dfe3",
+              "date": "2026-02-25",
+              "message": "feat: design 5 visual representations for KRYPTO-VELAMEN"
+            },
+            {
+              "hash": "493ddd6",
+              "date": "2026-02-25",
+              "message": "feat: evolve KRYPTO-VELAMEN to 'digital instrument' in Awesome NYC draft"
+            },
+            {
+              "hash": "b9e8655",
+              "date": "2026-02-25",
+              "message": "feat: pivot Awesome Foundation NYC application to KRYPTO-VELAMEN"
+            },
+            {
+              "hash": "285ddaa",
+              "date": "2026-02-25",
+              "message": "feat: draft Awesome Foundation NYC application"
+            },
+            {
+              "hash": "9f4d62d",
+              "date": "2026-02-25",
+              "message": "chore: update PEN America deadline to fixed quarterly cycle (March 16)"
+            },
+            {
+              "hash": "299c65e",
+              "date": "2026-02-25",
+              "message": "feat: comprehensive pipeline update — close resolved Anthropic roles, seed new active roles"
+            },
+            {
+              "hash": "35c97bb",
+              "date": "2026-02-25",
+              "message": "feat: record submission of Anthropic DevRel MCP + Founding DevRel Lead"
+            },
+            {
+              "hash": "172ec63",
+              "date": "2026-02-25",
+              "message": "feat: submit Anthropic Dev Education Lead, fix resume refs to PDF for 2 Greenhouse roles"
+            },
+            {
+              "hash": "a5b9382",
+              "date": "2026-02-25",
+              "message": "feat: batch-02 tailored resumes for 7 Anthropic roles, identity-aware base selection"
+            },
+            {
+              "hash": "1faba54",
+              "date": "2026-02-25",
+              "message": "feat: add Classroom RPG Aetheria to educator resume, rewrite Anthropic cover letter"
+            },
+            {
+              "hash": "ae4111f",
+              "date": "2026-02-25",
+              "message": "feat: enforce 1-page resume standard, organize resumes into batch subdirectories"
+            },
+            {
+              "hash": "906801e",
+              "date": "2026-02-25",
+              "message": "feat: alchemize 3 Anthropic roles, build all resume PDFs, fix job sources"
+            },
+            {
+              "hash": "a524c50",
+              "date": "2026-02-25",
+              "message": "feat: add funnel optimization — followup tracker, conversion analytics, Anthropic rescore"
+            },
+            {
+              "hash": "fa99b29",
+              "date": "2026-02-25",
+              "message": "feat: log confirmation receipts for 16 submitted applications"
+            }
+          ],
+          "files_changed": 227
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "2bb0f45",
+              "date": "2026-02-25",
+              "message": "chore: soak test snapshot 2026-02-25"
+            },
+            {
+              "hash": "066e1fc",
+              "date": "2026-02-25",
+              "message": "chore: auto-refresh metrics 2026-02-25"
+            }
+          ],
+          "files_changed": 30
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "966d60c",
+              "date": "2026-02-25",
+              "message": "Converge persisted state reads and harden realtime mutations"
+            },
+            {
+              "hash": "28cd2ea",
+              "date": "2026-02-25",
+              "message": "Add demo capture pipeline hardening and voting persistence upgrades"
+            }
+          ],
+          "files_changed": 100
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "2bb0f45",
+              "date": "2026-02-25",
+              "message": "chore: soak test snapshot 2026-02-25"
+            },
+            {
+              "hash": "066e1fc",
+              "date": "2026-02-25",
+              "message": "chore: auto-refresh metrics 2026-02-25"
+            }
+          ],
+          "files_changed": 30
+        },
+        "peer-audited--behavioral-blockchain": {
+          "commits": [
+            {
+              "hash": "faca8ae",
+              "date": "2026-02-25",
+              "message": "chore: update .gitignore to exclude build artifacts"
+            },
+            {
+              "hash": "3395d4c",
+              "date": "2026-02-25",
+              "message": "chore: cleanup accidental build artifacts and update .gitignore"
+            },
+            {
+              "hash": "1d677f9",
+              "date": "2026-02-25",
+              "message": "feat: complete Phase Delta (The Arena) implementation and infrastructure hardening"
+            },
+            {
+              "hash": "e492251",
+              "date": "2026-02-25",
+              "message": "feat: implement Phase Delta (The Arena) and related hardening"
+            },
+            {
+              "hash": "4f4a8a2",
+              "date": "2026-02-25",
+              "message": "feat(delta): Phase Delta — The Arena social dynamics and dispute resolution\\n\\n- pHash dedup pipeline: PHashService wired into proof upload, 003_proof_hashes.sql\\n- Dispute resolution: full DisputeService (UPHELD/OVERTURNED/ESCALATED), 004_disputes.sql\\n- AdminController: 9 endpoints — dispute queue/detail/resolve, user profile, integrity adjust\\n- FeedController: REST GET /feed + SSE /feed/stream with anonymized events\\n- Tavern Board: tier badges (Diamond/Gold/Silver/Bronze), Fury of Week spotlight\\n- Mobile TavernFeed: SSE activity feed with type icons and connection indicator\\n- Gatekeeper scan: scripts/gatekeeper-scan.sh for forbidden terminology detection\\n- R2StorageService.downloadFile() for server-side media retrieval\\n- CHANGELOG v0.3.0 (Gamma) and v0.4.0 (Delta), roadmap updated"
+            },
+            {
+              "hash": "e2adf08",
+              "date": "2026-02-25",
+              "message": "feat(gamma): Phase Gamma — Panopticon adversarial verification network\\n\\n- ProofsModule with 3-endpoint upload pipeline (upload-url, confirm-upload, get-detail)\\n- R2StorageService wired into FuryModule for signed view URLs\\n- HoneypotService with cron injection every 6h and ±5 integrity grading\\n- FuryController enhanced with signed R2 URLs in assignment responses\\n- Fury Workbench: video/image player, confidence slider, flag option, honeypot feedback\\n- ProofCaptureScreen: live-only camera, tamper-evident watermark, direct R2 upload\\n- R2 lifecycle rules: 30-day proof expiry, 7-day honeypot cleanup"
+            },
+            {
+              "hash": "6d26f96",
+              "date": "2026-02-25",
+              "message": "feat: E2G hardening — BannedUserGuard, GoalEthicsService, FuryRouterWorker, data retention policy, ledger read-path, Stripe prod guard"
+            },
+            {
+              "hash": "0352af8",
+              "date": "2026-02-25",
+              "message": "chore: save local progress"
+            },
+            {
+              "hash": "b056187",
+              "date": "2026-02-25",
+              "message": "chore: finalize Delta and Omega phase implementations"
+            },
+            {
+              "hash": "dbe197b",
+              "date": "2026-02-25",
+              "message": "feat(contracts): implement No-Contact pivot for B2C MVP"
+            },
+            {
+              "hash": "faca8ae",
+              "date": "2026-02-25",
+              "message": "chore: update .gitignore to exclude build artifacts"
+            },
+            {
+              "hash": "3395d4c",
+              "date": "2026-02-25",
+              "message": "chore: cleanup accidental build artifacts and update .gitignore"
+            },
+            {
+              "hash": "1d677f9",
+              "date": "2026-02-25",
+              "message": "feat: complete Phase Delta (The Arena) implementation and infrastructure hardening"
+            },
+            {
+              "hash": "e492251",
+              "date": "2026-02-25",
+              "message": "feat: implement Phase Delta (The Arena) and related hardening"
+            },
+            {
+              "hash": "4f4a8a2",
+              "date": "2026-02-25",
+              "message": "feat(delta): Phase Delta — The Arena social dynamics and dispute resolution\\n\\n- pHash dedup pipeline: PHashService wired into proof upload, 003_proof_hashes.sql\\n- Dispute resolution: full DisputeService (UPHELD/OVERTURNED/ESCALATED), 004_disputes.sql\\n- AdminController: 9 endpoints — dispute queue/detail/resolve, user profile, integrity adjust\\n- FeedController: REST GET /feed + SSE /feed/stream with anonymized events\\n- Tavern Board: tier badges (Diamond/Gold/Silver/Bronze), Fury of Week spotlight\\n- Mobile TavernFeed: SSE activity feed with type icons and connection indicator\\n- Gatekeeper scan: scripts/gatekeeper-scan.sh for forbidden terminology detection\\n- R2StorageService.downloadFile() for server-side media retrieval\\n- CHANGELOG v0.3.0 (Gamma) and v0.4.0 (Delta), roadmap updated"
+            },
+            {
+              "hash": "e2adf08",
+              "date": "2026-02-25",
+              "message": "feat(gamma): Phase Gamma — Panopticon adversarial verification network\\n\\n- ProofsModule with 3-endpoint upload pipeline (upload-url, confirm-upload, get-detail)\\n- R2StorageService wired into FuryModule for signed view URLs\\n- HoneypotService with cron injection every 6h and ±5 integrity grading\\n- FuryController enhanced with signed R2 URLs in assignment responses\\n- Fury Workbench: video/image player, confidence slider, flag option, honeypot feedback\\n- ProofCaptureScreen: live-only camera, tamper-evident watermark, direct R2 upload\\n- R2 lifecycle rules: 30-day proof expiry, 7-day honeypot cleanup"
+            },
+            {
+              "hash": "6d26f96",
+              "date": "2026-02-25",
+              "message": "feat: E2G hardening — BannedUserGuard, GoalEthicsService, FuryRouterWorker, data retention policy, ledger read-path, Stripe prod guard"
+            },
+            {
+              "hash": "0352af8",
+              "date": "2026-02-25",
+              "message": "chore: save local progress"
+            },
+            {
+              "hash": "b056187",
+              "date": "2026-02-25",
+              "message": "chore: finalize Delta and Omega phase implementations"
+            },
+            {
+              "hash": "dbe197b",
+              "date": "2026-02-25",
+              "message": "feat(contracts): implement No-Contact pivot for B2C MVP"
+            }
+          ],
+          "files_changed": 5660
+        }
+      }
+    }
+  }
+}

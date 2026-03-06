@@ -1,0 +1,402 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2025-11-16",
+  "until": "2025-11-16",
+  "summary": {
+    "total_commits": 68,
+    "repos_active": 6,
+    "files_changed": 32,
+    "organs_touched": [
+      "I",
+      "II",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "fa60a41",
+              "date": "2025-11-16",
+              "message": "Add comprehensive ingestion and execution plan"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "17a9dc8",
+              "date": "2025-11-16",
+              "message": "Bump js-yaml in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "f696064",
+              "date": "2025-11-16",
+              "message": "Bump js-yaml in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "e025bea",
+              "date": "2025-11-16",
+              "message": "Comprehensive codebase optimization and modernization"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "130cf20",
+              "date": "2025-11-16",
+              "message": "feat: add critical infrastructure improvements and testing framework"
+            },
+            {
+              "hash": "130cf20",
+              "date": "2025-11-16",
+              "message": "feat: add critical infrastructure improvements and testing framework"
+            }
+          ],
+          "files_changed": 0
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "c3c9de8",
+              "date": "2025-11-16",
+              "message": "feat: Comprehensive backend API with exhaustive feature expansions"
+            },
+            {
+              "hash": "8da6f57",
+              "date": "2025-11-16",
+              "message": "Round 2: Security hardening, code quality, and development infrastructure"
+            },
+            {
+              "hash": "d794ff0",
+              "date": "2025-11-16",
+              "message": "Comprehensive optimization: Performance, memory, and repository improvements"
+            },
+            {
+              "hash": "c3c9de8",
+              "date": "2025-11-16",
+              "message": "feat: Comprehensive backend API with exhaustive feature expansions"
+            },
+            {
+              "hash": "8da6f57",
+              "date": "2025-11-16",
+              "message": "Round 2: Security hardening, code quality, and development infrastructure"
+            },
+            {
+              "hash": "d794ff0",
+              "date": "2025-11-16",
+              "message": "Comprehensive optimization: Performance, memory, and repository improvements"
+            }
+          ],
+          "files_changed": 0
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "0de139c",
+              "date": "2025-11-16",
+              "message": "Create 2025-11-16_17-14Z-fixing-neovim-configuration-error-in-vscode.md"
+            },
+            {
+              "hash": "4da3810",
+              "date": "2025-11-16",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "e076783",
+              "date": "2025-11-16",
+              "message": "Add complete consolidation summary"
+            },
+            {
+              "hash": "166f091",
+              "date": "2025-11-16",
+              "message": "Add PR closure documentation and automation script"
+            },
+            {
+              "hash": "2b9d6a2",
+              "date": "2025-11-16",
+              "message": "Add consolidation quick reference guide"
+            },
+            {
+              "hash": "3cd10eb",
+              "date": "2025-11-16",
+              "message": "Add comprehensive consolidation documentation and cleanup script"
+            },
+            {
+              "hash": "2046bfb",
+              "date": "2025-11-16",
+              "message": "Fix smart quotes in ConversationAI.ts"
+            },
+            {
+              "hash": "8c2abc4",
+              "date": "2025-11-16",
+              "message": "Add sample UCC filing data (JSON)"
+            },
+            {
+              "hash": "9c71929",
+              "date": "2025-11-16",
+              "message": "Add proof-of-concept data collection and sales materials"
+            },
+            {
+              "hash": "2543922",
+              "date": "2025-11-16",
+              "message": "Implement California State UCC collector (Priority 2)"
+            },
+            {
+              "hash": "b7f8fd4",
+              "date": "2025-11-16",
+              "message": "Integrate StateCollectorFactory with StateAgent system"
+            },
+            {
+              "hash": "0262bf7",
+              "date": "2025-11-16",
+              "message": "Add CodeQL workflow"
+            },
+            {
+              "hash": "6c25da4",
+              "date": "2025-11-16",
+              "message": "Bump react-dom and @types/react-dom"
+            },
+            {
+              "hash": "9a3c1c7",
+              "date": "2025-11-16",
+              "message": "Fix: Pin actions/labeler to full commit SHA"
+            },
+            {
+              "hash": "1bc0e18",
+              "date": "2025-11-16",
+              "message": "Fix: Remove labeler workflow"
+            },
+            {
+              "hash": "0cec39a",
+              "date": "2025-11-16",
+              "message": "Fix: Pin actions to full commit SHAs"
+            },
+            {
+              "hash": "61ecf13",
+              "date": "2025-11-16",
+              "message": "Fix: Pin actions to full commit SHAs"
+            },
+            {
+              "hash": "8fd33fc",
+              "date": "2025-11-16",
+              "message": "Fix: Pin actions to full commit SHAs"
+            },
+            {
+              "hash": "71a1d89",
+              "date": "2025-11-16",
+              "message": "Fix: Pin actions/labeler to full commit SHA"
+            },
+            {
+              "hash": "a09012c",
+              "date": "2025-11-16",
+              "message": "Bump the npm_and_yarn group across 1 directory with 2 updates"
+            },
+            {
+              "hash": "62b26e7",
+              "date": "2025-11-16",
+              "message": "Add comprehensive recursive, generative, and personalized features"
+            },
+            {
+              "hash": "a92fc40",
+              "date": "2025-11-16",
+              "message": "Add comprehensive generative, personalized, and recursive AI features"
+            },
+            {
+              "hash": "2462b51",
+              "date": "2025-11-16",
+              "message": "Implement NY State UCC collector with rate limiting"
+            },
+            {
+              "hash": "ba52b29",
+              "date": "2025-11-16",
+              "message": "Update documentation for multi-agent data collection system"
+            },
+            {
+              "hash": "34a2a7b",
+              "date": "2025-11-16",
+              "message": "Add comprehensive state implementation plan for priority states"
+            },
+            {
+              "hash": "6314470",
+              "date": "2025-11-16",
+              "message": "Add comprehensive multi-agent system for distributed data collection"
+            },
+            {
+              "hash": "937067d",
+              "date": "2025-11-16",
+              "message": "Exhaustive repository improvements and organization"
+            },
+            {
+              "hash": "0de139c",
+              "date": "2025-11-16",
+              "message": "Create 2025-11-16_17-14Z-fixing-neovim-configuration-error-in-vscode.md"
+            },
+            {
+              "hash": "4da3810",
+              "date": "2025-11-16",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "e076783",
+              "date": "2025-11-16",
+              "message": "Add complete consolidation summary"
+            },
+            {
+              "hash": "166f091",
+              "date": "2025-11-16",
+              "message": "Add PR closure documentation and automation script"
+            },
+            {
+              "hash": "2b9d6a2",
+              "date": "2025-11-16",
+              "message": "Add consolidation quick reference guide"
+            },
+            {
+              "hash": "3cd10eb",
+              "date": "2025-11-16",
+              "message": "Add comprehensive consolidation documentation and cleanup script"
+            },
+            {
+              "hash": "2046bfb",
+              "date": "2025-11-16",
+              "message": "Fix smart quotes in ConversationAI.ts"
+            },
+            {
+              "hash": "8c2abc4",
+              "date": "2025-11-16",
+              "message": "Add sample UCC filing data (JSON)"
+            },
+            {
+              "hash": "9c71929",
+              "date": "2025-11-16",
+              "message": "Add proof-of-concept data collection and sales materials"
+            },
+            {
+              "hash": "2543922",
+              "date": "2025-11-16",
+              "message": "Implement California State UCC collector (Priority 2)"
+            },
+            {
+              "hash": "b7f8fd4",
+              "date": "2025-11-16",
+              "message": "Integrate StateCollectorFactory with StateAgent system"
+            },
+            {
+              "hash": "0262bf7",
+              "date": "2025-11-16",
+              "message": "Add CodeQL workflow"
+            },
+            {
+              "hash": "6c25da4",
+              "date": "2025-11-16",
+              "message": "Bump react-dom and @types/react-dom"
+            },
+            {
+              "hash": "9a3c1c7",
+              "date": "2025-11-16",
+              "message": "Fix: Pin actions/labeler to full commit SHA"
+            },
+            {
+              "hash": "1bc0e18",
+              "date": "2025-11-16",
+              "message": "Fix: Remove labeler workflow"
+            },
+            {
+              "hash": "0cec39a",
+              "date": "2025-11-16",
+              "message": "Fix: Pin actions to full commit SHAs"
+            },
+            {
+              "hash": "61ecf13",
+              "date": "2025-11-16",
+              "message": "Fix: Pin actions to full commit SHAs"
+            },
+            {
+              "hash": "8fd33fc",
+              "date": "2025-11-16",
+              "message": "Fix: Pin actions to full commit SHAs"
+            },
+            {
+              "hash": "71a1d89",
+              "date": "2025-11-16",
+              "message": "Fix: Pin actions/labeler to full commit SHA"
+            },
+            {
+              "hash": "a09012c",
+              "date": "2025-11-16",
+              "message": "Bump the npm_and_yarn group across 1 directory with 2 updates"
+            },
+            {
+              "hash": "62b26e7",
+              "date": "2025-11-16",
+              "message": "Add comprehensive recursive, generative, and personalized features"
+            },
+            {
+              "hash": "a92fc40",
+              "date": "2025-11-16",
+              "message": "Add comprehensive generative, personalized, and recursive AI features"
+            },
+            {
+              "hash": "2462b51",
+              "date": "2025-11-16",
+              "message": "Implement NY State UCC collector with rate limiting"
+            },
+            {
+              "hash": "ba52b29",
+              "date": "2025-11-16",
+              "message": "Update documentation for multi-agent data collection system"
+            },
+            {
+              "hash": "34a2a7b",
+              "date": "2025-11-16",
+              "message": "Add comprehensive state implementation plan for priority states"
+            },
+            {
+              "hash": "6314470",
+              "date": "2025-11-16",
+              "message": "Add comprehensive multi-agent system for distributed data collection"
+            },
+            {
+              "hash": "937067d",
+              "date": "2025-11-16",
+              "message": "Exhaustive repository improvements and organization"
+            }
+          ],
+          "files_changed": 27
+        },
+        "virgil-training-overlay": {
+          "commits": [
+            {
+              "hash": "07c3c85",
+              "date": "2025-11-16",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "07c3c85",
+              "date": "2025-11-16",
+              "message": "Add files via upload"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}

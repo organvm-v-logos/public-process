@@ -1,0 +1,121 @@
+{
+  "generated": "2026-03-06T00:39:33Z",
+  "since": "2025-12-12",
+  "until": "2025-12-12",
+  "summary": {
+    "total_commits": 17,
+    "repos_active": 2,
+    "files_changed": 77,
+    "organs_touched": [
+      "II",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "0eaa6e5",
+              "date": "2025-12-12",
+              "message": "Merge Jules' open tasks: Complete Agent Framework and Orchestrator"
+            },
+            {
+              "hash": "b217649",
+              "date": "2025-12-12",
+              "message": "feat: Implement Event Pipeline with ingestion and prioritization"
+            },
+            {
+              "hash": "699420b",
+              "date": "2025-12-12",
+              "message": "feat: Implement Agent, Orchestrator, and API dependencies"
+            },
+            {
+              "hash": "a8ede46",
+              "date": "2025-12-12",
+              "message": "feat: Update NLP module with OpenAI integration and fallbacks"
+            },
+            {
+              "hash": "6953fa7",
+              "date": "2025-12-12",
+              "message": "feat: Implement System Orchestrator and update backend todos"
+            },
+            {
+              "hash": "5d55c69",
+              "date": "2025-12-12",
+              "message": "feat: Implement concrete Agent class and comprehensive project roadmap"
+            },
+            {
+              "hash": "87d3760",
+              "date": "2025-12-12",
+              "message": "feat: Add project roadmap and exhaustive todo lists"
+            }
+          ],
+          "files_changed": 21
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "1c6b902",
+              "date": "2025-12-12",
+              "message": "Bump react-day-picker from 9.11.1 to 9.12.0"
+            },
+            {
+              "hash": "a76fc6e",
+              "date": "2025-12-12",
+              "message": "Bump @github/spark from 0.39.144 to 0.44.5"
+            },
+            {
+              "hash": "f40eec7",
+              "date": "2025-12-12",
+              "message": "Bump react-hook-form from 7.66.0 to 7.68.0"
+            },
+            {
+              "hash": "cdb1901",
+              "date": "2025-12-12",
+              "message": "Bump zod from 3.25.76 to 4.1.13"
+            },
+            {
+              "hash": "dcdc3a2",
+              "date": "2025-12-12",
+              "message": "Bump @eslint/js from 9.38.0 to 9.39.1"
+            },
+            {
+              "hash": "1c6b902",
+              "date": "2025-12-12",
+              "message": "Bump react-day-picker from 9.11.1 to 9.12.0"
+            },
+            {
+              "hash": "a76fc6e",
+              "date": "2025-12-12",
+              "message": "Bump @github/spark from 0.39.144 to 0.44.5"
+            },
+            {
+              "hash": "f40eec7",
+              "date": "2025-12-12",
+              "message": "Bump react-hook-form from 7.66.0 to 7.68.0"
+            },
+            {
+              "hash": "cdb1901",
+              "date": "2025-12-12",
+              "message": "Bump zod from 3.25.76 to 4.1.13"
+            },
+            {
+              "hash": "dcdc3a2",
+              "date": "2025-12-12",
+              "message": "Bump @eslint/js from 9.38.0 to 9.39.1"
+            }
+          ],
+          "files_changed": 56
+        }
+      }
+    }
+  }
+}

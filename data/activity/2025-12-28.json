@@ -1,0 +1,317 @@
+{
+  "generated": "2026-03-06T00:39:35Z",
+  "since": "2025-12-28",
+  "until": "2025-12-28",
+  "summary": {
+    "total_commits": 47,
+    "repos_active": 10,
+    "files_changed": 307,
+    "organs_touched": [
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "academic-publication": {
+          "commits": [
+            {
+              "hash": "66f3346",
+              "date": "2025-12-28",
+              "message": "chore: metasystem sync (teleological audit)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "artist-toolkit-and-templates": {
+          "commits": [
+            {
+              "hash": "a16a290",
+              "date": "2025-12-28",
+              "message": "chore: metasystem sync (teleological audit)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "client-sdk": {
+          "commits": [
+            {
+              "hash": "289f015",
+              "date": "2025-12-28",
+              "message": "chore: metasystem sync (teleological audit)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "metasystem-master": {
+          "commits": [
+            {
+              "hash": "50aa6a8",
+              "date": "2025-12-28",
+              "message": "feat(planning): phase 5 ritual and phase 6 evolution roadmap"
+            },
+            {
+              "hash": "46e7b27",
+              "date": "2025-12-28",
+              "message": "docs(meta): record incident postmortem for genesis session"
+            },
+            {
+              "hash": "1c315ed",
+              "date": "2025-12-28",
+              "message": "feat(activation): deployed critic agent and architect indexer"
+            },
+            {
+              "hash": "f7b0283",
+              "date": "2025-12-28",
+              "message": "ci(meta): add script validation workflow"
+            },
+            {
+              "hash": "331e29b",
+              "date": "2025-12-28",
+              "message": "feat(guild): prepared infrastructure and pipelines"
+            },
+            {
+              "hash": "a224298",
+              "date": "2025-12-28",
+              "message": "feat(restoration): phase 1 substantially complete (45/52 repos)"
+            },
+            {
+              "hash": "046502a",
+              "date": "2025-12-28",
+              "message": "docs: add master todo list"
+            },
+            {
+              "hash": "7e3fc2b",
+              "date": "2025-12-28",
+              "message": "feat(planning): established master execution plan"
+            },
+            {
+              "hash": "573daea",
+              "date": "2025-12-28",
+              "message": "chore(sync): updated origin logs and inoculation status"
+            },
+            {
+              "hash": "41bf054",
+              "date": "2025-12-28",
+              "message": "feat(genesis): establish metasystem root and inventory"
+            },
+            {
+              "hash": "654e224",
+              "date": "2025-12-28",
+              "message": "chore: metasystem sync (teleological audit)"
+            },
+            {
+              "hash": "cd2e275",
+              "date": "2025-12-28",
+              "message": "chore: metasystem sync (teleological audit)"
+            },
+            {
+              "hash": "5f1f64b",
+              "date": "2025-12-28",
+              "message": "chore: metasystem sync (teleological audit)"
+            },
+            {
+              "hash": "aa2cc1f",
+              "date": "2025-12-28",
+              "message": "chore: metasystem sync (teleological audit)"
+            }
+          ],
+          "files_changed": 225
+        },
+        "performance-sdk": {
+          "commits": [
+            {
+              "hash": "2771ece",
+              "date": "2025-12-28",
+              "message": "chore: metasystem sync (teleological audit)"
+            }
+          ],
+          "files_changed": 31
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "679c49c",
+              "date": "2025-12-28",
+              "message": "Revert \"Revert \"feat: Add autonomous video production pipeline for investor/employer presentations\"\""
+            },
+            {
+              "hash": "84b6e56",
+              "date": "2025-12-28",
+              "message": "Revert \"feat: Add autonomous video production pipeline for investor/employer presentations\""
+            },
+            {
+              "hash": "1198c26",
+              "date": "2025-12-28",
+              "message": "fix: Address PR review feedback for video generation"
+            },
+            {
+              "hash": "851fc6d",
+              "date": "2025-12-28",
+              "message": "docs: Add video generation script and complete documentation"
+            },
+            {
+              "hash": "1256f06",
+              "date": "2025-12-28",
+              "message": "feat: Generate portfolio video presentation with audio narration"
+            },
+            {
+              "hash": "607d8a3",
+              "date": "2025-12-28",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "679c49c",
+              "date": "2025-12-28",
+              "message": "Revert \"Revert \"feat: Add autonomous video production pipeline for investor/employer presentations\"\""
+            },
+            {
+              "hash": "84b6e56",
+              "date": "2025-12-28",
+              "message": "Revert \"feat: Add autonomous video production pipeline for investor/employer presentations\""
+            },
+            {
+              "hash": "1198c26",
+              "date": "2025-12-28",
+              "message": "fix: Address PR review feedback for video generation"
+            },
+            {
+              "hash": "851fc6d",
+              "date": "2025-12-28",
+              "message": "docs: Add video generation script and complete documentation"
+            },
+            {
+              "hash": "1256f06",
+              "date": "2025-12-28",
+              "message": "feat: Generate portfolio video presentation with audio narration"
+            },
+            {
+              "hash": "607d8a3",
+              "date": "2025-12-28",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 21
+        },
+        "enterprise-plugin": {
+          "commits": [
+            {
+              "hash": "3535d2d",
+              "date": "2025-12-28",
+              "message": "ci(guild): enable profane standards workflow"
+            },
+            {
+              "hash": "3535d2d",
+              "date": "2025-12-28",
+              "message": "ci(guild): enable profane standards workflow"
+            }
+          ],
+          "files_changed": 2
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "a5ae0b5",
+              "date": "2025-12-28",
+              "message": "ci(guild): enable profane standards workflow"
+            },
+            {
+              "hash": "c22eed7",
+              "date": "2025-12-28",
+              "message": "chore: metasystem sync (teleological audit)"
+            },
+            {
+              "hash": "a5ae0b5",
+              "date": "2025-12-28",
+              "message": "ci(guild): enable profane standards workflow"
+            },
+            {
+              "hash": "c22eed7",
+              "date": "2025-12-28",
+              "message": "chore: metasystem sync (teleological audit)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "virgil-training-overlay": {
+          "commits": [
+            {
+              "hash": "c8387e4",
+              "date": "2025-12-28",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "c8387e4",
+              "date": "2025-12-28",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "7164e2c",
+              "date": "2025-12-28",
+              "message": "Add comprehensive dotfiles cleanup guide and fix doc isolation"
+            },
+            {
+              "hash": "03684c0",
+              "date": "2025-12-28",
+              "message": "Complete system organization and plugin documentation"
+            },
+            {
+              "hash": "0a3ac6c",
+              "date": "2025-12-28",
+              "message": "Add .local/share/file-context/manifests/projects.yaml Add .local/share/file-context/manifests/system-notes.yaml Add Documents/Notes/System/AGENTS.md"
+            },
+            {
+              "hash": "f9271c4",
+              "date": "2025-12-28",
+              "message": "Add universal file organization system"
+            },
+            {
+              "hash": "2d66e84",
+              "date": "2025-12-28",
+              "message": "Add multi-OS support and complete Phase 4-5"
+            },
+            {
+              "hash": "6727a87",
+              "date": "2025-12-28",
+              "message": "Add .config/gh/config.yml Add .config/gh/hosts.yml"
+            },
+            {
+              "hash": "314e1d6",
+              "date": "2025-12-28",
+              "message": "Add template support for .gitconfig with email/name variables"
+            },
+            {
+              "hash": "a59c41b",
+              "date": "2025-12-28",
+              "message": "Add .gitconfig and kitty terminal config"
+            },
+            {
+              "hash": "50a9dec",
+              "date": "2025-12-28",
+              "message": "Initial commit: Add .zshrc"
+            }
+          ],
+          "files_changed": 23
+        }
+      }
+    }
+  }
+}

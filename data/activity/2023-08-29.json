@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-08-29",
+  "until": "2023-08-29",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 5,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "2e176e0",
+              "date": "2023-08-29",
+              "message": "CI build"
+            },
+            {
+              "hash": "1a55f7d",
+              "date": "2023-08-29",
+              "message": "chore: release userscript 2.14.3"
+            }
+          ],
+          "files_changed": 5
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2026-02-08",
+  "until": "2026-02-08",
+  "summary": {
+    "total_commits": 75,
+    "repos_active": 8,
+    "files_changed": 386,
+    "organs_touched": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "ddd1a99",
+              "date": "2026-02-08",
+              "message": "feat(federation): queue scans with job control and UI"
+            },
+            {
+              "hash": "abf4d4c",
+              "date": "2026-02-08",
+              "message": "feat(federation): add federated indexing API and web UI tab"
+            },
+            {
+              "hash": "c3b311c",
+              "date": "2026-02-08",
+              "message": "feat: share search db handle and harden test/ci stability"
+            },
+            {
+              "hash": "3a47ca0",
+              "date": "2026-02-08",
+              "message": "fix: tighten config and web tab typings"
+            },
+            {
+              "hash": "d70ae23",
+              "date": "2026-02-08",
+              "message": "feat(web-ui): complete react workspace with profile notifications and exports"
+            },
+            {
+              "hash": "9f6d426",
+              "date": "2026-02-08",
+              "message": "fix(test): stabilize taxonomy and collections parallel suite behavior"
+            },
+            {
+              "hash": "112c5aa",
+              "date": "2026-02-08",
+              "message": "test(ci): stabilize flaky suites and add reliability watch"
+            },
+            {
+              "hash": "2b47506",
+              "date": "2026-02-08",
+              "message": "feat(test,api): stabilize search stack with shared db wiring and ci gating"
+            },
+            {
+              "hash": "a2c3f83",
+              "date": "2026-02-08",
+              "message": "fix: restore ai config typing and embeddings service compatibility"
+            },
+            {
+              "hash": "c2c85c7",
+              "date": "2026-02-08",
+              "message": "feat: add intake organizer workflow with dry-run/apply and hardlink dedupe"
+            }
+          ],
+          "files_changed": 59
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "ddd1a99",
+              "date": "2026-02-08",
+              "message": "feat(federation): queue scans with job control and UI"
+            },
+            {
+              "hash": "abf4d4c",
+              "date": "2026-02-08",
+              "message": "feat(federation): add federated indexing API and web UI tab"
+            },
+            {
+              "hash": "c3b311c",
+              "date": "2026-02-08",
+              "message": "feat: share search db handle and harden test/ci stability"
+            },
+            {
+              "hash": "3a47ca0",
+              "date": "2026-02-08",
+              "message": "fix: tighten config and web tab typings"
+            },
+            {
+              "hash": "d70ae23",
+              "date": "2026-02-08",
+              "message": "feat(web-ui): complete react workspace with profile notifications and exports"
+            },
+            {
+              "hash": "9f6d426",
+              "date": "2026-02-08",
+              "message": "fix(test): stabilize taxonomy and collections parallel suite behavior"
+            },
+            {
+              "hash": "112c5aa",
+              "date": "2026-02-08",
+              "message": "test(ci): stabilize flaky suites and add reliability watch"
+            },
+            {
+              "hash": "2b47506",
+              "date": "2026-02-08",
+              "message": "feat(test,api): stabilize search stack with shared db wiring and ci gating"
+            },
+            {
+              "hash": "a2c3f83",
+              "date": "2026-02-08",
+              "message": "fix: restore ai config typing and embeddings service compatibility"
+            },
+            {
+              "hash": "c2c85c7",
+              "date": "2026-02-08",
+              "message": "feat: add intake organizer workflow with dry-run/apply and hardlink dedupe"
+            }
+          ],
+          "files_changed": 59
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "ddd1a99",
+              "date": "2026-02-08",
+              "message": "feat(federation): queue scans with job control and UI"
+            },
+            {
+              "hash": "abf4d4c",
+              "date": "2026-02-08",
+              "message": "feat(federation): add federated indexing API and web UI tab"
+            },
+            {
+              "hash": "c3b311c",
+              "date": "2026-02-08",
+              "message": "feat: share search db handle and harden test/ci stability"
+            },
+            {
+              "hash": "3a47ca0",
+              "date": "2026-02-08",
+              "message": "fix: tighten config and web tab typings"
+            },
+            {
+              "hash": "d70ae23",
+              "date": "2026-02-08",
+              "message": "feat(web-ui): complete react workspace with profile notifications and exports"
+            },
+            {
+              "hash": "9f6d426",
+              "date": "2026-02-08",
+              "message": "fix(test): stabilize taxonomy and collections parallel suite behavior"
+            },
+            {
+              "hash": "112c5aa",
+              "date": "2026-02-08",
+              "message": "test(ci): stabilize flaky suites and add reliability watch"
+            },
+            {
+              "hash": "2b47506",
+              "date": "2026-02-08",
+              "message": "feat(test,api): stabilize search stack with shared db wiring and ci gating"
+            },
+            {
+              "hash": "a2c3f83",
+              "date": "2026-02-08",
+              "message": "fix: restore ai config typing and embeddings service compatibility"
+            },
+            {
+              "hash": "c2c85c7",
+              "date": "2026-02-08",
+              "message": "feat: add intake organizer workflow with dry-run/apply and hardlink dedupe"
+            }
+          ],
+          "files_changed": 59
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "ddd1a99",
+              "date": "2026-02-08",
+              "message": "feat(federation): queue scans with job control and UI"
+            },
+            {
+              "hash": "abf4d4c",
+              "date": "2026-02-08",
+              "message": "feat(federation): add federated indexing API and web UI tab"
+            },
+            {
+              "hash": "c3b311c",
+              "date": "2026-02-08",
+              "message": "feat: share search db handle and harden test/ci stability"
+            },
+            {
+              "hash": "3a47ca0",
+              "date": "2026-02-08",
+              "message": "fix: tighten config and web tab typings"
+            },
+            {
+              "hash": "d70ae23",
+              "date": "2026-02-08",
+              "message": "feat(web-ui): complete react workspace with profile notifications and exports"
+            },
+            {
+              "hash": "9f6d426",
+              "date": "2026-02-08",
+              "message": "fix(test): stabilize taxonomy and collections parallel suite behavior"
+            },
+            {
+              "hash": "112c5aa",
+              "date": "2026-02-08",
+              "message": "test(ci): stabilize flaky suites and add reliability watch"
+            },
+            {
+              "hash": "2b47506",
+              "date": "2026-02-08",
+              "message": "feat(test,api): stabilize search stack with shared db wiring and ci gating"
+            },
+            {
+              "hash": "a2c3f83",
+              "date": "2026-02-08",
+              "message": "fix: restore ai config typing and embeddings service compatibility"
+            },
+            {
+              "hash": "c2c85c7",
+              "date": "2026-02-08",
+              "message": "feat: add intake organizer workflow with dry-run/apply and hardlink dedupe"
+            },
+            {
+              "hash": "ddd1a99",
+              "date": "2026-02-08",
+              "message": "feat(federation): queue scans with job control and UI"
+            },
+            {
+              "hash": "abf4d4c",
+              "date": "2026-02-08",
+              "message": "feat(federation): add federated indexing API and web UI tab"
+            },
+            {
+              "hash": "c3b311c",
+              "date": "2026-02-08",
+              "message": "feat: share search db handle and harden test/ci stability"
+            },
+            {
+              "hash": "3a47ca0",
+              "date": "2026-02-08",
+              "message": "fix: tighten config and web tab typings"
+            },
+            {
+              "hash": "d70ae23",
+              "date": "2026-02-08",
+              "message": "feat(web-ui): complete react workspace with profile notifications and exports"
+            },
+            {
+              "hash": "9f6d426",
+              "date": "2026-02-08",
+              "message": "fix(test): stabilize taxonomy and collections parallel suite behavior"
+            },
+            {
+              "hash": "112c5aa",
+              "date": "2026-02-08",
+              "message": "test(ci): stabilize flaky suites and add reliability watch"
+            },
+            {
+              "hash": "2b47506",
+              "date": "2026-02-08",
+              "message": "feat(test,api): stabilize search stack with shared db wiring and ci gating"
+            },
+            {
+              "hash": "a2c3f83",
+              "date": "2026-02-08",
+              "message": "fix: restore ai config typing and embeddings service compatibility"
+            },
+            {
+              "hash": "c2c85c7",
+              "date": "2026-02-08",
+              "message": "feat: add intake organizer workflow with dry-run/apply and hardlink dedupe"
+            }
+          ],
+          "files_changed": 59
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "ddd1a99",
+              "date": "2026-02-08",
+              "message": "feat(federation): queue scans with job control and UI"
+            },
+            {
+              "hash": "abf4d4c",
+              "date": "2026-02-08",
+              "message": "feat(federation): add federated indexing API and web UI tab"
+            },
+            {
+              "hash": "c3b311c",
+              "date": "2026-02-08",
+              "message": "feat: share search db handle and harden test/ci stability"
+            },
+            {
+              "hash": "3a47ca0",
+              "date": "2026-02-08",
+              "message": "fix: tighten config and web tab typings"
+            },
+            {
+              "hash": "d70ae23",
+              "date": "2026-02-08",
+              "message": "feat(web-ui): complete react workspace with profile notifications and exports"
+            },
+            {
+              "hash": "9f6d426",
+              "date": "2026-02-08",
+              "message": "fix(test): stabilize taxonomy and collections parallel suite behavior"
+            },
+            {
+              "hash": "112c5aa",
+              "date": "2026-02-08",
+              "message": "test(ci): stabilize flaky suites and add reliability watch"
+            },
+            {
+              "hash": "2b47506",
+              "date": "2026-02-08",
+              "message": "feat(test,api): stabilize search stack with shared db wiring and ci gating"
+            },
+            {
+              "hash": "a2c3f83",
+              "date": "2026-02-08",
+              "message": "fix: restore ai config typing and embeddings service compatibility"
+            },
+            {
+              "hash": "c2c85c7",
+              "date": "2026-02-08",
+              "message": "feat: add intake organizer workflow with dry-run/apply and hardlink dedupe"
+            }
+          ],
+          "files_changed": 59
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "ddd1a99",
+              "date": "2026-02-08",
+              "message": "feat(federation): queue scans with job control and UI"
+            },
+            {
+              "hash": "abf4d4c",
+              "date": "2026-02-08",
+              "message": "feat(federation): add federated indexing API and web UI tab"
+            },
+            {
+              "hash": "c3b311c",
+              "date": "2026-02-08",
+              "message": "feat: share search db handle and harden test/ci stability"
+            },
+            {
+              "hash": "3a47ca0",
+              "date": "2026-02-08",
+              "message": "fix: tighten config and web tab typings"
+            },
+            {
+              "hash": "d70ae23",
+              "date": "2026-02-08",
+              "message": "feat(web-ui): complete react workspace with profile notifications and exports"
+            },
+            {
+              "hash": "9f6d426",
+              "date": "2026-02-08",
+              "message": "fix(test): stabilize taxonomy and collections parallel suite behavior"
+            },
+            {
+              "hash": "112c5aa",
+              "date": "2026-02-08",
+              "message": "test(ci): stabilize flaky suites and add reliability watch"
+            },
+            {
+              "hash": "2b47506",
+              "date": "2026-02-08",
+              "message": "feat(test,api): stabilize search stack with shared db wiring and ci gating"
+            },
+            {
+              "hash": "a2c3f83",
+              "date": "2026-02-08",
+              "message": "fix: restore ai config typing and embeddings service compatibility"
+            },
+            {
+              "hash": "c2c85c7",
+              "date": "2026-02-08",
+              "message": "feat: add intake organizer workflow with dry-run/apply and hardlink dedupe"
+            }
+          ],
+          "files_changed": 59
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "agentic-titan": {
+          "commits": [
+            {
+              "hash": "4287bab",
+              "date": "2026-02-08",
+              "message": "Execute Phase 2 & 4: Epistemic Documentation & Operational Hardening"
+            },
+            {
+              "hash": "f9b9919",
+              "date": "2026-02-08",
+              "message": "Execute Phase 1 & 3: Structural Integrity & The Grounding Loop"
+            },
+            {
+              "hash": "ddd4974",
+              "date": "2026-02-08",
+              "message": "Integrate 'absorb-alchemize' research: Advanced Archetypes, Topologies & Epistemic Observability"
+            },
+            {
+              "hash": "60b9965",
+              "date": "2026-02-08",
+              "message": "Remediate critical security/performance issues & implement Phase 16/17 enhancements"
+            }
+          ],
+          "files_changed": 29
+        },
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "3b02d04",
+              "date": "2026-02-08",
+              "message": "Add .local/share/gemini/settings.json Update .zshenv Add .gemini"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

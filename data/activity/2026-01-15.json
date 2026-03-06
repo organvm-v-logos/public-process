@@ -1,0 +1,182 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2026-01-15",
+  "until": "2026-01-15",
+  "summary": {
+    "total_commits": 22,
+    "repos_active": 8,
+    "files_changed": 437,
+    "organs_touched": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "b94d0a4",
+              "date": "2026-01-15",
+              "message": "feat: align schema and stabilize tests"
+            }
+          ],
+          "files_changed": 55
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "b94d0a4",
+              "date": "2026-01-15",
+              "message": "feat: align schema and stabilize tests"
+            }
+          ],
+          "files_changed": 55
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "b94d0a4",
+              "date": "2026-01-15",
+              "message": "feat: align schema and stabilize tests"
+            }
+          ],
+          "files_changed": 55
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "b94d0a4",
+              "date": "2026-01-15",
+              "message": "feat: align schema and stabilize tests"
+            },
+            {
+              "hash": "b94d0a4",
+              "date": "2026-01-15",
+              "message": "feat: align schema and stabilize tests"
+            }
+          ],
+          "files_changed": 55
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "b94d0a4",
+              "date": "2026-01-15",
+              "message": "feat: align schema and stabilize tests"
+            }
+          ],
+          "files_changed": 55
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "47c2775",
+              "date": "2026-01-15",
+              "message": "docs: Add database rollback procedures"
+            },
+            {
+              "hash": "c05b077",
+              "date": "2026-01-15",
+              "message": "docs: Complete environment variables documentation"
+            },
+            {
+              "hash": "8ea66a9",
+              "date": "2026-01-15",
+              "message": "docs: Add production environment template"
+            },
+            {
+              "hash": "35e8a6a",
+              "date": "2026-01-15",
+              "message": "fix: resolve build errors in api and core packages"
+            },
+            {
+              "hash": "a0aaa5a",
+              "date": "2026-01-15",
+              "message": "fix(A1): Resolve schema validation and type errors in Core and Orchestrator"
+            },
+            {
+              "hash": "c1b41f7",
+              "date": "2026-01-15",
+              "message": "test(phase1): add comprehensive billing & licensing test suites (B3)"
+            },
+            {
+              "hash": "47c2775",
+              "date": "2026-01-15",
+              "message": "docs: Add database rollback procedures"
+            },
+            {
+              "hash": "c05b077",
+              "date": "2026-01-15",
+              "message": "docs: Complete environment variables documentation"
+            },
+            {
+              "hash": "8ea66a9",
+              "date": "2026-01-15",
+              "message": "docs: Add production environment template"
+            },
+            {
+              "hash": "35e8a6a",
+              "date": "2026-01-15",
+              "message": "fix: resolve build errors in api and core packages"
+            },
+            {
+              "hash": "a0aaa5a",
+              "date": "2026-01-15",
+              "message": "fix(A1): Resolve schema validation and type errors in Core and Orchestrator"
+            },
+            {
+              "hash": "c1b41f7",
+              "date": "2026-01-15",
+              "message": "test(phase1): add comprehensive billing & licensing test suites (B3)"
+            }
+          ],
+          "files_changed": 105
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "b94d0a4",
+              "date": "2026-01-15",
+              "message": "feat: align schema and stabilize tests"
+            }
+          ],
+          "files_changed": 55
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "61fb53e",
+              "date": "2026-01-15",
+              "message": "remove sponsor"
+            },
+            {
+              "hash": "6e60c3d",
+              "date": "2026-01-15",
+              "message": "edit tnc"
+            },
+            {
+              "hash": "21007bc",
+              "date": "2026-01-15",
+              "message": "Update README with Claude Code CLI instructions (#170)"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}

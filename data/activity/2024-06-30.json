@@ -1,0 +1,45 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2024-06-30",
+  "until": "2024-06-30",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 1,
+    "files_changed": 0,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "6189cc0",
+              "date": "2024-06-30",
+              "message": "fix: improve language detection by respecting oai language setting"
+            },
+            {
+              "hash": "69d0deb",
+              "date": "2024-06-30",
+              "message": "fix: fix missing toggle style"
+            },
+            {
+              "hash": "06e1a9c",
+              "date": "2024-06-30",
+              "message": "chore: bump dev deps"
+            },
+            {
+              "hash": "9249279",
+              "date": "2024-06-30",
+              "message": "fix: let html export's max width adapt to the screen size intead of the fixed 800px"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2025-11-03",
+  "until": "2025-11-03",
+  "summary": {
+    "total_commits": 31,
+    "repos_active": 4,
+    "files_changed": 17,
+    "organs_touched": [
+      "I",
+      "II",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "c2dcebb",
+              "date": "2025-11-03",
+              "message": "Address code review comments in tests"
+            },
+            {
+              "hash": "9efccf1",
+              "date": "2025-11-03",
+              "message": "Fix deduplicator not being reset between location scans"
+            },
+            {
+              "hash": "e8111db",
+              "date": "2025-11-03",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "22137d5",
+              "date": "2025-11-03",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "c2cbd8b",
+              "date": "2025-11-03",
+              "message": "Add comprehensive session summary and documentation"
+            },
+            {
+              "hash": "4c62ba1",
+              "date": "2025-11-03",
+              "message": "Build Akademia chamber - Academic & scholarly content hub"
+            },
+            {
+              "hash": "f405816",
+              "date": "2025-11-03",
+              "message": "Implement self-hosted video infrastructure with Video.js"
+            },
+            {
+              "hash": "93a63d3",
+              "date": "2025-11-03",
+              "message": "Implement self-hosted audio infrastructure with Howler.js"
+            }
+          ],
+          "files_changed": 13
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "d3ee610",
+              "date": "2025-11-03",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "12c0aac",
+              "date": "2025-11-03",
+              "message": "Add GitHub Actions workflow for labeling PRs"
+            },
+            {
+              "hash": "0861dcb",
+              "date": "2025-11-03",
+              "message": "Add Node.js CI workflow"
+            },
+            {
+              "hash": "797b7e3",
+              "date": "2025-11-03",
+              "message": "Update App.jsx"
+            },
+            {
+              "hash": "e3bc5e0",
+              "date": "2025-11-03",
+              "message": "Update App.jsx"
+            },
+            {
+              "hash": "28f29ed",
+              "date": "2025-11-03",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3ee0b0d",
+              "date": "2025-11-03",
+              "message": "docs: Add comprehensive critical analysis and evolution roadmap"
+            },
+            {
+              "hash": "8b1414c",
+              "date": "2025-11-03",
+              "message": "feat: Add intelligent image preloading for nearby dates"
+            },
+            {
+              "hash": "085de04",
+              "date": "2025-11-03",
+              "message": "feat: Enhance error handling and boundaries"
+            },
+            {
+              "hash": "d13891b",
+              "date": "2025-11-03",
+              "message": "feat: Add comprehensive Settings Panel"
+            },
+            {
+              "hash": "d2fa32e",
+              "date": "2025-11-03",
+              "message": "feat: Add comprehensive dark mode support"
+            },
+            {
+              "hash": "9901b4e",
+              "date": "2025-11-03",
+              "message": "feat: Add interactive month calendar view"
+            },
+            {
+              "hash": "12c0aac",
+              "date": "2025-11-03",
+              "message": "Add GitHub Actions workflow for labeling PRs"
+            },
+            {
+              "hash": "0861dcb",
+              "date": "2025-11-03",
+              "message": "Add Node.js CI workflow"
+            },
+            {
+              "hash": "797b7e3",
+              "date": "2025-11-03",
+              "message": "Update App.jsx"
+            },
+            {
+              "hash": "e3bc5e0",
+              "date": "2025-11-03",
+              "message": "Update App.jsx"
+            },
+            {
+              "hash": "28f29ed",
+              "date": "2025-11-03",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3ee0b0d",
+              "date": "2025-11-03",
+              "message": "docs: Add comprehensive critical analysis and evolution roadmap"
+            },
+            {
+              "hash": "8b1414c",
+              "date": "2025-11-03",
+              "message": "feat: Add intelligent image preloading for nearby dates"
+            },
+            {
+              "hash": "085de04",
+              "date": "2025-11-03",
+              "message": "feat: Enhance error handling and boundaries"
+            },
+            {
+              "hash": "d13891b",
+              "date": "2025-11-03",
+              "message": "feat: Add comprehensive Settings Panel"
+            },
+            {
+              "hash": "d2fa32e",
+              "date": "2025-11-03",
+              "message": "feat: Add comprehensive dark mode support"
+            },
+            {
+              "hash": "9901b4e",
+              "date": "2025-11-03",
+              "message": "feat: Add interactive month calendar view"
+            }
+          ],
+          "files_changed": 4
+        }
+      }
+    }
+  }
+}
