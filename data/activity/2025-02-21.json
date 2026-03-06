@@ -1,0 +1,30 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-02-21",
+  "until": "2025-02-21",
+  "summary": {
+    "total_commits": 1,
+    "repos_active": 1,
+    "files_changed": 0,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "57c7226",
+              "date": "2025-02-21",
+              "message": "GrindrPlus: Spoof Grindr's `isMockLocationAllowed`"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

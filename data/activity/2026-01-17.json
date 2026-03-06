@@ -1,0 +1,326 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2026-01-17",
+  "until": "2026-01-17",
+  "summary": {
+    "total_commits": 55,
+    "repos_active": 5,
+    "files_changed": 45,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "0f55280",
+              "date": "2026-01-17",
+              "message": "feat: enhance interactive shell UX with shared styling"
+            }
+          ],
+          "files_changed": 6
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "510ebbb",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "df7cf2c",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "a929fe2",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "c43b519",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "57eacfc",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "8834daa",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "82f298f",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "dc2393a",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "c465d1c",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "710fa11",
+              "date": "2026-01-17",
+              "message": "chore: add stale-management.yml workflow"
+            },
+            {
+              "hash": "1660ec3",
+              "date": "2026-01-17",
+              "message": "chore: add enhanced-pr-quality.yml workflow"
+            },
+            {
+              "hash": "92c50c0",
+              "date": "2026-01-17",
+              "message": "chore: add repository-health-check.yml workflow"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "f1dd6a8",
+              "date": "2026-01-17",
+              "message": "chore: Upgrade Fastify to v5.7.1 to resolve plugin compatibility"
+            },
+            {
+              "hash": "c1e84b7",
+              "date": "2026-01-17",
+              "message": "test: Add Stripe SDK mocking and OAuth token exchange implementation"
+            },
+            {
+              "hash": "b63d9e2",
+              "date": "2026-01-17",
+              "message": "feat: Complete all 8 production workstreams (Grade A 90/100)"
+            },
+            {
+              "hash": "f1dd6a8",
+              "date": "2026-01-17",
+              "message": "chore: Upgrade Fastify to v5.7.1 to resolve plugin compatibility"
+            },
+            {
+              "hash": "c1e84b7",
+              "date": "2026-01-17",
+              "message": "test: Add Stripe SDK mocking and OAuth token exchange implementation"
+            },
+            {
+              "hash": "b63d9e2",
+              "date": "2026-01-17",
+              "message": "feat: Complete all 8 production workstreams (Grade A 90/100)"
+            }
+          ],
+          "files_changed": 30
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "510ebbb",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "df7cf2c",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "a929fe2",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "c43b519",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "57eacfc",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "8834daa",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "82f298f",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "dc2393a",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "c465d1c",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "710fa11",
+              "date": "2026-01-17",
+              "message": "chore: add stale-management.yml workflow"
+            },
+            {
+              "hash": "1660ec3",
+              "date": "2026-01-17",
+              "message": "chore: add enhanced-pr-quality.yml workflow"
+            },
+            {
+              "hash": "92c50c0",
+              "date": "2026-01-17",
+              "message": "chore: add repository-health-check.yml workflow"
+            }
+          ],
+          "files_changed": 3
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "b7203a6",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "ab23851",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "31c216b",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "a913739",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "0a3c8c1",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "1d862e5",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "540efd2",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "2fc57e1",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "a996109",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "5e55ba9",
+              "date": "2026-01-17",
+              "message": "chore: add stale-management.yml workflow"
+            },
+            {
+              "hash": "f71bcc8",
+              "date": "2026-01-17",
+              "message": "chore: add enhanced-pr-quality.yml workflow"
+            },
+            {
+              "hash": "11ccc07",
+              "date": "2026-01-17",
+              "message": "chore: add repository-health-check.yml workflow"
+            },
+            {
+              "hash": "b7203a6",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "ab23851",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "31c216b",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "a913739",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "0a3c8c1",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "1d862e5",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "540efd2",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update stale-management.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "2fc57e1",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update enhanced-pr-quality.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "a996109",
+              "date": "2026-01-17",
+              "message": "fix(workflows): update repository-health-check.yml with SHA-pinned actions"
+            },
+            {
+              "hash": "5e55ba9",
+              "date": "2026-01-17",
+              "message": "chore: add stale-management.yml workflow"
+            },
+            {
+              "hash": "f71bcc8",
+              "date": "2026-01-17",
+              "message": "chore: add enhanced-pr-quality.yml workflow"
+            },
+            {
+              "hash": "11ccc07",
+              "date": "2026-01-17",
+              "message": "chore: add repository-health-check.yml workflow"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

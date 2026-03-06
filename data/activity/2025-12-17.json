@@ -1,0 +1,350 @@
+{
+  "generated": "2026-03-06T00:39:41Z",
+  "since": "2025-12-17",
+  "until": "2025-12-17",
+  "summary": {
+    "total_commits": 62,
+    "repos_active": 4,
+    "files_changed": 69,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "55bddae",
+              "date": "2025-12-17",
+              "message": "feat(ux): improve accessibility of JournalModal filters"
+            },
+            {
+              "hash": "55bddae",
+              "date": "2025-12-17",
+              "message": "feat(ux): improve accessibility of JournalModal filters"
+            }
+          ],
+          "files_changed": 8
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "f5be789",
+              "date": "2025-12-17",
+              "message": "🛡️ Sentinel: [HIGH] Add input validation to auth routes"
+            },
+            {
+              "hash": "af39a27",
+              "date": "2025-12-17",
+              "message": "⚡ Bolt: Reuse SphereGeometry in OrbitalNodes"
+            },
+            {
+              "hash": "11086db",
+              "date": "2025-12-17",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "e306e8b",
+              "date": "2025-12-17",
+              "message": "docs: add comprehensive PR#20 review implementation summary"
+            },
+            {
+              "hash": "eacbd9a",
+              "date": "2025-12-17",
+              "message": "feat: implement high-priority PR#20 review suggestions"
+            },
+            {
+              "hash": "da3e43f",
+              "date": "2025-12-17",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "bda15eb",
+              "date": "2025-12-17",
+              "message": "feat: enhance strategy routes with offline support and user data export"
+            },
+            {
+              "hash": "807c05e",
+              "date": "2025-12-17",
+              "message": "Remove unnecessary folder reference and delete pnpm lock file"
+            },
+            {
+              "hash": "c20d04d",
+              "date": "2025-12-17",
+              "message": "feat: add rate limiting to auth endpoints"
+            },
+            {
+              "hash": "f5be789",
+              "date": "2025-12-17",
+              "message": "🛡️ Sentinel: [HIGH] Add input validation to auth routes"
+            },
+            {
+              "hash": "af39a27",
+              "date": "2025-12-17",
+              "message": "⚡ Bolt: Reuse SphereGeometry in OrbitalNodes"
+            },
+            {
+              "hash": "11086db",
+              "date": "2025-12-17",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "e306e8b",
+              "date": "2025-12-17",
+              "message": "docs: add comprehensive PR#20 review implementation summary"
+            },
+            {
+              "hash": "eacbd9a",
+              "date": "2025-12-17",
+              "message": "feat: implement high-priority PR#20 review suggestions"
+            },
+            {
+              "hash": "da3e43f",
+              "date": "2025-12-17",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "bda15eb",
+              "date": "2025-12-17",
+              "message": "feat: enhance strategy routes with offline support and user data export"
+            },
+            {
+              "hash": "807c05e",
+              "date": "2025-12-17",
+              "message": "Remove unnecessary folder reference and delete pnpm lock file"
+            },
+            {
+              "hash": "c20d04d",
+              "date": "2025-12-17",
+              "message": "feat: add rate limiting to auth endpoints"
+            }
+          ],
+          "files_changed": 24
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "abee11b",
+              "date": "2025-12-17",
+              "message": "feat: calculate team impact score based on average citations"
+            },
+            {
+              "hash": "891bd38",
+              "date": "2025-12-17",
+              "message": "Implement avgHealthGrade calculation in fetchDashboardStats"
+            },
+            {
+              "hash": "f7e6e0a",
+              "date": "2025-12-17",
+              "message": "feat: calculate new signals today in databaseService"
+            },
+            {
+              "hash": "c975483",
+              "date": "2025-12-17",
+              "message": "feat: calculate portfolio at risk and growth signals"
+            },
+            {
+              "hash": "b977add",
+              "date": "2025-12-17",
+              "message": "Implement fetchCompetitorData in databaseService"
+            },
+            {
+              "hash": "0fd6d85",
+              "date": "2025-12-17",
+              "message": "feat: Implement keyInsights parsing in GenerativeNarrativeEngine"
+            },
+            {
+              "hash": "abee11b",
+              "date": "2025-12-17",
+              "message": "feat: calculate team impact score based on average citations"
+            },
+            {
+              "hash": "891bd38",
+              "date": "2025-12-17",
+              "message": "Implement avgHealthGrade calculation in fetchDashboardStats"
+            },
+            {
+              "hash": "f7e6e0a",
+              "date": "2025-12-17",
+              "message": "feat: calculate new signals today in databaseService"
+            },
+            {
+              "hash": "c975483",
+              "date": "2025-12-17",
+              "message": "feat: calculate portfolio at risk and growth signals"
+            },
+            {
+              "hash": "b977add",
+              "date": "2025-12-17",
+              "message": "Implement fetchCompetitorData in databaseService"
+            },
+            {
+              "hash": "0fd6d85",
+              "date": "2025-12-17",
+              "message": "feat: Implement keyInsights parsing in GenerativeNarrativeEngine"
+            }
+          ],
+          "files_changed": 0
+        },
+        "sovereign-ecosystem--real-estate-luxury": {
+          "commits": [
+            {
+              "hash": "a39c9b1",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Create your first team and add members to track performance Compare multiple teams side-by-side with visual performance charts Schedule automated weekly email reports with PDF exports"
+            },
+            {
+              "hash": "21abf5b",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Export team performance charts as professional PDFs with custom branding Set up automated weekly email reports with charts sent to all team members Compare multiple teams side-by-side to identify performance trends and top performers"
+            },
+            {
+              "hash": "3f041fe",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add export functionality to download performance trend charts as images or PDFs Create automated email scheduling system that sends reports at configured intervals Add team comparison view to compare multiple teams side-by-side with visual charts"
+            },
+            {
+              "hash": "f9f4343",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add filtering by specific team members in the team leaderboard Create scheduled email templates with customizable branding and formatting Add visual charts showing team performance trends over time"
+            },
+            {
+              "hash": "756e28f",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add team leaderboard view to compare multiple users across test sessions Export test session history and comparison data to CSV for analysis Add automated testing schedule to run tests daily with email summaries"
+            },
+            {
+              "hash": "a42233f",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Configure email notifications to receive test failure alerts with retry details View the testing leaderboard to compare fastest completion times and accuracy scores Use session comparison to track your testing improvement over time"
+            },
+            {
+              "hash": "a060ea7",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add email notifications for test failures that include retry status and error details Create a leaderboard showing fastest test completion times and most modules completed Enable test result comparison to track improvement over multiple testing sessions"
+            },
+            {
+              "hash": "c374e04",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add test failure notifications with automatic retry Expand video tutorial with more AR measurement scenarios Create downloadable test completion certificates"
+            },
+            {
+              "hash": "d1c0466",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Test the voice-guided AR tutorial with audio enabled Run the collaboration test suite to verify all features work Watch the video tutorial for complete offline AR workflow"
+            },
+            {
+              "hash": "29e620d",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add video tutorial showing offline AR measurement workflow Create automated test scripts for collaboration features Implement voice-guided AR measurement tutorial for new users"
+            },
+            {
+              "hash": "23c7d1b",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Test offline mode by enabling airplane mode while taking AR measurements Create a contractor collection and start a live collaboration session with real-time comments Use AR room templates with spatial recognition to auto-detect kitchen, bedroom, or bathroom dimensions"
+            },
+            {
+              "hash": "0e520c1",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Enable live collaboration for a collection to see contractors viewing and commenting in real-time Test offline mode by disconnecting internet - measurements auto-sync when reconnected Use AR room templates with spatial recognition to auto-detect room types and apply smart measurement presets"
+            },
+            {
+              "hash": "4100299",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add real-time collaboration where multiple contractors can view and comment on measurements simultaneously Enable offline mode with automatic sync when connection restored for field measurements Create AR measurement templates for common room types with auto-labeling based on spatial recognition"
+            },
+            {
+              "hash": "a4e7d95",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add batch export to share multiple property measurements at once Enable measurement annotations with photos and voice notes Create contractor workspace with shared measurement collections"
+            },
+            {
+              "hash": "32e1263",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Enable AR measurement export to share dimensions with contractors"
+            },
+            {
+              "hash": "a39c9b1",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Create your first team and add members to track performance Compare multiple teams side-by-side with visual performance charts Schedule automated weekly email reports with PDF exports"
+            },
+            {
+              "hash": "21abf5b",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Export team performance charts as professional PDFs with custom branding Set up automated weekly email reports with charts sent to all team members Compare multiple teams side-by-side to identify performance trends and top performers"
+            },
+            {
+              "hash": "3f041fe",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add export functionality to download performance trend charts as images or PDFs Create automated email scheduling system that sends reports at configured intervals Add team comparison view to compare multiple teams side-by-side with visual charts"
+            },
+            {
+              "hash": "f9f4343",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add filtering by specific team members in the team leaderboard Create scheduled email templates with customizable branding and formatting Add visual charts showing team performance trends over time"
+            },
+            {
+              "hash": "756e28f",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add team leaderboard view to compare multiple users across test sessions Export test session history and comparison data to CSV for analysis Add automated testing schedule to run tests daily with email summaries"
+            },
+            {
+              "hash": "a42233f",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Configure email notifications to receive test failure alerts with retry details View the testing leaderboard to compare fastest completion times and accuracy scores Use session comparison to track your testing improvement over time"
+            },
+            {
+              "hash": "a060ea7",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add email notifications for test failures that include retry status and error details Create a leaderboard showing fastest test completion times and most modules completed Enable test result comparison to track improvement over multiple testing sessions"
+            },
+            {
+              "hash": "c374e04",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add test failure notifications with automatic retry Expand video tutorial with more AR measurement scenarios Create downloadable test completion certificates"
+            },
+            {
+              "hash": "d1c0466",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Test the voice-guided AR tutorial with audio enabled Run the collaboration test suite to verify all features work Watch the video tutorial for complete offline AR workflow"
+            },
+            {
+              "hash": "29e620d",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add video tutorial showing offline AR measurement workflow Create automated test scripts for collaboration features Implement voice-guided AR measurement tutorial for new users"
+            },
+            {
+              "hash": "23c7d1b",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Test offline mode by enabling airplane mode while taking AR measurements Create a contractor collection and start a live collaboration session with real-time comments Use AR room templates with spatial recognition to auto-detect kitchen, bedroom, or bathroom dimensions"
+            },
+            {
+              "hash": "0e520c1",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Enable live collaboration for a collection to see contractors viewing and commenting in real-time Test offline mode by disconnecting internet - measurements auto-sync when reconnected Use AR room templates with spatial recognition to auto-detect room types and apply smart measurement presets"
+            },
+            {
+              "hash": "4100299",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add real-time collaboration where multiple contractors can view and comment on measurements simultaneously Enable offline mode with automatic sync when connection restored for field measurements Create AR measurement templates for common room types with auto-labeling based on spatial recognition"
+            },
+            {
+              "hash": "a4e7d95",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Add batch export to share multiple property measurements at once Enable measurement annotations with photos and voice notes Create contractor workspace with shared measurement collections"
+            },
+            {
+              "hash": "32e1263",
+              "date": "2025-12-17",
+              "message": "Generated by Spark: Enable AR measurement export to share dimensions with contractors"
+            }
+          ],
+          "files_changed": 37
+        }
+      }
+    }
+  }
+}

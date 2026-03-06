@@ -1,0 +1,195 @@
+{
+  "generated": "2026-03-06T00:39:37Z",
+  "since": "2025-12-20",
+  "until": "2025-12-20",
+  "summary": {
+    "total_commits": 30,
+    "repos_active": 5,
+    "files_changed": 10,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "c6ad06b",
+              "date": "2025-12-20",
+              "message": "Add portfolio video index for easy navigation of all resources"
+            },
+            {
+              "hash": "b711ab0",
+              "date": "2025-12-20",
+              "message": "Add comprehensive hiring portfolio video script and production resources"
+            },
+            {
+              "hash": "f22b93d",
+              "date": "2025-12-20",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "c6ad06b",
+              "date": "2025-12-20",
+              "message": "Add portfolio video index for easy navigation of all resources"
+            },
+            {
+              "hash": "b711ab0",
+              "date": "2025-12-20",
+              "message": "Add comprehensive hiring portfolio video script and production resources"
+            },
+            {
+              "hash": "f22b93d",
+              "date": "2025-12-20",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "2be4d42",
+              "date": "2025-12-20",
+              "message": "feat(a11y): improve calendar date accessibility"
+            },
+            {
+              "hash": "2be4d42",
+              "date": "2025-12-20",
+              "message": "feat(a11y): improve calendar date accessibility"
+            }
+          ],
+          "files_changed": 0
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "c56be46",
+              "date": "2025-12-20",
+              "message": "🎨 Palette: Enhance terminal modal a11y and focus management"
+            },
+            {
+              "hash": "e8ac2d9",
+              "date": "2025-12-20",
+              "message": "Fix authorization bypass in socket.io guild messaging"
+            },
+            {
+              "hash": "77d80b5",
+              "date": "2025-12-20",
+              "message": "Add implementation summary for portfolio video production package"
+            },
+            {
+              "hash": "a907a87",
+              "date": "2025-12-20",
+              "message": "Add quick start guide and visual overview for portfolio video production"
+            },
+            {
+              "hash": "c4af8a2",
+              "date": "2025-12-20",
+              "message": "Add comprehensive hiring-focused portfolio video production resources"
+            },
+            {
+              "hash": "86743cc",
+              "date": "2025-12-20",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "c56be46",
+              "date": "2025-12-20",
+              "message": "🎨 Palette: Enhance terminal modal a11y and focus management"
+            },
+            {
+              "hash": "e8ac2d9",
+              "date": "2025-12-20",
+              "message": "Fix authorization bypass in socket.io guild messaging"
+            },
+            {
+              "hash": "77d80b5",
+              "date": "2025-12-20",
+              "message": "Add implementation summary for portfolio video production package"
+            },
+            {
+              "hash": "a907a87",
+              "date": "2025-12-20",
+              "message": "Add quick start guide and visual overview for portfolio video production"
+            },
+            {
+              "hash": "c4af8a2",
+              "date": "2025-12-20",
+              "message": "Add comprehensive hiring-focused portfolio video production resources"
+            },
+            {
+              "hash": "86743cc",
+              "date": "2025-12-20",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 10
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "ecb272f",
+              "date": "2025-12-20",
+              "message": "Complete executive hiring video portfolio production system"
+            },
+            {
+              "hash": "ef918ea",
+              "date": "2025-12-20",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "ecb272f",
+              "date": "2025-12-20",
+              "message": "Complete executive hiring video portfolio production system"
+            },
+            {
+              "hash": "ef918ea",
+              "date": "2025-12-20",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "77928ed",
+              "date": "2025-12-20",
+              "message": "Add production checklist, executive summary, and package overview"
+            },
+            {
+              "hash": "260d35c",
+              "date": "2025-12-20",
+              "message": "Add complete hiring-focused portfolio video production package"
+            },
+            {
+              "hash": "72a8f3c",
+              "date": "2025-12-20",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "77928ed",
+              "date": "2025-12-20",
+              "message": "Add production checklist, executive summary, and package overview"
+            },
+            {
+              "hash": "260d35c",
+              "date": "2025-12-20",
+              "message": "Add complete hiring-focused portfolio video production package"
+            },
+            {
+              "hash": "72a8f3c",
+              "date": "2025-12-20",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

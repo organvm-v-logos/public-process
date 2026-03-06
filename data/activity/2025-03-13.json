@@ -1,0 +1,85 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-03-13",
+  "until": "2025-03-13",
+  "summary": {
+    "total_commits": 12,
+    "repos_active": 1,
+    "files_changed": 5,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "0ec76f0",
+              "date": "2025-03-13",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "8f28884",
+              "date": "2025-03-13",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "f9da528",
+              "date": "2025-03-13",
+              "message": "added release notes to README"
+            },
+            {
+              "hash": "a939c7d",
+              "date": "2025-03-13",
+              "message": "updated README"
+            },
+            {
+              "hash": "d430a6b",
+              "date": "2025-03-13",
+              "message": "updated README"
+            },
+            {
+              "hash": "36c05e7",
+              "date": "2025-03-13",
+              "message": "added polyhaven checkbox"
+            },
+            {
+              "hash": "40a8334",
+              "date": "2025-03-13",
+              "message": "updated README"
+            },
+            {
+              "hash": "6599b22",
+              "date": "2025-03-13",
+              "message": "flat textures are getting added"
+            },
+            {
+              "hash": "4113f62",
+              "date": "2025-03-13",
+              "message": "textures getting added but flat"
+            },
+            {
+              "hash": "b9b9111",
+              "date": "2025-03-13",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "2cd82ad",
+              "date": "2025-03-13",
+              "message": "hdri and moidel import working"
+            },
+            {
+              "hash": "b43319b",
+              "date": "2025-03-13",
+              "message": "Update README.md"
+            }
+          ],
+          "files_changed": 5
+        }
+      }
+    }
+  }
+}

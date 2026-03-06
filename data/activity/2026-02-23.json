@@ -1,0 +1,1557 @@
+{
+  "generated": "2026-03-06T00:39:27Z",
+  "since": "2026-02-23",
+  "until": "2026-02-23",
+  "summary": {
+    "total_commits": 243,
+    "repos_active": 56,
+    "files_changed": 1036,
+    "organs_touched": [
+      "I",
+      "III",
+      "IV",
+      "META",
+      "Personal",
+      "V",
+      "VI",
+      "VII"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "4444J99": {
+          "commits": [
+            {
+              "hash": "3425e55",
+              "date": "2026-02-23",
+              "message": "docs: remove theoretical-specifications-first from CLAUDE.md"
+            },
+            {
+              "hash": "261f42c",
+              "date": "2026-02-23",
+              "message": "chore: remove theoretical-specifications-first submodule"
+            },
+            {
+              "hash": "3de07ca",
+              "date": "2026-02-23",
+              "message": "chore: update application-pipeline submodule pointer"
+            },
+            {
+              "hash": "3f00df1",
+              "date": "2026-02-23",
+              "message": "chore: update portfolio submodule pointer"
+            },
+            {
+              "hash": "b4c9999",
+              "date": "2026-02-23",
+              "message": "chore: update portfolio submodule pointer"
+            },
+            {
+              "hash": "b640ce3",
+              "date": "2026-02-23",
+              "message": "feat: add application-pipeline as submodule"
+            },
+            {
+              "hash": "acca0b6",
+              "date": "2026-02-23",
+              "message": "chore: update submodule pointers (profile README + portfolio omega)"
+            },
+            {
+              "hash": "b7a3f8b",
+              "date": "2026-02-23",
+              "message": "chore: remove archived etceter4 submodule, update metadata"
+            },
+            {
+              "hash": "0726616",
+              "date": "2026-02-23",
+              "message": "feat: evaluation-to-growth — 5-tier maturity improvement across workspace"
+            },
+            {
+              "hash": "a1a11f8",
+              "date": "2026-02-23",
+              "message": "chore: update system metrics to current counts"
+            },
+            {
+              "hash": "1eee56a",
+              "date": "2026-02-23",
+              "message": "fix: re-add SVGs as regular files to unblock push"
+            },
+            {
+              "hash": "90f006b",
+              "date": "2026-02-23",
+              "message": "fix: add local .gitattributes to override global SVG LFS"
+            },
+            {
+              "hash": "fedfbc5",
+              "date": "2026-02-23",
+              "message": "chore: sync auto-generated metric and snake SVGs"
+            },
+            {
+              "hash": "123cc69",
+              "date": "2026-02-23",
+              "message": "feat: add seed.yaml governance contract"
+            },
+            {
+              "hash": "c480e0c",
+              "date": "2026-02-23",
+              "message": "Update assets/metrics-dark.svg - [Skip GitHub Action]"
+            },
+            {
+              "hash": "edebb4d",
+              "date": "2026-02-23",
+              "message": "Update assets/metrics.svg - [Skip GitHub Action]"
+            },
+            {
+              "hash": "8633db7",
+              "date": "2026-02-23",
+              "message": "chore: update essay feed in README [skip ci]"
+            },
+            {
+              "hash": "4ba3775",
+              "date": "2026-02-23",
+              "message": "chore: update contribution snake [skip ci]"
+            }
+          ],
+          "files_changed": 13
+        },
+        "application-pipeline": {
+          "commits": [
+            {
+              "hash": "c20dbdb",
+              "date": "2026-02-23",
+              "message": "fix: rewrite AMT Lab responses around Omni-Dromenon Engine (actual project)"
+            },
+            {
+              "hash": "030c49f",
+              "date": "2026-02-23",
+              "message": "feat: map doris-duke-amt to actual GivingData form fields and draft responses"
+            },
+            {
+              "hash": "4f1f683",
+              "date": "2026-02-23",
+              "message": "chore: withdraw artadia-nyc (2026 cycle is Chicago only)"
+            },
+            {
+              "hash": "16d0abc",
+              "date": "2026-02-23",
+              "message": "feat: add enrichment cascade and campaign orchestrator"
+            },
+            {
+              "hash": "0d52774",
+              "date": "2026-02-23",
+              "message": "feat: add submit/preflight scripts, profile ID mapping, and legacy script integration"
+            },
+            {
+              "hash": "7a7a35b",
+              "date": "2026-02-23",
+              "message": "refactor: extract shared pipeline_lib, add triage mode, schema fields, and tests"
+            },
+            {
+              "hash": "3371bc8",
+              "date": "2026-02-23",
+              "message": "feat: add daily standup system with staleness detection and outreach tracking"
+            },
+            {
+              "hash": "330dda6",
+              "date": "2026-02-23",
+              "message": "feat: add scoring rubric, daily batch planner, and effort classification"
+            },
+            {
+              "hash": "f9e3eee",
+              "date": "2026-02-23",
+              "message": "fix: resolve 12 data integrity, security, and tooling issues from evaluation review"
+            },
+            {
+              "hash": "e3d1fd3",
+              "date": "2026-02-23",
+              "message": "chore: propagate current metrics to blocks, strategy, and variants"
+            },
+            {
+              "hash": "c510f7e",
+              "date": "2026-02-23",
+              "message": "refactor: restructure targets to profiles/, update blocks and pipeline"
+            },
+            {
+              "hash": "6ae1d9d",
+              "date": "2026-02-23",
+              "message": "fix: read metrics from canonical system-metrics.json instead of hardcoding"
+            },
+            {
+              "hash": "f22067c",
+              "date": "2026-02-23",
+              "message": "chore: add legacy submission scripts from corpus"
+            },
+            {
+              "hash": "ec167b6",
+              "date": "2026-02-23",
+              "message": "feat: initialize application-pipeline repo"
+            }
+          ],
+          "files_changed": 320
+        },
+        "intake": {
+          "commits": [
+            {
+              "hash": "15c7556",
+              "date": "2026-02-23",
+              "message": "feat: add seed.yaml governance contract"
+            }
+          ],
+          "files_changed": 1
+        },
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "cbcda53",
+              "date": "2026-02-23",
+              "message": "fix: ensure deploy job runs when build succeeds via always()"
+            },
+            {
+              "hash": "84ff886",
+              "date": "2026-02-23",
+              "message": "fix: add concurrency limit and timeout to quality workflow"
+            },
+            {
+              "hash": "fc6a490",
+              "date": "2026-02-23",
+              "message": "chore: sync system-metrics.json from canonical source"
+            },
+            {
+              "hash": "99f9096",
+              "date": "2026-02-23",
+              "message": "docs: add pointer to application-pipeline repo"
+            },
+            {
+              "hash": "5aa04c7",
+              "date": "2026-02-23",
+              "message": "chore: update omega evidence for soak test progress"
+            },
+            {
+              "hash": "e0f3406",
+              "date": "2026-02-23",
+              "message": "fix: npm install to link workspace packages"
+            },
+            {
+              "hash": "ac03584",
+              "date": "2026-02-23",
+              "message": "chore: remove etceter4 from workspace health sync"
+            },
+            {
+              "hash": "e5f3bc6",
+              "date": "2026-02-23",
+              "message": "feat: add quality ratchet kit, workspace dashboard, sketches package"
+            },
+            {
+              "hash": "547bf0b",
+              "date": "2026-02-23",
+              "message": "fix(ci): drop local Lighthouse from CI, reduce runs for local use"
+            },
+            {
+              "hash": "5bfc0a1",
+              "date": "2026-02-23",
+              "message": "fix(ci): add missing badge SVGs (blocked by global gitignore)"
+            },
+            {
+              "hash": "c0e2738",
+              "date": "2026-02-23",
+              "message": "fix(ci): increase a11y test timeout to 15s for CI runners"
+            },
+            {
+              "hash": "f8ef288",
+              "date": "2026-02-23",
+              "message": "fix(ci): add scripts/lib/cli-utils.mjs (blocked by global gitignore)"
+            },
+            {
+              "hash": "b725e73",
+              "date": "2026-02-23",
+              "message": "perf: defer p5.js until after LCP, unblock above-fold text rendering"
+            },
+            {
+              "hash": "1f47e1b",
+              "date": "2026-02-23",
+              "message": "chore: refresh quality badges and metrics from latest pipeline run"
+            },
+            {
+              "hash": "5b9c0ae",
+              "date": "2026-02-23",
+              "message": "fix: remove unused var in lighthouse-cloud, rebase quality metrics baseline"
+            },
+            {
+              "hash": "64fc7a6",
+              "date": "2026-02-23",
+              "message": "feat: add quality:local:no-lh and cloud Lighthouse via PageSpeed Insights"
+            },
+            {
+              "hash": "d30ee6c",
+              "date": "2026-02-23",
+              "message": "fix(quality): footer touch target, dynamic project tests, reduced-motion, filter chip a11y"
+            },
+            {
+              "hash": "90082f9",
+              "date": "2026-02-23",
+              "message": "chore: refresh trust vitals timestamps"
+            },
+            {
+              "hash": "86111e8",
+              "date": "2026-02-23",
+              "message": "fix(quality): flip-card touch target, lifecycle test coverage, E2E route gaps"
+            },
+            {
+              "hash": "539b16e",
+              "date": "2026-02-23",
+              "message": "fix(quality): a11y touch target, AbortController consistency, view persistence, katex budget"
+            }
+          ],
+          "files_changed": 85
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "meta-organvm": {
+          "commits": [
+            {
+              "hash": "05841c2",
+              "date": "2026-02-23",
+              "message": "chore: update auto-sync timestamp"
+            },
+            {
+              "hash": "c3045c1",
+              "date": "2026-02-23",
+              "message": "chore: update organvm-mcp-server submodule URL to GitHub remote"
+            },
+            {
+              "hash": "5516c91",
+              "date": "2026-02-23",
+              "message": "chore: sync submodule pointers after context file sync"
+            },
+            {
+              "hash": "4665fdc",
+              "date": "2026-02-23",
+              "message": "docs: rewrite CLAUDE.md with full CLI reference, MCP server, and engine architecture"
+            }
+          ],
+          "files_changed": 9
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "9c9dfee",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            }
+          ],
+          "files_changed": 3
+        },
+        "alchemia-ingestvm": {
+          "commits": [
+            {
+              "hash": "93f2af7",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            }
+          ],
+          "files_changed": 3
+        },
+        "etceter4": {
+          "commits": [
+            {
+              "hash": "05841c2",
+              "date": "2026-02-23",
+              "message": "chore: update auto-sync timestamp"
+            },
+            {
+              "hash": "c3045c1",
+              "date": "2026-02-23",
+              "message": "chore: update organvm-mcp-server submodule URL to GitHub remote"
+            },
+            {
+              "hash": "5516c91",
+              "date": "2026-02-23",
+              "message": "chore: sync submodule pointers after context file sync"
+            },
+            {
+              "hash": "4665fdc",
+              "date": "2026-02-23",
+              "message": "docs: rewrite CLAUDE.md with full CLI reference, MCP server, and engine architecture"
+            }
+          ],
+          "files_changed": 9
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "79518aa",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            },
+            {
+              "hash": "af4f7ca",
+              "date": "2026-02-23",
+              "message": "chore: propagate current metrics across all documentation"
+            },
+            {
+              "hash": "085ade3",
+              "date": "2026-02-23",
+              "message": "feat: add cross-repo metrics propagation via manifest"
+            },
+            {
+              "hash": "9e002a4",
+              "date": "2026-02-23",
+              "message": "feat: route application pipeline ops to new repo"
+            },
+            {
+              "hash": "526785c",
+              "date": "2026-02-23",
+              "message": "chore: resync system-metrics, promote 2 CANDIDATEs"
+            },
+            {
+              "hash": "66c0deb",
+              "date": "2026-02-23",
+              "message": "chore: soak test snapshot 2026-02-23"
+            },
+            {
+              "hash": "a58a54c",
+              "date": "2026-02-23",
+              "message": "chore: soak test snapshot 2026-02-23"
+            },
+            {
+              "hash": "e36cea7",
+              "date": "2026-02-23",
+              "message": "chore: auto-refresh metrics 2026-02-23"
+            }
+          ],
+          "files_changed": 45
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "6a91854",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            },
+            {
+              "hash": "9e4929d",
+              "date": "2026-02-23",
+              "message": "chore: add governance impact analysis and update AGENTS.md"
+            },
+            {
+              "hash": "ed74edf",
+              "date": "2026-02-23",
+              "message": "feat: add metrics propagate and refresh CLI subcommands"
+            }
+          ],
+          "files_changed": 7
+        },
+        "organvm-mcp-server": {
+          "commits": [
+            {
+              "hash": "229d371",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            }
+          ],
+          "files_changed": 3
+        },
+        "schema-definitions": {
+          "commits": [
+            {
+              "hash": "0922611",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            }
+          ],
+          "files_changed": 3
+        },
+        "system-dashboard": {
+          "commits": [
+            {
+              "hash": "19e2f3f",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "organvm-i-theoria": {
+          "commits": [
+            {
+              "hash": "19222b8",
+              "date": "2026-02-23",
+              "message": "fix: correct nexus--babel-alexandria submodule URL (remove trailing hyphen)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "4a9b121",
+              "date": "2026-02-23",
+              "message": "chore: promote to PUBLIC_PROCESS"
+            }
+          ],
+          "files_changed": 1
+        },
+        "narratological-algorithmic-lenses": {
+          "commits": [
+            {
+              "hash": "e6e3a30",
+              "date": "2026-02-23",
+              "message": "chore: promote to PUBLIC_PROCESS"
+            }
+          ],
+          "files_changed": 1
+        },
+        "nexus--babel-alexandria": {
+          "commits": [
+            {
+              "hash": "732e133",
+              "date": "2026-02-23",
+              "message": "docs: update CLAUDE.md with service deps, route pattern, and test coverage"
+            },
+            {
+              "hash": "cc5948b",
+              "date": "2026-02-23",
+              "message": "docs: add annotated project manifest (105 files, 12 threads, 27 relations)"
+            },
+            {
+              "hash": "ad4b3e6",
+              "date": "2026-02-23",
+              "message": "fix: add .nojekyll and root index.html to unblock GitHub Pages build"
+            },
+            {
+              "hash": "adb826b",
+              "date": "2026-02-23",
+              "message": "feat: add interactive GitHub Pages pitch deck for ARC4N"
+            },
+            {
+              "hash": "75e96fa",
+              "date": "2026-02-23",
+              "message": "docs: add SDD specification suite for all 9 feature domains"
+            },
+            {
+              "hash": "f1279e1",
+              "date": "2026-02-23",
+              "message": "feat: implement ARC4N Living Digital Canon amendment"
+            },
+            {
+              "hash": "958d35c",
+              "date": "2026-02-23",
+              "message": "chore: relocate corpus docs, roadmap, and agent files to proper directories"
+            },
+            {
+              "hash": "61de624",
+              "date": "2026-02-23",
+              "message": "docs: add CLAUDE.md, AGENTS.md, and GEMINI.md agent instruction files"
+            }
+          ],
+          "files_changed": 61
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        ".github": {
+          "commits": [
+            {
+              "hash": "36925d6",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced AGENTS.md and GEMINI.md from registry"
+            },
+            {
+              "hash": "cb6c849",
+              "date": "2026-02-23",
+              "message": "chore: auto-sync ORGANVM context block in CLAUDE.md"
+            }
+          ],
+          "files_changed": 3
+        },
+        "alchemia-ingestvm": {
+          "commits": [
+            {
+              "hash": "93f2af7",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            }
+          ],
+          "files_changed": 3
+        },
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "4a9b121",
+              "date": "2026-02-23",
+              "message": "chore: promote to PUBLIC_PROCESS"
+            }
+          ],
+          "files_changed": 1
+        },
+        "community-hub": {
+          "commits": [
+            {
+              "hash": "377828f",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced AGENTS.md and GEMINI.md from registry"
+            }
+          ],
+          "files_changed": 2
+        },
+        "kerygma-dotgithub": {
+          "commits": [
+            {
+              "hash": "5b17487",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced context files (AGENTS.md, GEMINI.md)"
+            },
+            {
+              "hash": "899acb6",
+              "date": "2026-02-23",
+              "message": "docs: rewrite CLAUDE.md with workflows, scripts, seed.yaml, and theme details"
+            }
+          ],
+          "files_changed": 3
+        },
+        "koinonia-db": {
+          "commits": [
+            {
+              "hash": "b8c8598",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced AGENTS.md and GEMINI.md from registry"
+            }
+          ],
+          "files_changed": 2
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "184a1bb",
+              "date": "2026-02-23",
+              "message": "docs: add auto-generated organ context to CLAUDE.md"
+            }
+          ],
+          "files_changed": 1
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "79518aa",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            },
+            {
+              "hash": "af4f7ca",
+              "date": "2026-02-23",
+              "message": "chore: propagate current metrics across all documentation"
+            },
+            {
+              "hash": "085ade3",
+              "date": "2026-02-23",
+              "message": "feat: add cross-repo metrics propagation via manifest"
+            },
+            {
+              "hash": "9e002a4",
+              "date": "2026-02-23",
+              "message": "feat: route application pipeline ops to new repo"
+            },
+            {
+              "hash": "526785c",
+              "date": "2026-02-23",
+              "message": "chore: resync system-metrics, promote 2 CANDIDATEs"
+            },
+            {
+              "hash": "66c0deb",
+              "date": "2026-02-23",
+              "message": "chore: soak test snapshot 2026-02-23"
+            },
+            {
+              "hash": "a58a54c",
+              "date": "2026-02-23",
+              "message": "chore: soak test snapshot 2026-02-23"
+            },
+            {
+              "hash": "e36cea7",
+              "date": "2026-02-23",
+              "message": "chore: auto-refresh metrics 2026-02-23"
+            }
+          ],
+          "files_changed": 45
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "6a91854",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            },
+            {
+              "hash": "9e4929d",
+              "date": "2026-02-23",
+              "message": "chore: add governance impact analysis and update AGENTS.md"
+            },
+            {
+              "hash": "ed74edf",
+              "date": "2026-02-23",
+              "message": "feat: add metrics propagate and refresh CLI subcommands"
+            }
+          ],
+          "files_changed": 7
+        },
+        "organvm-i-theoria--superproject": {
+          "commits": [
+            {
+              "hash": "19222b8",
+              "date": "2026-02-23",
+              "message": "fix: correct nexus--babel-alexandria submodule URL (remove trailing hyphen)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "organvm-mcp-server": {
+          "commits": [
+            {
+              "hash": "229d371",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            }
+          ],
+          "files_changed": 3
+        },
+        "peer-audited--behavioral-blockchain": {
+          "commits": [
+            {
+              "hash": "399794b",
+              "date": "2026-02-23",
+              "message": "docs: fix CLAUDE.md accuracy — NestJS 11, 6 workspaces, Gate 06, pitch workspace"
+            },
+            {
+              "hash": "9a557ed",
+              "date": "2026-02-23",
+              "message": "fix: override minimatch >=10.2.1 to resolve CVE-2026-26996 ReDoS"
+            },
+            {
+              "hash": "d87ddd9",
+              "date": "2026-02-23",
+              "message": "fix: compute avgIntegrityDelta, remove 18 dead pitch components, update test count"
+            },
+            {
+              "hash": "8b5e701",
+              "date": "2026-02-23",
+              "message": "chore: ignore .DS_Store files inside docs/"
+            },
+            {
+              "hash": "9bac18e",
+              "date": "2026-02-23",
+              "message": "feat: add Competitive Landscape slide with positioning chart"
+            },
+            {
+              "hash": "2843727",
+              "date": "2026-02-23",
+              "message": "feat: add Platform Economics slide with cost breakdown at growth milestones"
+            },
+            {
+              "hash": "8c87a1e",
+              "date": "2026-02-23",
+              "message": "feat: standalone interactive pitch deck (GitHub Pages)"
+            },
+            {
+              "hash": "6eab44d",
+              "date": "2026-02-23",
+              "message": "fix: upgrade NestJS 10→11 to resolve lodash/js-yaml vulnerabilities"
+            },
+            {
+              "hash": "13f193b",
+              "date": "2026-02-23",
+              "message": "fix: patch lodash and js-yaml prototype pollution vulnerabilities"
+            },
+            {
+              "hash": "108db96",
+              "date": "2026-02-23",
+              "message": "chore: promote to PUBLIC_PROCESS after Phase Rho completion"
+            },
+            {
+              "hash": "0347676",
+              "date": "2026-02-23",
+              "message": "feat: Phase Rho — security hardening and operational readiness"
+            },
+            {
+              "hash": "36e346a",
+              "date": "2026-02-23",
+              "message": "feat: Phase Pi — production hardening and launch readiness"
+            },
+            {
+              "hash": "ac0abff",
+              "date": "2026-02-23",
+              "message": "docs: rewrite CLAUDE.md with factual corrections and improved structure"
+            },
+            {
+              "hash": "ec855f8",
+              "date": "2026-02-23",
+              "message": "feat: Phase Omicron — close Alpha-to-Omega soft gaps, promote to CANDIDATE"
+            },
+            {
+              "hash": "65ab3dc",
+              "date": "2026-02-23",
+              "message": "feat: Phase Xi — test coverage expansion across mobile, desktop, web"
+            },
+            {
+              "hash": "b8a77a0",
+              "date": "2026-02-23",
+              "message": "feat: Phase Mu — promotion readiness with tests, docs, mobile parity, repo standards"
+            },
+            {
+              "hash": "3b4a925",
+              "date": "2026-02-23",
+              "message": "feat: Phase Lambda — visible economy UI, goal ethics screening, CI hardening"
+            },
+            {
+              "hash": "d28b054",
+              "date": "2026-02-23",
+              "message": "feat: Phase Kappa — activate Fury bounty economy with ledger transactions"
+            },
+            {
+              "hash": "d272db5",
+              "date": "2026-02-23",
+              "message": "fix: Evaluation-to-Growth security hardening and validation sweep"
+            },
+            {
+              "hash": "3b0423c",
+              "date": "2026-02-23",
+              "message": "fix: correct bcrypt hash in seed.sql to match documented password"
+            },
+            {
+              "hash": "e417d3e",
+              "date": "2026-02-23",
+              "message": "fix: upgrade eslint to v10 to resolve minimatch ReDoS vulnerability chain"
+            },
+            {
+              "hash": "ab4d473",
+              "date": "2026-02-23",
+              "message": "feat: Phase Iota — close all remaining gaps for Omega completeness"
+            },
+            {
+              "hash": "f82da55",
+              "date": "2026-02-23",
+              "message": "fix: remove geoip-lite to resolve minimatch ReDoS vulnerability"
+            },
+            {
+              "hash": "08f4039",
+              "date": "2026-02-23",
+              "message": "fix: bind Next.js standalone server to 0.0.0.0 in Docker"
+            },
+            {
+              "hash": "9efd043",
+              "date": "2026-02-23",
+              "message": "fix: prevent notification failures from aborting financial transactions"
+            },
+            {
+              "hash": "0a34b5e",
+              "date": "2026-02-23",
+              "message": "feat: Phase Theta — close remaining stubs, wire orphans, sync schema"
+            },
+            {
+              "hash": "36dd123",
+              "date": "2026-02-23",
+              "message": "fix: encode banned terms in linguistic cloaker to pass Gate 04"
+            },
+            {
+              "hash": "17ad811",
+              "date": "2026-02-23",
+              "message": "chore: update package-lock.json for Phase Eta dependencies"
+            },
+            {
+              "hash": "4e5ed3f",
+              "date": "2026-02-23",
+              "message": "fix: resolve build errors from parallel stream merge"
+            },
+            {
+              "hash": "60f5a01",
+              "date": "2026-02-23",
+              "message": "feat: Stream D — Web polish (settings, onboarding, tavern, responsive, API endpoints)"
+            },
+            {
+              "hash": "c339e8a",
+              "date": "2026-02-23",
+              "message": "feat: Stream C — Mobile app (navigation, screens, API client, auth)"
+            },
+            {
+              "hash": "97d1a8a",
+              "date": "2026-02-23",
+              "message": "feat: Stream B — Desktop wiring (API client, auth, live panels, Tauri scaffold)"
+            },
+            {
+              "hash": "3d6edf7",
+              "date": "2026-02-23",
+              "message": "feat: Stream A — API completion + Omega B2B"
+            },
+            {
+              "hash": "5bb4026",
+              "date": "2026-02-23",
+              "message": "fix: resolve all Dependabot security vulnerabilities (5 high, 1 moderate)"
+            },
+            {
+              "hash": "1631949",
+              "date": "2026-02-23",
+              "message": "feat: Phase Zeta — behavioral physics enforcement, complete user journey, SSE notifications"
+            },
+            {
+              "hash": "0a5c20c",
+              "date": "2026-02-23",
+              "message": "feat: Phase Epsilon — web auth flow, B2B API, notifications, role guard, IAP billing"
+            },
+            {
+              "hash": "399794b",
+              "date": "2026-02-23",
+              "message": "docs: fix CLAUDE.md accuracy — NestJS 11, 6 workspaces, Gate 06, pitch workspace"
+            },
+            {
+              "hash": "9a557ed",
+              "date": "2026-02-23",
+              "message": "fix: override minimatch >=10.2.1 to resolve CVE-2026-26996 ReDoS"
+            },
+            {
+              "hash": "d87ddd9",
+              "date": "2026-02-23",
+              "message": "fix: compute avgIntegrityDelta, remove 18 dead pitch components, update test count"
+            },
+            {
+              "hash": "8b5e701",
+              "date": "2026-02-23",
+              "message": "chore: ignore .DS_Store files inside docs/"
+            },
+            {
+              "hash": "9bac18e",
+              "date": "2026-02-23",
+              "message": "feat: add Competitive Landscape slide with positioning chart"
+            },
+            {
+              "hash": "2843727",
+              "date": "2026-02-23",
+              "message": "feat: add Platform Economics slide with cost breakdown at growth milestones"
+            },
+            {
+              "hash": "8c87a1e",
+              "date": "2026-02-23",
+              "message": "feat: standalone interactive pitch deck (GitHub Pages)"
+            },
+            {
+              "hash": "6eab44d",
+              "date": "2026-02-23",
+              "message": "fix: upgrade NestJS 10→11 to resolve lodash/js-yaml vulnerabilities"
+            },
+            {
+              "hash": "13f193b",
+              "date": "2026-02-23",
+              "message": "fix: patch lodash and js-yaml prototype pollution vulnerabilities"
+            },
+            {
+              "hash": "108db96",
+              "date": "2026-02-23",
+              "message": "chore: promote to PUBLIC_PROCESS after Phase Rho completion"
+            },
+            {
+              "hash": "0347676",
+              "date": "2026-02-23",
+              "message": "feat: Phase Rho — security hardening and operational readiness"
+            },
+            {
+              "hash": "36e346a",
+              "date": "2026-02-23",
+              "message": "feat: Phase Pi — production hardening and launch readiness"
+            },
+            {
+              "hash": "ac0abff",
+              "date": "2026-02-23",
+              "message": "docs: rewrite CLAUDE.md with factual corrections and improved structure"
+            },
+            {
+              "hash": "ec855f8",
+              "date": "2026-02-23",
+              "message": "feat: Phase Omicron — close Alpha-to-Omega soft gaps, promote to CANDIDATE"
+            },
+            {
+              "hash": "65ab3dc",
+              "date": "2026-02-23",
+              "message": "feat: Phase Xi — test coverage expansion across mobile, desktop, web"
+            },
+            {
+              "hash": "b8a77a0",
+              "date": "2026-02-23",
+              "message": "feat: Phase Mu — promotion readiness with tests, docs, mobile parity, repo standards"
+            },
+            {
+              "hash": "3b4a925",
+              "date": "2026-02-23",
+              "message": "feat: Phase Lambda — visible economy UI, goal ethics screening, CI hardening"
+            },
+            {
+              "hash": "d28b054",
+              "date": "2026-02-23",
+              "message": "feat: Phase Kappa — activate Fury bounty economy with ledger transactions"
+            },
+            {
+              "hash": "d272db5",
+              "date": "2026-02-23",
+              "message": "fix: Evaluation-to-Growth security hardening and validation sweep"
+            },
+            {
+              "hash": "3b0423c",
+              "date": "2026-02-23",
+              "message": "fix: correct bcrypt hash in seed.sql to match documented password"
+            },
+            {
+              "hash": "e417d3e",
+              "date": "2026-02-23",
+              "message": "fix: upgrade eslint to v10 to resolve minimatch ReDoS vulnerability chain"
+            },
+            {
+              "hash": "ab4d473",
+              "date": "2026-02-23",
+              "message": "feat: Phase Iota — close all remaining gaps for Omega completeness"
+            },
+            {
+              "hash": "f82da55",
+              "date": "2026-02-23",
+              "message": "fix: remove geoip-lite to resolve minimatch ReDoS vulnerability"
+            },
+            {
+              "hash": "08f4039",
+              "date": "2026-02-23",
+              "message": "fix: bind Next.js standalone server to 0.0.0.0 in Docker"
+            },
+            {
+              "hash": "9efd043",
+              "date": "2026-02-23",
+              "message": "fix: prevent notification failures from aborting financial transactions"
+            },
+            {
+              "hash": "0a34b5e",
+              "date": "2026-02-23",
+              "message": "feat: Phase Theta — close remaining stubs, wire orphans, sync schema"
+            },
+            {
+              "hash": "36dd123",
+              "date": "2026-02-23",
+              "message": "fix: encode banned terms in linguistic cloaker to pass Gate 04"
+            },
+            {
+              "hash": "17ad811",
+              "date": "2026-02-23",
+              "message": "chore: update package-lock.json for Phase Eta dependencies"
+            },
+            {
+              "hash": "4e5ed3f",
+              "date": "2026-02-23",
+              "message": "fix: resolve build errors from parallel stream merge"
+            },
+            {
+              "hash": "60f5a01",
+              "date": "2026-02-23",
+              "message": "feat: Stream D — Web polish (settings, onboarding, tavern, responsive, API endpoints)"
+            },
+            {
+              "hash": "c339e8a",
+              "date": "2026-02-23",
+              "message": "feat: Stream C — Mobile app (navigation, screens, API client, auth)"
+            },
+            {
+              "hash": "97d1a8a",
+              "date": "2026-02-23",
+              "message": "feat: Stream B — Desktop wiring (API client, auth, live panels, Tauri scaffold)"
+            },
+            {
+              "hash": "3d6edf7",
+              "date": "2026-02-23",
+              "message": "feat: Stream A — API completion + Omega B2B"
+            },
+            {
+              "hash": "5bb4026",
+              "date": "2026-02-23",
+              "message": "fix: resolve all Dependabot security vulnerabilities (5 high, 1 moderate)"
+            },
+            {
+              "hash": "1631949",
+              "date": "2026-02-23",
+              "message": "feat: Phase Zeta — behavioral physics enforcement, complete user journey, SSE notifications"
+            },
+            {
+              "hash": "0a5c20c",
+              "date": "2026-02-23",
+              "message": "feat: Phase Epsilon — web auth flow, B2B API, notifications, role guard, IAP billing"
+            }
+          ],
+          "files_changed": 259
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "8af6b20",
+              "date": "2026-02-23",
+              "message": "docs: add auto-generated organ context to CLAUDE.md"
+            }
+          ],
+          "files_changed": 1
+        },
+        "reading-group-curriculum": {
+          "commits": [
+            {
+              "hash": "1c1a499",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced AGENTS.md and GEMINI.md from registry"
+            },
+            {
+              "hash": "111eb93",
+              "date": "2026-02-23",
+              "message": "chore: auto-sync ORGANVM context block in CLAUDE.md"
+            }
+          ],
+          "files_changed": 3
+        },
+        "system-dashboard": {
+          "commits": [
+            {
+              "hash": "19e2f3f",
+              "date": "2026-02-23",
+              "message": "chore: sync context files (CLAUDE.md, GEMINI.md, AGENTS.md)"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "organvm-iv-taxis": {
+          "commits": [
+            {
+              "hash": "c4ad3ca",
+              "date": "2026-02-23",
+              "message": "chore: sync agentic-titan submodule pointer"
+            },
+            {
+              "hash": "f7a795a",
+              "date": "2026-02-23",
+              "message": "chore: sync organvm-iv-taxis submodule pointers (5 updated)"
+            },
+            {
+              "hash": "00c9cbe",
+              "date": "2026-02-23",
+              "message": "chore: sync agent--claude-smith submodule pointer"
+            },
+            {
+              "hash": "c2e7c4b",
+              "date": "2026-02-23",
+              "message": "chore: update auto-synced timestamp in CLAUDE.md"
+            },
+            {
+              "hash": "e1e86fc",
+              "date": "2026-02-23",
+              "message": "chore: sync .github and agent--claude-smith submodule pointers"
+            },
+            {
+              "hash": "191222d",
+              "date": "2026-02-23",
+              "message": "chore: update auto-synced timestamp in CLAUDE.md"
+            },
+            {
+              "hash": "133ff64",
+              "date": "2026-02-23",
+              "message": "chore: sync organvm-iv-taxis submodule pointers (5 updated)"
+            },
+            {
+              "hash": "a29f6ac",
+              "date": "2026-02-23",
+              "message": "docs: rewrite CLAUDE.md with superproject context, detailed build commands, and governance details"
+            }
+          ],
+          "files_changed": 8
+        },
+        "a-i--skills": {
+          "commits": [
+            {
+              "hash": "eb91049",
+              "date": "2026-02-23",
+              "message": "docs: add auto-generated organ context to CLAUDE.md"
+            },
+            {
+              "hash": "f0bcfcf",
+              "date": "2026-02-23",
+              "message": "refactor: restructure speckit skill to GitHub best practices"
+            }
+          ],
+          "files_changed": 12
+        },
+        "agent--claude-smith": {
+          "commits": [
+            {
+              "hash": "efea6d7",
+              "date": "2026-02-23",
+              "message": "docs: add auto-generated organ context to CLAUDE.md"
+            },
+            {
+              "hash": "6bd330a",
+              "date": "2026-02-23",
+              "message": "chore: gitignore Dropbox artifact"
+            }
+          ],
+          "files_changed": 2
+        },
+        "agentic-titan": {
+          "commits": [
+            {
+              "hash": "6234aad",
+              "date": "2026-02-23",
+              "message": "refactor: rename mcp/ to titan_mcp/, add specs and OrganVM bridge tools"
+            },
+            {
+              "hash": "9cae0b2",
+              "date": "2026-02-23",
+              "message": "docs: add auto-generated organ context to CLAUDE.md"
+            }
+          ],
+          "files_changed": 21
+        },
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "6efc802",
+              "date": "2026-02-23",
+              "message": "docs: add runtime path to skill-index template"
+            },
+            {
+              "hash": "af89a5a",
+              "date": "2026-02-23",
+              "message": "docs: add v1.3.2 to CHANGELOG"
+            },
+            {
+              "hash": "5adfbc5",
+              "date": "2026-02-23",
+              "message": "test: fill coverage gaps for domus_lib, domus-lib.sh, .domus-keep, domus run"
+            },
+            {
+              "hash": "343274e",
+              "date": "2026-02-23",
+              "message": "docs: add v1.3.1 to CHANGELOG"
+            },
+            {
+              "hash": "572a718",
+              "date": "2026-02-23",
+              "message": "fix: evaluation-to-growth pass — correctness, quality, docs"
+            },
+            {
+              "hash": "c074949",
+              "date": "2026-02-23",
+              "message": "chore: set CLAUDE_CODE_MAX_OUTPUT_TOKENS=128000 in zshenv"
+            },
+            {
+              "hash": "e7e8989",
+              "date": "2026-02-23",
+              "message": "feat: disable autonomous daemons, add `domus run` one-shot interface"
+            },
+            {
+              "hash": "21b1034",
+              "date": "2026-02-23",
+              "message": "chore: align zshenv with ORGANVM eight-organ structure"
+            },
+            {
+              "hash": "d8b5a2e",
+              "date": "2026-02-23",
+              "message": "feat: add domus_auto_enabled feature gate to all auto functions"
+            },
+            {
+              "hash": "8ea49da",
+              "date": "2026-02-23",
+              "message": "fix: wire MCP secrets through 1Password, add missing env aliases"
+            }
+          ],
+          "files_changed": 35
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "184a1bb",
+              "date": "2026-02-23",
+              "message": "docs: add auto-generated organ context to CLAUDE.md"
+            }
+          ],
+          "files_changed": 1
+        },
+        "org-dotgithub": {
+          "commits": [
+            {
+              "hash": "8954abf",
+              "date": "2026-02-23",
+              "message": "docs: add CLAUDE.md for org profile repo"
+            }
+          ],
+          "files_changed": 1
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "8af6b20",
+              "date": "2026-02-23",
+              "message": "docs: add auto-generated organ context to CLAUDE.md"
+            }
+          ],
+          "files_changed": 1
+        },
+        "universal-node-network": {
+          "commits": [
+            {
+              "hash": "469a856",
+              "date": "2026-02-23",
+              "message": "docs: add auto-generated organ context to CLAUDE.md"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        "organvm-v-logos": {
+          "commits": [
+            {
+              "hash": "457187f",
+              "date": "2026-02-23",
+              "message": "chore: update submodule pointers after context file sync"
+            },
+            {
+              "hash": "d073eb7",
+              "date": "2026-02-23",
+              "message": "docs: rewrite CLAUDE.md to reflect actual codebase state"
+            }
+          ],
+          "files_changed": 3
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "13105cc",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced context files (CLAUDE, GEMINI, AGENTS)"
+            }
+          ],
+          "files_changed": 3
+        },
+        "public-process": {
+          "commits": [
+            {
+              "hash": "3574afb",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced context files (CLAUDE, GEMINI, AGENTS)"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    },
+    "VI": {
+      "name": "Koinonia",
+      "repos": {
+        "organvm-vi-koinonia": {
+          "commits": [
+            {
+              "hash": "32469c9",
+              "date": "2026-02-23",
+              "message": "chore: sync submodule pointers (2 updated)"
+            },
+            {
+              "hash": "4c2411b",
+              "date": "2026-02-23",
+              "message": "chore: sync submodule pointers (4 updated)"
+            },
+            {
+              "hash": "b7c3a2a",
+              "date": "2026-02-23",
+              "message": "chore: sync submodule pointers (4 updated)"
+            },
+            {
+              "hash": "737bc2f",
+              "date": "2026-02-23",
+              "message": "docs: improve CLAUDE.md with accurate superproject description and detailed architecture"
+            }
+          ],
+          "files_changed": 7
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "36925d6",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced AGENTS.md and GEMINI.md from registry"
+            },
+            {
+              "hash": "cb6c849",
+              "date": "2026-02-23",
+              "message": "chore: auto-sync ORGANVM context block in CLAUDE.md"
+            }
+          ],
+          "files_changed": 3
+        },
+        "adaptive-personal-syllabus": {
+          "commits": [
+            {
+              "hash": "dca9120",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced AGENTS.md and GEMINI.md from registry"
+            },
+            {
+              "hash": "e0c1ceb",
+              "date": "2026-02-23",
+              "message": "chore: auto-sync ORGANVM context block in CLAUDE.md"
+            }
+          ],
+          "files_changed": 3
+        },
+        "community-hub": {
+          "commits": [
+            {
+              "hash": "377828f",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced AGENTS.md and GEMINI.md from registry"
+            }
+          ],
+          "files_changed": 2
+        },
+        "koinonia-db": {
+          "commits": [
+            {
+              "hash": "b8c8598",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced AGENTS.md and GEMINI.md from registry"
+            }
+          ],
+          "files_changed": 2
+        },
+        "reading-group-curriculum": {
+          "commits": [
+            {
+              "hash": "1c1a499",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced AGENTS.md and GEMINI.md from registry"
+            },
+            {
+              "hash": "111eb93",
+              "date": "2026-02-23",
+              "message": "chore: auto-sync ORGANVM context block in CLAUDE.md"
+            }
+          ],
+          "files_changed": 3
+        },
+        "salon-archive": {
+          "commits": [
+            {
+              "hash": "214014b",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced AGENTS.md and GEMINI.md from registry"
+            },
+            {
+              "hash": "b6530f3",
+              "date": "2026-02-23",
+              "message": "chore: auto-sync ORGANVM context block in CLAUDE.md"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    },
+    "VII": {
+      "name": "Kerygma",
+      "repos": {
+        "organvm-vii-kerygma": {
+          "commits": [
+            {
+              "hash": "e0902b5",
+              "date": "2026-02-23",
+              "message": "chore: sync submodule pointers (4 updated — context files added)"
+            },
+            {
+              "hash": "7567661",
+              "date": "2026-02-23",
+              "message": "chore: sync submodule pointers after CLAUDE.md updates (4 updated)"
+            },
+            {
+              "hash": "18187e1",
+              "date": "2026-02-23",
+              "message": "docs: improve CLAUDE.md with accurate codebase details"
+            }
+          ],
+          "files_changed": 5
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "5b17487",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced context files (AGENTS.md, GEMINI.md)"
+            },
+            {
+              "hash": "899acb6",
+              "date": "2026-02-23",
+              "message": "docs: rewrite CLAUDE.md with workflows, scripts, seed.yaml, and theme details"
+            }
+          ],
+          "files_changed": 3
+        },
+        "announcement-templates": {
+          "commits": [
+            {
+              "hash": "2cbb8a5",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced context files (AGENTS.md, GEMINI.md)"
+            },
+            {
+              "hash": "2552f1f",
+              "date": "2026-02-23",
+              "message": "docs: rewrite CLAUDE.md with full package architecture and module details"
+            }
+          ],
+          "files_changed": 3
+        },
+        "distribution-strategy": {
+          "commits": [
+            {
+              "hash": "083f47f",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced context files (AGENTS.md, GEMINI.md)"
+            },
+            {
+              "hash": "c1fc3de",
+              "date": "2026-02-23",
+              "message": "docs: rewrite CLAUDE.md with full module inventory and scheduling details"
+            }
+          ],
+          "files_changed": 3
+        },
+        "social-automation": {
+          "commits": [
+            {
+              "hash": "e1d7943",
+              "date": "2026-02-23",
+              "message": "chore: add auto-synced context files (AGENTS.md, GEMINI.md)"
+            },
+            {
+              "hash": "be80cc7",
+              "date": "2026-02-23",
+              "message": "docs: rewrite CLAUDE.md with accurate module map and resilience architecture"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

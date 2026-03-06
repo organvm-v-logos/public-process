@@ -1,0 +1,30 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-11-04",
+  "until": "2023-11-04",
+  "summary": {
+    "total_commits": 1,
+    "repos_active": 1,
+    "files_changed": 1,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "1e7f0fa",
+              "date": "2023-11-04",
+              "message": "fix: do not render export dialog until needed (#178)"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

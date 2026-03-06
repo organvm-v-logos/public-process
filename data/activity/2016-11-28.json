@@ -1,0 +1,40 @@
+{
+  "generated": "2026-03-06T00:39:34Z",
+  "since": "2016-11-28",
+  "until": "2016-11-28",
+  "summary": {
+    "total_commits": 3,
+    "repos_active": 1,
+    "files_changed": 5714,
+    "organs_touched": [
+      "II"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "55e70fd",
+              "date": "2016-11-28",
+              "message": "restructured the vendor js folder"
+            },
+            {
+              "hash": "d627364",
+              "date": "2016-11-28",
+              "message": "set up npm test for dev & added git ignore for npm debug logs"
+            },
+            {
+              "hash": "35737fe",
+              "date": "2016-11-28",
+              "message": "init commit"
+            }
+          ],
+          "files_changed": 5714
+        }
+      }
+    }
+  }
+}

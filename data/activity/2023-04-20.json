@@ -1,0 +1,45 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-04-20",
+  "until": "2023-04-20",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 1,
+    "files_changed": 8,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "2829613",
+              "date": "2023-04-20",
+              "message": "CI build"
+            },
+            {
+              "hash": "249b565",
+              "date": "2023-04-20",
+              "message": "chore: release userscript 2.7.1 (#132)"
+            },
+            {
+              "hash": "2e7ece8",
+              "date": "2023-04-20",
+              "message": "fix: some chats cannot be exported because of missing message parts"
+            },
+            {
+              "hash": "d18bf3f",
+              "date": "2023-04-20",
+              "message": "fix: thread might not exist"
+            }
+          ],
+          "files_changed": 8
+        }
+      }
+    }
+  }
+}

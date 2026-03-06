@@ -1,0 +1,356 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2025-08-13",
+  "until": "2025-08-13",
+  "summary": {
+    "total_commits": 64,
+    "repos_active": 2,
+    "files_changed": 49,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "3e49e3e",
+              "date": "2025-08-13",
+              "message": "Implement GitHub Discussions support with templates and configuration"
+            },
+            {
+              "hash": "2662850",
+              "date": "2025-08-13",
+              "message": "Update issue templates"
+            },
+            {
+              "hash": "9d83146",
+              "date": "2025-08-13",
+              "message": "Update copilot-instructions.md"
+            },
+            {
+              "hash": "88559e9",
+              "date": "2025-08-13",
+              "message": "Create label.yml"
+            },
+            {
+              "hash": "e40da14",
+              "date": "2025-08-13",
+              "message": "Update issue templates"
+            },
+            {
+              "hash": "9de36c8",
+              "date": "2025-08-13",
+              "message": "Update copilot-instructions.md"
+            },
+            {
+              "hash": "bfa7f10",
+              "date": "2025-08-13",
+              "message": "Create label.yml"
+            },
+            {
+              "hash": "abc0907",
+              "date": "2025-08-13",
+              "message": "Update issue templates"
+            },
+            {
+              "hash": "707a15d",
+              "date": "2025-08-13",
+              "message": "Update copilot-instructions.md"
+            },
+            {
+              "hash": "8c901d9",
+              "date": "2025-08-13",
+              "message": "Create label.yml"
+            },
+            {
+              "hash": "db922ef",
+              "date": "2025-08-13",
+              "message": "Update THREAD_PROJECT_CROSSWALK_TAGGED.md"
+            },
+            {
+              "hash": "062554e",
+              "date": "2025-08-13",
+              "message": "Expand empty files and create comprehensive directory structure documentation"
+            },
+            {
+              "hash": "43f14d7",
+              "date": "2025-08-13",
+              "message": "Complete \"commit all currently as well\" - add inventory and gitignore"
+            },
+            {
+              "hash": "912e767",
+              "date": "2025-08-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "2f5a319",
+              "date": "2025-08-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "e04a541",
+              "date": "2025-08-13",
+              "message": "Create SECURITY.md"
+            }
+          ],
+          "files_changed": 19
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "f45f903",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "540c4ec",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "b47b873",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "1773c74",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "938499c",
+              "date": "2025-08-13",
+              "message": "Delete images/ronnie5.jpg"
+            },
+            {
+              "hash": "ace234e",
+              "date": "2025-08-13",
+              "message": "Delete images/ronnie4.jpg"
+            },
+            {
+              "hash": "1c4f056",
+              "date": "2025-08-13",
+              "message": "Delete images/ronnie3.jpg"
+            },
+            {
+              "hash": "eb28b91",
+              "date": "2025-08-13",
+              "message": "Delete images/ronnie2.jpg"
+            },
+            {
+              "hash": "70b6d9f",
+              "date": "2025-08-13",
+              "message": "Delete images/ronnie1.jpg"
+            },
+            {
+              "hash": "b685e00",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "48d0767",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "4306636",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "ba60260",
+              "date": "2025-08-13",
+              "message": "Delete ronnie.html"
+            },
+            {
+              "hash": "741fb51",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "ce01ffd",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "e007b95",
+              "date": "2025-08-13",
+              "message": "Update ronnie.html"
+            },
+            {
+              "hash": "2f866e0",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "6fd87f5",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "fe670cc",
+              "date": "2025-08-13",
+              "message": "Update ronnie.html"
+            },
+            {
+              "hash": "5977fe3",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "1407a58",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "f0527fa",
+              "date": "2025-08-13",
+              "message": "Create ronnie.html"
+            },
+            {
+              "hash": "c05f68f",
+              "date": "2025-08-13",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "8d38279",
+              "date": "2025-08-13",
+              "message": "Update wuhan.html"
+            },
+            {
+              "hash": "5fdff32",
+              "date": "2025-08-13",
+              "message": "Update wif.html"
+            },
+            {
+              "hash": "8cbca89",
+              "date": "2025-08-13",
+              "message": "Update vicepresident.html"
+            },
+            {
+              "hash": "af75888",
+              "date": "2025-08-13",
+              "message": "Update transgenders.html"
+            },
+            {
+              "hash": "8cd7e84",
+              "date": "2025-08-13",
+              "message": "Update russia.html"
+            },
+            {
+              "hash": "272eb06",
+              "date": "2025-08-13",
+              "message": "Update rex.html"
+            },
+            {
+              "hash": "722a944",
+              "date": "2025-08-13",
+              "message": "Update rekt.html"
+            },
+            {
+              "hash": "f76f3e7",
+              "date": "2025-08-13",
+              "message": "Update president.html"
+            },
+            {
+              "hash": "9cd1e0e",
+              "date": "2025-08-13",
+              "message": "Update chiefusher.html"
+            },
+            {
+              "hash": "11daecf",
+              "date": "2025-08-13",
+              "message": "Update origins.html"
+            },
+            {
+              "hash": "4de0c22",
+              "date": "2025-08-13",
+              "message": "Update nsa.html"
+            },
+            {
+              "hash": "ca7a527",
+              "date": "2025-08-13",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "d89b2ae",
+              "date": "2025-08-13",
+              "message": "Update mexico.html"
+            },
+            {
+              "hash": "d3f8958",
+              "date": "2025-08-13",
+              "message": "Update livestock.html"
+            },
+            {
+              "hash": "ed39d49",
+              "date": "2025-08-13",
+              "message": "Update interns.html"
+            },
+            {
+              "hash": "079ec29",
+              "date": "2025-08-13",
+              "message": "Update hud.html"
+            },
+            {
+              "hash": "cf75334",
+              "date": "2025-08-13",
+              "message": "Update firstlady.html"
+            },
+            {
+              "hash": "a20eeea",
+              "date": "2025-08-13",
+              "message": "Update endorsements.html"
+            },
+            {
+              "hash": "d08dc55",
+              "date": "2025-08-13",
+              "message": "Update education.html"
+            },
+            {
+              "hash": "98fd74a",
+              "date": "2025-08-13",
+              "message": "Update coordination.html"
+            },
+            {
+              "hash": "ad116d5",
+              "date": "2025-08-13",
+              "message": "Update chiefusher.html"
+            },
+            {
+              "hash": "64886b5",
+              "date": "2025-08-13",
+              "message": "Update chiefofstaff.html"
+            },
+            {
+              "hash": "3cead00",
+              "date": "2025-08-13",
+              "message": "Update attorneygeneral.html"
+            },
+            {
+              "hash": "c1c9c31",
+              "date": "2025-08-13",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "ce8f855",
+              "date": "2025-08-13",
+              "message": "Create buy.html"
+            }
+          ],
+          "files_changed": 30
+        }
+      }
+    }
+  }
+}

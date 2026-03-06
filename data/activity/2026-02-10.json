@@ -1,0 +1,1370 @@
+{
+  "generated": "2026-03-06T00:39:27Z",
+  "since": "2026-02-10",
+  "until": "2026-02-10",
+  "summary": {
+    "total_commits": 202,
+    "repos_active": 62,
+    "files_changed": 713,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "Personal",
+      "V"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "4444J99": {
+          "commits": [
+            {
+              "hash": "ec366df",
+              "date": "2026-02-10",
+              "message": "Add artistic profile README"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "4-ivi374-F0Rivi4": {
+          "commits": [
+            {
+              "hash": "5e73ea0",
+              "date": "2026-02-10",
+              "message": "fix: resolve broken cross-references in README [Phase 2 micro-validation]"
+            },
+            {
+              "hash": "c2f7ca8",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: expand README to 3,400+ words with theoretical foundations, cartridge algebra, contributing section"
+            },
+            {
+              "hash": "9329ee5",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README — OS Ecosystem Cartridge blueprint"
+            }
+          ],
+          "files_changed": 1
+        },
+        "a-recursive-root": {
+          "commits": [
+            {
+              "hash": "78bddd4",
+              "date": "2026-02-10",
+              "message": "fix: resolve broken cross-references in README [Phase 2 micro-validation]"
+            },
+            {
+              "hash": "c3c3efe",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README for a-recursive-root"
+            },
+            {
+              "hash": "84da5ce",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "call-function--ontological": {
+          "commits": [
+            {
+              "hash": "2a1366f",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 4,233 words with theoretical purpose, cross-organ context, and full technical documentation"
+            },
+            {
+              "hash": "cbc8a2d",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "cog-init-1-0-": {
+          "commits": [
+            {
+              "hash": "de866ea",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README — theoretical expansion of genesis artifact documentation"
+            },
+            {
+              "hash": "3d4f694",
+              "date": "2026-02-10",
+              "message": "Deploy ORGAN-I stub README for cog-init-1-0-"
+            }
+          ],
+          "files_changed": 1
+        },
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "e4ad025",
+              "date": "2026-02-10",
+              "message": "fix: resolve broken cross-references in README [Phase 2 micro-validation]"
+            },
+            {
+              "hash": "77b4a5b",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README for cognitive-archaelogy-tribunal"
+            },
+            {
+              "hash": "683f55c",
+              "date": "2026-02-10",
+              "message": "Deploy ORGAN-I stub README for cognitive-archaelogy-tribunal"
+            }
+          ],
+          "files_changed": 1
+        },
+        "linguistic-atomization-framework": {
+          "commits": [
+            {
+              "hash": "9e54c5e",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 4,600+ words with philosophical framework, corpus documentation, and cross-organ context"
+            },
+            {
+              "hash": "c3c10d0",
+              "date": "2026-02-10",
+              "message": "Add ORGAN-I badge and eight-organ cross-reference section"
+            }
+          ],
+          "files_changed": 1
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "0eb5792",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README — epistemological knowledge system with multi-modal search"
+            },
+            {
+              "hash": "24ed6e9",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy portfolio-grade README"
+            },
+            {
+              "hash": "781fdfd",
+              "date": "2026-02-10",
+              "message": "ci: wire release probe gates to 1password runtime secrets"
+            },
+            {
+              "hash": "e16d823",
+              "date": "2026-02-10",
+              "message": "docs: capture exhaustive closure evidence and blockers"
+            },
+            {
+              "hash": "ab76ba1",
+              "date": "2026-02-10",
+              "message": "feat: finalize release hardening and closure evidence"
+            },
+            {
+              "hash": "4a3553a",
+              "date": "2026-02-10",
+              "message": "chore: finalize release gates docs and taxonomy sync"
+            },
+            {
+              "hash": "f8e5037",
+              "date": "2026-02-10",
+              "message": "feat: tighten backfill controls and hybrid ranking filters"
+            },
+            {
+              "hash": "eaab9a2",
+              "date": "2026-02-10",
+              "message": "feat: harden phase6 workstream-a chunking controls"
+            },
+            {
+              "hash": "f243d90",
+              "date": "2026-02-10",
+              "message": "fix: align search endpoint parity and release hardening"
+            },
+            {
+              "hash": "00a30e2",
+              "date": "2026-02-10",
+              "message": "docs: record copilot branch reconciliation audit"
+            }
+          ],
+          "files_changed": 52
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "0eb5792",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README — epistemological knowledge system with multi-modal search"
+            },
+            {
+              "hash": "24ed6e9",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy portfolio-grade README"
+            },
+            {
+              "hash": "781fdfd",
+              "date": "2026-02-10",
+              "message": "ci: wire release probe gates to 1password runtime secrets"
+            },
+            {
+              "hash": "e16d823",
+              "date": "2026-02-10",
+              "message": "docs: capture exhaustive closure evidence and blockers"
+            },
+            {
+              "hash": "ab76ba1",
+              "date": "2026-02-10",
+              "message": "feat: finalize release hardening and closure evidence"
+            },
+            {
+              "hash": "4a3553a",
+              "date": "2026-02-10",
+              "message": "chore: finalize release gates docs and taxonomy sync"
+            },
+            {
+              "hash": "f8e5037",
+              "date": "2026-02-10",
+              "message": "feat: tighten backfill controls and hybrid ranking filters"
+            },
+            {
+              "hash": "eaab9a2",
+              "date": "2026-02-10",
+              "message": "feat: harden phase6 workstream-a chunking controls"
+            },
+            {
+              "hash": "f243d90",
+              "date": "2026-02-10",
+              "message": "fix: align search endpoint parity and release hardening"
+            },
+            {
+              "hash": "00a30e2",
+              "date": "2026-02-10",
+              "message": "docs: record copilot branch reconciliation audit"
+            }
+          ],
+          "files_changed": 52
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "0eb5792",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README — epistemological knowledge system with multi-modal search"
+            },
+            {
+              "hash": "24ed6e9",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy portfolio-grade README"
+            },
+            {
+              "hash": "781fdfd",
+              "date": "2026-02-10",
+              "message": "ci: wire release probe gates to 1password runtime secrets"
+            },
+            {
+              "hash": "e16d823",
+              "date": "2026-02-10",
+              "message": "docs: capture exhaustive closure evidence and blockers"
+            },
+            {
+              "hash": "ab76ba1",
+              "date": "2026-02-10",
+              "message": "feat: finalize release hardening and closure evidence"
+            },
+            {
+              "hash": "4a3553a",
+              "date": "2026-02-10",
+              "message": "chore: finalize release gates docs and taxonomy sync"
+            },
+            {
+              "hash": "f8e5037",
+              "date": "2026-02-10",
+              "message": "feat: tighten backfill controls and hybrid ranking filters"
+            },
+            {
+              "hash": "eaab9a2",
+              "date": "2026-02-10",
+              "message": "feat: harden phase6 workstream-a chunking controls"
+            },
+            {
+              "hash": "f243d90",
+              "date": "2026-02-10",
+              "message": "fix: align search endpoint parity and release hardening"
+            },
+            {
+              "hash": "00a30e2",
+              "date": "2026-02-10",
+              "message": "docs: record copilot branch reconciliation audit"
+            }
+          ],
+          "files_changed": 52
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "0eb5792",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README — epistemological knowledge system with multi-modal search"
+            },
+            {
+              "hash": "24ed6e9",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy portfolio-grade README"
+            },
+            {
+              "hash": "781fdfd",
+              "date": "2026-02-10",
+              "message": "ci: wire release probe gates to 1password runtime secrets"
+            },
+            {
+              "hash": "e16d823",
+              "date": "2026-02-10",
+              "message": "docs: capture exhaustive closure evidence and blockers"
+            },
+            {
+              "hash": "ab76ba1",
+              "date": "2026-02-10",
+              "message": "feat: finalize release hardening and closure evidence"
+            },
+            {
+              "hash": "4a3553a",
+              "date": "2026-02-10",
+              "message": "chore: finalize release gates docs and taxonomy sync"
+            },
+            {
+              "hash": "f8e5037",
+              "date": "2026-02-10",
+              "message": "feat: tighten backfill controls and hybrid ranking filters"
+            },
+            {
+              "hash": "eaab9a2",
+              "date": "2026-02-10",
+              "message": "feat: harden phase6 workstream-a chunking controls"
+            },
+            {
+              "hash": "f243d90",
+              "date": "2026-02-10",
+              "message": "fix: align search endpoint parity and release hardening"
+            },
+            {
+              "hash": "00a30e2",
+              "date": "2026-02-10",
+              "message": "docs: record copilot branch reconciliation audit"
+            },
+            {
+              "hash": "0eb5792",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README — epistemological knowledge system with multi-modal search"
+            },
+            {
+              "hash": "24ed6e9",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy portfolio-grade README"
+            },
+            {
+              "hash": "781fdfd",
+              "date": "2026-02-10",
+              "message": "ci: wire release probe gates to 1password runtime secrets"
+            },
+            {
+              "hash": "e16d823",
+              "date": "2026-02-10",
+              "message": "docs: capture exhaustive closure evidence and blockers"
+            },
+            {
+              "hash": "ab76ba1",
+              "date": "2026-02-10",
+              "message": "feat: finalize release hardening and closure evidence"
+            },
+            {
+              "hash": "4a3553a",
+              "date": "2026-02-10",
+              "message": "chore: finalize release gates docs and taxonomy sync"
+            },
+            {
+              "hash": "f8e5037",
+              "date": "2026-02-10",
+              "message": "feat: tighten backfill controls and hybrid ranking filters"
+            },
+            {
+              "hash": "eaab9a2",
+              "date": "2026-02-10",
+              "message": "feat: harden phase6 workstream-a chunking controls"
+            },
+            {
+              "hash": "f243d90",
+              "date": "2026-02-10",
+              "message": "fix: align search endpoint parity and release hardening"
+            },
+            {
+              "hash": "00a30e2",
+              "date": "2026-02-10",
+              "message": "docs: record copilot branch reconciliation audit"
+            }
+          ],
+          "files_changed": 52
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "0eb5792",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README — epistemological knowledge system with multi-modal search"
+            },
+            {
+              "hash": "24ed6e9",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy portfolio-grade README"
+            },
+            {
+              "hash": "781fdfd",
+              "date": "2026-02-10",
+              "message": "ci: wire release probe gates to 1password runtime secrets"
+            },
+            {
+              "hash": "e16d823",
+              "date": "2026-02-10",
+              "message": "docs: capture exhaustive closure evidence and blockers"
+            },
+            {
+              "hash": "ab76ba1",
+              "date": "2026-02-10",
+              "message": "feat: finalize release hardening and closure evidence"
+            },
+            {
+              "hash": "4a3553a",
+              "date": "2026-02-10",
+              "message": "chore: finalize release gates docs and taxonomy sync"
+            },
+            {
+              "hash": "f8e5037",
+              "date": "2026-02-10",
+              "message": "feat: tighten backfill controls and hybrid ranking filters"
+            },
+            {
+              "hash": "eaab9a2",
+              "date": "2026-02-10",
+              "message": "feat: harden phase6 workstream-a chunking controls"
+            },
+            {
+              "hash": "f243d90",
+              "date": "2026-02-10",
+              "message": "fix: align search endpoint parity and release hardening"
+            },
+            {
+              "hash": "00a30e2",
+              "date": "2026-02-10",
+              "message": "docs: record copilot branch reconciliation audit"
+            }
+          ],
+          "files_changed": 52
+        },
+        "narratological-algorithmic-lenses": {
+          "commits": [
+            {
+              "hash": "fec7ab6",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 3,728 words with Theoria badge, philosophical framework, technical architecture, code examples, and cross-organ references"
+            },
+            {
+              "hash": "ba08544",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "nexus--babel-alexandria": {
+          "commits": [
+            {
+              "hash": "33e6a3c",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 4,394 words with philosophical framework, formal foundations, cross-organ position"
+            },
+            {
+              "hash": "1b53ae4",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "organon-noumenon--ontogenetic-morphe": {
+          "commits": [
+            {
+              "hash": "92cf862",
+              "date": "2026-02-10",
+              "message": "fix: resolve broken cross-references in README [Phase 2 micro-validation]"
+            },
+            {
+              "hash": "bf3c4df",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "bb09aa0",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: Radix Recursiva (3,796 words)"
+            },
+            {
+              "hash": "e0cd4d1",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: enhance README with ORGAN-I context, Habitat System docs, and eight-organ map"
+            }
+          ],
+          "files_changed": 1
+        },
+        "recursive-engine--generative-entity": {
+          "commits": [
+            {
+              "hash": "1621cb4",
+              "date": "2026-02-10",
+              "message": "Deploy Bronze Sprint flagship README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "reverse-engine-recursive-run": {
+          "commits": [
+            {
+              "hash": "9217afd",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 5,000+ words with theoretical motivation, technical architecture, design decisions, and cross-organ references"
+            },
+            {
+              "hash": "2e5dfe0",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README — architecture governance toolkit"
+            }
+          ],
+          "files_changed": 1
+        },
+        "sema-metra--alchemica-mundi": {
+          "commits": [
+            {
+              "hash": "c0e2653",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 4,100+ words with philosophical framework, spine architecture, constraints, project structure"
+            },
+            {
+              "hash": "d2c9c0e",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "22dd24c",
+              "date": "2026-02-10",
+              "message": "docs: deploy Silver Sprint README -- theoretical governance framework"
+            },
+            {
+              "hash": "fb9f20b",
+              "date": "2026-02-10",
+              "message": "Deploy ORGAN-I stub README for system-governance-framework"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "89fcc2d",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: expand README to 3000+ words with artistic framing, architecture, examples"
+            }
+          ],
+          "files_changed": 1
+        },
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "68c431a",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README for a-mavs-olevm"
+            }
+          ],
+          "files_changed": 1
+        },
+        "audio-synthesis-bridge": {
+          "commits": [
+            {
+              "hash": "2a720cf",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy audio-synthesis-bridge README (stub tier, API docs required)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "client-sdk": {
+          "commits": [
+            {
+              "hash": "10787d8",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: expand client-sdk README to full architectural specification"
+            }
+          ],
+          "files_changed": 1
+        },
+        "example-choreographic-interface": {
+          "commits": [
+            {
+              "hash": "4ec3c42",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy README — choreographic interface documentation"
+            }
+          ],
+          "files_changed": 1
+        },
+        "example-generative-music": {
+          "commits": [
+            {
+              "hash": "ddbf148",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: audience-controlled generative music (3,125 words)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "example-theatre-dialogue": {
+          "commits": [
+            {
+              "hash": "5466c5e",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: create README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "metasystem-master": {
+          "commits": [
+            {
+              "hash": "c79bd48",
+              "date": "2026-02-10",
+              "message": "Remove .github/README.md — was overriding root README on repo page"
+            },
+            {
+              "hash": "5e3755a",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy flagship README (5,078 words)"
+            },
+            {
+              "hash": "cf67f34",
+              "date": "2026-02-10",
+              "message": "Deploy Bronze Sprint flagship README"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "5ca4a24",
+              "date": "2026-02-10",
+              "message": "docs: deploy Silver Sprint README (3,576 words)"
+            },
+            {
+              "hash": "5ca4a24",
+              "date": "2026-02-10",
+              "message": "docs: deploy Silver Sprint README (3,576 words)"
+            }
+          ],
+          "files_changed": 1
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "fc1d302",
+              "date": "2026-02-10",
+              "message": "Add CONTRIBUTING.md — Gold Sprint community health"
+            },
+            {
+              "hash": "19a0869",
+              "date": "2026-02-10",
+              "message": "Add SECURITY.md — Gold Sprint community health"
+            },
+            {
+              "hash": "fa1e17c",
+              "date": "2026-02-10",
+              "message": "Add CODE_OF_CONDUCT.md — Gold Sprint community health"
+            },
+            {
+              "hash": "72178f5",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: expand org profile README"
+            },
+            {
+              "hash": "81b94c0",
+              "date": "2026-02-10",
+              "message": "Deploy Bronze Sprint stub README (replaces Phase -1 profile)"
+            },
+            {
+              "hash": "82df350",
+              "date": "2026-02-10",
+              "message": "Deploy org profile README"
+            },
+            {
+              "hash": "a8209c9",
+              "date": "2026-02-10",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 5
+        },
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "eec12fe",
+              "date": "2026-02-10",
+              "message": "docs: deploy Silver Sprint README (2,863 words)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "e520903",
+              "date": "2026-02-10",
+              "message": "fix: resolve broken cross-references in README [Phase 2 micro-validation]"
+            },
+            {
+              "hash": "3f1ab1f",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README (2,392 words)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "enterprise-plugin": {
+          "commits": [
+            {
+              "hash": "02a6ecc",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: create README"
+            },
+            {
+              "hash": "02a6ecc",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: create README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "594f042",
+              "date": "2026-02-10",
+              "message": "Remove .github/README.md shadowing root README"
+            },
+            {
+              "hash": "0cd3f62",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README (3,589 words)"
+            },
+            {
+              "hash": "594f042",
+              "date": "2026-02-10",
+              "message": "Remove .github/README.md shadowing root README"
+            },
+            {
+              "hash": "0cd3f62",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README (3,589 words)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "26a93da",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 3,500+ words with architecture, gamification engine, cross-organ context"
+            },
+            {
+              "hash": "26a93da",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 3,500+ words with architecture, gamification engine, cross-organ context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "kerygma-dotgithub": {
+          "commits": [
+            {
+              "hash": "4c8b505",
+              "date": "2026-02-10",
+              "message": "Add CONTRIBUTING.md — Gold Sprint community health"
+            },
+            {
+              "hash": "f0d3b55",
+              "date": "2026-02-10",
+              "message": "Add SECURITY.md — Gold Sprint community health"
+            },
+            {
+              "hash": "6e0cddf",
+              "date": "2026-02-10",
+              "message": "Add CODE_OF_CONDUCT.md — Gold Sprint community health"
+            },
+            {
+              "hash": "52244dc",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: expand org profile README"
+            },
+            {
+              "hash": "18e5ecc",
+              "date": "2026-02-10",
+              "message": "Deploy Bronze Sprint stub README (replaces Phase -1 profile)"
+            },
+            {
+              "hash": "fcbf74d",
+              "date": "2026-02-10",
+              "message": "Deploy org profile README"
+            },
+            {
+              "hash": "519d2b8",
+              "date": "2026-02-10",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 5
+        },
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "4ff144b",
+              "date": "2026-02-10",
+              "message": "docs: deploy Silver Sprint README — expand to 3,600+ words with full architecture, mask system, cross-organ context"
+            },
+            {
+              "hash": "4ff144b",
+              "date": "2026-02-10",
+              "message": "docs: deploy Silver Sprint README — expand to 3,600+ words with full architecture, mask system, cross-organ context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "mirror-mirror": {
+          "commits": [
+            {
+              "hash": "df1c80a",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand from 158 to 3,731 words with full product documentation"
+            },
+            {
+              "hash": "df1c80a",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand from 158 to 3,731 words with full product documentation"
+            }
+          ],
+          "files_changed": 1
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "0eb5792",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy comprehensive README — epistemological knowledge system with multi-modal search"
+            },
+            {
+              "hash": "24ed6e9",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: deploy portfolio-grade README"
+            },
+            {
+              "hash": "781fdfd",
+              "date": "2026-02-10",
+              "message": "ci: wire release probe gates to 1password runtime secrets"
+            },
+            {
+              "hash": "e16d823",
+              "date": "2026-02-10",
+              "message": "docs: capture exhaustive closure evidence and blockers"
+            },
+            {
+              "hash": "ab76ba1",
+              "date": "2026-02-10",
+              "message": "feat: finalize release hardening and closure evidence"
+            },
+            {
+              "hash": "4a3553a",
+              "date": "2026-02-10",
+              "message": "chore: finalize release gates docs and taxonomy sync"
+            },
+            {
+              "hash": "f8e5037",
+              "date": "2026-02-10",
+              "message": "feat: tighten backfill controls and hybrid ranking filters"
+            },
+            {
+              "hash": "eaab9a2",
+              "date": "2026-02-10",
+              "message": "feat: harden phase6 workstream-a chunking controls"
+            },
+            {
+              "hash": "f243d90",
+              "date": "2026-02-10",
+              "message": "fix: align search endpoint parity and release hardening"
+            },
+            {
+              "hash": "00a30e2",
+              "date": "2026-02-10",
+              "message": "docs: record copilot branch reconciliation audit"
+            }
+          ],
+          "files_changed": 52
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "1032c37",
+              "date": "2026-02-10",
+              "message": "Upgrade distribute-content: real Mastodon/Discord integration + distribution report"
+            },
+            {
+              "hash": "0e1e0db",
+              "date": "2026-02-10",
+              "message": "Upgrade publish-process: real content extraction from README/changelog + ORGAN-V PR creation"
+            },
+            {
+              "hash": "dcce074",
+              "date": "2026-02-10",
+              "message": "Upgrade promote-repo: automated validation against registry + governance criteria"
+            },
+            {
+              "hash": "6b432ed",
+              "date": "2026-02-10",
+              "message": "Upgrade monthly-organ-audit: add metrics script integration + per-organ breakdown"
+            },
+            {
+              "hash": "98bcdb5",
+              "date": "2026-02-10",
+              "message": "Add calculate-metrics.py for monthly audit"
+            },
+            {
+              "hash": "f32a415",
+              "date": "2026-02-10",
+              "message": "Upgrade validate-dependencies: add cycle detection + transitive depth check"
+            },
+            {
+              "hash": "3e80248",
+              "date": "2026-02-10",
+              "message": "Initialize orchestration hub — Gold Sprint G4"
+            }
+          ],
+          "files_changed": 12
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "8fb11b5",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 3,700+ words with ORGAN-IV governance framing"
+            }
+          ],
+          "files_changed": 1
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "4985102",
+              "date": "2026-02-10",
+              "message": "Deploy Bronze Sprint flagship README"
+            },
+            {
+              "hash": "4985102",
+              "date": "2026-02-10",
+              "message": "Deploy Bronze Sprint flagship README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "sovereign-ecosystem--real-estate-luxury": {
+          "commits": [
+            {
+              "hash": "6991544",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand from 989 to 4,135 words"
+            },
+            {
+              "hash": "6991544",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand from 989 to 4,135 words"
+            }
+          ],
+          "files_changed": 1
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "22dd24c",
+              "date": "2026-02-10",
+              "message": "docs: deploy Silver Sprint README -- theoretical governance framework"
+            },
+            {
+              "hash": "fb9f20b",
+              "date": "2026-02-10",
+              "message": "Deploy ORGAN-I stub README for system-governance-framework"
+            }
+          ],
+          "files_changed": 1
+        },
+        "tab-bookmark-manager": {
+          "commits": [
+            {
+              "hash": "a37075f",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 3,900+ words with architecture, cross-organ context, and full API reference"
+            }
+          ],
+          "files_changed": 1
+        },
+        "the-actual-news": {
+          "commits": [
+            {
+              "hash": "03431a4",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README — expand to 3,739 words with full architecture, protocol spec, publish gate, and cross-organ context"
+            },
+            {
+              "hash": "03431a4",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README — expand to 3,739 words with full architecture, protocol spec, publish gate, and cross-organ context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "the-invisible-ledger": {
+          "commits": [
+            {
+              "hash": "2f6a56d",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 4,100+ word portfolio-grade documentation"
+            },
+            {
+              "hash": "2f6a56d",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 4,100+ word portfolio-grade documentation"
+            }
+          ],
+          "files_changed": 1
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "d7f3c2d",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: portfolio-grade expansion to 3,560 words"
+            },
+            {
+              "hash": "d7f3c2d",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: portfolio-grade expansion to 3,560 words"
+            }
+          ],
+          "files_changed": 1
+        },
+        "universal-mail--automation": {
+          "commits": [
+            {
+              "hash": "9c3ec6d",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: expand README to 3,550-word portfolio-grade documentation"
+            },
+            {
+              "hash": "9c3ec6d",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: expand README to 3,550-word portfolio-grade documentation"
+            }
+          ],
+          "files_changed": 1
+        },
+        "virgil-training-overlay": {
+          "commits": [
+            {
+              "hash": "1604a44",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: create README"
+            },
+            {
+              "hash": "1604a44",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: create README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "multi-camera--livestream--framework": {
+          "commits": [
+            {
+              "hash": "3c255d0",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 3,600+ words with architecture, config system, cross-organ context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "my--father-mother": {
+          "commits": [
+            {
+              "hash": "60fda3a",
+              "date": "2026-02-10",
+              "message": "deploy Silver Sprint README (4,299 words)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "my-block-warfare": {
+          "commits": [
+            {
+              "hash": "0cb710a",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 4,500+ words with full architecture, game mechanics, and cross-organ context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "search-local--happy-hour": {
+          "commits": [
+            {
+              "hash": "1852441",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to portfolio-grade 3,889-word documentation"
+            }
+          ],
+          "files_changed": 1
+        },
+        "your-fit-tailored": {
+          "commits": [
+            {
+              "hash": "c37dff4",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand from 819 to 4,191 words"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "a-i--skills": {
+          "commits": [
+            {
+              "hash": "233b94c",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 3,200+ words with ORGAN-IV orchestration framing"
+            }
+          ],
+          "files_changed": 1
+        },
+        "agent--claude-smith": {
+          "commits": [
+            {
+              "hash": "02a96d7",
+              "date": "2026-02-10",
+              "message": "Silver Sprint: create README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "agentic-titan": {
+          "commits": [
+            {
+              "hash": "1cc95cb",
+              "date": "2026-02-10",
+              "message": "Deploy Bronze Sprint flagship README"
+            },
+            {
+              "hash": "2cdcb53",
+              "date": "2026-02-10",
+              "message": "chore: finalize omega closure and deploy-smoke governance"
+            },
+            {
+              "hash": "e57fb13",
+              "date": "2026-02-10",
+              "message": "chore: harden governance gates and record omega closure evidence"
+            },
+            {
+              "hash": "4409794",
+              "date": "2026-02-10",
+              "message": "chore: complete mypy quarantine burn-down and close tranche gates"
+            },
+            {
+              "hash": "ed965da",
+              "date": "2026-02-10",
+              "message": "ratchet(mypy): burn down quarantine by 5 modules and revalidate gates"
+            },
+            {
+              "hash": "b7ea5c2",
+              "date": "2026-02-10",
+              "message": "governance: add evaluation-to-growth artifacts and mypy quarantine checks"
+            },
+            {
+              "hash": "aad751b",
+              "date": "2026-02-10",
+              "message": "chore: complete repository-wide quality completion program"
+            }
+          ],
+          "files_changed": 299
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "1032c37",
+              "date": "2026-02-10",
+              "message": "Upgrade distribute-content: real Mastodon/Discord integration + distribution report"
+            },
+            {
+              "hash": "0e1e0db",
+              "date": "2026-02-10",
+              "message": "Upgrade publish-process: real content extraction from README/changelog + ORGAN-V PR creation"
+            },
+            {
+              "hash": "dcce074",
+              "date": "2026-02-10",
+              "message": "Upgrade promote-repo: automated validation against registry + governance criteria"
+            },
+            {
+              "hash": "6b432ed",
+              "date": "2026-02-10",
+              "message": "Upgrade monthly-organ-audit: add metrics script integration + per-organ breakdown"
+            },
+            {
+              "hash": "98bcdb5",
+              "date": "2026-02-10",
+              "message": "Add calculate-metrics.py for monthly audit"
+            },
+            {
+              "hash": "f32a415",
+              "date": "2026-02-10",
+              "message": "Upgrade validate-dependencies: add cycle detection + transitive depth check"
+            },
+            {
+              "hash": "3e80248",
+              "date": "2026-02-10",
+              "message": "Initialize orchestration hub — Gold Sprint G4"
+            }
+          ],
+          "files_changed": 12
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "8fb11b5",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README: expand to 3,700+ words with ORGAN-IV governance framing"
+            }
+          ],
+          "files_changed": 1
+        },
+        "universal-node-network": {
+          "commits": [
+            {
+              "hash": "49ed821",
+              "date": "2026-02-10",
+              "message": "Deploy Silver Sprint README for universal-node-network"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        "public-process": {
+          "commits": [
+            {
+              "hash": "7eff741",
+              "date": "2026-02-10",
+              "message": "Add post: 2026-02-10-five-years-autonomous-creative"
+            },
+            {
+              "hash": "dd537d1",
+              "date": "2026-02-10",
+              "message": "Add post: 2026-02-10-building-in-public"
+            },
+            {
+              "hash": "01aacc8",
+              "date": "2026-02-10",
+              "message": "Add post: 2026-02-10-meta-system-as-portfolio-asset"
+            },
+            {
+              "hash": "14c0614",
+              "date": "2026-02-10",
+              "message": "Add post: 2026-02-10-governance-as-creative-practice"
+            },
+            {
+              "hash": "f2cb265",
+              "date": "2026-02-10",
+              "message": "Add post: 2026-02-10-how-we-orchestrate-eight-organs"
+            },
+            {
+              "hash": "c0929f9",
+              "date": "2026-02-10",
+              "message": "Add index page for Jekyll site"
+            },
+            {
+              "hash": "3e4233d",
+              "date": "2026-02-10",
+              "message": "Add essay layout"
+            },
+            {
+              "hash": "feece02",
+              "date": "2026-02-10",
+              "message": "Add default layout"
+            },
+            {
+              "hash": "f73b058",
+              "date": "2026-02-10",
+              "message": "Add Gemfile for GitHub Pages plugins"
+            },
+            {
+              "hash": "b9da9b1",
+              "date": "2026-02-10",
+              "message": "Add Jekyll configuration for GitHub Pages + RSS feed"
+            },
+            {
+              "hash": "8f77ed2",
+              "date": "2026-02-10",
+              "message": "Add 5 meta-system essays — Gold Sprint ORGAN-V content"
+            },
+            {
+              "hash": "e83ada3",
+              "date": "2026-02-10",
+              "message": "Deploy Bronze Sprint flagship README"
+            }
+          ],
+          "files_changed": 16
+        }
+      }
+    }
+  }
+}

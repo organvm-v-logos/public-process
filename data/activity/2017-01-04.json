@@ -1,0 +1,30 @@
+{
+  "generated": "2026-03-06T00:39:34Z",
+  "since": "2017-01-04",
+  "until": "2017-01-04",
+  "summary": {
+    "total_commits": 1,
+    "repos_active": 1,
+    "files_changed": 59,
+    "organs_touched": [
+      "II"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "87df9c2",
+              "date": "2017-01-04",
+              "message": "added 'artwork' folder; properly named em all"
+            }
+          ],
+          "files_changed": 59
+        }
+      }
+    }
+  }
+}

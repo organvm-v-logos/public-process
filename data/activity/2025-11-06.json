@@ -1,0 +1,591 @@
+{
+  "generated": "2026-03-06T00:39:33Z",
+  "since": "2025-11-06",
+  "until": "2025-11-06",
+  "summary": {
+    "total_commits": 108,
+    "repos_active": 5,
+    "files_changed": 210,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "c9be4e4",
+              "date": "2025-11-06",
+              "message": "Updated copilot instructions to enhance clarity and organization."
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "98e00bf",
+              "date": "2025-11-06",
+              "message": "fix: remove duplicate content from CODE_OF_CONDUCT.md"
+            },
+            {
+              "hash": "b3ce294",
+              "date": "2025-11-06",
+              "message": "chore: add additional governance files (CODEOWNERS, SUPPORT, stale, release-drafter)"
+            },
+            {
+              "hash": "168e7c5",
+              "date": "2025-11-06",
+              "message": "feat: add organization-wide governance standards and templates"
+            },
+            {
+              "hash": "50a2a6a",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "98e00bf",
+              "date": "2025-11-06",
+              "message": "fix: remove duplicate content from CODE_OF_CONDUCT.md"
+            },
+            {
+              "hash": "b3ce294",
+              "date": "2025-11-06",
+              "message": "chore: add additional governance files (CODEOWNERS, SUPPORT, stale, release-drafter)"
+            },
+            {
+              "hash": "168e7c5",
+              "date": "2025-11-06",
+              "message": "feat: add organization-wide governance standards and templates"
+            },
+            {
+              "hash": "50a2a6a",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 15
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "d399ddc",
+              "date": "2025-11-06",
+              "message": "Update TESTING.md"
+            },
+            {
+              "hash": "80eb9d7",
+              "date": "2025-11-06",
+              "message": "Refactor components for consistency and readability"
+            },
+            {
+              "hash": "38f6f49",
+              "date": "2025-11-06",
+              "message": "Fix Vercel build: force legacy peer deps"
+            },
+            {
+              "hash": "cfde1ac",
+              "date": "2025-11-06",
+              "message": "Full purge auto-rewrite: real CSV only"
+            },
+            {
+              "hash": "cb473aa",
+              "date": "2025-11-06",
+              "message": "Purged all mock data and forced real CSV"
+            },
+            {
+              "hash": "6f07f5e",
+              "date": "2025-11-06",
+              "message": "Converted ProspectCard to use REAL CSV fields"
+            },
+            {
+              "hash": "a148cc9",
+              "date": "2025-11-06",
+              "message": "Full replacement: load ONLY real CSV"
+            },
+            {
+              "hash": "e1eda3f",
+              "date": "2025-11-06",
+              "message": "Replaced mockData completely with real CSV loader"
+            },
+            {
+              "hash": "f1a8fa6",
+              "date": "2025-11-06",
+              "message": "Wrap up PRs #36, #45, #48: merge testing infrastructure and scraper fixes"
+            },
+            {
+              "hash": "8208aa1",
+              "date": "2025-11-06",
+              "message": "Disabled mockData; mapped to real CSV loader"
+            },
+            {
+              "hash": "8639960",
+              "date": "2025-11-06",
+              "message": "Rebuilt mockData.ts to use real UCC CSV"
+            },
+            {
+              "hash": "88a742c",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "de42d70",
+              "date": "2025-11-06",
+              "message": "Replaced AgenticDashboard with real CSV dashboard"
+            },
+            {
+              "hash": "1ee6485",
+              "date": "2025-11-06",
+              "message": "Replaced mockData with real CSV loader"
+            },
+            {
+              "hash": "004e8f0",
+              "date": "2025-11-06",
+              "message": "Add real enriched UCC leads"
+            },
+            {
+              "hash": "648d49e",
+              "date": "2025-11-06",
+              "message": "Add enriched UCC data"
+            },
+            {
+              "hash": "e124b44",
+              "date": "2025-11-06",
+              "message": "Address code review feedback: improve error messaging and logging efficiency"
+            },
+            {
+              "hash": "40d6628",
+              "date": "2025-11-06",
+              "message": "Fix P1 issues: accurate retry count reporting and robust error classification"
+            },
+            {
+              "hash": "17ddcc9",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "6669024",
+              "date": "2025-11-06",
+              "message": "Add coverage directory to .gitignore and remove from tracking"
+            },
+            {
+              "hash": "35b5de4",
+              "date": "2025-11-06",
+              "message": "Fix linting issues in test files"
+            },
+            {
+              "hash": "3ed7152",
+              "date": "2025-11-06",
+              "message": "Add comprehensive Vitest testing infrastructure with 200 tests"
+            },
+            {
+              "hash": "6b05c9c",
+              "date": "2025-11-06",
+              "message": "Fix ES module compatibility in vitest.config.ts and add type reference for jest-dom"
+            },
+            {
+              "hash": "37fffda",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "de005c0",
+              "date": "2025-11-06",
+              "message": "Update setup.ts"
+            },
+            {
+              "hash": "fc67ceb",
+              "date": "2025-11-06",
+              "message": "Update BaseAgent.test.ts"
+            },
+            {
+              "hash": "bc869e2",
+              "date": "2025-11-06",
+              "message": "Update AgenticEngine.test.ts"
+            },
+            {
+              "hash": "ec2519f",
+              "date": "2025-11-06",
+              "message": "Update AgenticEngine.test.ts"
+            },
+            {
+              "hash": "938c825",
+              "date": "2025-11-06",
+              "message": "Fix retry count tracking and timestamp preservation"
+            },
+            {
+              "hash": "7d35f7f",
+              "date": "2025-11-06",
+              "message": "Refactor validation logic to reduce code duplication"
+            },
+            {
+              "hash": "b01c4ba",
+              "date": "2025-11-06",
+              "message": "Add resolution summary document"
+            },
+            {
+              "hash": "a61969b",
+              "date": "2025-11-06",
+              "message": "Add comprehensive documentation for scraper reliability improvements"
+            },
+            {
+              "hash": "75892df",
+              "date": "2025-11-06",
+              "message": "Add PR comments resolution tracking and fix unused variables"
+            },
+            {
+              "hash": "e23bfbc",
+              "date": "2025-11-06",
+              "message": "Add retry logic, comprehensive logging, and data validation to scrapers"
+            },
+            {
+              "hash": "9e0a87b",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "48c94f5",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "6c40fa9",
+              "date": "2025-11-06",
+              "message": "Add quick reference cheat sheet for CLI scraper"
+            },
+            {
+              "hash": "6cd314c",
+              "date": "2025-11-06",
+              "message": "Add implementation summary and finalize standalone CLI scraper"
+            },
+            {
+              "hash": "d39ac1e",
+              "date": "2025-11-06",
+              "message": "Address code review feedback: improve CSV parsing, cleanup, and filename handling"
+            },
+            {
+              "hash": "4f1ca5a",
+              "date": "2025-11-06",
+              "message": "Fix TypeScript lint errors in CLI and scrapers"
+            },
+            {
+              "hash": "82c9ec8",
+              "date": "2025-11-06",
+              "message": "Add standalone terminal CLI scraper with real Puppeteer implementation"
+            },
+            {
+              "hash": "d9f57a4",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "64eb707",
+              "date": "2025-11-06",
+              "message": "Add comprehensive test implementation summary document"
+            },
+            {
+              "hash": "c5e25a3",
+              "date": "2025-11-06",
+              "message": "Address code review feedback - improve test encapsulation and path resolution"
+            },
+            {
+              "hash": "f043423",
+              "date": "2025-11-06",
+              "message": "Complete comprehensive test suite - 143 passing tests for all agents and core components"
+            },
+            {
+              "hash": "d399ddc",
+              "date": "2025-11-06",
+              "message": "Update TESTING.md"
+            },
+            {
+              "hash": "80eb9d7",
+              "date": "2025-11-06",
+              "message": "Refactor components for consistency and readability"
+            },
+            {
+              "hash": "38f6f49",
+              "date": "2025-11-06",
+              "message": "Fix Vercel build: force legacy peer deps"
+            },
+            {
+              "hash": "cfde1ac",
+              "date": "2025-11-06",
+              "message": "Full purge auto-rewrite: real CSV only"
+            },
+            {
+              "hash": "cb473aa",
+              "date": "2025-11-06",
+              "message": "Purged all mock data and forced real CSV"
+            },
+            {
+              "hash": "6f07f5e",
+              "date": "2025-11-06",
+              "message": "Converted ProspectCard to use REAL CSV fields"
+            },
+            {
+              "hash": "a148cc9",
+              "date": "2025-11-06",
+              "message": "Full replacement: load ONLY real CSV"
+            },
+            {
+              "hash": "e1eda3f",
+              "date": "2025-11-06",
+              "message": "Replaced mockData completely with real CSV loader"
+            },
+            {
+              "hash": "f1a8fa6",
+              "date": "2025-11-06",
+              "message": "Wrap up PRs #36, #45, #48: merge testing infrastructure and scraper fixes"
+            },
+            {
+              "hash": "8208aa1",
+              "date": "2025-11-06",
+              "message": "Disabled mockData; mapped to real CSV loader"
+            },
+            {
+              "hash": "8639960",
+              "date": "2025-11-06",
+              "message": "Rebuilt mockData.ts to use real UCC CSV"
+            },
+            {
+              "hash": "88a742c",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "de42d70",
+              "date": "2025-11-06",
+              "message": "Replaced AgenticDashboard with real CSV dashboard"
+            },
+            {
+              "hash": "1ee6485",
+              "date": "2025-11-06",
+              "message": "Replaced mockData with real CSV loader"
+            },
+            {
+              "hash": "004e8f0",
+              "date": "2025-11-06",
+              "message": "Add real enriched UCC leads"
+            },
+            {
+              "hash": "648d49e",
+              "date": "2025-11-06",
+              "message": "Add enriched UCC data"
+            },
+            {
+              "hash": "e124b44",
+              "date": "2025-11-06",
+              "message": "Address code review feedback: improve error messaging and logging efficiency"
+            },
+            {
+              "hash": "40d6628",
+              "date": "2025-11-06",
+              "message": "Fix P1 issues: accurate retry count reporting and robust error classification"
+            },
+            {
+              "hash": "17ddcc9",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "6669024",
+              "date": "2025-11-06",
+              "message": "Add coverage directory to .gitignore and remove from tracking"
+            },
+            {
+              "hash": "35b5de4",
+              "date": "2025-11-06",
+              "message": "Fix linting issues in test files"
+            },
+            {
+              "hash": "3ed7152",
+              "date": "2025-11-06",
+              "message": "Add comprehensive Vitest testing infrastructure with 200 tests"
+            },
+            {
+              "hash": "6b05c9c",
+              "date": "2025-11-06",
+              "message": "Fix ES module compatibility in vitest.config.ts and add type reference for jest-dom"
+            },
+            {
+              "hash": "37fffda",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "de005c0",
+              "date": "2025-11-06",
+              "message": "Update setup.ts"
+            },
+            {
+              "hash": "fc67ceb",
+              "date": "2025-11-06",
+              "message": "Update BaseAgent.test.ts"
+            },
+            {
+              "hash": "bc869e2",
+              "date": "2025-11-06",
+              "message": "Update AgenticEngine.test.ts"
+            },
+            {
+              "hash": "ec2519f",
+              "date": "2025-11-06",
+              "message": "Update AgenticEngine.test.ts"
+            },
+            {
+              "hash": "938c825",
+              "date": "2025-11-06",
+              "message": "Fix retry count tracking and timestamp preservation"
+            },
+            {
+              "hash": "7d35f7f",
+              "date": "2025-11-06",
+              "message": "Refactor validation logic to reduce code duplication"
+            },
+            {
+              "hash": "b01c4ba",
+              "date": "2025-11-06",
+              "message": "Add resolution summary document"
+            },
+            {
+              "hash": "a61969b",
+              "date": "2025-11-06",
+              "message": "Add comprehensive documentation for scraper reliability improvements"
+            },
+            {
+              "hash": "75892df",
+              "date": "2025-11-06",
+              "message": "Add PR comments resolution tracking and fix unused variables"
+            },
+            {
+              "hash": "e23bfbc",
+              "date": "2025-11-06",
+              "message": "Add retry logic, comprehensive logging, and data validation to scrapers"
+            },
+            {
+              "hash": "9e0a87b",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "48c94f5",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "6c40fa9",
+              "date": "2025-11-06",
+              "message": "Add quick reference cheat sheet for CLI scraper"
+            },
+            {
+              "hash": "6cd314c",
+              "date": "2025-11-06",
+              "message": "Add implementation summary and finalize standalone CLI scraper"
+            },
+            {
+              "hash": "d39ac1e",
+              "date": "2025-11-06",
+              "message": "Address code review feedback: improve CSV parsing, cleanup, and filename handling"
+            },
+            {
+              "hash": "4f1ca5a",
+              "date": "2025-11-06",
+              "message": "Fix TypeScript lint errors in CLI and scrapers"
+            },
+            {
+              "hash": "82c9ec8",
+              "date": "2025-11-06",
+              "message": "Add standalone terminal CLI scraper with real Puppeteer implementation"
+            },
+            {
+              "hash": "d9f57a4",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "64eb707",
+              "date": "2025-11-06",
+              "message": "Add comprehensive test implementation summary document"
+            },
+            {
+              "hash": "c5e25a3",
+              "date": "2025-11-06",
+              "message": "Address code review feedback - improve test encapsulation and path resolution"
+            },
+            {
+              "hash": "f043423",
+              "date": "2025-11-06",
+              "message": "Complete comprehensive test suite - 143 passing tests for all agents and core components"
+            }
+          ],
+          "files_changed": 190
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "c9be4e4",
+              "date": "2025-11-06",
+              "message": "Updated copilot instructions to enhance clarity and organization."
+            }
+          ],
+          "files_changed": 1
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "557f96a",
+              "date": "2025-11-06",
+              "message": "Add Reference Implementation & Vision section to README and docs"
+            },
+            {
+              "hash": "1f76e1a",
+              "date": "2025-11-06",
+              "message": "Add comprehensive gap analysis template to docs/"
+            },
+            {
+              "hash": "750d473",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "a3d86bf",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "557f96a",
+              "date": "2025-11-06",
+              "message": "Add Reference Implementation & Vision section to README and docs"
+            },
+            {
+              "hash": "1f76e1a",
+              "date": "2025-11-06",
+              "message": "Add comprehensive gap analysis template to docs/"
+            },
+            {
+              "hash": "750d473",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "a3d86bf",
+              "date": "2025-11-06",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

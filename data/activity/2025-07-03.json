@@ -1,0 +1,50 @@
+{
+  "generated": "2026-03-06T00:39:37Z",
+  "since": "2025-07-03",
+  "until": "2025-07-03",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 2,
+    "files_changed": 23,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "d34a575",
+              "date": "2025-07-03",
+              "message": "chore: ci build"
+            },
+            {
+              "hash": "c8f3b4e",
+              "date": "2025-07-03",
+              "message": "chore: release userscript 2.29.0"
+            },
+            {
+              "hash": "e1d1a2f",
+              "date": "2025-07-03",
+              "message": "feat: support audio chat"
+            }
+          ],
+          "files_changed": 22
+        },
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "9cc245e",
+              "date": "2025-07-03",
+              "message": "GrindrPlus: Update manifest"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

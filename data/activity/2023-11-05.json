@@ -1,0 +1,60 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-11-05",
+  "until": "2023-11-05",
+  "summary": {
+    "total_commits": 7,
+    "repos_active": 1,
+    "files_changed": 9,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "aea00d2",
+              "date": "2023-11-05",
+              "message": "CI build"
+            },
+            {
+              "hash": "4dc45b7",
+              "date": "2023-11-05",
+              "message": "chore: release userscript 2.16.0"
+            },
+            {
+              "hash": "ddfbee7",
+              "date": "2023-11-05",
+              "message": "fix: show `[image]` for multi-modal in text export"
+            },
+            {
+              "hash": "249ffb9",
+              "date": "2023-11-05",
+              "message": "refactor: order exporter functions"
+            },
+            {
+              "hash": "4bf87e5",
+              "date": "2023-11-05",
+              "message": "refactor: move `blobToDataURL`"
+            },
+            {
+              "hash": "d5c9aa5",
+              "date": "2023-11-05",
+              "message": "refactor: rename `replaceImageAssets`"
+            },
+            {
+              "hash": "c5ed341",
+              "date": "2023-11-05",
+              "message": "feat: support multi-modal (#179)"
+            }
+          ],
+          "files_changed": 9
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "generated": "2026-03-06T00:39:29Z",
+  "since": "2025-10-23",
+  "until": "2025-10-23",
+  "summary": {
+    "total_commits": 38,
+    "repos_active": 6,
+    "files_changed": 435,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "a-recursive-root": {
+          "commits": [
+            {
+              "hash": "ce7e246",
+              "date": "2025-10-23",
+              "message": "Bump the pip group across 1 directory with 6 updates"
+            },
+            {
+              "hash": "13447ff",
+              "date": "2025-10-23",
+              "message": "Add AI CLI installation scripts and documentation"
+            },
+            {
+              "hash": "e43ba16",
+              "date": "2025-10-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "374bc41",
+              "date": "2025-10-23",
+              "message": "Add user documentation and project templates"
+            },
+            {
+              "hash": "ab6f15a",
+              "date": "2025-10-23",
+              "message": "Phase 1: Foundation architecture setup - tasks 1-3"
+            },
+            {
+              "hash": "f604ed2",
+              "date": "2025-10-23",
+              "message": "Improve placeholder values in environment variable examples"
+            },
+            {
+              "hash": "5cd32f1",
+              "date": "2025-10-23",
+              "message": "Add software stack deep dive documentation"
+            },
+            {
+              "hash": "94ae672",
+              "date": "2025-10-23",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "2716f9a",
+              "date": "2025-10-23",
+              "message": "Initial project structure and configuration"
+            }
+          ],
+          "files_changed": 195
+        },
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "8923e52",
+              "date": "2025-10-23",
+              "message": "Add GitHub Actions workflow to summarize new issues"
+            },
+            {
+              "hash": "f4ec754",
+              "date": "2025-10-23",
+              "message": "Add Hadolint workflow for Dockerfile linting"
+            },
+            {
+              "hash": "ffa8a75",
+              "date": "2025-10-23",
+              "message": "Add ESLint workflow for code analysis"
+            },
+            {
+              "hash": "4d7b323",
+              "date": "2025-10-23",
+              "message": "Add Pyre workflow for type checking Python code"
+            },
+            {
+              "hash": "3956671",
+              "date": "2025-10-23",
+              "message": "Add Semgrep workflow for code scanning"
+            },
+            {
+              "hash": "f299977",
+              "date": "2025-10-23",
+              "message": "Add GitHub Actions workflow to summarize new issues"
+            },
+            {
+              "hash": "fce66c6",
+              "date": "2025-10-23",
+              "message": "Add Hadolint workflow for Dockerfile linting"
+            },
+            {
+              "hash": "f975562",
+              "date": "2025-10-23",
+              "message": "Add ESLint workflow for code analysis"
+            },
+            {
+              "hash": "40187c8",
+              "date": "2025-10-23",
+              "message": "Add Pyre workflow for type checking Python code"
+            },
+            {
+              "hash": "9bc16c4",
+              "date": "2025-10-23",
+              "message": "Add Semgrep workflow for code scanning"
+            },
+            {
+              "hash": "ec990f9",
+              "date": "2025-10-23",
+              "message": "Add GitHub Actions workflow to summarize new issues"
+            },
+            {
+              "hash": "688f6bd",
+              "date": "2025-10-23",
+              "message": "Add GitHub Actions workflow to summarize issues"
+            },
+            {
+              "hash": "a79bd50",
+              "date": "2025-10-23",
+              "message": "Add Hadolint workflow for Dockerfile linting"
+            },
+            {
+              "hash": "ac394f7",
+              "date": "2025-10-23",
+              "message": "Add ESLint workflow for code analysis"
+            },
+            {
+              "hash": "9086d43",
+              "date": "2025-10-23",
+              "message": "Add Pyre workflow for type checking Python code"
+            },
+            {
+              "hash": "5e94e28",
+              "date": "2025-10-23",
+              "message": "Add Semgrep workflow for code scanning"
+            },
+            {
+              "hash": "c8ce15e",
+              "date": "2025-10-23",
+              "message": "Merge pull request #42 from 4-b100m/codex/implement-github-actions-for-ai-code-review"
+            }
+          ],
+          "files_changed": 175
+        },
+        "reverse-engine-recursive-run": {
+          "commits": [
+            {
+              "hash": "c20ee05",
+              "date": "2025-10-23",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 1
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "e76708d",
+              "date": "2025-10-23",
+              "message": "Fix GitHub Actions workflow configuration errors causing dependency failures (#17)"
+            },
+            {
+              "hash": "73bbf5c",
+              "date": "2025-10-23",
+              "message": "chore-tidying (#14)"
+            },
+            {
+              "hash": "80fe43a",
+              "date": "2025-10-23",
+              "message": "Create standard-procedures.yaml"
+            },
+            {
+              "hash": "61ce2b8",
+              "date": "2025-10-23",
+              "message": "Add CodeQL analysis workflow configuration"
+            },
+            {
+              "hash": "badaeee",
+              "date": "2025-10-23",
+              "message": "Add Advanced Automation, Security Gates, and Quality Controls (#3)"
+            }
+          ],
+          "files_changed": 32
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "8d86390",
+              "date": "2025-10-23",
+              "message": "GrindrPlus: Fetch latest Grindr version"
+            }
+          ],
+          "files_changed": 0
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "e76708d",
+              "date": "2025-10-23",
+              "message": "Fix GitHub Actions workflow configuration errors causing dependency failures (#17)"
+            },
+            {
+              "hash": "73bbf5c",
+              "date": "2025-10-23",
+              "message": "chore-tidying (#14)"
+            },
+            {
+              "hash": "80fe43a",
+              "date": "2025-10-23",
+              "message": "Create standard-procedures.yaml"
+            },
+            {
+              "hash": "61ce2b8",
+              "date": "2025-10-23",
+              "message": "Add CodeQL analysis workflow configuration"
+            },
+            {
+              "hash": "badaeee",
+              "date": "2025-10-23",
+              "message": "Add Advanced Automation, Security Gates, and Quality Controls (#3)"
+            }
+          ],
+          "files_changed": 32
+        }
+      }
+    }
+  }
+}

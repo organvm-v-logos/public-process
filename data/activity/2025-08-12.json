@@ -1,0 +1,66 @@
+{
+  "generated": "2026-03-06T00:39:39Z",
+  "since": "2025-08-12",
+  "until": "2025-08-12",
+  "summary": {
+    "total_commits": 5,
+    "repos_active": 3,
+    "files_changed": 3,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "e993b98",
+              "date": "2025-08-12",
+              "message": "GrindrPlus: Fetch latest Grindr version"
+            }
+          ],
+          "files_changed": 0
+        },
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "952ac28",
+              "date": "2025-08-12",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "9f5697d",
+              "date": "2025-08-12",
+              "message": "Delete images/banner.jpg"
+            },
+            {
+              "hash": "73adead",
+              "date": "2025-08-12",
+              "message": "Update index.html"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "5a7765c",
+              "date": "2025-08-12",
+              "message": "Add UserAgent header as required by Poly Haven's API terms"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

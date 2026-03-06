@@ -1,0 +1,747 @@
+{
+  "generated": "2026-03-06T00:39:27Z",
+  "since": "2026-02-16",
+  "until": "2026-02-16",
+  "summary": {
+    "total_commits": 117,
+    "repos_active": 20,
+    "files_changed": 658,
+    "organs_touched": [
+      "II",
+      "III",
+      "IV",
+      "META",
+      "Personal",
+      "V",
+      "VI",
+      "VII"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "4444J99": {
+          "commits": [
+            {
+              "hash": "3367e2a",
+              "date": "2026-02-16",
+              "message": "Update assets/metrics-dark.svg - [Skip GitHub Action]"
+            },
+            {
+              "hash": "bfb7798",
+              "date": "2026-02-16",
+              "message": "Update assets/metrics.svg - [Skip GitHub Action]"
+            },
+            {
+              "hash": "ad5e24a",
+              "date": "2026-02-16",
+              "message": "chore: update essay feed in README [skip ci]"
+            },
+            {
+              "hash": "7d43f08",
+              "date": "2026-02-16",
+              "message": "chore: update contribution snake [skip ci]"
+            }
+          ],
+          "files_changed": 5
+        },
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "29da222",
+              "date": "2026-02-16",
+              "message": "feat: add print stylesheet, focus management, and resume print button"
+            },
+            {
+              "hash": "a4354bc",
+              "date": "2026-02-16",
+              "message": "feat: add PWA manifest, service worker, and offline fallback"
+            },
+            {
+              "hash": "2297b74",
+              "date": "2026-02-16",
+              "message": "feat: add interactive organ navigator to architecture page"
+            },
+            {
+              "hash": "f04ac00",
+              "date": "2026-02-16",
+              "message": "feat: add interactive gallery with fullscreen and sketch controls"
+            },
+            {
+              "hash": "5680995",
+              "date": "2026-02-16",
+              "message": "feat: add native RSS feed with project and essay items"
+            },
+            {
+              "hash": "c30b7ea",
+              "date": "2026-02-16",
+              "message": "feat: generate per-page OG images at build time"
+            },
+            {
+              "hash": "225f46d",
+              "date": "2026-02-16",
+              "message": "feat: add system preference detection and chart theme adaptation"
+            },
+            {
+              "hash": "51ef789",
+              "date": "2026-02-16",
+              "message": "feat: add light theme CSS custom properties and toggle"
+            },
+            {
+              "hash": "c6e5380",
+              "date": "2026-02-16",
+              "message": "fix: remove conflicting CSS view-transition-name on bg-canvas"
+            },
+            {
+              "hash": "9c1bc0e",
+              "date": "2026-02-16",
+              "message": "feat: add sparkline tooltips and back-to-top button"
+            },
+            {
+              "hash": "6fba465",
+              "date": "2026-02-16",
+              "message": "feat: add staggered card reveals and smooth S/B/E mode transitions"
+            },
+            {
+              "hash": "4ffde09",
+              "date": "2026-02-16",
+              "message": "feat: add sticky table of contents sidebar with scroll spy"
+            },
+            {
+              "hash": "488bda7",
+              "date": "2026-02-16",
+              "message": "feat: add prev/next sequential navigation to project pages"
+            },
+            {
+              "hash": "2fc0d8e",
+              "date": "2026-02-16",
+              "message": "feat: add Pagefind search with Cmd+K dialog overlay"
+            },
+            {
+              "hash": "1dd83f6",
+              "date": "2026-02-16",
+              "message": "feat: add named view transitions for card-to-detail title morphing"
+            },
+            {
+              "hash": "5bd2d89",
+              "date": "2026-02-16",
+              "message": "feat: migrate is:inline scripts to module scripts with astro:page-load"
+            },
+            {
+              "hash": "461dbc0",
+              "date": "2026-02-16",
+              "message": "feat: add View Transitions with persistent p5.js background canvas"
+            },
+            {
+              "hash": "9de1327",
+              "date": "2026-02-16",
+              "message": "feat: E2G pass 6 — noreferrer security, mermaid error handling, chart color centralization, and a11y across 5 tasks"
+            },
+            {
+              "hash": "24a2494",
+              "date": "2026-02-16",
+              "message": "feat: E2G pass 5 — motion a11y, color centralization, teardown parity, and theme consistency across 8 tasks"
+            },
+            {
+              "hash": "7ca261b",
+              "date": "2026-02-16",
+              "message": "feat: E2G pass 4 — WCAG headings, chart resilience, and TypeScript strictness across 9 tasks"
+            },
+            {
+              "hash": "aa857e4",
+              "date": "2026-02-16",
+              "message": "feat: E2G pass 3 — TypeScript strictness, a11y, and architecture across 12 tasks"
+            },
+            {
+              "hash": "f22686e",
+              "date": "2026-02-16",
+              "message": "feat: E2G pass 2 — accessibility, DRY, and polish across 18 tasks"
+            },
+            {
+              "hash": "c0db89d",
+              "date": "2026-02-16",
+              "message": "feat: complete E2G portfolio review — security, quality, perf, growth"
+            },
+            {
+              "hash": "d0a9956",
+              "date": "2026-02-16",
+              "message": "feat: implement E2G portfolio enhancements across 11 steps"
+            },
+            {
+              "hash": "31b7c75",
+              "date": "2026-02-16",
+              "message": "feat: add skip-to-content link and enable Astro prefetch"
+            },
+            {
+              "hash": "d947991",
+              "date": "2026-02-16",
+              "message": "chore: add sitemap/robots.txt and fix README inaccuracies"
+            },
+            {
+              "hash": "feffffb",
+              "date": "2026-02-16",
+              "message": "chore: update rendered resume PDFs [skip ci]"
+            },
+            {
+              "hash": "e053009",
+              "date": "2026-02-16",
+              "message": "fix: resolve RenderCV relative path doubling in build workflow"
+            },
+            {
+              "hash": "037a038",
+              "date": "2026-02-16",
+              "message": "fix: use RenderCV v2.x per-file path flags in build workflow"
+            },
+            {
+              "hash": "8434729",
+              "date": "2026-02-16",
+              "message": "feat: add Developer resume variant, fix revenue language, update pages"
+            },
+            {
+              "hash": "3cd414f",
+              "date": "2026-02-16",
+              "message": "chore: add CLAUDE.md with project guidance for Claude Code"
+            },
+            {
+              "hash": "41c3a5f",
+              "date": "2026-02-16",
+              "message": "feat: add emergency-help extraction script for Claude.ai export"
+            }
+          ],
+          "files_changed": 90
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        ".github": {
+          "commits": [
+            {
+              "hash": "efdd017",
+              "date": "2026-02-16",
+              "message": "chore: add plain-English description to org profile"
+            }
+          ],
+          "files_changed": 16
+        },
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "54c2dfc",
+              "date": "2026-02-16",
+              "message": "fix: close audit gaps — OSC bridge routing, docs accuracy, real audio validation"
+            },
+            {
+              "hash": "5531afa",
+              "date": "2026-02-16",
+              "message": "docs: update CLAUDE.md with accurate counts, canvas layer, and new global state"
+            },
+            {
+              "hash": "039d9da",
+              "date": "2026-02-16",
+              "message": "docs: update README with verified module counts, new sections, and accurate stats"
+            }
+          ],
+          "files_changed": 6
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "8ed5c3e",
+              "date": "2026-02-16",
+              "message": "feat: propagate metrics (33→35 essays), sprint spec #27, sprint history"
+            },
+            {
+              "hash": "a1db078",
+              "date": "2026-02-16",
+              "message": "feat: draft 2 essays for bi-weekly cadence (#34, #35)"
+            },
+            {
+              "hash": "7baec5a",
+              "date": "2026-02-16",
+              "message": "fix: reconcile stale metrics across 9 application files"
+            },
+            {
+              "hash": "6dafdd0",
+              "date": "2026-02-16",
+              "message": "feat: PROPAGATIO sprint — findings propagation, fit scores reconciled, sprint history extended"
+            },
+            {
+              "hash": "abf7e53",
+              "date": "2026-02-16",
+              "message": "feat: INSPECTIO sprint — ORGAN-III beta assessment, life-my--midst--in selected"
+            },
+            {
+              "hash": "5eb7d3e",
+              "date": "2026-02-16",
+              "message": "feat: CANON sprint — catalog reconciliation, 4 historical headers added"
+            },
+            {
+              "hash": "fa7f323",
+              "date": "2026-02-16",
+              "message": "fix: fill sprint numbering gap (15-16) and establish publication rhythm"
+            },
+            {
+              "hash": "690ff94",
+              "date": "2026-02-16",
+              "message": "feat: PUBLICATIO sprint — 4 essays deployed (29→33), metrics propagated"
+            },
+            {
+              "hash": "4d18b46",
+              "date": "2026-02-16",
+              "message": "fix: revise qualification assessment — correct overcorrected framing"
+            },
+            {
+              "hash": "b6cd351",
+              "date": "2026-02-16",
+              "message": "feat: METRICUM sprint — metrics variable system (compute → store → propagate)"
+            },
+            {
+              "hash": "5f84b96",
+              "date": "2026-02-16",
+              "message": "feat: SUBMISSIO sprint — verify application metrics, create submission checklist"
+            },
+            {
+              "hash": "98a308f",
+              "date": "2026-02-16",
+              "message": "chore: mark sprints 17–20 complete in catalog, add TRIPARTITUM spec"
+            },
+            {
+              "hash": "39cab74",
+              "date": "2026-02-16",
+              "message": "feat: TRIPARTITUM sprint — REMEDIUM + MEMORIA + ANNOTATIO"
+            },
+            {
+              "hash": "108ee8f",
+              "date": "2026-02-16",
+              "message": "feat: CONCORDIA sprint — register 6 orphan repos (91→97), reconcile registry with GitHub"
+            },
+            {
+              "hash": "b4e72e8",
+              "date": "2026-02-16",
+              "message": "feat: wire governance triangle — cross-references between post-construction docs"
+            },
+            {
+              "hash": "63cf977",
+              "date": "2026-02-16",
+              "message": "feat: add exhaustive sprint catalog — 60 work packages across 18 categories"
+            },
+            {
+              "hash": "893358f",
+              "date": "2026-02-16",
+              "message": "feat: add operational cadence — post-construction daily/weekly/monthly rhythm"
+            },
+            {
+              "hash": "16438f0",
+              "date": "2026-02-16",
+              "message": "feat: add omega roadmap and update README to current state"
+            },
+            {
+              "hash": "c533946",
+              "date": "2026-02-16",
+              "message": "chore: add initial soak test dry-run snapshot"
+            },
+            {
+              "hash": "e5cd99d",
+              "date": "2026-02-16",
+              "message": "feat: OPERATIO Sprint — soak test monitor, runbooks, AI-conductor essay, stranger test"
+            },
+            {
+              "hash": "8d3ecf8",
+              "date": "2026-02-16",
+              "message": "chore: record workspace restructure and update paths"
+            },
+            {
+              "hash": "ab8a3b7",
+              "date": "2026-02-16",
+              "message": "docs: ingest ORGAN-IV architecture, add routing convention, archive staging"
+            }
+          ],
+          "files_changed": 133
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        ".github": {
+          "commits": [
+            {
+              "hash": "00eca55",
+              "date": "2026-02-16",
+              "message": "chore: add plain-English description to org profile"
+            }
+          ],
+          "files_changed": 30
+        },
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "54c2dfc",
+              "date": "2026-02-16",
+              "message": "fix: close audit gaps — OSC bridge routing, docs accuracy, real audio validation"
+            }
+          ],
+          "files_changed": 142
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        ".github": {
+          "commits": [
+            {
+              "hash": "6832f09",
+              "date": "2026-02-16",
+              "message": "chore: add plain-English description to org profile"
+            },
+            {
+              "hash": "ae23758",
+              "date": "2026-02-16",
+              "message": "chore: add plain-English description to org profile"
+            }
+          ],
+          "files_changed": 16
+        },
+        "kerygma-dotgithub": {
+          "commits": [
+            {
+              "hash": "cc0c908",
+              "date": "2026-02-16",
+              "message": "chore: add plain-English description to org profile"
+            }
+          ],
+          "files_changed": 1
+        },
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "c320c8f",
+              "date": "2026-02-16",
+              "message": "fix: strip render.yaml to free-tier compatible services"
+            },
+            {
+              "hash": "7ccde2e",
+              "date": "2026-02-16",
+              "message": "fix: add ipAllowList to Redis in render.yaml"
+            },
+            {
+              "hash": "34be343",
+              "date": "2026-02-16",
+              "message": "ci: add root render.yaml for Neon DB blueprint deploy"
+            },
+            {
+              "hash": "2a1ff3a",
+              "date": "2026-02-16",
+              "message": "docs: add deployment guide, fix render.yaml duplicate services key"
+            },
+            {
+              "hash": "045430a",
+              "date": "2026-02-16",
+              "message": "fix: database migration and auth prefix issues for Neon deployment"
+            },
+            {
+              "hash": "f7c7020",
+              "date": "2026-02-16",
+              "message": "docs: add infrastructure stack badges to README"
+            },
+            {
+              "hash": "c320c8f",
+              "date": "2026-02-16",
+              "message": "fix: strip render.yaml to free-tier compatible services"
+            },
+            {
+              "hash": "7ccde2e",
+              "date": "2026-02-16",
+              "message": "fix: add ipAllowList to Redis in render.yaml"
+            },
+            {
+              "hash": "34be343",
+              "date": "2026-02-16",
+              "message": "ci: add root render.yaml for Neon DB blueprint deploy"
+            },
+            {
+              "hash": "2a1ff3a",
+              "date": "2026-02-16",
+              "message": "docs: add deployment guide, fix render.yaml duplicate services key"
+            },
+            {
+              "hash": "045430a",
+              "date": "2026-02-16",
+              "message": "fix: database migration and auth prefix issues for Neon deployment"
+            },
+            {
+              "hash": "f7c7020",
+              "date": "2026-02-16",
+              "message": "docs: add infrastructure stack badges to README"
+            }
+          ],
+          "files_changed": 8
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "79a28f7",
+              "date": "2026-02-16",
+              "message": "fix: restructure essay-monitor body to fix YAML block scalar parse error"
+            },
+            {
+              "hash": "26fb54c",
+              "date": "2026-02-16",
+              "message": "fix: REMEDIUM — sync registry, fix essay-monitor parse, fix deprecation warning"
+            }
+          ],
+          "files_changed": 3
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "8ed5c3e",
+              "date": "2026-02-16",
+              "message": "feat: propagate metrics (33→35 essays), sprint spec #27, sprint history"
+            },
+            {
+              "hash": "a1db078",
+              "date": "2026-02-16",
+              "message": "feat: draft 2 essays for bi-weekly cadence (#34, #35)"
+            },
+            {
+              "hash": "7baec5a",
+              "date": "2026-02-16",
+              "message": "fix: reconcile stale metrics across 9 application files"
+            },
+            {
+              "hash": "6dafdd0",
+              "date": "2026-02-16",
+              "message": "feat: PROPAGATIO sprint — findings propagation, fit scores reconciled, sprint history extended"
+            },
+            {
+              "hash": "abf7e53",
+              "date": "2026-02-16",
+              "message": "feat: INSPECTIO sprint — ORGAN-III beta assessment, life-my--midst--in selected"
+            },
+            {
+              "hash": "5eb7d3e",
+              "date": "2026-02-16",
+              "message": "feat: CANON sprint — catalog reconciliation, 4 historical headers added"
+            },
+            {
+              "hash": "fa7f323",
+              "date": "2026-02-16",
+              "message": "fix: fill sprint numbering gap (15-16) and establish publication rhythm"
+            },
+            {
+              "hash": "690ff94",
+              "date": "2026-02-16",
+              "message": "feat: PUBLICATIO sprint — 4 essays deployed (29→33), metrics propagated"
+            },
+            {
+              "hash": "4d18b46",
+              "date": "2026-02-16",
+              "message": "fix: revise qualification assessment — correct overcorrected framing"
+            },
+            {
+              "hash": "b6cd351",
+              "date": "2026-02-16",
+              "message": "feat: METRICUM sprint — metrics variable system (compute → store → propagate)"
+            },
+            {
+              "hash": "5f84b96",
+              "date": "2026-02-16",
+              "message": "feat: SUBMISSIO sprint — verify application metrics, create submission checklist"
+            },
+            {
+              "hash": "98a308f",
+              "date": "2026-02-16",
+              "message": "chore: mark sprints 17–20 complete in catalog, add TRIPARTITUM spec"
+            },
+            {
+              "hash": "39cab74",
+              "date": "2026-02-16",
+              "message": "feat: TRIPARTITUM sprint — REMEDIUM + MEMORIA + ANNOTATIO"
+            },
+            {
+              "hash": "108ee8f",
+              "date": "2026-02-16",
+              "message": "feat: CONCORDIA sprint — register 6 orphan repos (91→97), reconcile registry with GitHub"
+            },
+            {
+              "hash": "b4e72e8",
+              "date": "2026-02-16",
+              "message": "feat: wire governance triangle — cross-references between post-construction docs"
+            },
+            {
+              "hash": "63cf977",
+              "date": "2026-02-16",
+              "message": "feat: add exhaustive sprint catalog — 60 work packages across 18 categories"
+            },
+            {
+              "hash": "893358f",
+              "date": "2026-02-16",
+              "message": "feat: add operational cadence — post-construction daily/weekly/monthly rhythm"
+            },
+            {
+              "hash": "16438f0",
+              "date": "2026-02-16",
+              "message": "feat: add omega roadmap and update README to current state"
+            },
+            {
+              "hash": "c533946",
+              "date": "2026-02-16",
+              "message": "chore: add initial soak test dry-run snapshot"
+            },
+            {
+              "hash": "e5cd99d",
+              "date": "2026-02-16",
+              "message": "feat: OPERATIO Sprint — soak test monitor, runbooks, AI-conductor essay, stranger test"
+            },
+            {
+              "hash": "8d3ecf8",
+              "date": "2026-02-16",
+              "message": "chore: record workspace restructure and update paths"
+            },
+            {
+              "hash": "ab8a3b7",
+              "date": "2026-02-16",
+              "message": "docs: ingest ORGAN-IV architecture, add routing convention, archive staging"
+            }
+          ],
+          "files_changed": 133
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "5bc2cc3",
+              "date": "2026-02-16",
+              "message": "docs: add infrastructure stack badges to README"
+            },
+            {
+              "hash": "5bc2cc3",
+              "date": "2026-02-16",
+              "message": "docs: add infrastructure stack badges to README"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "agentic-titan": {
+          "commits": [
+            {
+              "hash": "f6572f7",
+              "date": "2026-02-16",
+              "message": "docs: add infrastructure stack badges to README"
+            }
+          ],
+          "files_changed": 1
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "79a28f7",
+              "date": "2026-02-16",
+              "message": "fix: restructure essay-monitor body to fix YAML block scalar parse error"
+            },
+            {
+              "hash": "26fb54c",
+              "date": "2026-02-16",
+              "message": "fix: REMEDIUM — sync registry, fix essay-monitor parse, fix deprecation warning"
+            }
+          ],
+          "files_changed": 3
+        },
+        "org-dotgithub": {
+          "commits": [
+            {
+              "hash": "02af66b",
+              "date": "2026-02-16",
+              "message": "chore: add plain-English description to org profile"
+            }
+          ],
+          "files_changed": 16
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        ".github": {
+          "commits": [
+            {
+              "hash": "e50fe40",
+              "date": "2026-02-16",
+              "message": "chore: add plain-English description to org profile"
+            }
+          ],
+          "files_changed": 16
+        },
+        "public-process": {
+          "commits": [
+            {
+              "hash": "33f9acc",
+              "date": "2026-02-16",
+              "message": "essay: deploy #34 (product shipping) and #35 (sprint retrospective)"
+            },
+            {
+              "hash": "6862739",
+              "date": "2026-02-16",
+              "message": "essay: Governance Frameworks for Artists — institutional thinking for creative practice"
+            },
+            {
+              "hash": "f5a5778",
+              "date": "2026-02-16",
+              "message": "essay: Why the Organ Model Separates Commerce from Theory"
+            },
+            {
+              "hash": "c20ad9d",
+              "date": "2026-02-16",
+              "message": "essay: How to Think About Autonomous Systems — practitioner guide"
+            },
+            {
+              "hash": "8e428e5",
+              "date": "2026-02-16",
+              "message": "essay: Promotions in Practice — exercising the governance state machine"
+            }
+          ],
+          "files_changed": 6
+        }
+      }
+    },
+    "VI": {
+      "name": "Koinonia",
+      "repos": {
+        ".github": {
+          "commits": [
+            {
+              "hash": "ae23758",
+              "date": "2026-02-16",
+              "message": "chore: add plain-English description to org profile"
+            }
+          ],
+          "files_changed": 16
+        }
+      }
+    },
+    "VII": {
+      "name": "Kerygma",
+      "repos": {
+        ".github": {
+          "commits": [
+            {
+              "hash": "cc0c908",
+              "date": "2026-02-16",
+              "message": "chore: add plain-English description to org profile"
+            }
+          ],
+          "files_changed": 16
+        }
+      }
+    }
+  }
+}

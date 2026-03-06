@@ -1,0 +1,40 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-06-01",
+  "until": "2023-06-01",
+  "summary": {
+    "total_commits": 3,
+    "repos_active": 1,
+    "files_changed": 1,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "927ca37",
+              "date": "2023-06-01",
+              "message": "docs: add Turkish README  (#152)"
+            },
+            {
+              "hash": "cf56e8b",
+              "date": "2023-06-01",
+              "message": "docs: add README_KR.md (#150)"
+            },
+            {
+              "hash": "5228841",
+              "date": "2023-06-01",
+              "message": "chore: release userscript 2.11.0 (#151)"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

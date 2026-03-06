@@ -1,0 +1,176 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2026-01-07",
+  "until": "2026-01-07",
+  "summary": {
+    "total_commits": 23,
+    "repos_active": 7,
+    "files_changed": 662,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "81c1345",
+              "date": "2026-01-07",
+              "message": "feat: Phase 2A - Filtering Foundation (Part 1)"
+            },
+            {
+              "hash": "fd91f4a",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive documentation infrastructure"
+            },
+            {
+              "hash": "da37ab4",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive 221-item development roadmap"
+            }
+          ],
+          "files_changed": 110
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "81c1345",
+              "date": "2026-01-07",
+              "message": "feat: Phase 2A - Filtering Foundation (Part 1)"
+            },
+            {
+              "hash": "fd91f4a",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive documentation infrastructure"
+            },
+            {
+              "hash": "da37ab4",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive 221-item development roadmap"
+            }
+          ],
+          "files_changed": 110
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "81c1345",
+              "date": "2026-01-07",
+              "message": "feat: Phase 2A - Filtering Foundation (Part 1)"
+            },
+            {
+              "hash": "fd91f4a",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive documentation infrastructure"
+            },
+            {
+              "hash": "da37ab4",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive 221-item development roadmap"
+            }
+          ],
+          "files_changed": 110
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "81c1345",
+              "date": "2026-01-07",
+              "message": "feat: Phase 2A - Filtering Foundation (Part 1)"
+            },
+            {
+              "hash": "fd91f4a",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive documentation infrastructure"
+            },
+            {
+              "hash": "da37ab4",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive 221-item development roadmap"
+            },
+            {
+              "hash": "81c1345",
+              "date": "2026-01-07",
+              "message": "feat: Phase 2A - Filtering Foundation (Part 1)"
+            },
+            {
+              "hash": "fd91f4a",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive documentation infrastructure"
+            },
+            {
+              "hash": "da37ab4",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive 221-item development roadmap"
+            }
+          ],
+          "files_changed": 110
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "81c1345",
+              "date": "2026-01-07",
+              "message": "feat: Phase 2A - Filtering Foundation (Part 1)"
+            },
+            {
+              "hash": "fd91f4a",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive documentation infrastructure"
+            },
+            {
+              "hash": "da37ab4",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive 221-item development roadmap"
+            }
+          ],
+          "files_changed": 110
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "097baf4",
+              "date": "2026-01-07",
+              "message": "COVENANT: Binding document on complete human representation and inverted evaluation"
+            },
+            {
+              "hash": "097baf4",
+              "date": "2026-01-07",
+              "message": "COVENANT: Binding document on complete human representation and inverted evaluation"
+            }
+          ],
+          "files_changed": 2
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "81c1345",
+              "date": "2026-01-07",
+              "message": "feat: Phase 2A - Filtering Foundation (Part 1)"
+            },
+            {
+              "hash": "fd91f4a",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive documentation infrastructure"
+            },
+            {
+              "hash": "da37ab4",
+              "date": "2026-01-07",
+              "message": "docs: add comprehensive 221-item development roadmap"
+            }
+          ],
+          "files_changed": 110
+        }
+      }
+    }
+  }
+}

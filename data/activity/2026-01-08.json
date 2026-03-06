@@ -1,0 +1,282 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2026-01-08",
+  "until": "2026-01-08",
+  "summary": {
+    "total_commits": 43,
+    "repos_active": 7,
+    "files_changed": 68,
+    "organs_touched": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "8fee657",
+              "date": "2026-01-08",
+              "message": "Phase 2D & E: Complete Documentation & Roadmap Update"
+            },
+            {
+              "hash": "0878c66",
+              "date": "2026-01-08",
+              "message": "Phase 2D: Partial CLI Pagination"
+            },
+            {
+              "hash": "22c6eb3",
+              "date": "2026-01-08",
+              "message": "Phase 2D: REST API Search Endpoints (400 lines)"
+            },
+            {
+              "hash": "404a473",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2D Search Cache + Phase 2E Incremental Embeddings"
+            },
+            {
+              "hash": "65b1ee3",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2C - Search Analytics Infrastructure (Part 1)"
+            },
+            {
+              "hash": "ba528ad",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2A - Database filtering and faceting methods"
+            }
+          ],
+          "files_changed": 11
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "8fee657",
+              "date": "2026-01-08",
+              "message": "Phase 2D & E: Complete Documentation & Roadmap Update"
+            },
+            {
+              "hash": "0878c66",
+              "date": "2026-01-08",
+              "message": "Phase 2D: Partial CLI Pagination"
+            },
+            {
+              "hash": "22c6eb3",
+              "date": "2026-01-08",
+              "message": "Phase 2D: REST API Search Endpoints (400 lines)"
+            },
+            {
+              "hash": "404a473",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2D Search Cache + Phase 2E Incremental Embeddings"
+            },
+            {
+              "hash": "65b1ee3",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2C - Search Analytics Infrastructure (Part 1)"
+            },
+            {
+              "hash": "ba528ad",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2A - Database filtering and faceting methods"
+            }
+          ],
+          "files_changed": 11
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "8fee657",
+              "date": "2026-01-08",
+              "message": "Phase 2D & E: Complete Documentation & Roadmap Update"
+            },
+            {
+              "hash": "0878c66",
+              "date": "2026-01-08",
+              "message": "Phase 2D: Partial CLI Pagination"
+            },
+            {
+              "hash": "22c6eb3",
+              "date": "2026-01-08",
+              "message": "Phase 2D: REST API Search Endpoints (400 lines)"
+            },
+            {
+              "hash": "404a473",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2D Search Cache + Phase 2E Incremental Embeddings"
+            },
+            {
+              "hash": "65b1ee3",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2C - Search Analytics Infrastructure (Part 1)"
+            },
+            {
+              "hash": "ba528ad",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2A - Database filtering and faceting methods"
+            }
+          ],
+          "files_changed": 11
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "8fee657",
+              "date": "2026-01-08",
+              "message": "Phase 2D & E: Complete Documentation & Roadmap Update"
+            },
+            {
+              "hash": "0878c66",
+              "date": "2026-01-08",
+              "message": "Phase 2D: Partial CLI Pagination"
+            },
+            {
+              "hash": "22c6eb3",
+              "date": "2026-01-08",
+              "message": "Phase 2D: REST API Search Endpoints (400 lines)"
+            },
+            {
+              "hash": "404a473",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2D Search Cache + Phase 2E Incremental Embeddings"
+            },
+            {
+              "hash": "65b1ee3",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2C - Search Analytics Infrastructure (Part 1)"
+            },
+            {
+              "hash": "ba528ad",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2A - Database filtering and faceting methods"
+            },
+            {
+              "hash": "8fee657",
+              "date": "2026-01-08",
+              "message": "Phase 2D & E: Complete Documentation & Roadmap Update"
+            },
+            {
+              "hash": "0878c66",
+              "date": "2026-01-08",
+              "message": "Phase 2D: Partial CLI Pagination"
+            },
+            {
+              "hash": "22c6eb3",
+              "date": "2026-01-08",
+              "message": "Phase 2D: REST API Search Endpoints (400 lines)"
+            },
+            {
+              "hash": "404a473",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2D Search Cache + Phase 2E Incremental Embeddings"
+            },
+            {
+              "hash": "65b1ee3",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2C - Search Analytics Infrastructure (Part 1)"
+            },
+            {
+              "hash": "ba528ad",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2A - Database filtering and faceting methods"
+            }
+          ],
+          "files_changed": 11
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "8fee657",
+              "date": "2026-01-08",
+              "message": "Phase 2D & E: Complete Documentation & Roadmap Update"
+            },
+            {
+              "hash": "0878c66",
+              "date": "2026-01-08",
+              "message": "Phase 2D: Partial CLI Pagination"
+            },
+            {
+              "hash": "22c6eb3",
+              "date": "2026-01-08",
+              "message": "Phase 2D: REST API Search Endpoints (400 lines)"
+            },
+            {
+              "hash": "404a473",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2D Search Cache + Phase 2E Incremental Embeddings"
+            },
+            {
+              "hash": "65b1ee3",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2C - Search Analytics Infrastructure (Part 1)"
+            },
+            {
+              "hash": "ba528ad",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2A - Database filtering and faceting methods"
+            }
+          ],
+          "files_changed": 11
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "8fee657",
+              "date": "2026-01-08",
+              "message": "Phase 2D & E: Complete Documentation & Roadmap Update"
+            },
+            {
+              "hash": "0878c66",
+              "date": "2026-01-08",
+              "message": "Phase 2D: Partial CLI Pagination"
+            },
+            {
+              "hash": "22c6eb3",
+              "date": "2026-01-08",
+              "message": "Phase 2D: REST API Search Endpoints (400 lines)"
+            },
+            {
+              "hash": "404a473",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2D Search Cache + Phase 2E Incremental Embeddings"
+            },
+            {
+              "hash": "65b1ee3",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2C - Search Analytics Infrastructure (Part 1)"
+            },
+            {
+              "hash": "ba528ad",
+              "date": "2026-01-08",
+              "message": "feat: Phase 2A - Database filtering and faceting methods"
+            }
+          ],
+          "files_changed": 11
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "209af47",
+              "date": "2026-01-08",
+              "message": "add tnc"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}
