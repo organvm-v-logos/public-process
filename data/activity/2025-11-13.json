@@ -1,0 +1,266 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2025-11-13",
+  "until": "2025-11-13",
+  "summary": {
+    "total_commits": 45,
+    "repos_active": 3,
+    "files_changed": 61,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "2442bf5",
+              "date": "2025-11-13",
+              "message": "feat: Add web bookmark analyzer module"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "b1c9c9d",
+              "date": "2025-11-13",
+              "message": "Update analyze_docs.py"
+            },
+            {
+              "hash": "f96bb72",
+              "date": "2025-11-13",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "ecabcf0",
+              "date": "2025-11-13",
+              "message": "Add client-facing gamified fitness application"
+            },
+            {
+              "hash": "3fdc01a",
+              "date": "2025-11-13",
+              "message": "Deploy Legion Command Center web application"
+            },
+            {
+              "hash": "b1c9c9d",
+              "date": "2025-11-13",
+              "message": "Update analyze_docs.py"
+            },
+            {
+              "hash": "f96bb72",
+              "date": "2025-11-13",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "ecabcf0",
+              "date": "2025-11-13",
+              "message": "Add client-facing gamified fitness application"
+            },
+            {
+              "hash": "3fdc01a",
+              "date": "2025-11-13",
+              "message": "Deploy Legion Command Center web application"
+            }
+          ],
+          "files_changed": 2
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "48af562",
+              "date": "2025-11-13",
+              "message": "Complete FINAL_CLEANUP_REPORT.md verification and implementation"
+            },
+            {
+              "hash": "5640058",
+              "date": "2025-11-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "d45e391",
+              "date": "2025-11-13",
+              "message": "Add comprehensive final cleanup and organization report"
+            },
+            {
+              "hash": "150943b",
+              "date": "2025-11-13",
+              "message": "Bump react-resizable-panels from 2.1.7 to 3.0.6"
+            },
+            {
+              "hash": "32440f8",
+              "date": "2025-11-13",
+              "message": "Add comprehensive mega consolidation summary"
+            },
+            {
+              "hash": "b4bc96f",
+              "date": "2025-11-13",
+              "message": "Update dependencies to latest versions"
+            },
+            {
+              "hash": "a447efd",
+              "date": "2025-11-13",
+              "message": "Fix TypeScript errors and add usePersistentState hook"
+            },
+            {
+              "hash": "0b6a208",
+              "date": "2025-11-13",
+              "message": "Add comprehensive testing infrastructure with vitest"
+            },
+            {
+              "hash": "0efadae",
+              "date": "2025-11-13",
+              "message": "Add comprehensive branch review summary with consolidation results"
+            },
+            {
+              "hash": "d509985",
+              "date": "2025-11-13",
+              "message": "Add comprehensive TODO list and branch cleanup plan"
+            },
+            {
+              "hash": "cea9f14",
+              "date": "2025-11-13",
+              "message": "Add production-ready infrastructure and tooling"
+            },
+            {
+              "hash": "cff32f4",
+              "date": "2025-11-13",
+              "message": "Add reorganization summary documentation"
+            },
+            {
+              "hash": "096b46a",
+              "date": "2025-11-13",
+              "message": "Organize repository structure: move docs and examples to dedicated directories"
+            },
+            {
+              "hash": "d9499ed",
+              "date": "2025-11-13",
+              "message": "Initial setup: install dependencies"
+            },
+            {
+              "hash": "b605e14",
+              "date": "2025-11-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "b76472e",
+              "date": "2025-11-13",
+              "message": "Add comprehensive implementation summary"
+            },
+            {
+              "hash": "8b74b9f",
+              "date": "2025-11-13",
+              "message": "Add data pipeline integration and documentation"
+            },
+            {
+              "hash": "d8d4650",
+              "date": "2025-11-13",
+              "message": "Implement automated data ingestion and enrichment pipeline"
+            },
+            {
+              "hash": "48af562",
+              "date": "2025-11-13",
+              "message": "Complete FINAL_CLEANUP_REPORT.md verification and implementation"
+            },
+            {
+              "hash": "5640058",
+              "date": "2025-11-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "d45e391",
+              "date": "2025-11-13",
+              "message": "Add comprehensive final cleanup and organization report"
+            },
+            {
+              "hash": "150943b",
+              "date": "2025-11-13",
+              "message": "Bump react-resizable-panels from 2.1.7 to 3.0.6"
+            },
+            {
+              "hash": "32440f8",
+              "date": "2025-11-13",
+              "message": "Add comprehensive mega consolidation summary"
+            },
+            {
+              "hash": "b4bc96f",
+              "date": "2025-11-13",
+              "message": "Update dependencies to latest versions"
+            },
+            {
+              "hash": "a447efd",
+              "date": "2025-11-13",
+              "message": "Fix TypeScript errors and add usePersistentState hook"
+            },
+            {
+              "hash": "0b6a208",
+              "date": "2025-11-13",
+              "message": "Add comprehensive testing infrastructure with vitest"
+            },
+            {
+              "hash": "0efadae",
+              "date": "2025-11-13",
+              "message": "Add comprehensive branch review summary with consolidation results"
+            },
+            {
+              "hash": "d509985",
+              "date": "2025-11-13",
+              "message": "Add comprehensive TODO list and branch cleanup plan"
+            },
+            {
+              "hash": "cea9f14",
+              "date": "2025-11-13",
+              "message": "Add production-ready infrastructure and tooling"
+            },
+            {
+              "hash": "cff32f4",
+              "date": "2025-11-13",
+              "message": "Add reorganization summary documentation"
+            },
+            {
+              "hash": "096b46a",
+              "date": "2025-11-13",
+              "message": "Organize repository structure: move docs and examples to dedicated directories"
+            },
+            {
+              "hash": "d9499ed",
+              "date": "2025-11-13",
+              "message": "Initial setup: install dependencies"
+            },
+            {
+              "hash": "b605e14",
+              "date": "2025-11-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "b76472e",
+              "date": "2025-11-13",
+              "message": "Add comprehensive implementation summary"
+            },
+            {
+              "hash": "8b74b9f",
+              "date": "2025-11-13",
+              "message": "Add data pipeline integration and documentation"
+            },
+            {
+              "hash": "d8d4650",
+              "date": "2025-11-13",
+              "message": "Implement automated data ingestion and enrichment pipeline"
+            }
+          ],
+          "files_changed": 59
+        }
+      }
+    }
+  }
+}

@@ -11,8 +11,8 @@ related_repos:
   - organvm-v-logos/public-process
   - organvm-v-logos/essay-pipeline
   - organvm-v-logos/editorial-standards
-reading_time: "10 min"
-word_count: 2500
+reading_time: "9 min"
+word_count: 2312
 references:
   - "[1] Donald Knuth, \"[Literate Programming](https://en.wikipedia.org/wiki/Literate_programming),\" *The Computer Journal*, vol. 27, no. 2, 1984, pp. 97-111."
   - "[2] Michael Nygard, \"[Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions),\" cognitect.com, 2011."

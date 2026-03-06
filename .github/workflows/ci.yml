@@ -26,6 +26,15 @@ jobs:
           repository: organvm-v-logos/editorial-standards
           path: _standards
 
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --strict_front_matter --future
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -51,8 +60,9 @@ jobs:
           if git diff --quiet data/; then
             echo "::notice::Data files are up to date"
           else
-            echo "::warning::Data files are out of date — run the indexer locally"
+            echo "::error::Data files are out of date — run the indexer locally and commit the result"
             git diff --stat data/
+            exit 1
           fi
 
       - name: Check internal links

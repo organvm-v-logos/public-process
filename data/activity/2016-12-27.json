@@ -1,0 +1,75 @@
+{
+  "generated": "2026-03-06T00:39:34Z",
+  "since": "2016-12-27",
+  "until": "2016-12-27",
+  "summary": {
+    "total_commits": 10,
+    "repos_active": 1,
+    "files_changed": 5378,
+    "organs_touched": [
+      "II"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "ffbfb00",
+              "date": "2016-12-27",
+              "message": "working out the carousel"
+            },
+            {
+              "hash": "8116939",
+              "date": "2016-12-27",
+              "message": "fixing issue with icons, adding them back in"
+            },
+            {
+              "hash": "432d259",
+              "date": "2016-12-27",
+              "message": "fixing issue with icons"
+            },
+            {
+              "hash": "5c79bd0",
+              "date": "2016-12-27",
+              "message": "added tachyons into repo"
+            },
+            {
+              "hash": "3702f7f",
+              "date": "2016-12-27",
+              "message": "removed issue with tachyons not being uploaded"
+            },
+            {
+              "hash": "a6bf84b",
+              "date": "2016-12-27",
+              "message": "added engines to package and updated gitignore"
+            },
+            {
+              "hash": "0b27c08",
+              "date": "2016-12-27",
+              "message": "testing format changes"
+            },
+            {
+              "hash": "2ccdd83",
+              "date": "2016-12-27",
+              "message": "Refactored to make it a bit more like a MVC pattern, and creating logic to load & init pages. Also, blog visual updates and updated the readme."
+            },
+            {
+              "hash": "d521cfe",
+              "date": "2016-12-27",
+              "message": "Removed node_modules from repository"
+            },
+            {
+              "hash": "3a7d4f3",
+              "date": "2016-12-27",
+              "message": "img additions"
+            }
+          ],
+          "files_changed": 5378
+        }
+      }
+    }
+  }
+}

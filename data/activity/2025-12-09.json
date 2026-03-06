@@ -1,0 +1,190 @@
+{
+  "generated": "2026-03-06T00:39:35Z",
+  "since": "2025-12-09",
+  "until": "2025-12-09",
+  "summary": {
+    "total_commits": 22,
+    "repos_active": 12,
+    "files_changed": 296,
+    "organs_touched": [
+      "II"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "academic-publication": {
+          "commits": [
+            {
+              "hash": "6dd11f8",
+              "date": "2025-12-09",
+              "message": "Initial commit: academic-publication"
+            }
+          ],
+          "files_changed": 10
+        },
+        "artist-toolkit-and-templates": {
+          "commits": [
+            {
+              "hash": "84a4d3f",
+              "date": "2025-12-09",
+              "message": "Initial commit: artist-toolkit-and-templates"
+            }
+          ],
+          "files_changed": 14
+        },
+        "audio-synthesis-bridge": {
+          "commits": [
+            {
+              "hash": "57b9c58",
+              "date": "2025-12-09",
+              "message": "Initial commit: audio-synthesis-bridge"
+            }
+          ],
+          "files_changed": 11
+        },
+        "client-sdk": {
+          "commits": [
+            {
+              "hash": "21873f8",
+              "date": "2025-12-09",
+              "message": "Initial commit: client-sdk"
+            }
+          ],
+          "files_changed": 1
+        },
+        "core-engine": {
+          "commits": [
+            {
+              "hash": "759fdf2",
+              "date": "2025-12-09",
+              "message": "Initial commit: core-engine"
+            }
+          ],
+          "files_changed": 28
+        },
+        "docs": {
+          "commits": [
+            {
+              "hash": "e88657b",
+              "date": "2025-12-09",
+              "message": "Initial commit: docs"
+            }
+          ],
+          "files_changed": 27
+        },
+        "example-choreographic-interface": {
+          "commits": [
+            {
+              "hash": "360a5c4",
+              "date": "2025-12-09",
+              "message": "Initial commit: example-choreographic-interface"
+            }
+          ],
+          "files_changed": 7
+        },
+        "example-generative-music": {
+          "commits": [
+            {
+              "hash": "2b005ab",
+              "date": "2025-12-09",
+              "message": "Initial commit: example-generative-music"
+            }
+          ],
+          "files_changed": 12
+        },
+        "example-generative-visual": {
+          "commits": [
+            {
+              "hash": "8bd2099",
+              "date": "2025-12-09",
+              "message": "Initial commit: example-generative-visual"
+            }
+          ],
+          "files_changed": 8
+        },
+        "example-theatre-dialogue": {
+          "commits": [
+            {
+              "hash": "9deae7f",
+              "date": "2025-12-09",
+              "message": "Initial commit: example-theatre-dialogue"
+            }
+          ],
+          "files_changed": 7
+        },
+        "metasystem-master": {
+          "commits": [
+            {
+              "hash": "fd0a6ee",
+              "date": "2025-12-09",
+              "message": "Initial commit: artist-toolkit-and-templates"
+            },
+            {
+              "hash": "12e148a",
+              "date": "2025-12-09",
+              "message": "Initial commit: example-theatre-dialogue"
+            },
+            {
+              "hash": "1758b40",
+              "date": "2025-12-09",
+              "message": "Initial commit: example-choreographic-interface"
+            },
+            {
+              "hash": "c326eec",
+              "date": "2025-12-09",
+              "message": "Initial commit: example-generative-visual"
+            },
+            {
+              "hash": "148c1e9",
+              "date": "2025-12-09",
+              "message": "Initial commit: example-generative-music"
+            },
+            {
+              "hash": "9509faa",
+              "date": "2025-12-09",
+              "message": "Initial commit: academic-publication"
+            },
+            {
+              "hash": "a1a37ec",
+              "date": "2025-12-09",
+              "message": "Initial commit: docs"
+            },
+            {
+              "hash": "3891d84",
+              "date": "2025-12-09",
+              "message": "Initial commit: audio-synthesis-bridge"
+            },
+            {
+              "hash": "632e480",
+              "date": "2025-12-09",
+              "message": "Initial commit: client-sdk"
+            },
+            {
+              "hash": "76b108d",
+              "date": "2025-12-09",
+              "message": "Initial commit: performance-sdk"
+            },
+            {
+              "hash": "280734c",
+              "date": "2025-12-09",
+              "message": "Initial commit: core-engine"
+            }
+          ],
+          "files_changed": 148
+        },
+        "performance-sdk": {
+          "commits": [
+            {
+              "hash": "25bdf14",
+              "date": "2025-12-09",
+              "message": "Initial commit: performance-sdk"
+            }
+          ],
+          "files_changed": 23
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1773 @@
+{
+  "generated": "2026-03-06T00:39:27Z",
+  "since": "2026-03-05",
+  "until": "2026-03-05",
+  "summary": {
+    "total_commits": 226,
+    "repos_active": 115,
+    "files_changed": 2019,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "META",
+      "Personal",
+      "V",
+      "VI",
+      "VII"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "application-pipeline": {
+          "commits": [
+            {
+              "hash": "017eebe",
+              "date": "2026-03-05",
+              "message": "Stage all changes"
+            },
+            {
+              "hash": "1e18c0d",
+              "date": "2026-03-05",
+              "message": "backup: pipeline snapshot 20260305-032739"
+            },
+            {
+              "hash": "4d84ee0",
+              "date": "2026-03-05",
+              "message": "Pipeline update 2026-03-05 03:00:30"
+            },
+            {
+              "hash": "e526ebf",
+              "date": "2026-03-05",
+              "message": "feat: five-phase infrastructure enhancement — triage, JSON output, notifications, intelligence loops, calendar"
+            }
+          ],
+          "files_changed": 777
+        },
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "3fc9449",
+              "date": "2026-03-05",
+              "message": "feat: complete project-wide evaluation-to-growth implementation"
+            },
+            {
+              "hash": "0512432",
+              "date": "2026-03-05",
+              "message": "feat: comprehensive refinement across portfolio UI, quality-ratchet-kit, and consult-api"
+            },
+            {
+              "hash": "4a77f3c",
+              "date": "2026-03-05",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "8eb9fe3",
+              "date": "2026-03-05",
+              "message": "feat: refine portfolio UI, update resumes, and productize quality-ratchet-kit"
+            },
+            {
+              "hash": "e2fe5a0",
+              "date": "2026-03-05",
+              "message": "chore: auto-refresh system data"
+            },
+            {
+              "hash": "1a3aa63",
+              "date": "2026-03-05",
+              "message": "chore: auto-refresh system data"
+            },
+            {
+              "hash": "7d4ce2d",
+              "date": "2026-03-05",
+              "message": "chore: auto-refresh system data"
+            },
+            {
+              "hash": "071ac72",
+              "date": "2026-03-05",
+              "message": "chore: auto-refresh system data"
+            }
+          ],
+          "files_changed": 340
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "meta-organvm": {
+          "commits": [
+            {
+              "hash": "b1511fb",
+              "date": "2026-03-05",
+              "message": "governance: establish system-wide Market-Gap Analysis SOP"
+            },
+            {
+              "hash": "a359899",
+              "date": "2026-03-05",
+              "message": "chore: update submodule pointers after sync"
+            },
+            {
+              "hash": "52b92a9",
+              "date": "2026-03-05",
+              "message": "chore: update platform standards audit"
+            },
+            {
+              "hash": "5a9104c",
+              "date": "2026-03-05",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "5e9f89c",
+              "date": "2026-03-05",
+              "message": "chore: update submodule pointers after checkpoint"
+            },
+            {
+              "hash": "0d6b337",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "1012fa8",
+              "date": "2026-03-05",
+              "message": "chore: add meta platform standards audit tooling"
+            }
+          ],
+          "files_changed": 16
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "740f82b",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "df5798e",
+              "date": "2026-03-05",
+              "message": "docs: add canonical README standards policy"
+            }
+          ],
+          "files_changed": 5
+        },
+        "alchemia-ingestvm": {
+          "commits": [
+            {
+              "hash": "b6eeaf3",
+              "date": "2026-03-05",
+              "message": "chore: sync alchemia-ingestvm changes"
+            },
+            {
+              "hash": "d992e15",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 19
+        },
+        "etceter4": {
+          "commits": [
+            {
+              "hash": "b1511fb",
+              "date": "2026-03-05",
+              "message": "governance: establish system-wide Market-Gap Analysis SOP"
+            },
+            {
+              "hash": "a359899",
+              "date": "2026-03-05",
+              "message": "chore: update submodule pointers after sync"
+            },
+            {
+              "hash": "52b92a9",
+              "date": "2026-03-05",
+              "message": "chore: update platform standards audit"
+            },
+            {
+              "hash": "5a9104c",
+              "date": "2026-03-05",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "5e9f89c",
+              "date": "2026-03-05",
+              "message": "chore: update submodule pointers after checkpoint"
+            },
+            {
+              "hash": "0d6b337",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "1012fa8",
+              "date": "2026-03-05",
+              "message": "chore: add meta platform standards audit tooling"
+            }
+          ],
+          "files_changed": 16
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "7aebcb7",
+              "date": "2026-03-05",
+              "message": "chore: sync organvm-corpvs-testamentvm changes"
+            },
+            {
+              "hash": "dcd09e6",
+              "date": "2026-03-05",
+              "message": "chore(soak): daily snapshot 2026-03-05"
+            },
+            {
+              "hash": "ead0ab0",
+              "date": "2026-03-05",
+              "message": "chore: soak test snapshot 2026-03-05"
+            },
+            {
+              "hash": "1263100",
+              "date": "2026-03-05",
+              "message": "chore: auto-refresh metrics 2026-03-05"
+            },
+            {
+              "hash": "40fc8be",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "0c2599f",
+              "date": "2026-03-05",
+              "message": "chore: auto-refresh metrics 2026-03-05"
+            }
+          ],
+          "files_changed": 29
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "33b7636",
+              "date": "2026-03-05",
+              "message": "chore: sync organvm-engine changes"
+            },
+            {
+              "hash": "003764d",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 65
+        },
+        "organvm-mcp-server": {
+          "commits": [
+            {
+              "hash": "bc17ca6",
+              "date": "2026-03-05",
+              "message": "chore: sync organvm-mcp-server changes"
+            },
+            {
+              "hash": "2ebc9f6",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 13
+        },
+        "schema-definitions": {
+          "commits": [
+            {
+              "hash": "211228e",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "stakeholder-portal": {
+          "commits": [
+            {
+              "hash": "ea1e04f",
+              "date": "2026-03-05",
+              "message": "feat: complete stakeholder portal gaps (alpha to omega)"
+            },
+            {
+              "hash": "f983243",
+              "date": "2026-03-05",
+              "message": "Fix CI workflow warnings"
+            },
+            {
+              "hash": "6e3860d",
+              "date": "2026-03-05",
+              "message": "Stage and commit all changes"
+            },
+            {
+              "hash": "214b248",
+              "date": "2026-03-05",
+              "message": "feat: complete Phase 1b (federation) and Phase 4 (external research) contextual awareness"
+            },
+            {
+              "hash": "8419a12",
+              "date": "2026-03-05",
+              "message": "feat(ci): add eval quality gate script and CI workflow step"
+            },
+            {
+              "hash": "b65931e",
+              "date": "2026-03-05",
+              "message": "feat(connectors): add Slack connector with cursor-based incremental sync"
+            },
+            {
+              "hash": "736280c",
+              "date": "2026-03-05",
+              "message": "feat(alerts): add delivery audit and DB-backed escalation policies"
+            },
+            {
+              "hash": "4752e69",
+              "date": "2026-03-05",
+              "message": "feat(queue): add Postgres SKIP LOCKED job queue with retry and dead-letter"
+            },
+            {
+              "hash": "2b82771",
+              "date": "2026-03-05",
+              "message": "feat(auth): add NextAuth SSO with GitHub provider and edge middleware"
+            },
+            {
+              "hash": "c0b6e1c",
+              "date": "2026-03-05",
+              "message": "feat(db): add distributed locking, maintenance ledger, and Drizzle schema"
+            },
+            {
+              "hash": "57d1403",
+              "date": "2026-03-05",
+              "message": "feat: implement omnipresence contextual awareness, admin dashboard, and platform maintenance infrastructure"
+            },
+            {
+              "hash": "297fb5d",
+              "date": "2026-03-05",
+              "message": "Stage and commit all changes"
+            },
+            {
+              "hash": "9d3aba0",
+              "date": "2026-03-05",
+              "message": "Changes staged and committed"
+            },
+            {
+              "hash": "6aab2a1",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 154
+        },
+        "system-dashboard": {
+          "commits": [
+            {
+              "hash": "7cdaa94",
+              "date": "2026-03-05",
+              "message": "chore: sync system-dashboard changes"
+            },
+            {
+              "hash": "e0b488e",
+              "date": "2026-03-05",
+              "message": "feat: add /progress/ dashboard route with per-project gate evaluation"
+            },
+            {
+              "hash": "a3d8155",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 9
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "organvm-i-theoria": {
+          "commits": [
+            {
+              "hash": "a94228b",
+              "date": "2026-03-05",
+              "message": "chore: update submodule pointers after checkpoint"
+            },
+            {
+              "hash": "e590292",
+              "date": "2026-03-05",
+              "message": "fix: make submodule standards findings warning-level"
+            },
+            {
+              "hash": "7a3ce56",
+              "date": "2026-03-05",
+              "message": "chore: add platform standards audit script"
+            }
+          ],
+          "files_changed": 18
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "23844cc",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "327f77a",
+              "date": "2026-03-05",
+              "message": "docs: add local README standards overlay"
+            }
+          ],
+          "files_changed": 5
+        },
+        "a-recursive-root": {
+          "commits": [
+            {
+              "hash": "4a7f58c",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "f34a11c",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "call-function--ontological": {
+          "commits": [
+            {
+              "hash": "727bac8",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "5b7669a",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "linguistic-atomization-framework": {
+          "commits": [
+            {
+              "hash": "189ddf2",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "meta-source--ledger-output": {
+          "commits": [
+            {
+              "hash": "2c3bc5e",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "c0787b0",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "c0787b0",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "c0787b0",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "c0787b0",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "c0787b0",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "c0787b0",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "narratological-algorithmic-lenses": {
+          "commits": [
+            {
+              "hash": "74b8c0d",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "organon-noumenon--ontogenetic-morphe": {
+          "commits": [
+            {
+              "hash": "004bcc9",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "197abd0",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "recursive-engine--generative-entity": {
+          "commits": [
+            {
+              "hash": "4a39aec",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "reverse-engine-recursive-run": {
+          "commits": [
+            {
+              "hash": "29f552f",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "scalable-lore-expert": {
+          "commits": [
+            {
+              "hash": "edc30dc",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "sema-metra--alchemica-mundi": {
+          "commits": [
+            {
+              "hash": "a2892d7",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "e9e8942",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "organvm-ii-poiesis": {
+          "commits": [
+            {
+              "hash": "e28ba14",
+              "date": "2026-03-05",
+              "message": "chore: update submodule pointers after checkpoint"
+            },
+            {
+              "hash": "46d0a55",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "a3405ad",
+              "date": "2026-03-05",
+              "message": "fix: make submodule standards findings warning-level"
+            },
+            {
+              "hash": "b471ee4",
+              "date": "2026-03-05",
+              "message": "chore: add platform standards audit script"
+            }
+          ],
+          "files_changed": 27
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "7a75156",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "5186aa0",
+              "date": "2026-03-05",
+              "message": "docs: add local README standards overlay"
+            }
+          ],
+          "files_changed": 5
+        },
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "6f26ec6",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "47a2162",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "7075204",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "archive-past-works": {
+          "commits": [
+            {
+              "hash": "1695f50",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "art-from--auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "38277e0",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "art-from--narratological-algorithmic-lenses": {
+          "commits": [
+            {
+              "hash": "557827f",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "audio-synthesis-bridge": {
+          "commits": [
+            {
+              "hash": "04e5633",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "case-studies-methodology": {
+          "commits": [
+            {
+              "hash": "f3197f5",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "chthon-oneiros": {
+          "commits": [
+            {
+              "hash": "4255acd",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "client-sdk": {
+          "commits": [
+            {
+              "hash": "29c620d",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "example-ai-collaboration": {
+          "commits": [
+            {
+              "hash": "3887128",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "example-choreographic-interface": {
+          "commits": [
+            {
+              "hash": "f8b73a6",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "example-generative-music": {
+          "commits": [
+            {
+              "hash": "725fa32",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "example-interactive-installation": {
+          "commits": [
+            {
+              "hash": "f9f927d",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "example-theatre-dialogue": {
+          "commits": [
+            {
+              "hash": "8f9d862",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "ivi374ivi027-05": {
+          "commits": [
+            {
+              "hash": "7c88ce7",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "krypto-velamen": {
+          "commits": [
+            {
+              "hash": "cd91407",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "learning-resources": {
+          "commits": [
+            {
+              "hash": "5f242d0",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "life-betterment-simulation": {
+          "commits": [
+            {
+              "hash": "8381f80",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "metasystem-master": {
+          "commits": [
+            {
+              "hash": "d8ff7f4",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "shared-remembrance-gateway": {
+          "commits": [
+            {
+              "hash": "06f9d26",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "showcase-portfolio": {
+          "commits": [
+            {
+              "hash": "41dec94",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "universal-waveform-explorer": {
+          "commits": [
+            {
+              "hash": "6777fb5",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "organvm-iii-ergon": {
+          "commits": [
+            {
+              "hash": "afa97e0",
+              "date": "2026-03-05",
+              "message": "chore: update submodule pointers after checkpoint"
+            },
+            {
+              "hash": "41a3599",
+              "date": "2026-03-05",
+              "message": "fix: make submodule standards findings warning-level"
+            },
+            {
+              "hash": "556c71a",
+              "date": "2026-03-05",
+              "message": "chore: add platform standards audit script"
+            }
+          ],
+          "files_changed": 28
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "12ca7b7",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "6a3edc0",
+              "date": "2026-03-05",
+              "message": "docs: add local README standards overlay"
+            }
+          ],
+          "files_changed": 5
+        },
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "61c91a7",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "5dd4695",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "card-trade-social": {
+          "commits": [
+            {
+              "hash": "2ec1fb5",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "0b7fcc9",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "commerce--meta": {
+          "commits": [
+            {
+              "hash": "36f5c81",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "enterprise-plugin": {
+          "commits": [
+            {
+              "hash": "d42d093",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "e4db37f",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "9e44a91",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "hokage-chess": {
+          "commits": [
+            {
+              "hash": "b8fc739",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "b8eef92",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "mirror-mirror": {
+          "commits": [
+            {
+              "hash": "b3f6328",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "multi-camera--livestream--framework": {
+          "commits": [
+            {
+              "hash": "8a1178d",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "my--father-mother": {
+          "commits": [
+            {
+              "hash": "21056eb",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "my-block-warfare": {
+          "commits": [
+            {
+              "hash": "860e92d",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "peer-audited--behavioral-blockchain": {
+          "commits": [
+            {
+              "hash": "17be542",
+              "date": "2026-03-05",
+              "message": "research: establish competitor deep dive SOP and launch espionage barrage"
+            },
+            {
+              "hash": "cc25704",
+              "date": "2026-03-05",
+              "message": "feat: evaluation-to-growth implementation roadmap and codebase improvements"
+            },
+            {
+              "hash": "ff8b486",
+              "date": "2026-03-05",
+              "message": "governance: harden blocked-handoff automation and intake"
+            },
+            {
+              "hash": "cf05557",
+              "date": "2026-03-05",
+              "message": "ci: fix blocked handoff burndown workflow yaml"
+            },
+            {
+              "hash": "7017c29",
+              "date": "2026-03-05",
+              "message": "ci: add weekly blocked handoff burndown workflow"
+            },
+            {
+              "hash": "4271110",
+              "date": "2026-03-05",
+              "message": "docs: add blocked handoff index for human dependencies"
+            },
+            {
+              "hash": "cb2aa36",
+              "date": "2026-03-05",
+              "message": "fix: restore api build health and recovery SQL statuses"
+            },
+            {
+              "hash": "a2281fa",
+              "date": "2026-03-05",
+              "message": "feat: exhaustive completion of Phase Gamma and Delta core infrastructure"
+            },
+            {
+              "hash": "eb2c1b9",
+              "date": "2026-03-05",
+              "message": "feat: initiate Phase Gamma (TKT-P1-007, TKT-P1-013, TKT-P1-014)"
+            },
+            {
+              "hash": "d8b039e",
+              "date": "2026-03-05",
+              "message": "feat: finalize Phase Beta trust chain and sensory hardening"
+            },
+            {
+              "hash": "9f6381c",
+              "date": "2026-03-05",
+              "message": "feat: implement TKT-P0-002 native proof integrity and finalize Phase Beta sensory hardening"
+            },
+            {
+              "hash": "5001946",
+              "date": "2026-03-05",
+              "message": "feat: implement TKT-P0-001 real-money settlement and TKT-P0-003 KYC enforcement"
+            },
+            {
+              "hash": "66cf2dd",
+              "date": "2026-03-05",
+              "message": "feat: exhaustive completion of E2G and Sprint 1 hardening"
+            },
+            {
+              "hash": "199f48d",
+              "date": "2026-03-05",
+              "message": "docs: finalize Evaluation-to-Growth implementations"
+            },
+            {
+              "hash": "e3e6bb9",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 118
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "31034e1",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "search-local--happy-hour": {
+          "commits": [
+            {
+              "hash": "30dd629",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "bebc1b4",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "sovereign-ecosystem--real-estate-luxury": {
+          "commits": [
+            {
+              "hash": "e0070cf",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "tab-bookmark-manager": {
+          "commits": [
+            {
+              "hash": "8f99d54",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "the-actual-news": {
+          "commits": [
+            {
+              "hash": "383edf9",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "the-invisible-ledger": {
+          "commits": [
+            {
+              "hash": "8b813fc",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "3e3cb48",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "universal-mail--automation": {
+          "commits": [
+            {
+              "hash": "72a1e31",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "virgil-training-overlay": {
+          "commits": [
+            {
+              "hash": "c3d9b15",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "your-fit-tailored": {
+          "commits": [
+            {
+              "hash": "2352980",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "organvm-iv-taxis": {
+          "commits": [
+            {
+              "hash": "dcd42cf",
+              "date": "2026-03-05",
+              "message": "chore: bump agentic-titan for gate hardening"
+            },
+            {
+              "hash": "5043b4c",
+              "date": "2026-03-05",
+              "message": "fix: harden workflow checks after org-dotgithub rehome"
+            },
+            {
+              "hash": "76a2038",
+              "date": "2026-03-05",
+              "message": "feat: rehome org-dotgithub and restore root workflows"
+            },
+            {
+              "hash": "c3ad47f",
+              "date": "2026-03-05",
+              "message": "chore: bump orchestration-start-here submodule pointer"
+            },
+            {
+              "hash": "e5132fb",
+              "date": "2026-03-05",
+              "message": "chore: sync submodule pointers after governance hardening"
+            },
+            {
+              "hash": "fc09223",
+              "date": "2026-03-05",
+              "message": "feat: per-project alpha-to-omega progress bar system"
+            },
+            {
+              "hash": "2fa983f",
+              "date": "2026-03-05",
+              "message": "chore: update submodule pointers after checkpoint"
+            },
+            {
+              "hash": "f2573f9",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "288dd57",
+              "date": "2026-03-05",
+              "message": "fix: make submodule standards findings warning-level"
+            },
+            {
+              "hash": "2f20eb0",
+              "date": "2026-03-05",
+              "message": "chore: add platform standards audit script"
+            }
+          ],
+          "files_changed": 15
+        },
+        "a-i--skills": {
+          "commits": [
+            {
+              "hash": "4a1bd37",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "agent--claude-smith": {
+          "commits": [
+            {
+              "hash": "d01ec92",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "agentic-titan": {
+          "commits": [
+            {
+              "hash": "d9af233",
+              "date": "2026-03-05",
+              "message": "feat: implement DialecticSwarm and complete LocalTrainer verification"
+            },
+            {
+              "hash": "1c926c2",
+              "date": "2026-03-05",
+              "message": "chore: stabilize strict typecheck for optional integrations"
+            },
+            {
+              "hash": "e77fd96",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 7
+        },
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "af3a719",
+              "date": "2026-03-05",
+              "message": "fix: enforce absolute canonical Taxis paths for MCP servers"
+            },
+            {
+              "hash": "c343cb4",
+              "date": "2026-03-05",
+              "message": "fix: use absolute paths for MCP servers and harden templates"
+            },
+            {
+              "hash": "39c3493",
+              "date": "2026-03-05",
+              "message": "fix: resolve MCP handshake failures and harden templates"
+            },
+            {
+              "hash": "2d1fa59",
+              "date": "2026-03-05",
+              "message": "feat: complete Omega Phase realignment and 8-organ integration"
+            },
+            {
+              "hash": "4482f9a",
+              "date": "2026-03-05",
+              "message": "chore: add agents framework and update configurations"
+            }
+          ],
+          "files_changed": 23
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "4c128d3",
+              "date": "2026-03-05",
+              "message": "fix: resolve registry redirect fallback and align deps tests"
+            },
+            {
+              "hash": "5b9f779",
+              "date": "2026-03-05",
+              "message": "feat: harden validate-deps with registry fallback and redirect support"
+            },
+            {
+              "hash": "a82d366",
+              "date": "2026-03-05",
+              "message": "feat: add per-project alpha-to-omega progress bar with contextual gate awareness"
+            },
+            {
+              "hash": "351c8db",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 10
+        },
+        "org-dotgithub": {
+          "commits": [
+            {
+              "hash": "6fa9e8e",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "aca227f",
+              "date": "2026-03-05",
+              "message": "docs: add local README standards overlay"
+            }
+          ],
+          "files_changed": 5
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "838369b",
+              "date": "2026-03-05",
+              "message": "feat: add machine-readable logic-rules.json governance schema"
+            },
+            {
+              "hash": "ffa1737",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 3
+        },
+        "tool-interaction-design": {
+          "commits": [
+            {
+              "hash": "4e69fb8",
+              "date": "2026-03-05",
+              "message": "fix(guardian): harden mastery accounting and mcp corpus parity"
+            },
+            {
+              "hash": "09937a4",
+              "date": "2026-03-05",
+              "message": "feat: update conductor infrastructure and add new modules"
+            },
+            {
+              "hash": "4b7fee9",
+              "date": "2026-03-05",
+              "message": "feat(oracle): implement Guardian Angel expansion — persistent, context-aware advisory engine"
+            },
+            {
+              "hash": "e0566c2",
+              "date": "2026-03-05",
+              "message": "feat(conductor): implement executor completion, health signals, Oracle advisory, and growth loop"
+            }
+          ],
+          "files_changed": 59
+        },
+        "universal-node-network": {
+          "commits": [
+            {
+              "hash": "a043526",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        "organvm-v-logos": {
+          "commits": [
+            {
+              "hash": "5be99d3",
+              "date": "2026-03-05",
+              "message": "chore: update validation script and repo pointers"
+            },
+            {
+              "hash": "dc9f310",
+              "date": "2026-03-05",
+              "message": "chore: sync submodules after extensive feature expansion"
+            },
+            {
+              "hash": "8cc848d",
+              "date": "2026-03-05",
+              "message": "chore: sync submodules after referrer implementation and test expansion"
+            },
+            {
+              "hash": "4e4ae8a",
+              "date": "2026-03-05",
+              "message": "chore: align Logos README standards with meta canonical"
+            }
+          ],
+          "files_changed": 9
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "668059c",
+              "date": "2026-03-05",
+              "message": "docs: make README standards an explicit local overlay"
+            }
+          ],
+          "files_changed": 1
+        },
+        "analytics-engine": {
+          "commits": [
+            {
+              "hash": "971b6b1",
+              "date": "2026-03-05",
+              "message": "feat: harden dashboard rendering and review checklist"
+            },
+            {
+              "hash": "326274a",
+              "date": "2026-03-05",
+              "message": "feat: expand GoatCounter metrics with Browser and OS tracking"
+            },
+            {
+              "hash": "91f514d",
+              "date": "2026-03-05",
+              "message": "feat: implement referrer tracking and complete test suite coverage"
+            }
+          ],
+          "files_changed": 13
+        },
+        "editorial-standards": {
+          "commits": [
+            {
+              "hash": "e9442d0",
+              "date": "2026-03-05",
+              "message": "feat: allow structured activity in log frontmatter"
+            }
+          ],
+          "files_changed": 1
+        },
+        "essay-pipeline": {
+          "commits": [
+            {
+              "hash": "016e48f",
+              "date": "2026-03-05",
+              "message": "feat: harden validation and surfaced-topic integration"
+            },
+            {
+              "hash": "ce64b99",
+              "date": "2026-03-05",
+              "message": "feat: add internal link validation and automated readability scoring"
+            },
+            {
+              "hash": "c779ecd",
+              "date": "2026-03-05",
+              "message": "test: complete coverage for validator and topic_suggester CLI"
+            }
+          ],
+          "files_changed": 23
+        },
+        "public-process": {
+          "commits": [
+            {
+              "hash": "e2fcfe1",
+              "date": "2026-03-05",
+              "message": "docs: publish surfaced-items contract and synced data artifacts"
+            }
+          ],
+          "files_changed": 6
+        },
+        "reading-observatory": {
+          "commits": [
+            {
+              "hash": "478d85c",
+              "date": "2026-03-05",
+              "message": "feat: enforce feed timeout and surfaced freshness policy"
+            },
+            {
+              "hash": "585dd54",
+              "date": "2026-03-05",
+              "message": "feat: add automated Weekly Reading List newsletter generator"
+            },
+            {
+              "hash": "cab0166",
+              "date": "2026-03-05",
+              "message": "test: expand coverage for bibliographies and aggregator CLI"
+            }
+          ],
+          "files_changed": 13
+        }
+      }
+    },
+    "VI": {
+      "name": "Koinonia",
+      "repos": {
+        "organvm-vi-koinonia": {
+          "commits": [
+            {
+              "hash": "30cb195",
+              "date": "2026-03-05",
+              "message": "chore: update submodule pointers after checkpoint"
+            },
+            {
+              "hash": "a824d71",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "2f7cebc",
+              "date": "2026-03-05",
+              "message": "fix: make submodule standards findings warning-level"
+            },
+            {
+              "hash": "7c5d770",
+              "date": "2026-03-05",
+              "message": "chore: add platform standards audit script"
+            }
+          ],
+          "files_changed": 8
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "ad6b861",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "33ff91a",
+              "date": "2026-03-05",
+              "message": "docs: add local README standards overlay"
+            }
+          ],
+          "files_changed": 5
+        },
+        "adaptive-personal-syllabus": {
+          "commits": [
+            {
+              "hash": "5a6209d",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "community-hub": {
+          "commits": [
+            {
+              "hash": "b8fdff8",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "koinonia-db": {
+          "commits": [
+            {
+              "hash": "af4d477",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "reading-group-curriculum": {
+          "commits": [
+            {
+              "hash": "7d9b25c",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "salon-archive": {
+          "commits": [
+            {
+              "hash": "80d552d",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "VII": {
+      "name": "Kerygma",
+      "repos": {
+        "organvm-vii-kerygma": {
+          "commits": [
+            {
+              "hash": "f0670f6",
+              "date": "2026-03-05",
+              "message": "chore: update submodule pointers after checkpoint"
+            },
+            {
+              "hash": "245aba4",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "161a9bf",
+              "date": "2026-03-05",
+              "message": "fix: make submodule standards findings warning-level"
+            },
+            {
+              "hash": "e2f5996",
+              "date": "2026-03-05",
+              "message": "chore: add platform standards audit script"
+            }
+          ],
+          "files_changed": 6
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "cacc131",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            },
+            {
+              "hash": "772b3b8",
+              "date": "2026-03-05",
+              "message": "docs: add local README standards overlay"
+            }
+          ],
+          "files_changed": 5
+        },
+        "announcement-templates": {
+          "commits": [
+            {
+              "hash": "490be0c",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "distribution-strategy": {
+          "commits": [
+            {
+              "hash": "79518f8",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "social-automation": {
+          "commits": [
+            {
+              "hash": "88aa636",
+              "date": "2026-03-05",
+              "message": "chore: checkpoint pending changes"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}

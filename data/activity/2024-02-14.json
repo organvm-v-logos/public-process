@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2024-02-14",
+  "until": "2024-02-14",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 2,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "a59fb47",
+              "date": "2024-02-14",
+              "message": "chore: add interfaces and other fixes"
+            },
+            {
+              "hash": "214111b",
+              "date": "2024-02-14",
+              "message": "feat: add getOobaString and getTavernString for conversion to other formats"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}

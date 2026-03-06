@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2024-04-29",
+  "until": "2024-04-29",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 17,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "2db2963",
+              "date": "2024-04-29",
+              "message": "Don't rely on prebuilt sources"
+            },
+            {
+              "hash": "000168c",
+              "date": "2024-04-29",
+              "message": "Migrate to gradle kts, improve command handler"
+            }
+          ],
+          "files_changed": 17
+        }
+      }
+    }
+  }
+}

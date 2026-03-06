@@ -11,8 +11,8 @@ related_repos:
   - organvm-iv-taxis/orchestration-start-here
   - organvm-i-theoria/recursive-engine--generative-entity
   - organvm-iii-ergon/life-my--midst--in
-reading_time: "11 min"
-word_count: 2600
+reading_time: "10 min"
+word_count: 2556
 references: []
 ---
 

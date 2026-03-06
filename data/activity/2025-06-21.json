@@ -1,0 +1,51 @@
+{
+  "generated": "2026-03-06T00:39:39Z",
+  "since": "2025-06-21",
+  "until": "2025-06-21",
+  "summary": {
+    "total_commits": 3,
+    "repos_active": 2,
+    "files_changed": 2,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "744b562",
+              "date": "2025-06-21",
+              "message": "GrindrPlus: Update README about issues on GOS (#110)"
+            },
+            {
+              "hash": "975eac6",
+              "date": "2025-06-21",
+              "message": "GrindrPlus: Fetch latest Grindr version"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "a3e53a9",
+              "date": "2025-06-21",
+              "message": "Update README.md"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "generated": "2026-03-06T00:39:47Z",
+  "since": "2025-10-18",
+  "until": "2025-10-18",
+  "summary": {
+    "total_commits": 3,
+    "repos_active": 2,
+    "files_changed": 2,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "a-i--skills": {
+          "commits": [
+            {
+              "hash": "c74d647",
+              "date": "2025-10-18",
+              "message": "Clarify Claude Code installation in README.md (#20)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "3ee4b2d",
+              "date": "2025-10-18",
+              "message": "Revise Windows user path setup for uv"
+            },
+            {
+              "hash": "84b8f07",
+              "date": "2025-10-18",
+              "message": "Revise UV installation steps for Windows"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

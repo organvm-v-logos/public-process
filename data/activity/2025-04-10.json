@@ -1,0 +1,30 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-04-10",
+  "until": "2025-04-10",
+  "summary": {
+    "total_commits": 1,
+    "repos_active": 1,
+    "files_changed": 1,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "bdaa01c",
+              "date": "2025-04-10",
+              "message": "updated the command"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

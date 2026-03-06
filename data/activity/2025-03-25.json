@@ -1,0 +1,45 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-03-25",
+  "until": "2025-03-25",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 1,
+    "files_changed": 2,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "6032ceb",
+              "date": "2025-03-25",
+              "message": "Add more specific processing for _process_bbox"
+            },
+            {
+              "hash": "70c4387",
+              "date": "2025-03-25",
+              "message": "Raise more specific error for bbox value range issue."
+            },
+            {
+              "hash": "a8509dc",
+              "date": "2025-03-25",
+              "message": "Improving module importing and exception handling"
+            },
+            {
+              "hash": "744681e",
+              "date": "2025-03-25",
+              "message": "Potential bugfix for finding imported asset + fix for bbox_condition api parameter"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}

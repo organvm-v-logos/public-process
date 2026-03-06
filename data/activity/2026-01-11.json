@@ -1,0 +1,255 @@
+{
+  "generated": "2026-03-06T00:39:46Z",
+  "since": "2026-01-11",
+  "until": "2026-01-11",
+  "summary": {
+    "total_commits": 46,
+    "repos_active": 1,
+    "files_changed": 3,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "virgil-training-overlay": {
+          "commits": [
+            {
+              "hash": "fd01446",
+              "date": "2026-01-11",
+              "message": "Update main.swift"
+            },
+            {
+              "hash": "dea9318",
+              "date": "2026-01-11",
+              "message": "Update main.swift"
+            },
+            {
+              "hash": "d9a055b",
+              "date": "2026-01-11",
+              "message": "Update main.swift"
+            },
+            {
+              "hash": "9cac908",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "07891c7",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "b1efee7",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "cf6f93f",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "2c3eb90",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "4c1f8de",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "bfd0901",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "f5143a7",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "c9e6230",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "9d66108",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "bfb5f53",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "f3380b4",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "0f5ef7d",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "4b0813b",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "e738f47",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "6cb2aeb",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "10b5f25",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "efb6a6c",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "033f994",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "6674543",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "fd01446",
+              "date": "2026-01-11",
+              "message": "Update main.swift"
+            },
+            {
+              "hash": "dea9318",
+              "date": "2026-01-11",
+              "message": "Update main.swift"
+            },
+            {
+              "hash": "d9a055b",
+              "date": "2026-01-11",
+              "message": "Update main.swift"
+            },
+            {
+              "hash": "9cac908",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "07891c7",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "b1efee7",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "cf6f93f",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "2c3eb90",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "4c1f8de",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "bfd0901",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "f5143a7",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "c9e6230",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "9d66108",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "bfb5f53",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "f3380b4",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "0f5ef7d",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "4b0813b",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "e738f47",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "6cb2aeb",
+              "date": "2026-01-11",
+              "message": "Update LIFECYCLE_ROADMAP.md"
+            },
+            {
+              "hash": "10b5f25",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "efb6a6c",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "033f994",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            },
+            {
+              "hash": "6674543",
+              "date": "2026-01-11",
+              "message": "Update CLAUDE.md"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

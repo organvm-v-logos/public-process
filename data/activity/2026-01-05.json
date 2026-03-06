@@ -1,0 +1,30 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2026-01-05",
+  "until": "2026-01-05",
+  "summary": {
+    "total_commits": 1,
+    "repos_active": 1,
+    "files_changed": 2,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "4794edc",
+              "date": "2026-01-05",
+              "message": "sketchfab preview/model size normalisation (#163)"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}

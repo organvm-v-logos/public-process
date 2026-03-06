@@ -1,0 +1,417 @@
+{
+  "generated": "2026-03-06T00:39:27Z",
+  "since": "2026-02-26",
+  "until": "2026-02-26",
+  "summary": {
+    "total_commits": 69,
+    "repos_active": 8,
+    "files_changed": 7854,
+    "organs_touched": [
+      "III",
+      "META",
+      "Personal"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "application-pipeline": {
+          "commits": [
+            {
+              "hash": "ec01050",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for S+T+ARTS Prize 2026"
+            },
+            {
+              "hash": "8b6b2fe",
+              "date": "2026-02-26",
+              "message": "feat: log submission for Prix Ars Electronica 2026 — Interactive Art+"
+            },
+            {
+              "hash": "7a37992",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for Prix Ars Electronica 2026 — Interactive Art+"
+            },
+            {
+              "hash": "1a7c1d1",
+              "date": "2026-02-26",
+              "message": "feat: log submission for Notion Staff Software Engineer, AI Agentic Search"
+            },
+            {
+              "hash": "5887695",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for Notion Staff Software Engineer, AI Agentic Search"
+            },
+            {
+              "hash": "422ab11",
+              "date": "2026-02-26",
+              "message": "feat: log submission for MongoDB Senior Software Engineer, DevTools"
+            },
+            {
+              "hash": "bee7333",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for MongoDB Senior Software Engineer, DevTools"
+            },
+            {
+              "hash": "a11e057",
+              "date": "2026-02-26",
+              "message": "feat: log submission for Datadog Senior Technical Writer"
+            },
+            {
+              "hash": "2a8751b",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for Datadog Senior Technical Writer"
+            },
+            {
+              "hash": "fffb0a2",
+              "date": "2026-02-26",
+              "message": "feat: log submission for Cursor Software Engineer, DevEx"
+            },
+            {
+              "hash": "084e94f",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for Cursor Software Engineer, DevEx"
+            },
+            {
+              "hash": "e329df1",
+              "date": "2026-02-26",
+              "message": "feat: log submission for Railway Developer Relations"
+            },
+            {
+              "hash": "6079fdd",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for Railway Developer Relations"
+            },
+            {
+              "hash": "ee0f40d",
+              "date": "2026-02-26",
+              "message": "feat: log submission for ElevenLabs Developer Relations Engineer"
+            },
+            {
+              "hash": "805775d",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for ElevenLabs Developer Relations Engineer"
+            },
+            {
+              "hash": "1b25bdb",
+              "date": "2026-02-26",
+              "message": "feat: log submission for dbt Labs Senior Developer Experience Advocate"
+            },
+            {
+              "hash": "0113be0",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for dbt Labs Senior Developer Experience Advocate"
+            },
+            {
+              "hash": "0194c58",
+              "date": "2026-02-26",
+              "message": "feat: log submission for MongoDB Senior Developer Advocate"
+            },
+            {
+              "hash": "061f349",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for MongoDB Senior Developer Advocate"
+            },
+            {
+              "hash": "b037d90",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for OpenAI Software Engineer, Full-Stack — Developer Experience"
+            },
+            {
+              "hash": "ffb432b",
+              "date": "2026-02-26",
+              "message": "feat: log submission for Scale AI Staff Software Engineer, Developer Experience"
+            },
+            {
+              "hash": "c6af468",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for Scale AI Staff Software Engineer, Developer Experience"
+            },
+            {
+              "hash": "ba10e02",
+              "date": "2026-02-26",
+              "message": "feat: log submission for Cloudflare Software Engineer, Developer Tools and Productivity"
+            },
+            {
+              "hash": "206a459",
+              "date": "2026-02-26",
+              "message": "chore: mandate including job URLs in completion summaries in GEMINI.md"
+            },
+            {
+              "hash": "e77a1fe",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for Cloudflare Software Engineer, Developer Tools and Productivity"
+            },
+            {
+              "hash": "cfd1ab7",
+              "date": "2026-02-26",
+              "message": "feat: log submission for Anthropic Software Engineer, Windows - Claude Code"
+            },
+            {
+              "hash": "f29d149",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for Anthropic Software Engineer, Windows - Claude Code"
+            },
+            {
+              "hash": "48e1717",
+              "date": "2026-02-26",
+              "message": "feat: log submission for Anthropic Senior Education Platform Engineer"
+            },
+            {
+              "hash": "3020f37",
+              "date": "2026-02-26",
+              "message": "feat: include Classroom RPG Aetheria project in Anthropic Senior Education Platform Engineer materials"
+            },
+            {
+              "hash": "84d62e4",
+              "date": "2026-02-26",
+              "message": "feat: complete application materials for Anthropic Senior Education Platform Engineer"
+            },
+            {
+              "hash": "5c50c51",
+              "date": "2026-02-26",
+              "message": "feat: cement submission process rules in alchemize.py and storefront-playbook.md"
+            },
+            {
+              "hash": "4e6f73b",
+              "date": "2026-02-26",
+              "message": "feat: log Anthropic Claude Code SE submission; cement identity positions in AGENTS.md"
+            },
+            {
+              "hash": "81cfa08",
+              "date": "2026-02-26",
+              "message": "feat: initialize batch-03 for tailored resumes; tailor Anthropic Claude Code SE resume; update GEMINI.md rules"
+            },
+            {
+              "hash": "072e8ef",
+              "date": "2026-02-26",
+              "message": "chore: add project-specific GEMINI.md and AGENTS.md context"
+            },
+            {
+              "hash": "7f811e2",
+              "date": "2026-02-26",
+              "message": "feat: run alchemy suite for GLReview and ZKM; defer ZKM; add deadline prioritization rule"
+            },
+            {
+              "hash": "28084f3",
+              "date": "2026-02-26",
+              "message": "stage and commit all changes"
+            },
+            {
+              "hash": "ad07cd4",
+              "date": "2026-02-26",
+              "message": "Batch update pipeline entries and scripts"
+            }
+          ],
+          "files_changed": 2378
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "meta-organvm": {
+          "commits": [
+            {
+              "hash": "cd70424",
+              "date": "2026-02-26",
+              "message": "chore: finalize github app configuration and cross-org setup"
+            },
+            {
+              "hash": "d9db3fd",
+              "date": "2026-02-26",
+              "message": "docs: github app configuration and 1password credential references"
+            }
+          ],
+          "files_changed": 4
+        },
+        "etceter4": {
+          "commits": [
+            {
+              "hash": "cd70424",
+              "date": "2026-02-26",
+              "message": "chore: finalize github app configuration and cross-org setup"
+            },
+            {
+              "hash": "d9db3fd",
+              "date": "2026-02-26",
+              "message": "docs: github app configuration and 1password credential references"
+            }
+          ],
+          "files_changed": 4
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "123853f",
+              "date": "2026-02-26",
+              "message": "ci: add github pages deployment workflow"
+            },
+            {
+              "hash": "31747e2",
+              "date": "2026-02-26",
+              "message": "fix: resolve astro build errors in architecture and dashboard pages"
+            },
+            {
+              "hash": "df5bafa",
+              "date": "2026-02-26",
+              "message": "chore: soak test snapshot 2026-02-26"
+            },
+            {
+              "hash": "4aaa725",
+              "date": "2026-02-26",
+              "message": "chore: auto-refresh metrics 2026-02-26"
+            }
+          ],
+          "files_changed": 5
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "d2a4f60",
+              "date": "2026-02-26",
+              "message": "test: webhook trigger 2 1772130535"
+            },
+            {
+              "hash": "a28c839",
+              "date": "2026-02-26",
+              "message": "test: webhook trigger 1772130497"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "123853f",
+              "date": "2026-02-26",
+              "message": "ci: add github pages deployment workflow"
+            },
+            {
+              "hash": "31747e2",
+              "date": "2026-02-26",
+              "message": "fix: resolve astro build errors in architecture and dashboard pages"
+            },
+            {
+              "hash": "df5bafa",
+              "date": "2026-02-26",
+              "message": "chore: soak test snapshot 2026-02-26"
+            },
+            {
+              "hash": "4aaa725",
+              "date": "2026-02-26",
+              "message": "chore: auto-refresh metrics 2026-02-26"
+            }
+          ],
+          "files_changed": 5
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "d2a4f60",
+              "date": "2026-02-26",
+              "message": "test: webhook trigger 2 1772130535"
+            },
+            {
+              "hash": "a28c839",
+              "date": "2026-02-26",
+              "message": "test: webhook trigger 1772130497"
+            }
+          ],
+          "files_changed": 1
+        },
+        "peer-audited--behavioral-blockchain": {
+          "commits": [
+            {
+              "hash": "43087e3",
+              "date": "2026-02-26",
+              "message": "feat: implement cross-platform support-trace and observability utilities for beta release"
+            },
+            {
+              "hash": "756d03d",
+              "date": "2026-02-26",
+              "message": "Harden runtime integrity and add compliance identity workflows"
+            },
+            {
+              "hash": "8d91a15",
+              "date": "2026-02-26",
+              "message": "feat: add outbox retry backoff and quarantine"
+            },
+            {
+              "hash": "a7f3eb6",
+              "date": "2026-02-26",
+              "message": "feat: retry failed settlement outbox effects on cron"
+            },
+            {
+              "hash": "8329537",
+              "date": "2026-02-26",
+              "message": "feat: add settlement outbox and cookie-backed SSE auth"
+            },
+            {
+              "hash": "b38828c",
+              "date": "2026-02-26",
+              "message": "feat: harden contract resolution authz and SSE streams"
+            },
+            {
+              "hash": "2aae338",
+              "date": "2026-02-26",
+              "message": "chore: apply evaluation-to-growth remediation tranche"
+            },
+            {
+              "hash": "b5b5857",
+              "date": "2026-02-26",
+              "message": "chore: sync local changes before project-wide evaluation"
+            },
+            {
+              "hash": "43087e3",
+              "date": "2026-02-26",
+              "message": "feat: implement cross-platform support-trace and observability utilities for beta release"
+            },
+            {
+              "hash": "756d03d",
+              "date": "2026-02-26",
+              "message": "Harden runtime integrity and add compliance identity workflows"
+            },
+            {
+              "hash": "8d91a15",
+              "date": "2026-02-26",
+              "message": "feat: add outbox retry backoff and quarantine"
+            },
+            {
+              "hash": "a7f3eb6",
+              "date": "2026-02-26",
+              "message": "feat: retry failed settlement outbox effects on cron"
+            },
+            {
+              "hash": "8329537",
+              "date": "2026-02-26",
+              "message": "feat: add settlement outbox and cookie-backed SSE auth"
+            },
+            {
+              "hash": "b38828c",
+              "date": "2026-02-26",
+              "message": "feat: harden contract resolution authz and SSE streams"
+            },
+            {
+              "hash": "2aae338",
+              "date": "2026-02-26",
+              "message": "chore: apply evaluation-to-growth remediation tranche"
+            },
+            {
+              "hash": "b5b5857",
+              "date": "2026-02-26",
+              "message": "chore: sync local changes before project-wide evaluation"
+            }
+          ],
+          "files_changed": 5456
+        }
+      }
+    }
+  }
+}

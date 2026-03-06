@@ -1,0 +1,196 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2025-12-15",
+  "until": "2025-12-15",
+  "summary": {
+    "total_commits": 31,
+    "repos_active": 3,
+    "files_changed": 19,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "ede5920",
+              "date": "2025-12-15",
+              "message": "feat(cli): add confirmation to cleanup command"
+            },
+            {
+              "hash": "a86fb6e",
+              "date": "2025-12-15",
+              "message": "Shield: Fix path traversal vulnerability in experiment spawning"
+            },
+            {
+              "hash": "6a3b669",
+              "date": "2025-12-15",
+              "message": "⚡ Bolt: Optimize ContainmentBoundary path generation"
+            }
+          ],
+          "files_changed": 5
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "7a1b265",
+              "date": "2025-12-15",
+              "message": "chore(deps): bump actions/upload-artifact from 4 to 6"
+            },
+            {
+              "hash": "7a1b265",
+              "date": "2025-12-15",
+              "message": "chore(deps): bump actions/upload-artifact from 4 to 6"
+            }
+          ],
+          "files_changed": 1
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "eacccd0",
+              "date": "2025-12-15",
+              "message": "feat: add automated script for pushing branches and creating PRs"
+            },
+            {
+              "hash": "feba73f",
+              "date": "2025-12-15",
+              "message": "docs: add guide for creating 3 fresh feature PRs"
+            },
+            {
+              "hash": "27f06e3",
+              "date": "2025-12-15",
+              "message": "Bump lucide-react from 0.484.0 to 0.561.0"
+            },
+            {
+              "hash": "0797351",
+              "date": "2025-12-15",
+              "message": "Add executive summary for branch consolidation"
+            },
+            {
+              "hash": "13abd7d",
+              "date": "2025-12-15",
+              "message": "Apply security fix for SQL injection in bulkInsert"
+            },
+            {
+              "hash": "91663cd",
+              "date": "2025-12-15",
+              "message": "Complete branch consolidation with audit log and policies"
+            },
+            {
+              "hash": "5128994",
+              "date": "2025-12-15",
+              "message": "Merged security fix for SQL injection vulnerability"
+            },
+            {
+              "hash": "cb54b2d",
+              "date": "2025-12-15",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3e6c7b7",
+              "date": "2025-12-15",
+              "message": "feat(a11y): improve accessibility for feedback and sort controls"
+            },
+            {
+              "hash": "c3348a1",
+              "date": "2025-12-15",
+              "message": "Bump three from 0.181.2 to 0.182.0"
+            },
+            {
+              "hash": "5e251e7",
+              "date": "2025-12-15",
+              "message": "Bump typescript-eslint from 8.47.0 to 8.49.0"
+            },
+            {
+              "hash": "0428e65",
+              "date": "2025-12-15",
+              "message": "Bump @types/node from 24.10.1 to 25.0.2"
+            },
+            {
+              "hash": "0e72467",
+              "date": "2025-12-15",
+              "message": "Bump marked from 15.0.12 to 17.0.1"
+            },
+            {
+              "hash": "eacccd0",
+              "date": "2025-12-15",
+              "message": "feat: add automated script for pushing branches and creating PRs"
+            },
+            {
+              "hash": "feba73f",
+              "date": "2025-12-15",
+              "message": "docs: add guide for creating 3 fresh feature PRs"
+            },
+            {
+              "hash": "27f06e3",
+              "date": "2025-12-15",
+              "message": "Bump lucide-react from 0.484.0 to 0.561.0"
+            },
+            {
+              "hash": "0797351",
+              "date": "2025-12-15",
+              "message": "Add executive summary for branch consolidation"
+            },
+            {
+              "hash": "13abd7d",
+              "date": "2025-12-15",
+              "message": "Apply security fix for SQL injection in bulkInsert"
+            },
+            {
+              "hash": "91663cd",
+              "date": "2025-12-15",
+              "message": "Complete branch consolidation with audit log and policies"
+            },
+            {
+              "hash": "5128994",
+              "date": "2025-12-15",
+              "message": "Merged security fix for SQL injection vulnerability"
+            },
+            {
+              "hash": "cb54b2d",
+              "date": "2025-12-15",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3e6c7b7",
+              "date": "2025-12-15",
+              "message": "feat(a11y): improve accessibility for feedback and sort controls"
+            },
+            {
+              "hash": "c3348a1",
+              "date": "2025-12-15",
+              "message": "Bump three from 0.181.2 to 0.182.0"
+            },
+            {
+              "hash": "5e251e7",
+              "date": "2025-12-15",
+              "message": "Bump typescript-eslint from 8.47.0 to 8.49.0"
+            },
+            {
+              "hash": "0428e65",
+              "date": "2025-12-15",
+              "message": "Bump @types/node from 24.10.1 to 25.0.2"
+            },
+            {
+              "hash": "0e72467",
+              "date": "2025-12-15",
+              "message": "Bump marked from 15.0.12 to 17.0.1"
+            }
+          ],
+          "files_changed": 13
+        }
+      }
+    }
+  }
+}

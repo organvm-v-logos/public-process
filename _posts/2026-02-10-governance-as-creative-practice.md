@@ -12,8 +12,8 @@ related_repos:
   - organvm-iv-taxis/petasum-super-petasum
   - organvm-i-theoria/system-governance-framework
   - organvm-i-theoria/recursive-engine--generative-entity
-reading_time: "16 min"
-word_count: 4000
+reading_time: "17 min"
+word_count: 4288
 references: []
 ---
 

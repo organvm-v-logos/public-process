@@ -1,0 +1,66 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-03-17",
+  "until": "2025-03-17",
+  "summary": {
+    "total_commits": 6,
+    "repos_active": 2,
+    "files_changed": 20,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "c2cf65f",
+              "date": "2025-03-17",
+              "message": "GrindrPlus: Fix dates in spline"
+            },
+            {
+              "hash": "a0b9ca9",
+              "date": "2025-03-17",
+              "message": "GrindrPlus: Add support for `25.3.0 (135731)`"
+            },
+            {
+              "hash": "98a5bd5",
+              "date": "2025-03-17",
+              "message": "GrindrPlus: Update AGP to 8.9.0"
+            }
+          ],
+          "files_changed": 14
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "71ef81c",
+              "date": "2025-03-17",
+              "message": "Fix server stability with thread-based networking"
+            },
+            {
+              "hash": "e0f873c",
+              "date": "2025-03-17",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "b2aef0d",
+              "date": "2025-03-17",
+              "message": "Add free trial API key for hyper3d rodin"
+            }
+          ],
+          "files_changed": 6
+        }
+      }
+    }
+  }
+}

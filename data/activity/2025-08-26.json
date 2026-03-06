@@ -1,0 +1,40 @@
+{
+  "generated": "2026-03-06T00:39:34Z",
+  "since": "2025-08-26",
+  "until": "2025-08-26",
+  "summary": {
+    "total_commits": 3,
+    "repos_active": 1,
+    "files_changed": 19,
+    "organs_touched": [
+      "II"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "2f4f19a",
+              "date": "2025-08-26",
+              "message": "Phase 1 complete: Updated dependencies, fixed security vulnerabilities, modernized tooling"
+            },
+            {
+              "hash": "6cddad8",
+              "date": "2025-08-26",
+              "message": "Initial repository analysis and modernization plan"
+            },
+            {
+              "hash": "e443f92",
+              "date": "2025-08-26",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 19
+        }
+      }
+    }
+  }
+}

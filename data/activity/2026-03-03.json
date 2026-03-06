@@ -1,22 +1,53 @@
 {
-  "generated": "2026-03-03T23:32:09Z",
+  "generated": "2026-03-06T00:39:27Z",
   "since": "2026-03-03",
-  "until": "2026-03-04",
+  "until": "2026-03-03",
   "summary": {
-    "total_commits": 5,
-    "repos_active": 2,
-    "files_changed": 199,
+    "total_commits": 186,
+    "repos_active": 44,
+    "files_changed": 573,
     "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV",
       "META",
-      "Personal"
+      "Personal",
+      "V",
+      "VII"
     ]
   },
   "by_organ": {
     "Personal": {
       "name": "Personal",
       "repos": {
+        "4444J99": {
+          "commits": [
+            {
+              "hash": "5e3a5da",
+              "date": "2026-03-03",
+              "message": "chore: sync submodule pointers and metadata across workspace ecosystem"
+            },
+            {
+              "hash": "5430aa5",
+              "date": "2026-03-03",
+              "message": "ci: skip validation for private intake submodule"
+            }
+          ],
+          "files_changed": 7
+        },
         "application-pipeline": {
           "commits": [
+            {
+              "hash": "72fcda1",
+              "date": "2026-03-03",
+              "message": "test: add pytest-mock to dev dependencies"
+            },
+            {
+              "hash": "6e1aa3b",
+              "date": "2026-03-03",
+              "message": "chore: fix linting errors"
+            },
             {
               "hash": "2595310",
               "date": "2026-03-03",
@@ -38,22 +69,1142 @@
               "message": "staged and committed all changes"
             }
           ],
-          "files_changed": 198
+          "files_changed": 246
+        },
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "fd0ec6f",
+              "date": "2026-03-03",
+              "message": "fix: use direct node call for astro preview to ensure clean shutdown in CI"
+            },
+            {
+              "hash": "0124eec",
+              "date": "2026-03-03",
+              "message": "chore: update quality and trust metrics after successful CI preparation"
+            },
+            {
+              "hash": "4405fe0",
+              "date": "2026-03-03",
+              "message": "fix: use npx astro preview to prevent orphaned processes during CI"
+            },
+            {
+              "hash": "ef59959",
+              "date": "2026-03-03",
+              "message": "chore: force-add resume PDFs to satisfy integrity tests"
+            },
+            {
+              "hash": "1c36117",
+              "date": "2026-03-03",
+              "message": "test: enhance consult smoke test with UI integrity assertions"
+            },
+            {
+              "hash": "f1cf496",
+              "date": "2026-03-03",
+              "message": "chore: force-add missing config files for CI"
+            },
+            {
+              "hash": "cac91c2",
+              "date": "2026-03-03",
+              "message": "fix: resolve consult page interactivity and view transition binding"
+            }
+          ],
+          "files_changed": 26
         }
       }
     },
     "META": {
       "name": "Meta",
       "repos": {
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "f1e564d",
+              "date": "2026-03-03",
+              "message": "fix: disable jekyll for pages deployment"
+            }
+          ],
+          "files_changed": 1
+        },
         "organvm-corpvs-testamentvm": {
           "commits": [
             {
-              "hash": "5aeaf50",
+              "hash": "7866706",
               "date": "2026-03-03",
               "message": "chore(soak): daily snapshot 2026-03-03"
             }
           ],
+          "files_changed": 0
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "call-function--ontological": {
+          "commits": [
+            {
+              "hash": "15ad811",
+              "date": "2026-03-03",
+              "message": "fix(tools): exclude standard metadata files from naming validation"
+            }
+          ],
           "files_changed": 1
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "b7a9789",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky test by searching for content rather than context"
+            },
+            {
+              "hash": "4661dc8",
+              "date": "2026-03-03",
+              "message": "test(search): make pagination stability test less rigid on result count"
+            },
+            {
+              "hash": "4ef2388",
+              "date": "2026-03-03",
+              "message": "test(search): increase pageSize and expected results to 5 for stability"
+            },
+            {
+              "hash": "a25a573",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky pagination test by using first page"
+            },
+            {
+              "hash": "420756d",
+              "date": "2026-03-03",
+              "message": "fix(ci): inline upload-pages-artifact to comply with SHA pinning policy"
+            }
+          ],
+          "files_changed": 2
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "b7a9789",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky test by searching for content rather than context"
+            },
+            {
+              "hash": "4661dc8",
+              "date": "2026-03-03",
+              "message": "test(search): make pagination stability test less rigid on result count"
+            },
+            {
+              "hash": "4ef2388",
+              "date": "2026-03-03",
+              "message": "test(search): increase pageSize and expected results to 5 for stability"
+            },
+            {
+              "hash": "a25a573",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky pagination test by using first page"
+            },
+            {
+              "hash": "420756d",
+              "date": "2026-03-03",
+              "message": "fix(ci): inline upload-pages-artifact to comply with SHA pinning policy"
+            }
+          ],
+          "files_changed": 2
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "b7a9789",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky test by searching for content rather than context"
+            },
+            {
+              "hash": "4661dc8",
+              "date": "2026-03-03",
+              "message": "test(search): make pagination stability test less rigid on result count"
+            },
+            {
+              "hash": "4ef2388",
+              "date": "2026-03-03",
+              "message": "test(search): increase pageSize and expected results to 5 for stability"
+            },
+            {
+              "hash": "a25a573",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky pagination test by using first page"
+            },
+            {
+              "hash": "420756d",
+              "date": "2026-03-03",
+              "message": "fix(ci): inline upload-pages-artifact to comply with SHA pinning policy"
+            }
+          ],
+          "files_changed": 2
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "b7a9789",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky test by searching for content rather than context"
+            },
+            {
+              "hash": "4661dc8",
+              "date": "2026-03-03",
+              "message": "test(search): make pagination stability test less rigid on result count"
+            },
+            {
+              "hash": "4ef2388",
+              "date": "2026-03-03",
+              "message": "test(search): increase pageSize and expected results to 5 for stability"
+            },
+            {
+              "hash": "a25a573",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky pagination test by using first page"
+            },
+            {
+              "hash": "420756d",
+              "date": "2026-03-03",
+              "message": "fix(ci): inline upload-pages-artifact to comply with SHA pinning policy"
+            },
+            {
+              "hash": "b7a9789",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky test by searching for content rather than context"
+            },
+            {
+              "hash": "4661dc8",
+              "date": "2026-03-03",
+              "message": "test(search): make pagination stability test less rigid on result count"
+            },
+            {
+              "hash": "4ef2388",
+              "date": "2026-03-03",
+              "message": "test(search): increase pageSize and expected results to 5 for stability"
+            },
+            {
+              "hash": "a25a573",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky pagination test by using first page"
+            },
+            {
+              "hash": "420756d",
+              "date": "2026-03-03",
+              "message": "fix(ci): inline upload-pages-artifact to comply with SHA pinning policy"
+            }
+          ],
+          "files_changed": 2
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "b7a9789",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky test by searching for content rather than context"
+            },
+            {
+              "hash": "4661dc8",
+              "date": "2026-03-03",
+              "message": "test(search): make pagination stability test less rigid on result count"
+            },
+            {
+              "hash": "4ef2388",
+              "date": "2026-03-03",
+              "message": "test(search): increase pageSize and expected results to 5 for stability"
+            },
+            {
+              "hash": "a25a573",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky pagination test by using first page"
+            },
+            {
+              "hash": "420756d",
+              "date": "2026-03-03",
+              "message": "fix(ci): inline upload-pages-artifact to comply with SHA pinning policy"
+            }
+          ],
+          "files_changed": 2
+        },
+        "narratological-algorithmic-lenses": {
+          "commits": [
+            {
+              "hash": "35c7f52",
+              "date": "2026-03-03",
+              "message": "test(cli): make help output assertions robust to formatting"
+            },
+            {
+              "hash": "aa041ba",
+              "date": "2026-03-03",
+              "message": "fix(cli): simplify provider help text to address CI formatting issue"
+            }
+          ],
+          "files_changed": 3
+        },
+        "reverse-engine-recursive-run": {
+          "commits": [
+            {
+              "hash": "0f93b7d",
+              "date": "2026-03-03",
+              "message": "fix(lint): resolve PEP 8 violations in hotspot_merge and __main__"
+            }
+          ],
+          "files_changed": 2
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "605f777",
+              "date": "2026-03-03",
+              "message": "fix(tests): remove unused import in test_promotion.py to resolve lint failure"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "organvm-ii-poiesis": {
+          "commits": [
+            {
+              "hash": "02b1a77",
+              "date": "2026-03-03",
+              "message": "chore: update a-mavs submodule for automation fix"
+            },
+            {
+              "hash": "fb00188",
+              "date": "2026-03-03",
+              "message": "chore: update a-mavs submodule after ci fixes"
+            },
+            {
+              "hash": "0b9cfd3",
+              "date": "2026-03-03",
+              "message": "chore: update submodules after workflow fixes"
+            },
+            {
+              "hash": "fe1d3bd",
+              "date": "2026-03-03",
+              "message": "chore: update submodule refs for workflow fixes"
+            }
+          ],
+          "files_changed": 6
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "58b4a93",
+              "date": "2026-03-03",
+              "message": "fix: remove invalid pip dependabot job"
+            }
+          ],
+          "files_changed": 1
+        },
+        "MET4": {
+          "commits": [
+            {
+              "hash": "4b040de",
+              "date": "2026-03-03",
+              "message": "fix: restore missing lib modules for ci"
+            }
+          ],
+          "files_changed": 12
+        },
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "4ae4d0b",
+              "date": "2026-03-03",
+              "message": "fix: handle missing labels in project automation"
+            },
+            {
+              "hash": "bb58e85",
+              "date": "2026-03-03",
+              "message": "fix: unblock ci lint and formatting checks"
+            },
+            {
+              "hash": "102c715",
+              "date": "2026-03-03",
+              "message": "fix: scope security audit to production deps"
+            }
+          ],
+          "files_changed": 11
+        },
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "f1e564d",
+              "date": "2026-03-03",
+              "message": "fix: disable jekyll for pages deployment"
+            }
+          ],
+          "files_changed": 1
+        },
+        "chthon-oneiros": {
+          "commits": [
+            {
+              "hash": "e698694",
+              "date": "2026-03-03",
+              "message": "fix: validate catalog in docs path"
+            }
+          ],
+          "files_changed": 1
+        },
+        "ivi374ivi027-05": {
+          "commits": [
+            {
+              "hash": "4b040de",
+              "date": "2026-03-03",
+              "message": "fix: restore missing lib modules for ci"
+            }
+          ],
+          "files_changed": 12
+        },
+        "showcase-portfolio": {
+          "commits": [
+            {
+              "hash": "b41b28b",
+              "date": "2026-03-03",
+              "message": "fix: disable jekyll for pages deployment"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "organvm-iii-ergon": {
+          "commits": [
+            {
+              "hash": "1e3bcb4",
+              "date": "2026-03-03",
+              "message": "ci: fix workspace type resolution and add missing eslint configs"
+            },
+            {
+              "hash": "49e04cc",
+              "date": "2026-03-03",
+              "message": "ci: final workflow infrastructure fixes"
+            },
+            {
+              "hash": "067b387",
+              "date": "2026-03-03",
+              "message": "ci: final workflow stabilization round"
+            },
+            {
+              "hash": "76b0ba1",
+              "date": "2026-03-03",
+              "message": "ci: update submodule pointers after second round of fixes"
+            },
+            {
+              "hash": "8b0c2fd",
+              "date": "2026-03-03",
+              "message": "ci: update submodule pointers after workflow stabilization"
+            },
+            {
+              "hash": "0ac4b96",
+              "date": "2026-03-03",
+              "message": "docs: update CLAUDE.md organ map with current promotion statuses"
+            }
+          ],
+          "files_changed": 11
+        },
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "b931206",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "9856388",
+              "date": "2026-03-03",
+              "message": "ci: fix pnpm version conflict and remove redundant lockfiles"
+            },
+            {
+              "hash": "38cd40a",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            },
+            {
+              "hash": "b931206",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "9856388",
+              "date": "2026-03-03",
+              "message": "ci: fix pnpm version conflict and remove redundant lockfiles"
+            },
+            {
+              "hash": "38cd40a",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            }
+          ],
+          "files_changed": 3
+        },
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "03c4d0f",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "cdb0d56",
+              "date": "2026-03-03",
+              "message": "ci: specify pnpm version in action-setup"
+            },
+            {
+              "hash": "909ad8b",
+              "date": "2026-03-03",
+              "message": "ci: resolve pnpm conflicts and harmonize setup actions"
+            },
+            {
+              "hash": "fb2660c",
+              "date": "2026-03-03",
+              "message": "ci: fix pnpm version conflict and remove redundant lockfiles"
+            },
+            {
+              "hash": "7d63dee",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            },
+            {
+              "hash": "03c4d0f",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "cdb0d56",
+              "date": "2026-03-03",
+              "message": "ci: specify pnpm version in action-setup"
+            },
+            {
+              "hash": "909ad8b",
+              "date": "2026-03-03",
+              "message": "ci: resolve pnpm conflicts and harmonize setup actions"
+            },
+            {
+              "hash": "fb2660c",
+              "date": "2026-03-03",
+              "message": "ci: fix pnpm version conflict and remove redundant lockfiles"
+            },
+            {
+              "hash": "7d63dee",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            }
+          ],
+          "files_changed": 4
+        },
+        "essay-pipeline": {
+          "commits": [
+            {
+              "hash": "978fca9",
+              "date": "2026-03-03",
+              "message": "feat: add link checker module and fill all test coverage gaps"
+            },
+            {
+              "hash": "32bb821",
+              "date": "2026-03-03",
+              "message": "chore: add .claude/ to gitignore"
+            },
+            {
+              "hash": "f88db5d",
+              "date": "2026-03-03",
+              "message": "feat: restructure log scaffold and update tests for new section order"
+            }
+          ],
+          "files_changed": 10
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "6b2b6bf",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "cdadd88",
+              "date": "2026-03-03",
+              "message": "ci: specify pnpm version in action-setup"
+            },
+            {
+              "hash": "6df957c",
+              "date": "2026-03-03",
+              "message": "ci: resolve pnpm conflicts and harmonize setup actions"
+            },
+            {
+              "hash": "f485d63",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            },
+            {
+              "hash": "6b2b6bf",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "cdadd88",
+              "date": "2026-03-03",
+              "message": "ci: specify pnpm version in action-setup"
+            },
+            {
+              "hash": "6df957c",
+              "date": "2026-03-03",
+              "message": "ci: resolve pnpm conflicts and harmonize setup actions"
+            },
+            {
+              "hash": "f485d63",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            }
+          ],
+          "files_changed": 5
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "f4cac9a",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "09449ad",
+              "date": "2026-03-03",
+              "message": "ci: specify pnpm version in action-setup"
+            },
+            {
+              "hash": "649c26d",
+              "date": "2026-03-03",
+              "message": "ci: resolve pnpm conflicts and harmonize setup actions"
+            },
+            {
+              "hash": "a40dae9",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            },
+            {
+              "hash": "f4cac9a",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "09449ad",
+              "date": "2026-03-03",
+              "message": "ci: specify pnpm version in action-setup"
+            },
+            {
+              "hash": "649c26d",
+              "date": "2026-03-03",
+              "message": "ci: resolve pnpm conflicts and harmonize setup actions"
+            },
+            {
+              "hash": "a40dae9",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            }
+          ],
+          "files_changed": 3
+        },
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "9889246",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "1779877",
+              "date": "2026-03-03",
+              "message": "ci: fix pnpm version conflict and remove redundant lockfiles"
+            },
+            {
+              "hash": "95fd3c8",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            },
+            {
+              "hash": "9889246",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "1779877",
+              "date": "2026-03-03",
+              "message": "ci: fix pnpm version conflict and remove redundant lockfiles"
+            },
+            {
+              "hash": "95fd3c8",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            }
+          ],
+          "files_changed": 7
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "b7a9789",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky test by searching for content rather than context"
+            },
+            {
+              "hash": "4661dc8",
+              "date": "2026-03-03",
+              "message": "test(search): make pagination stability test less rigid on result count"
+            },
+            {
+              "hash": "4ef2388",
+              "date": "2026-03-03",
+              "message": "test(search): increase pageSize and expected results to 5 for stability"
+            },
+            {
+              "hash": "a25a573",
+              "date": "2026-03-03",
+              "message": "test(search): fix flaky pagination test by using first page"
+            },
+            {
+              "hash": "420756d",
+              "date": "2026-03-03",
+              "message": "fix(ci): inline upload-pages-artifact to comply with SHA pinning policy"
+            }
+          ],
+          "files_changed": 2
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "7866706",
+              "date": "2026-03-03",
+              "message": "chore(soak): daily snapshot 2026-03-03"
+            }
+          ],
+          "files_changed": 0
+        },
+        "organvm-iii-ergon--superproject": {
+          "commits": [
+            {
+              "hash": "1e3bcb4",
+              "date": "2026-03-03",
+              "message": "ci: fix workspace type resolution and add missing eslint configs"
+            },
+            {
+              "hash": "49e04cc",
+              "date": "2026-03-03",
+              "message": "ci: final workflow infrastructure fixes"
+            },
+            {
+              "hash": "067b387",
+              "date": "2026-03-03",
+              "message": "ci: final workflow stabilization round"
+            },
+            {
+              "hash": "76b0ba1",
+              "date": "2026-03-03",
+              "message": "ci: update submodule pointers after second round of fixes"
+            },
+            {
+              "hash": "8b0c2fd",
+              "date": "2026-03-03",
+              "message": "ci: update submodule pointers after workflow stabilization"
+            },
+            {
+              "hash": "0ac4b96",
+              "date": "2026-03-03",
+              "message": "docs: update CLAUDE.md organ map with current promotion statuses"
+            }
+          ],
+          "files_changed": 11
+        },
+        "peer-audited--behavioral-blockchain": {
+          "commits": [
+            {
+              "hash": "ff78b68",
+              "date": "2026-03-03",
+              "message": "feat: implement vanguard ignition sequence (Money, tech moat, crucible, launch)"
+            },
+            {
+              "hash": "ff78b68",
+              "date": "2026-03-03",
+              "message": "feat: implement vanguard ignition sequence (Money, tech moat, crucible, launch)"
+            }
+          ],
+          "files_changed": 25
+        },
+        "sovereign-ecosystem--real-estate-luxury": {
+          "commits": [
+            {
+              "hash": "24d3f8f",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "32ce307",
+              "date": "2026-03-03",
+              "message": "ci: specify pnpm version in action-setup"
+            },
+            {
+              "hash": "a30f0f4",
+              "date": "2026-03-03",
+              "message": "ci: resolve pnpm conflicts and harmonize setup actions"
+            },
+            {
+              "hash": "24d3f8f",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "32ce307",
+              "date": "2026-03-03",
+              "message": "ci: specify pnpm version in action-setup"
+            },
+            {
+              "hash": "a30f0f4",
+              "date": "2026-03-03",
+              "message": "ci: resolve pnpm conflicts and harmonize setup actions"
+            }
+          ],
+          "files_changed": 4
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "605f777",
+              "date": "2026-03-03",
+              "message": "fix(tests): remove unused import in test_promotion.py to resolve lint failure"
+            }
+          ],
+          "files_changed": 1
+        },
+        "the-actual-news": {
+          "commits": [
+            {
+              "hash": "f817ad4",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "385cf4b",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            },
+            {
+              "hash": "f817ad4",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            },
+            {
+              "hash": "385cf4b",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            }
+          ],
+          "files_changed": 2
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "3de0446",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            },
+            {
+              "hash": "3de0446",
+              "date": "2026-03-03",
+              "message": "ci: stabilize github workflows and harmonize action versions"
+            }
+          ],
+          "files_changed": 1
+        },
+        "search-local--happy-hour": {
+          "commits": [
+            {
+              "hash": "232299f",
+              "date": "2026-03-03",
+              "message": "ci: add missing eslint config and relax unused var rules"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "eddf6aa",
+              "date": "2026-03-03",
+              "message": "ci: skip AI skills sync in CI to avoid SSH authentication failure"
+            },
+            {
+              "hash": "e688252",
+              "date": "2026-03-03",
+              "message": "ci: finally fix chezmoi config heredoc and command sequence"
+            },
+            {
+              "hash": "0ffee59",
+              "date": "2026-03-03",
+              "message": "ci: debug chezmoi config fixture"
+            },
+            {
+              "hash": "c482432",
+              "date": "2026-03-03",
+              "message": "ci: add dummy ssh_signing_key to chezmoi config fixture"
+            },
+            {
+              "hash": "44feb96",
+              "date": "2026-03-03",
+              "message": "ci: use echo to build chezmoi config fixture line-by-line to avoid indentation issues"
+            },
+            {
+              "hash": "af38be9",
+              "date": "2026-03-03",
+              "message": "ci: fix chezmoi config heredoc in lint.yml"
+            },
+            {
+              "hash": "f337703",
+              "date": "2026-03-03",
+              "message": "ci: use printf to create chezmoi config fixture to avoid TOML syntax errors"
+            },
+            {
+              "hash": "de8393e",
+              "date": "2026-03-03",
+              "message": "ci: fix chezmoi init flags order and line length for YAML lint"
+            },
+            {
+              "hash": "013f611",
+              "date": "2026-03-03",
+              "message": "ci: use --data flags for chezmoi init to fix template variable resolution"
+            },
+            {
+              "hash": "4a63d7e",
+              "date": "2026-03-03",
+              "message": "ci: correctly escape newlines in chezmoi config fixture"
+            },
+            {
+              "hash": "3894158",
+              "date": "2026-03-03",
+              "message": "ci: add name and email to chezmoi config fixture"
+            },
+            {
+              "hash": "17e0721",
+              "date": "2026-03-03",
+              "message": "ci: fix syntax error in chezmoi config fixture"
+            },
+            {
+              "hash": "3b13865",
+              "date": "2026-03-03",
+              "message": "ci: use brew to install chezmoi on macOS for better reliability"
+            },
+            {
+              "hash": "09eef21",
+              "date": "2026-03-03",
+              "message": "ci: globally guard 1Password calls with is_ci check"
+            },
+            {
+              "hash": "67ac113",
+              "date": "2026-03-03",
+              "message": "ci: skip 1Password secret retrieval in macOS integration tests"
+            },
+            {
+              "hash": "d6b699c",
+              "date": "2026-03-03",
+              "message": "ci: fix syntax error in lint.yml"
+            },
+            {
+              "hash": "0476ccc",
+              "date": "2026-03-03",
+              "message": "ci: add debugging and improve dependency installation for BATS"
+            },
+            {
+              "hash": "2151e3e",
+              "date": "2026-03-03",
+              "message": "ci: fix BATS tests by adding dependencies and setting executable bits"
+            },
+            {
+              "hash": "8734276",
+              "date": "2026-03-03",
+              "message": "ci: ignore shellcheck rules broken by templating"
+            },
+            {
+              "hash": "3eeeca2",
+              "date": "2026-03-03",
+              "message": "ci: fix SC1128 in template script linting by stripping leading empty line"
+            },
+            {
+              "hash": "fdada62",
+              "date": "2026-03-03",
+              "message": "ci: fix SC2015 in chezmoi package install script"
+            },
+            {
+              "hash": "0a2d5d9",
+              "date": "2026-03-03",
+              "message": "ci: fix VS Code JSON settings validation and remaining shellcheck warning"
+            },
+            {
+              "hash": "d21673c",
+              "date": "2026-03-03",
+              "message": "ci: fix remaining linting errors"
+            },
+            {
+              "hash": "e0e8aa8",
+              "date": "2026-03-03",
+              "message": "ci: fix shfmt, json validation and ruff line length errors"
+            },
+            {
+              "hash": "25f1ed5",
+              "date": "2026-03-03",
+              "message": "chore: fix shellcheck and python linting errors"
+            },
+            {
+              "hash": "6c0b1bc",
+              "date": "2026-03-03",
+              "message": "chore: fix yaml and python linting errors"
+            },
+            {
+              "hash": "30656a8",
+              "date": "2026-03-03",
+              "message": "Strengthen plan discipline and sync drifted settings"
+            },
+            {
+              "hash": "7adc927",
+              "date": "2026-03-03",
+              "message": "Add migrated plan history for Claude and Gemini"
+            }
+          ],
+          "files_changed": 41
+        },
+        "tool-interaction-design": {
+          "commits": [
+            {
+              "hash": "dcf25fc",
+              "date": "2026-03-03",
+              "message": "docs: add organvm system review and CLAUDE.md"
+            },
+            {
+              "hash": "4651d31",
+              "date": "2026-03-03",
+              "message": "feat: initial commit — tool interaction design system"
+            }
+          ],
+          "files_changed": 18
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        "editorial-standards": {
+          "commits": [
+            {
+              "hash": "99ff520",
+              "date": "2026-03-03",
+              "message": "feat: make references required, restructure log template, add citation guidance"
+            }
+          ],
+          "files_changed": 8
+        },
+        "essay-pipeline": {
+          "commits": [
+            {
+              "hash": "978fca9",
+              "date": "2026-03-03",
+              "message": "feat: add link checker module and fill all test coverage gaps"
+            },
+            {
+              "hash": "32bb821",
+              "date": "2026-03-03",
+              "message": "chore: add .claude/ to gitignore"
+            },
+            {
+              "hash": "f88db5d",
+              "date": "2026-03-03",
+              "message": "feat: restructure log scaffold and update tests for new section order"
+            }
+          ],
+          "files_changed": 10
+        },
+        "public-process": {
+          "commits": [
+            {
+              "hash": "6a8aeb7",
+              "date": "2026-03-03",
+              "message": "feat: activate footnote links and add proper noun hyperlinks across essays and logs"
+            },
+            {
+              "hash": "37ce5ec",
+              "date": "2026-03-03",
+              "message": "chore: add .netlify/ to gitignore"
+            },
+            {
+              "hash": "3763a77",
+              "date": "2026-03-03",
+              "message": "feat: add citations to essays, restructure logs, require references field"
+            },
+            {
+              "hash": "9533026",
+              "date": "2026-03-03",
+              "message": "feat: complete captain's log entries for Feb 28 – Mar 3"
+            },
+            {
+              "hash": "9b514bb",
+              "date": "2026-03-03",
+              "message": "essay: add 4 backfill essays (Feb 21 – Mar 2) and regenerate data"
+            },
+            {
+              "hash": "5a8e5f9",
+              "date": "2026-03-03",
+              "message": "feat: add retroactive captain's logs for Feb 28 – Mar 3"
+            }
+          ],
+          "files_changed": 62
+        }
+      }
+    },
+    "VII": {
+      "name": "Kerygma",
+      "repos": {
+        "tmp_organvm-i-theoria.github.io": {
+          "commits": [
+            {
+              "hash": "ac1ed5e",
+              "date": "2026-03-03",
+              "message": "chore: full ecosystem sync"
+            },
+            {
+              "hash": "075744d",
+              "date": "2026-03-03",
+              "message": "chore: sync repo index"
+            },
+            {
+              "hash": "1dc3c65",
+              "date": "2026-03-03",
+              "message": "feat: sync repository directory"
+            },
+            {
+              "hash": "46569f0",
+              "date": "2026-03-03",
+              "message": "feat: update landing page directory"
+            },
+            {
+              "hash": "ca37210",
+              "date": "2026-03-03",
+              "message": "feat: add root landing page"
+            },
+            {
+              "hash": "e2dc38c",
+              "date": "2026-03-03",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 2
         }
       }
     }

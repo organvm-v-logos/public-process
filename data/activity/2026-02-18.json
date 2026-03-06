@@ -1,0 +1,1198 @@
+{
+  "generated": "2026-03-06T00:39:27Z",
+  "since": "2026-02-18",
+  "until": "2026-02-18",
+  "summary": {
+    "total_commits": 174,
+    "repos_active": 52,
+    "files_changed": 1036,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "META",
+      "Personal",
+      "V",
+      "VI",
+      "VII"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "4444J99": {
+          "commits": [
+            {
+              "hash": "27c1cc5",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "baf3a82",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync CLAUDE.md from registry"
+            },
+            {
+              "hash": "235838e",
+              "date": "2026-02-18",
+              "message": "feat: initialize 4444J99 superproject with 5 submodules"
+            },
+            {
+              "hash": "a6aac0b",
+              "date": "2026-02-18",
+              "message": "ci: add submodule validation workflow"
+            },
+            {
+              "hash": "5f6db14",
+              "date": "2026-02-18",
+              "message": "feat: initialize 4444J99 superproject with 5 submodules"
+            }
+          ],
+          "files_changed": 10
+        },
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "f1c37f1",
+              "date": "2026-02-18",
+              "message": "Harden client lifecycle and quality governance gates"
+            }
+          ],
+          "files_changed": 19
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "meta-organvm": {
+          "commits": [
+            {
+              "hash": "76399f9",
+              "date": "2026-02-18",
+              "message": "chore: sync awareness infrastructure and registry fixes"
+            },
+            {
+              "hash": "29875d6",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "cda9b7c",
+              "date": "2026-02-18",
+              "message": "chore: sync CLAUDE.md files after fixing organ keys"
+            },
+            {
+              "hash": "2eafb72",
+              "date": "2026-02-18",
+              "message": "chore: sync CLAUDE.md and submodule pointers"
+            },
+            {
+              "hash": "8ef6d88",
+              "date": "2026-02-18",
+              "message": "feat: add system awareness infrastructure (MCP server, CLAUDE.md generator, CI action)"
+            },
+            {
+              "hash": "b8d90ed",
+              "date": "2026-02-18",
+              "message": "chore: sync meta-organvm submodule pointers (1 updated)"
+            },
+            {
+              "hash": "c3b3b52",
+              "date": "2026-02-18",
+              "message": "chore: sync meta-organvm submodule pointers (2 updated)"
+            },
+            {
+              "hash": "4aa3f2d",
+              "date": "2026-02-18",
+              "message": "chore: sync meta-organvm submodule pointers (2 updated)"
+            },
+            {
+              "hash": "105eaed",
+              "date": "2026-02-18",
+              "message": "feat: initialize meta-organvm superproject with 6 submodules"
+            },
+            {
+              "hash": "dafd242",
+              "date": "2026-02-18",
+              "message": "feat: initialize meta-organvm superproject with 6 submodules"
+            }
+          ],
+          "files_changed": 11
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "0485110",
+              "date": "2026-02-18",
+              "message": "feat: add shared system-check CI action"
+            }
+          ],
+          "files_changed": 2
+        },
+        "etceter4": {
+          "commits": [
+            {
+              "hash": "76399f9",
+              "date": "2026-02-18",
+              "message": "chore: sync awareness infrastructure and registry fixes"
+            },
+            {
+              "hash": "29875d6",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "cda9b7c",
+              "date": "2026-02-18",
+              "message": "chore: sync CLAUDE.md files after fixing organ keys"
+            },
+            {
+              "hash": "2eafb72",
+              "date": "2026-02-18",
+              "message": "chore: sync CLAUDE.md and submodule pointers"
+            },
+            {
+              "hash": "8ef6d88",
+              "date": "2026-02-18",
+              "message": "feat: add system awareness infrastructure (MCP server, CLAUDE.md generator, CI action)"
+            },
+            {
+              "hash": "b8d90ed",
+              "date": "2026-02-18",
+              "message": "chore: sync meta-organvm submodule pointers (1 updated)"
+            },
+            {
+              "hash": "c3b3b52",
+              "date": "2026-02-18",
+              "message": "chore: sync meta-organvm submodule pointers (2 updated)"
+            },
+            {
+              "hash": "4aa3f2d",
+              "date": "2026-02-18",
+              "message": "chore: sync meta-organvm submodule pointers (2 updated)"
+            },
+            {
+              "hash": "105eaed",
+              "date": "2026-02-18",
+              "message": "feat: initialize meta-organvm superproject with 6 submodules"
+            },
+            {
+              "hash": "dafd242",
+              "date": "2026-02-18",
+              "message": "feat: initialize meta-organvm superproject with 6 submodules"
+            }
+          ],
+          "files_changed": 11
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "39e070c",
+              "date": "2026-02-18",
+              "message": "fix: correct invalid statuses in ORGAN-VII and add governance config"
+            },
+            {
+              "hash": "a7ecd95",
+              "date": "2026-02-18",
+              "message": "feat: register organvm-mcp-server and update CLAUDE.md"
+            },
+            {
+              "hash": "886b011",
+              "date": "2026-02-18",
+              "message": "feat: add theory-to-art-watcher + workspace manifest"
+            },
+            {
+              "hash": "3148632",
+              "date": "2026-02-18",
+              "message": "feat: add submission scripts for NEH Summer Programs and Bread Loaf Conference"
+            },
+            {
+              "hash": "c8cc7f2",
+              "date": "2026-02-18",
+              "message": "fix: revert ERUPTIO governance docs from \"completed\" to \"staged\" — materials ready, not submitted"
+            },
+            {
+              "hash": "00f5da1",
+              "date": "2026-02-18",
+              "message": "feat: ERUPTIO — execution guide, submission materials, omega scorecard"
+            },
+            {
+              "hash": "5f1d207",
+              "date": "2026-02-18",
+              "message": "feat: ALCHEMIZER — identity transmutation system for 43 application targets"
+            },
+            {
+              "hash": "21c93a9",
+              "date": "2026-02-18",
+              "message": "feat: COVENANT-ARK — master alignment document, metrics refresh across 36 files"
+            },
+            {
+              "hash": "b7a5727",
+              "date": "2026-02-18",
+              "message": "chore: soak test snapshot 2026-02-18"
+            },
+            {
+              "hash": "69bf493",
+              "date": "2026-02-18",
+              "message": "registry: update ORGAN-VII for IGNIS PERPETUUS sprint"
+            },
+            {
+              "hash": "e5acc9d",
+              "date": "2026-02-18",
+              "message": "feat: submission blitz — 3 new scripts, all tiers ready to fire"
+            },
+            {
+              "hash": "e66abcc",
+              "date": "2026-02-18",
+              "message": "feat: draft 3 urgent submission scripts + master prep document"
+            }
+          ],
+          "files_changed": 158
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "4bce303",
+              "date": "2026-02-18",
+              "message": "feat: implement pre-flight validation, governance config loading, and git hooks"
+            },
+            {
+              "hash": "2bbf618",
+              "date": "2026-02-18",
+              "message": "feat: expand system awareness to GEMINI.md and AGENTS.md"
+            },
+            {
+              "hash": "253c62c",
+              "date": "2026-02-18",
+              "message": "feat: add CLAUDE.md auto-generator and sync CLI command"
+            },
+            {
+              "hash": "f3b25b0",
+              "date": "2026-02-18",
+              "message": "feat: add organvm git CLI command group and git subpackage"
+            },
+            {
+              "hash": "c4e7d26",
+              "date": "2026-02-18",
+              "message": "fix: sync-organ ignores dirty submodule content, only detects pointer changes"
+            },
+            {
+              "hash": "be8e261",
+              "date": "2026-02-18",
+              "message": "fix: prevent .strip() from eating prefix char in submodule status parsing"
+            }
+          ],
+          "files_changed": 18
+        },
+        "organvm-mcp-server": {
+          "commits": [
+            {
+              "hash": "0997f52",
+              "date": "2026-02-18",
+              "message": "feat: initial commit of ORGANVM MCP server"
+            }
+          ],
+          "files_changed": 18
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "organvm-i-theoria": {
+          "commits": [
+            {
+              "hash": "794d0fb",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "6ec39bc",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync CLAUDE.md from registry"
+            },
+            {
+              "hash": "d09ce50",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-i-theoria superproject with 20 submodules"
+            },
+            {
+              "hash": "1bc935b",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-i-theoria superproject with 20 submodules"
+            }
+          ],
+          "files_changed": 24
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "619dacd",
+              "date": "2026-02-18",
+              "message": "feat: implement evaluation-to-growth hardening and refactor"
+            }
+          ],
+          "files_changed": 39
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "619dacd",
+              "date": "2026-02-18",
+              "message": "feat: implement evaluation-to-growth hardening and refactor"
+            }
+          ],
+          "files_changed": 39
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "619dacd",
+              "date": "2026-02-18",
+              "message": "feat: implement evaluation-to-growth hardening and refactor"
+            }
+          ],
+          "files_changed": 39
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "619dacd",
+              "date": "2026-02-18",
+              "message": "feat: implement evaluation-to-growth hardening and refactor"
+            },
+            {
+              "hash": "619dacd",
+              "date": "2026-02-18",
+              "message": "feat: implement evaluation-to-growth hardening and refactor"
+            }
+          ],
+          "files_changed": 39
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "619dacd",
+              "date": "2026-02-18",
+              "message": "feat: implement evaluation-to-growth hardening and refactor"
+            }
+          ],
+          "files_changed": 39
+        },
+        "nexus--babel-alexandria": {
+          "commits": [
+            {
+              "hash": "1157f41",
+              "date": "2026-02-18",
+              "message": "docs: add AB-PLAN-01 executable ticket pack"
+            },
+            {
+              "hash": "db80ef7",
+              "date": "2026-02-18",
+              "message": "chore: add alexandria-babel planning artifacts and certainty audits"
+            },
+            {
+              "hash": "c4e80b3",
+              "date": "2026-02-18",
+              "message": "feat: implement wave-2 internal alpha propulsion layer"
+            }
+          ],
+          "files_changed": 35
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "organvm-ii-poiesis": {
+          "commits": [
+            {
+              "hash": "81a52d0",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "82c01ac",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync CLAUDE.md from registry"
+            },
+            {
+              "hash": "f1bba88",
+              "date": "2026-02-18",
+              "message": "chore: sync organvm-ii-poiesis submodule pointers (19 updated)"
+            },
+            {
+              "hash": "724b02c",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-ii-poiesis superproject with 31 submodules"
+            },
+            {
+              "hash": "e727938",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-ii-poiesis superproject with 31 submodules"
+            }
+          ],
+          "files_changed": 35
+        },
+        "chthon-oneiros": {
+          "commits": [
+            {
+              "hash": "a1dec0d",
+              "date": "2026-02-18",
+              "message": "docs: rewrite CLAUDE.md with full operational context"
+            },
+            {
+              "hash": "4ad53bf",
+              "date": "2026-02-18",
+              "message": "chore: synchronize corpus statistics in CATALOG.md"
+            }
+          ],
+          "files_changed": 2
+        },
+        "krypto-velamen": {
+          "commits": [
+            {
+              "hash": "f13f6e7",
+              "date": "2026-02-18",
+              "message": "docs: rewrite CLAUDE.md with comprehensive build commands, architecture, and domain model"
+            }
+          ],
+          "files_changed": 1
+        },
+        "metasystem-master": {
+          "commits": [
+            {
+              "hash": "2ebc0ac",
+              "date": "2026-02-18",
+              "message": "feat: add art-to-commerce dispatch workflow (Edge 2: II→III)"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "organvm-iii-ergon": {
+          "commits": [
+            {
+              "hash": "3115dfa",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "e70f9ea",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync CLAUDE.md from registry"
+            },
+            {
+              "hash": "1132a2a",
+              "date": "2026-02-18",
+              "message": "chore: sync organvm-iii-ergon submodule pointers (17 updated)"
+            },
+            {
+              "hash": "7d4b391",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-iii-ergon superproject with 27 submodules"
+            },
+            {
+              "hash": "d85fb7c",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-iii-ergon superproject with 27 submodules"
+            }
+          ],
+          "files_changed": 30
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "e3552f6",
+              "date": "2026-02-18",
+              "message": "feat: add essay-to-community workflow (Edge 4 receiver: V→VI)"
+            },
+            {
+              "hash": "26a99fe",
+              "date": "2026-02-18",
+              "message": "feat: add community-to-kerygma workflow (Edge 5: VI→VII)"
+            },
+            {
+              "hash": "d781bb0",
+              "date": "2026-02-18",
+              "message": "update org profile to reflect operational status, add CLAUDE.md"
+            },
+            {
+              "hash": "3cdf902",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): add permissions for issue creation in dispatch-receiver"
+            },
+            {
+              "hash": "bb9b906",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): dispatch-receiver creates issues in own repo"
+            },
+            {
+              "hash": "1097c22",
+              "date": "2026-02-18",
+              "message": "feat(IGNITION): upgrade dispatch-receiver with issue-creating handlers"
+            }
+          ],
+          "files_changed": 5
+        },
+        "community-hub": {
+          "commits": [
+            {
+              "hash": "bfd9ade",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): remove unused imports (ruff F401)"
+            }
+          ],
+          "files_changed": 3
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "522f43f",
+              "date": "2026-02-18",
+              "message": "feat: add feature-released trigger for ORGAN-VII distribution"
+            },
+            {
+              "hash": "522f43f",
+              "date": "2026-02-18",
+              "message": "feat: add feature-released trigger for ORGAN-VII distribution"
+            }
+          ],
+          "files_changed": 1
+        },
+        "kerygma-dotgithub": {
+          "commits": [
+            {
+              "hash": "d526edb",
+              "date": "2026-02-18",
+              "message": "feat: add quarterly feedback loop workflows (Edge 6: VII→I)"
+            },
+            {
+              "hash": "171af65",
+              "date": "2026-02-18",
+              "message": "feat: add community.milestone to dispatch-receiver event types"
+            },
+            {
+              "hash": "e5f71b9",
+              "date": "2026-02-18",
+              "message": "feat: IGNIS PERPETUUS sprint — live fire, cross-organ wiring, autonomous loop, Ghost theme"
+            },
+            {
+              "hash": "88c2dfd",
+              "date": "2026-02-18",
+              "message": "docs: IGNIS PERPETUUS sprint design — live fire, cross-organ wiring, autonomous loop, public presence"
+            }
+          ],
+          "files_changed": 27
+        },
+        "kerygma-pipeline": {
+          "commits": [
+            {
+              "hash": "2888eb8",
+              "date": "2026-02-18",
+              "message": "feat: kerygma pipeline orchestrator — full E2E distribution"
+            }
+          ],
+          "files_changed": 4
+        },
+        "koinonia-db": {
+          "commits": [
+            {
+              "hash": "2bc8f44",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): remove unused imports (ruff F401)"
+            },
+            {
+              "hash": "8e32e05",
+              "date": "2026-02-18",
+              "message": "feat(IGNITION): fix Alembic psycopg3 driver + add seed loader"
+            }
+          ],
+          "files_changed": 5
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "619dacd",
+              "date": "2026-02-18",
+              "message": "feat: implement evaluation-to-growth hardening and refactor"
+            }
+          ],
+          "files_changed": 39
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "e2563ea",
+              "date": "2026-02-18",
+              "message": "feat: add theory-input-handler for Edge 6 (VII→IV→I)"
+            },
+            {
+              "hash": "23a6d10",
+              "date": "2026-02-18",
+              "message": "feat: dispatch essay.published to ORGAN-VI and ORGAN-VII (Edge 4: V→VI,VII)"
+            },
+            {
+              "hash": "d1f93dc",
+              "date": "2026-02-18",
+              "message": "feat: implement registry consolidation + Edge 1/3 dispatch workflows"
+            }
+          ],
+          "files_changed": 12
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "39e070c",
+              "date": "2026-02-18",
+              "message": "fix: correct invalid statuses in ORGAN-VII and add governance config"
+            },
+            {
+              "hash": "a7ecd95",
+              "date": "2026-02-18",
+              "message": "feat: register organvm-mcp-server and update CLAUDE.md"
+            },
+            {
+              "hash": "886b011",
+              "date": "2026-02-18",
+              "message": "feat: add theory-to-art-watcher + workspace manifest"
+            },
+            {
+              "hash": "3148632",
+              "date": "2026-02-18",
+              "message": "feat: add submission scripts for NEH Summer Programs and Bread Loaf Conference"
+            },
+            {
+              "hash": "c8cc7f2",
+              "date": "2026-02-18",
+              "message": "fix: revert ERUPTIO governance docs from \"completed\" to \"staged\" — materials ready, not submitted"
+            },
+            {
+              "hash": "00f5da1",
+              "date": "2026-02-18",
+              "message": "feat: ERUPTIO — execution guide, submission materials, omega scorecard"
+            },
+            {
+              "hash": "5f1d207",
+              "date": "2026-02-18",
+              "message": "feat: ALCHEMIZER — identity transmutation system for 43 application targets"
+            },
+            {
+              "hash": "21c93a9",
+              "date": "2026-02-18",
+              "message": "feat: COVENANT-ARK — master alignment document, metrics refresh across 36 files"
+            },
+            {
+              "hash": "b7a5727",
+              "date": "2026-02-18",
+              "message": "chore: soak test snapshot 2026-02-18"
+            },
+            {
+              "hash": "69bf493",
+              "date": "2026-02-18",
+              "message": "registry: update ORGAN-VII for IGNIS PERPETUUS sprint"
+            },
+            {
+              "hash": "e5acc9d",
+              "date": "2026-02-18",
+              "message": "feat: submission blitz — 3 new scripts, all tiers ready to fire"
+            },
+            {
+              "hash": "e66abcc",
+              "date": "2026-02-18",
+              "message": "feat: draft 3 urgent submission scripts + master prep document"
+            }
+          ],
+          "files_changed": 158
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "4bce303",
+              "date": "2026-02-18",
+              "message": "feat: implement pre-flight validation, governance config loading, and git hooks"
+            },
+            {
+              "hash": "2bbf618",
+              "date": "2026-02-18",
+              "message": "feat: expand system awareness to GEMINI.md and AGENTS.md"
+            },
+            {
+              "hash": "253c62c",
+              "date": "2026-02-18",
+              "message": "feat: add CLAUDE.md auto-generator and sync CLI command"
+            },
+            {
+              "hash": "f3b25b0",
+              "date": "2026-02-18",
+              "message": "feat: add organvm git CLI command group and git subpackage"
+            },
+            {
+              "hash": "c4e7d26",
+              "date": "2026-02-18",
+              "message": "fix: sync-organ ignores dirty submodule content, only detects pointer changes"
+            },
+            {
+              "hash": "be8e261",
+              "date": "2026-02-18",
+              "message": "fix: prevent .strip() from eating prefix char in submodule status parsing"
+            }
+          ],
+          "files_changed": 18
+        },
+        "organvm-i-theoria--superproject": {
+          "commits": [
+            {
+              "hash": "794d0fb",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "6ec39bc",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync CLAUDE.md from registry"
+            },
+            {
+              "hash": "d09ce50",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-i-theoria superproject with 20 submodules"
+            },
+            {
+              "hash": "1bc935b",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-i-theoria superproject with 20 submodules"
+            }
+          ],
+          "files_changed": 24
+        },
+        "organvm-iii-ergon--superproject": {
+          "commits": [
+            {
+              "hash": "3115dfa",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "e70f9ea",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync CLAUDE.md from registry"
+            },
+            {
+              "hash": "1132a2a",
+              "date": "2026-02-18",
+              "message": "chore: sync organvm-iii-ergon submodule pointers (17 updated)"
+            },
+            {
+              "hash": "7d4b391",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-iii-ergon superproject with 27 submodules"
+            },
+            {
+              "hash": "d85fb7c",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-iii-ergon superproject with 27 submodules"
+            }
+          ],
+          "files_changed": 30
+        },
+        "organvm-mcp-server": {
+          "commits": [
+            {
+              "hash": "0997f52",
+              "date": "2026-02-18",
+              "message": "feat: initial commit of ORGANVM MCP server"
+            }
+          ],
+          "files_changed": 18
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "c2f5b79",
+              "date": "2026-02-18",
+              "message": "feat: add feature-released trigger for ORGAN-VII distribution"
+            },
+            {
+              "hash": "c2f5b79",
+              "date": "2026-02-18",
+              "message": "feat: add feature-released trigger for ORGAN-VII distribution"
+            }
+          ],
+          "files_changed": 1
+        },
+        "reading-group-curriculum": {
+          "commits": [
+            {
+              "hash": "25f5966",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): add koinonia-db git dependency to CI"
+            }
+          ],
+          "files_changed": 1
+        },
+        "tab-bookmark-manager": {
+          "commits": [
+            {
+              "hash": "78b9c0f",
+              "date": "2026-02-18",
+              "message": "feat: add feature-released trigger for ORGAN-VII distribution"
+            },
+            {
+              "hash": "78b9c0f",
+              "date": "2026-02-18",
+              "message": "feat: add feature-released trigger for ORGAN-VII distribution"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "organvm-iv-taxis": {
+          "commits": [
+            {
+              "hash": "d63edf7",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "3baa632",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync CLAUDE.md from registry"
+            },
+            {
+              "hash": "bb389a2",
+              "date": "2026-02-18",
+              "message": "chore: sync organvm-iv-taxis submodule pointers (5 updated)"
+            },
+            {
+              "hash": "59afee2",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-iv-taxis superproject with 7 submodules"
+            },
+            {
+              "hash": "05afe69",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-iv-taxis superproject with 7 submodules"
+            }
+          ],
+          "files_changed": 11
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "e2563ea",
+              "date": "2026-02-18",
+              "message": "feat: add theory-input-handler for Edge 6 (VII→IV→I)"
+            },
+            {
+              "hash": "23a6d10",
+              "date": "2026-02-18",
+              "message": "feat: dispatch essay.published to ORGAN-VI and ORGAN-VII (Edge 4: V→VI,VII)"
+            },
+            {
+              "hash": "d1f93dc",
+              "date": "2026-02-18",
+              "message": "feat: implement registry consolidation + Edge 1/3 dispatch workflows"
+            }
+          ],
+          "files_changed": 12
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        "organvm-v-logos": {
+          "commits": [
+            {
+              "hash": "290d0bb",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "1f469d8",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync CLAUDE.md from registry"
+            },
+            {
+              "hash": "f746bef",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-v-logos superproject with 6 submodules"
+            },
+            {
+              "hash": "6ebcca6",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-v-logos superproject with 6 submodules"
+            }
+          ],
+          "files_changed": 10
+        },
+        "public-process": {
+          "commits": [
+            {
+              "hash": "4920576",
+              "date": "2026-02-18",
+              "message": "feat: add essay-published trigger for ORGAN-VII distribution"
+            },
+            {
+              "hash": "860322e",
+              "date": "2026-02-18",
+              "message": "essay: deploy 2026-02-18-the-solo-auteur-method.md"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "VI": {
+      "name": "Koinonia",
+      "repos": {
+        "organvm-vi-koinonia": {
+          "commits": [
+            {
+              "hash": "9c81b86",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "f9c01ed",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync CLAUDE.md from registry"
+            },
+            {
+              "hash": "9c0a1ae",
+              "date": "2026-02-18",
+              "message": "chore: sync organvm-vi-koinonia submodule pointers (1 updated)"
+            },
+            {
+              "hash": "0d8dfa6",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-vi-koinonia superproject with 6 submodules"
+            },
+            {
+              "hash": "593a086",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-vi-koinonia superproject with 6 submodules"
+            }
+          ],
+          "files_changed": 10
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "e3552f6",
+              "date": "2026-02-18",
+              "message": "feat: add essay-to-community workflow (Edge 4 receiver: V→VI)"
+            },
+            {
+              "hash": "26a99fe",
+              "date": "2026-02-18",
+              "message": "feat: add community-to-kerygma workflow (Edge 5: VI→VII)"
+            },
+            {
+              "hash": "d781bb0",
+              "date": "2026-02-18",
+              "message": "update org profile to reflect operational status, add CLAUDE.md"
+            },
+            {
+              "hash": "3cdf902",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): add permissions for issue creation in dispatch-receiver"
+            },
+            {
+              "hash": "bb9b906",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): dispatch-receiver creates issues in own repo"
+            },
+            {
+              "hash": "1097c22",
+              "date": "2026-02-18",
+              "message": "feat(IGNITION): upgrade dispatch-receiver with issue-creating handlers"
+            }
+          ],
+          "files_changed": 5
+        },
+        "adaptive-personal-syllabus": {
+          "commits": [
+            {
+              "hash": "47d1198",
+              "date": "2026-02-18",
+              "message": "Implement milestone execution pipeline and CI docs-audit gate"
+            },
+            {
+              "hash": "639061a",
+              "date": "2026-02-18",
+              "message": "Add deterministic docs audit pipeline and outputs"
+            },
+            {
+              "hash": "47c29c4",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): clone koinonia-db seed data in CI for generator tests"
+            },
+            {
+              "hash": "aab8b5f",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): add koinonia-db git dependency to CI"
+            }
+          ],
+          "files_changed": 14
+        },
+        "community-hub": {
+          "commits": [
+            {
+              "hash": "bfd9ade",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): remove unused imports (ruff F401)"
+            }
+          ],
+          "files_changed": 3
+        },
+        "koinonia-db": {
+          "commits": [
+            {
+              "hash": "2bc8f44",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): remove unused imports (ruff F401)"
+            },
+            {
+              "hash": "8e32e05",
+              "date": "2026-02-18",
+              "message": "feat(IGNITION): fix Alembic psycopg3 driver + add seed loader"
+            }
+          ],
+          "files_changed": 5
+        },
+        "reading-group-curriculum": {
+          "commits": [
+            {
+              "hash": "25f5966",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): add koinonia-db git dependency to CI"
+            }
+          ],
+          "files_changed": 1
+        },
+        "salon-archive": {
+          "commits": [
+            {
+              "hash": "90e2c45",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): add koinonia-db git dependency to CI"
+            },
+            {
+              "hash": "c7817ac",
+              "date": "2026-02-18",
+              "message": "fix(IGNITION): remove unused import (ruff F401)"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "VII": {
+      "name": "Kerygma",
+      "repos": {
+        "organvm-vii-kerygma": {
+          "commits": [
+            {
+              "hash": "cbe0fab",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) from registry"
+            },
+            {
+              "hash": "63549f0",
+              "date": "2026-02-18",
+              "message": "chore: auto-sync CLAUDE.md from registry"
+            },
+            {
+              "hash": "3dd22db",
+              "date": "2026-02-18",
+              "message": "chore: sync organvm-vii-kerygma submodule pointers (1 updated)"
+            },
+            {
+              "hash": "563435f",
+              "date": "2026-02-18",
+              "message": "chore: sync organvm-vii-kerygma submodule pointers (2 updated)"
+            },
+            {
+              "hash": "515cbd9",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-vii-kerygma superproject with 5 submodules"
+            },
+            {
+              "hash": "5043325",
+              "date": "2026-02-18",
+              "message": "feat: initialize organvm-vii-kerygma superproject with 5 submodules"
+            }
+          ],
+          "files_changed": 9
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "d526edb",
+              "date": "2026-02-18",
+              "message": "feat: add quarterly feedback loop workflows (Edge 6: VII→I)"
+            },
+            {
+              "hash": "171af65",
+              "date": "2026-02-18",
+              "message": "feat: add community.milestone to dispatch-receiver event types"
+            },
+            {
+              "hash": "e5f71b9",
+              "date": "2026-02-18",
+              "message": "feat: IGNIS PERPETUUS sprint — live fire, cross-organ wiring, autonomous loop, Ghost theme"
+            },
+            {
+              "hash": "88c2dfd",
+              "date": "2026-02-18",
+              "message": "docs: IGNIS PERPETUUS sprint design — live fire, cross-organ wiring, autonomous loop, public presence"
+            }
+          ],
+          "files_changed": 27
+        },
+        "announcement-templates": {
+          "commits": [
+            {
+              "hash": "c2b2214",
+              "date": "2026-02-18",
+              "message": "feat: add community-milestone announcement template"
+            }
+          ],
+          "files_changed": 1
+        },
+        "distribution-strategy": {
+          "commits": [
+            {
+              "hash": "c5094ab",
+              "date": "2026-02-18",
+              "message": "feat: add Mastodon + Ghost metrics pull-back adapters"
+            }
+          ],
+          "files_changed": 4
+        },
+        "kerygma-pipeline": {
+          "commits": [
+            {
+              "hash": "2888eb8",
+              "date": "2026-02-18",
+              "message": "feat: kerygma pipeline orchestrator — full E2E distribution"
+            }
+          ],
+          "files_changed": 4
+        }
+      }
+    }
+  }
+}

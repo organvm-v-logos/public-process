@@ -1,0 +1,2273 @@
+{
+  "generated": "2026-03-06T00:39:27Z",
+  "since": "2026-03-04",
+  "until": "2026-03-04",
+  "summary": {
+    "total_commits": 337,
+    "repos_active": 104,
+    "files_changed": 2352,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "META",
+      "Personal",
+      "V",
+      "VI",
+      "VII"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "4444J99": {
+          "commits": [
+            {
+              "hash": "17e5d58",
+              "date": "2026-03-04",
+              "message": "fix: use HTTPS URL for application-pipeline submodule to resolve reachability check failures"
+            }
+          ],
+          "files_changed": 1
+        },
+        "application-pipeline": {
+          "commits": [
+            {
+              "hash": "c595c86",
+              "date": "2026-03-04",
+              "message": "feat: complete E2G review — full test coverage, new scripts, CLAUDE.md overhaul"
+            },
+            {
+              "hash": "06952b4",
+              "date": "2026-03-04",
+              "message": "Stage all changes"
+            },
+            {
+              "hash": "12a9d1f",
+              "date": "2026-03-04",
+              "message": "Implement full evaluation-to-growth rollout with governance, adaptive automation, and weekly executive briefing"
+            },
+            {
+              "hash": "349acb4",
+              "date": "2026-03-04",
+              "message": "test: add direct module coverage and isolate signal logs"
+            },
+            {
+              "hash": "4b0ba57",
+              "date": "2026-03-04",
+              "message": "feat: implement full evaluation-to-growth reliability upgrades"
+            },
+            {
+              "hash": "34c8507",
+              "date": "2026-03-04",
+              "message": "feat: implement evaluation-to-growth reliability and modular refactors"
+            },
+            {
+              "hash": "f373c56",
+              "date": "2026-03-04",
+              "message": "docs: fix CLAUDE.md gaps — CI gates, scoring dimensions, dependencies"
+            },
+            {
+              "hash": "da0e426",
+              "date": "2026-03-04",
+              "message": "Pipeline updates 2026-03-04"
+            },
+            {
+              "hash": "feff49a",
+              "date": "2026-03-04",
+              "message": "feat: TF-IDF text match engine for objective scoring signals"
+            },
+            {
+              "hash": "99558c9",
+              "date": "2026-03-04",
+              "message": "feat: four-tier pipeline implementation + doctoral thesis (50K words)"
+            },
+            {
+              "hash": "86390d5",
+              "date": "2026-03-04",
+              "message": "fix: enforce precision-over-volume thresholds end-to-end"
+            },
+            {
+              "hash": "fb79f51",
+              "date": "2026-03-04",
+              "message": "feat: precision-over-volume pipeline pivot"
+            },
+            {
+              "hash": "fa9f5ac",
+              "date": "2026-03-04",
+              "message": "Pipeline updates"
+            }
+          ],
+          "files_changed": 1543
+        },
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "de7bb04",
+              "date": "2026-03-04",
+              "message": "chore: update resume generation, system data script, and data integrity tests"
+            },
+            {
+              "hash": "250c046",
+              "date": "2026-03-04",
+              "message": "chore: update resumes, quality-ratchet-kit fixes, Gemini E2G eval report"
+            },
+            {
+              "hash": "66601b4",
+              "date": "2026-03-04",
+              "message": "feat: portfolio data refresh + WCAG accessibility fixes"
+            },
+            {
+              "hash": "852108b",
+              "date": "2026-03-04",
+              "message": "feat: refresh portfolio data — omega 4/17, soak 17/30, sprint history"
+            },
+            {
+              "hash": "a287e10",
+              "date": "2026-03-04",
+              "message": "chore: auto-refresh system data"
+            },
+            {
+              "hash": "6436745",
+              "date": "2026-03-04",
+              "message": "fix: use github.token instead of CROSS_ORG_TOKEN to fix Refresh System Data failures"
+            },
+            {
+              "hash": "52999f3",
+              "date": "2026-03-04",
+              "message": "Fix consult flow with Cloudflare worker backend"
+            }
+          ],
+          "files_changed": 41
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "meta-organvm": {
+          "commits": [
+            {
+              "hash": "7367187",
+              "date": "2026-03-04",
+              "message": "chore: sync submodule pointers after data-loss prevention hardening"
+            },
+            {
+              "hash": "a3c90ac",
+              "date": "2026-03-04",
+              "message": "docs: add data integrity rules to CLAUDE.md"
+            },
+            {
+              "hash": "5383a6a",
+              "date": "2026-03-04",
+              "message": "chore: sync engine pointer after save_registry guard fix"
+            },
+            {
+              "hash": "6187a11",
+              "date": "2026-03-04",
+              "message": "chore: sync submodule pointers after Dependabot rollout"
+            },
+            {
+              "hash": "694269f",
+              "date": "2026-03-04",
+              "message": "fix: replace real webhook secret with placeholder in .env.example"
+            },
+            {
+              "hash": "7a2e15e",
+              "date": "2026-03-04",
+              "message": "chore: sync corpus pointer after PROPULSIO TERTIA sprint deliverables"
+            },
+            {
+              "hash": "1d8178f",
+              "date": "2026-03-04",
+              "message": "chore: sync corpus pointer after Sprint 56 SECURITAS workflow hardening"
+            },
+            {
+              "hash": "71b4798",
+              "date": "2026-03-04",
+              "message": "chore: sync corpus pointer after PROPULSIO TERTIA sprint"
+            },
+            {
+              "hash": "55d3289",
+              "date": "2026-03-04",
+              "message": "chore: sync corpus pointer after HOSPITIUM/FORUM sprint"
+            },
+            {
+              "hash": "95280c3",
+              "date": "2026-03-04",
+              "message": "chore: sync submodule pointers after quick-win sprint batch"
+            },
+            {
+              "hash": "e3beda0",
+              "date": "2026-03-04",
+              "message": "docs: update CLAUDE.md files — fix stale CLI/engine counts, add missing docs"
+            },
+            {
+              "hash": "55c8b27",
+              "date": "2026-03-04",
+              "message": "chore: sync corpus pointer after GitHub issue tracking backlinks"
+            },
+            {
+              "hash": "403e1ea",
+              "date": "2026-03-04",
+              "message": "chore: update submodule pointers"
+            }
+          ],
+          "files_changed": 9
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "bbec6b3",
+              "date": "2026-03-04",
+              "message": "fix: remove pip dependabot since no pip dependencies exist"
+            }
+          ],
+          "files_changed": 1
+        },
+        "alchemia-ingestvm": {
+          "commits": [
+            {
+              "hash": "fec6e0c",
+              "date": "2026-03-04",
+              "message": "chore: add Dependabot configuration for automated dependency updates"
+            },
+            {
+              "hash": "e050217",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 2
+        },
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "9b88c23",
+              "date": "2026-03-04",
+              "message": "fix: exclude docs from github pages jekyll build"
+            }
+          ],
+          "files_changed": 1
+        },
+        "etceter4": {
+          "commits": [
+            {
+              "hash": "7367187",
+              "date": "2026-03-04",
+              "message": "chore: sync submodule pointers after data-loss prevention hardening"
+            },
+            {
+              "hash": "a3c90ac",
+              "date": "2026-03-04",
+              "message": "docs: add data integrity rules to CLAUDE.md"
+            },
+            {
+              "hash": "5383a6a",
+              "date": "2026-03-04",
+              "message": "chore: sync engine pointer after save_registry guard fix"
+            },
+            {
+              "hash": "6187a11",
+              "date": "2026-03-04",
+              "message": "chore: sync submodule pointers after Dependabot rollout"
+            },
+            {
+              "hash": "694269f",
+              "date": "2026-03-04",
+              "message": "fix: replace real webhook secret with placeholder in .env.example"
+            },
+            {
+              "hash": "7a2e15e",
+              "date": "2026-03-04",
+              "message": "chore: sync corpus pointer after PROPULSIO TERTIA sprint deliverables"
+            },
+            {
+              "hash": "1d8178f",
+              "date": "2026-03-04",
+              "message": "chore: sync corpus pointer after Sprint 56 SECURITAS workflow hardening"
+            },
+            {
+              "hash": "71b4798",
+              "date": "2026-03-04",
+              "message": "chore: sync corpus pointer after PROPULSIO TERTIA sprint"
+            },
+            {
+              "hash": "55d3289",
+              "date": "2026-03-04",
+              "message": "chore: sync corpus pointer after HOSPITIUM/FORUM sprint"
+            },
+            {
+              "hash": "95280c3",
+              "date": "2026-03-04",
+              "message": "chore: sync submodule pointers after quick-win sprint batch"
+            },
+            {
+              "hash": "e3beda0",
+              "date": "2026-03-04",
+              "message": "docs: update CLAUDE.md files — fix stale CLI/engine counts, add missing docs"
+            },
+            {
+              "hash": "55c8b27",
+              "date": "2026-03-04",
+              "message": "chore: sync corpus pointer after GitHub issue tracking backlinks"
+            },
+            {
+              "hash": "403e1ea",
+              "date": "2026-03-04",
+              "message": "chore: update submodule pointers"
+            }
+          ],
+          "files_changed": 9
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "919adfc",
+              "date": "2026-03-04",
+              "message": "fix: add data-loss prevention guards to corpus scripts"
+            },
+            {
+              "hash": "1268cc3",
+              "date": "2026-03-04",
+              "message": "chore: add Dependabot configuration for automated dependency updates"
+            },
+            {
+              "hash": "302b0e5",
+              "date": "2026-03-04",
+              "message": "feat: add SOP for pitch deck generation & rollout across ecosystem"
+            },
+            {
+              "hash": "4b5b8aa",
+              "date": "2026-03-04",
+              "message": "feat: PROPULSIO TERTIA sprint deliverables — 6 autonomous sprints completed"
+            },
+            {
+              "hash": "a7eeeb1",
+              "date": "2026-03-04",
+              "message": "fix: harden GitHub Actions workflows against code injection and over-permissioning"
+            },
+            {
+              "hash": "dc03bde",
+              "date": "2026-03-04",
+              "message": "feat: PROPULSIO TERTIA — registry fix, conference abstracts"
+            },
+            {
+              "hash": "f1b2b6a",
+              "date": "2026-03-04",
+              "message": "feat: add SOP for document audit & feature extraction"
+            },
+            {
+              "hash": "5179682",
+              "date": "2026-03-04",
+              "message": "feat: add issue templates for corpus (HOSPITIUM sprint)"
+            },
+            {
+              "hash": "5e9f27f",
+              "date": "2026-03-04",
+              "message": "chore: auto-refresh metrics 2026-03-04"
+            },
+            {
+              "hash": "cac634c",
+              "date": "2026-03-04",
+              "message": "feat: complete 7 quick-win sprints — post-construction formalization"
+            },
+            {
+              "hash": "d95c5e7",
+              "date": "2026-03-04",
+              "message": "docs: update CLAUDE.md with operations layer, sprint count, governance quadrilateral"
+            },
+            {
+              "hash": "34b2b3e",
+              "date": "2026-03-04",
+              "message": "docs: add GitHub issue tracking links to omega + sprint governance docs"
+            },
+            {
+              "hash": "098d88a",
+              "date": "2026-03-04",
+              "message": "fix: disable jekyll to resolve liquid syntax errors in markdown files"
+            },
+            {
+              "hash": "3ac5d5b",
+              "date": "2026-03-04",
+              "message": "chore(soak): daily snapshot 2026-03-04"
+            },
+            {
+              "hash": "012dca5",
+              "date": "2026-03-04",
+              "message": "chore: soak test snapshot 2026-03-04"
+            },
+            {
+              "hash": "400756d",
+              "date": "2026-03-04",
+              "message": "chore: auto-refresh metrics 2026-03-04"
+            }
+          ],
+          "files_changed": 48
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "faf336a",
+              "date": "2026-03-04",
+              "message": "fix: add data-loss prevention guards across write paths"
+            },
+            {
+              "hash": "59c421d",
+              "date": "2026-03-04",
+              "message": "fix: guard save_registry against accidental production overwrites"
+            },
+            {
+              "hash": "895e196",
+              "date": "2026-03-04",
+              "message": "chore: add Dependabot configuration for automated dependency updates"
+            },
+            {
+              "hash": "8870159",
+              "date": "2026-03-04",
+              "message": "fix: sync omega _KNOWN_MET — add #8 and #13 as MET"
+            },
+            {
+              "hash": "79c212f",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 10
+        },
+        "organvm-mcp-server": {
+          "commits": [
+            {
+              "hash": "9f2e0ad",
+              "date": "2026-03-04",
+              "message": "chore: add Dependabot configuration for automated dependency updates"
+            },
+            {
+              "hash": "273fc66",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 2
+        },
+        "schema-definitions": {
+          "commits": [
+            {
+              "hash": "08deb30",
+              "date": "2026-03-04",
+              "message": "chore: add Dependabot configuration for automated dependency updates"
+            },
+            {
+              "hash": "050b2f0",
+              "date": "2026-03-04",
+              "message": "feat: formalize schema v1.0.0 (SCHEMA-EVOLUTIO sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "system-dashboard": {
+          "commits": [
+            {
+              "hash": "0de3f64",
+              "date": "2026-03-04",
+              "message": "chore: add Dependabot configuration for automated dependency updates"
+            },
+            {
+              "hash": "26d489e",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "organvm-i-theoria": {
+          "commits": [
+            {
+              "hash": "16cfa84",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint remaining local changes"
+            },
+            {
+              "hash": "2dc4f1b",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "b5d6fa0",
+              "date": "2026-03-04",
+              "message": "fix: pin checkout action sha in minimal ci"
+            },
+            {
+              "hash": "e1f7bd4",
+              "date": "2026-03-04",
+              "message": "fix: replace .github submodule with local minimal workflow"
+            },
+            {
+              "hash": "28f742b",
+              "date": "2026-03-04",
+              "message": "chore: refresh submodule pointers"
+            }
+          ],
+          "files_changed": 17
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "25a99b1",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "a339cf6",
+              "date": "2026-03-04",
+              "message": "fix: use -c instead of --comment-file for gh pr close"
+            }
+          ],
+          "files_changed": 2
+        },
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "b64733f",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "linguistic-atomization-framework": {
+          "commits": [
+            {
+              "hash": "f8f3d25",
+              "date": "2026-03-04",
+              "message": "fix: disable jekyll to resolve liquid syntax errors in markdown files"
+            },
+            {
+              "hash": "d88f9f0",
+              "date": "2026-03-04",
+              "message": "fix: escape liquid template tags for github pages"
+            }
+          ],
+          "files_changed": 2
+        },
+        "meta-source--ledger-output": {
+          "commits": [
+            {
+              "hash": "6251754",
+              "date": "2026-03-04",
+              "message": "fix: pin CI actions to full commit SHAs"
+            },
+            {
+              "hash": "44e4497",
+              "date": "2026-03-04",
+              "message": "fix: disable jekyll to resolve liquid syntax errors in markdown files"
+            }
+          ],
+          "files_changed": 2
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "1cac227",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "586c8c6",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI and pages deployment failure noise"
+            }
+          ],
+          "files_changed": 3
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "1cac227",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "586c8c6",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI and pages deployment failure noise"
+            }
+          ],
+          "files_changed": 3
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "161d728",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "1cac227",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "586c8c6",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI and pages deployment failure noise"
+            }
+          ],
+          "files_changed": 1
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "1cac227",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "586c8c6",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI and pages deployment failure noise"
+            },
+            {
+              "hash": "1cac227",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "586c8c6",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI and pages deployment failure noise"
+            }
+          ],
+          "files_changed": 3
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "1cac227",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "586c8c6",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI and pages deployment failure noise"
+            }
+          ],
+          "files_changed": 3
+        },
+        "recursive-engine--generative-entity": {
+          "commits": [
+            {
+              "hash": "30d9785",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            }
+          ],
+          "files_changed": 32
+        },
+        "scalable-lore-expert": {
+          "commits": [
+            {
+              "hash": "4340770",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "dde937a",
+              "date": "2026-03-04",
+              "message": "fix: stabilize governance workflow checks"
+            }
+          ],
+          "files_changed": 8
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "organvm-ii-poiesis": {
+          "commits": [
+            {
+              "hash": "a8d46de",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "896a7b1",
+              "date": "2026-03-04",
+              "message": "auto-commit at 2026-03-04T13:40:56Z"
+            },
+            {
+              "hash": "0817f68",
+              "date": "2026-03-04",
+              "message": "chore: advance submodules after CI workflow fixes"
+            },
+            {
+              "hash": "5081ebc",
+              "date": "2026-03-04",
+              "message": "chore: update pages-fix submodule refs"
+            }
+          ],
+          "files_changed": 8
+        },
+        "MET4": {
+          "commits": [
+            {
+              "hash": "b1a8191",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "6e942b8",
+              "date": "2026-03-04",
+              "message": "ci: install webkit browser for e2e"
+            }
+          ],
+          "files_changed": 8
+        },
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "a01c316",
+              "date": "2026-03-04",
+              "message": "chore: align workflow name with CI/CD pipeline"
+            }
+          ],
+          "files_changed": 1
+        },
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "cc138c4",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            }
+          ],
+          "files_changed": 1
+        },
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "5276134",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "9b88c23",
+              "date": "2026-03-04",
+              "message": "fix: exclude docs from github pages jekyll build"
+            }
+          ],
+          "files_changed": 2
+        },
+        "chthon-oneiros": {
+          "commits": [
+            {
+              "hash": "9eab0ca",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            }
+          ],
+          "files_changed": 3
+        },
+        "core-engine": {
+          "commits": [
+            {
+              "hash": "5553a56",
+              "date": "2026-03-04",
+              "message": "fix: rewrite seed.yaml to standard v1.0 schema format"
+            }
+          ],
+          "files_changed": 1
+        },
+        "example-generative-music": {
+          "commits": [
+            {
+              "hash": "05b703b",
+              "date": "2026-03-04",
+              "message": "fix: correct implementation_status from PRODUCTION to ACTIVE"
+            }
+          ],
+          "files_changed": 1
+        },
+        "example-interactive-installation": {
+          "commits": [
+            {
+              "hash": "350570d",
+              "date": "2026-03-04",
+              "message": "fix: correct implementation_status from PRODUCTION to ACTIVE"
+            }
+          ],
+          "files_changed": 1
+        },
+        "ivi374ivi027-05": {
+          "commits": [
+            {
+              "hash": "b1a8191",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "6e942b8",
+              "date": "2026-03-04",
+              "message": "ci: install webkit browser for e2e"
+            }
+          ],
+          "files_changed": 8
+        },
+        "krypto-velamen": {
+          "commits": [
+            {
+              "hash": "f9c33bb",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "showcase-portfolio": {
+          "commits": [
+            {
+              "hash": "6554314",
+              "date": "2026-03-04",
+              "message": "fix: exclude docs from github pages jekyll build"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "organvm-iii-ergon": {
+          "commits": [
+            {
+              "hash": "dcaaa62",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "f78e15b",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint remaining local changes"
+            },
+            {
+              "hash": "bb88b63",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "d63b723",
+              "date": "2026-03-04",
+              "message": "fix: add local minimal workflow file"
+            },
+            {
+              "hash": "13adfba",
+              "date": "2026-03-04",
+              "message": "fix: replace .github submodule with local minimal workflow"
+            },
+            {
+              "hash": "2402ff2",
+              "date": "2026-03-04",
+              "message": "chore: refresh submodule pointers"
+            }
+          ],
+          "files_changed": 23
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "2783b4a",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "0f6403f",
+              "date": "2026-03-04",
+              "message": "fix: remove pip dependabot since no pip dependencies exist"
+            },
+            {
+              "hash": "33b513c",
+              "date": "2026-03-04",
+              "message": "fix: make keepalive ping resilient to curl timeouts"
+            },
+            {
+              "hash": "3e6ee58",
+              "date": "2026-03-04",
+              "message": "fix: remove pip dependabot since no pip dependencies exist"
+            }
+          ],
+          "files_changed": 2
+        },
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "2a36bf9",
+              "date": "2026-03-04",
+              "message": "fix: reduce check and release workflow noise"
+            },
+            {
+              "hash": "2a36bf9",
+              "date": "2026-03-04",
+              "message": "fix: reduce check and release workflow noise"
+            }
+          ],
+          "files_changed": 3
+        },
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "268e897",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            },
+            {
+              "hash": "d258116",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            },
+            {
+              "hash": "268e897",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            },
+            {
+              "hash": "d258116",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 5
+        },
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "d1fb63b",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "30ef3f2",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI noise and stabilize CodeQL setup"
+            },
+            {
+              "hash": "30ef3f2",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI noise and stabilize CodeQL setup"
+            }
+          ],
+          "files_changed": 3
+        },
+        "alchemia-ingestvm": {
+          "commits": [
+            {
+              "hash": "e050217",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "analytics-engine": {
+          "commits": [
+            {
+              "hash": "de8efd1",
+              "date": "2026-03-04",
+              "message": "fix: make analytics ci non-blocking"
+            },
+            {
+              "hash": "4e46843",
+              "date": "2026-03-04",
+              "message": "fix: harden weekly metrics workflow"
+            },
+            {
+              "hash": "17277ea",
+              "date": "2026-03-04",
+              "message": "chore: update weekly metrics 2026-03-04"
+            }
+          ],
+          "files_changed": 7
+        },
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "b64733f",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "community-hub": {
+          "commits": [
+            {
+              "hash": "1592205",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "enterprise-plugin": {
+          "commits": [
+            {
+              "hash": "5f220f6",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            },
+            {
+              "hash": "5f220f6",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 2
+        },
+        "essay-pipeline": {
+          "commits": [
+            {
+              "hash": "b38c818",
+              "date": "2026-03-04",
+              "message": "fix: stabilize ci checkout paths and cross-org log PR auth"
+            },
+            {
+              "hash": "559efdb",
+              "date": "2026-03-04",
+              "message": "fix: use default GITHUB_TOKEN for captain log generation"
+            },
+            {
+              "hash": "44f0d43",
+              "date": "2026-03-04",
+              "message": "fix: checkout editorial-standards into workspace instead of parent directory"
+            },
+            {
+              "hash": "2cee174",
+              "date": "2026-03-04",
+              "message": "fix: remove undefined CROSS_ORG_DISPATCH_TOKEN from checkout to resolve 'Input required and not supplied: token' error"
+            }
+          ],
+          "files_changed": 3
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "f17631e",
+              "date": "2026-03-04",
+              "message": "fix: stabilize noisy CI and workflow automation"
+            },
+            {
+              "hash": "b79bf65",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "f17631e",
+              "date": "2026-03-04",
+              "message": "fix: stabilize noisy CI and workflow automation"
+            }
+          ],
+          "files_changed": 11
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "32041b1",
+              "date": "2026-03-04",
+              "message": "fix: stabilize CI lint gates and deploy install step"
+            },
+            {
+              "hash": "d82fa9a",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "32041b1",
+              "date": "2026-03-04",
+              "message": "fix: stabilize CI lint gates and deploy install step"
+            }
+          ],
+          "files_changed": 2
+        },
+        "kerygma-dotgithub": {
+          "commits": [
+            {
+              "hash": "8d36a83",
+              "date": "2026-03-04",
+              "message": "fix: harden rss auto-dispatch auth and failure handling"
+            },
+            {
+              "hash": "42bf5eb",
+              "date": "2026-03-04",
+              "message": "fix: remove pip dependabot since no pip dependencies exist"
+            }
+          ],
+          "files_changed": 2
+        },
+        "kerygma-pipeline": {
+          "commits": [
+            {
+              "hash": "c9b2f55",
+              "date": "2026-03-04",
+              "message": "fix: stabilize CI dependency auth and reduce hard failures"
+            },
+            {
+              "hash": "7352cad",
+              "date": "2026-03-04",
+              "message": "fix: install kerygma dependencies from GitHub in CI"
+            },
+            {
+              "hash": "1494dcc",
+              "date": "2026-03-04",
+              "message": "fix: use correct dependency names for social-automation and distribution-strategy"
+            },
+            {
+              "hash": "19dc930",
+              "date": "2026-03-04",
+              "message": "fix: use correct dependency name for announcement-templates"
+            }
+          ],
+          "files_changed": 2
+        },
+        "koinonia-db": {
+          "commits": [
+            {
+              "hash": "4bf68a7",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "52dc85c",
+              "date": "2026-03-04",
+              "message": "fix: make ci/cd jobs non-blocking to stop workflow flapping"
+            },
+            {
+              "hash": "68f1b99",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "52dc85c",
+              "date": "2026-03-04",
+              "message": "fix: make ci/cd jobs non-blocking to stop workflow flapping"
+            }
+          ],
+          "files_changed": 7
+        },
+        "meta-source--ledger-output": {
+          "commits": [
+            {
+              "hash": "6251754",
+              "date": "2026-03-04",
+              "message": "fix: pin CI actions to full commit SHAs"
+            },
+            {
+              "hash": "44e4497",
+              "date": "2026-03-04",
+              "message": "fix: disable jekyll to resolve liquid syntax errors in markdown files"
+            }
+          ],
+          "files_changed": 2
+        },
+        "mirror-mirror": {
+          "commits": [
+            {
+              "hash": "2a2e496",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            },
+            {
+              "hash": "2a2e496",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "586c8c6",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI and pages deployment failure noise"
+            }
+          ],
+          "files_changed": 2
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "0bd0b34",
+              "date": "2026-03-04",
+              "message": "fix: make backfill workflow resilient"
+            }
+          ],
+          "files_changed": 1
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "098d88a",
+              "date": "2026-03-04",
+              "message": "fix: disable jekyll to resolve liquid syntax errors in markdown files"
+            },
+            {
+              "hash": "3ac5d5b",
+              "date": "2026-03-04",
+              "message": "chore(soak): daily snapshot 2026-03-04"
+            },
+            {
+              "hash": "012dca5",
+              "date": "2026-03-04",
+              "message": "chore: soak test snapshot 2026-03-04"
+            },
+            {
+              "hash": "400756d",
+              "date": "2026-03-04",
+              "message": "chore: auto-refresh metrics 2026-03-04"
+            }
+          ],
+          "files_changed": 12
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "79c212f",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "organvm-i-theoria--superproject": {
+          "commits": [
+            {
+              "hash": "b5d6fa0",
+              "date": "2026-03-04",
+              "message": "fix: pin checkout action sha in minimal ci"
+            },
+            {
+              "hash": "e1f7bd4",
+              "date": "2026-03-04",
+              "message": "fix: replace .github submodule with local minimal workflow"
+            },
+            {
+              "hash": "28f742b",
+              "date": "2026-03-04",
+              "message": "chore: refresh submodule pointers"
+            }
+          ],
+          "files_changed": 16
+        },
+        "organvm-iii-ergon--superproject": {
+          "commits": [
+            {
+              "hash": "d63b723",
+              "date": "2026-03-04",
+              "message": "fix: add local minimal workflow file"
+            },
+            {
+              "hash": "13adfba",
+              "date": "2026-03-04",
+              "message": "fix: replace .github submodule with local minimal workflow"
+            },
+            {
+              "hash": "2402ff2",
+              "date": "2026-03-04",
+              "message": "chore: refresh submodule pointers"
+            }
+          ],
+          "files_changed": 22
+        },
+        "organvm-mcp-server": {
+          "commits": [
+            {
+              "hash": "273fc66",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "peer-audited--behavioral-blockchain": {
+          "commits": [
+            {
+              "hash": "ca80997",
+              "date": "2026-03-04",
+              "message": "fix: harden noisy ci pipeline"
+            },
+            {
+              "hash": "5cb28f2",
+              "date": "2026-03-04",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "b98dfa3",
+              "date": "2026-03-04",
+              "message": "chore: staged and committed all changes"
+            },
+            {
+              "hash": "3ee716f",
+              "date": "2026-03-04",
+              "message": "feat: add ask-styx workspace — static stakeholder chat SPA + CF Worker proxy"
+            },
+            {
+              "hash": "db45565",
+              "date": "2026-03-04",
+              "message": "docs: complete Phase III/IV — Ch 2-7 drafts, references, word count audit"
+            },
+            {
+              "hash": "4730893",
+              "date": "2026-03-04",
+              "message": "feat: Phase Beta acceleration — close P0-003/004/011, add markdown chat, 51 new tests"
+            },
+            {
+              "hash": "acbb7aa",
+              "date": "2026-03-04",
+              "message": "feat: add stakeholder chat UI with codebase knowledge retrieval"
+            },
+            {
+              "hash": "7f23520",
+              "date": "2026-03-04",
+              "message": "feat: flesh out stubs, add 105 tests, fix 4 pre-existing test failures"
+            },
+            {
+              "hash": "41b3099",
+              "date": "2026-03-04",
+              "message": "feat: add chat API route with Groq/Llama 3.3 70B (free tier)"
+            },
+            {
+              "hash": "4740c80",
+              "date": "2026-03-04",
+              "message": "docs: update CLAUDE.md with accurate codebase state"
+            },
+            {
+              "hash": "2af220e",
+              "date": "2026-03-04",
+              "message": "feat: implement Full-Breath MVP features and Omega Propulsion Engine"
+            },
+            {
+              "hash": "ecfb408",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "92485cb",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "ad27707",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "9ebbd21",
+              "date": "2026-03-04",
+              "message": "docs: add narrative Alpha-to-Omega roadmap for non-technical stakeholders"
+            },
+            {
+              "hash": "02b03c6",
+              "date": "2026-03-04",
+              "message": "fix(deps): override multer >=2.1.0 to resolve GHSA-xf7r-hgr6-v32p and GHSA-v52c-386h-88mc"
+            },
+            {
+              "hash": "93a5e54",
+              "date": "2026-03-04",
+              "message": "docs: add narrative project history timeline for non-technical stakeholders"
+            },
+            {
+              "hash": "98df490",
+              "date": "2026-03-04",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "ca80997",
+              "date": "2026-03-04",
+              "message": "fix: harden noisy ci pipeline"
+            },
+            {
+              "hash": "5cb28f2",
+              "date": "2026-03-04",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "b98dfa3",
+              "date": "2026-03-04",
+              "message": "chore: staged and committed all changes"
+            }
+          ],
+          "files_changed": 63
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "79ebd51",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 2
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "3d09ba1",
+              "date": "2026-03-04",
+              "message": "chore: commit remaining workspace changes"
+            },
+            {
+              "hash": "0b7afde",
+              "date": "2026-03-04",
+              "message": "fix: soften data pipeline workflow failures"
+            },
+            {
+              "hash": "7662730",
+              "date": "2026-03-04",
+              "message": "fix: make backend test workflow resilient"
+            },
+            {
+              "hash": "d3a5477",
+              "date": "2026-03-04",
+              "message": "fix: unblock dependency validation and labeler config"
+            },
+            {
+              "hash": "a4d41cf",
+              "date": "2026-03-04",
+              "message": "chore: add required validate-dependencies check"
+            },
+            {
+              "hash": "f7d23a9",
+              "date": "2026-03-04",
+              "message": "fix: harden noisy workflows and dependency installs"
+            },
+            {
+              "hash": "955cc9a",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes (#218)"
+            },
+            {
+              "hash": "d274277",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization (#217)"
+            },
+            {
+              "hash": "8c41bdf",
+              "date": "2026-03-04",
+              "message": "fix: soften data pipeline workflow failures (#216)"
+            },
+            {
+              "hash": "2eed48c",
+              "date": "2026-03-04",
+              "message": "fix: harden noisy workflows and dependency installs (#215)"
+            }
+          ],
+          "files_changed": 12
+        },
+        "reading-group-curriculum": {
+          "commits": [
+            {
+              "hash": "27bdee1",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "reading-observatory": {
+          "commits": [
+            {
+              "hash": "f83f514",
+              "date": "2026-03-04",
+              "message": "fix: harden weekly feed workflow"
+            },
+            {
+              "hash": "7a4a07d",
+              "date": "2026-03-04",
+              "message": "chore: update weekly feed aggregation 2026-03-04"
+            }
+          ],
+          "files_changed": 3
+        },
+        "scalable-lore-expert": {
+          "commits": [
+            {
+              "hash": "4340770",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "1fb1676",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            },
+            {
+              "hash": "1fb1676",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "sovereign-ecosystem--real-estate-luxury": {
+          "commits": [
+            {
+              "hash": "a8d477e",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI hard-fail noise for lint/type checks"
+            },
+            {
+              "hash": "edb0fdd",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "a8d477e",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI hard-fail noise for lint/type checks"
+            }
+          ],
+          "files_changed": 1
+        },
+        "system-dashboard": {
+          "commits": [
+            {
+              "hash": "26d489e",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "dde937a",
+              "date": "2026-03-04",
+              "message": "fix: stabilize governance workflow checks"
+            }
+          ],
+          "files_changed": 8
+        },
+        "tab-bookmark-manager": {
+          "commits": [
+            {
+              "hash": "c317b22",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            },
+            {
+              "hash": "c317b22",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "the-actual-news": {
+          "commits": [
+            {
+              "hash": "965ef33",
+              "date": "2026-03-04",
+              "message": "fix: make ts ci non-blocking"
+            },
+            {
+              "hash": "965ef33",
+              "date": "2026-03-04",
+              "message": "fix: make ts ci non-blocking"
+            }
+          ],
+          "files_changed": 1
+        },
+        "the-invisible-ledger": {
+          "commits": [
+            {
+              "hash": "8008ab3",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            },
+            {
+              "hash": "8008ab3",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "theoria-dotgithub": {
+          "commits": [
+            {
+              "hash": "a339cf6",
+              "date": "2026-03-04",
+              "message": "fix: use -c instead of --comment-file for gh pr close"
+            }
+          ],
+          "files_changed": 1
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "e53e4e7",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI noise across mixed-stack and PR quality workflows"
+            },
+            {
+              "hash": "816e154",
+              "date": "2026-03-04",
+              "message": "fix: use env variables for PR title/body to avoid bash syntax errors"
+            },
+            {
+              "hash": "6c3ae15",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "e53e4e7",
+              "date": "2026-03-04",
+              "message": "fix: reduce CI noise across mixed-stack and PR quality workflows"
+            },
+            {
+              "hash": "816e154",
+              "date": "2026-03-04",
+              "message": "fix: use env variables for PR title/body to avoid bash syntax errors"
+            }
+          ],
+          "files_changed": 4
+        },
+        "universal-mail--automation": {
+          "commits": [
+            {
+              "hash": "014f164",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            },
+            {
+              "hash": "014f164",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "virgil-training-overlay": {
+          "commits": [
+            {
+              "hash": "b518c49",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            },
+            {
+              "hash": "b518c49",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "search-local--happy-hour": {
+          "commits": [
+            {
+              "hash": "34db550",
+              "date": "2026-03-04",
+              "message": "fix: disable jekyll to resolve liquid syntax errors in markdown files"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "organvm-iv-taxis": {
+          "commits": [
+            {
+              "hash": "360a484",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "67e2f5f",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            }
+          ],
+          "files_changed": 2
+        },
+        "a-i--skills": {
+          "commits": [
+            {
+              "hash": "a2ed4ab",
+              "date": "2026-03-04",
+              "message": "fix: skip OS-generated files in lockfile hash for cross-platform consistency"
+            },
+            {
+              "hash": "d1bc952",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            }
+          ],
+          "files_changed": 48
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "0bd0b34",
+              "date": "2026-03-04",
+              "message": "fix: make backfill workflow resilient"
+            }
+          ],
+          "files_changed": 1
+        },
+        "org-dotgithub": {
+          "commits": [
+            {
+              "hash": "5d0cb91",
+              "date": "2026-03-04",
+              "message": "fix: remove pip dependabot since no pip dependencies exist"
+            }
+          ],
+          "files_changed": 1
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "79ebd51",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 2
+        },
+        "tool-interaction-design": {
+          "commits": [
+            {
+              "hash": "4950e24",
+              "date": "2026-03-04",
+              "message": "2026-03-04 23:16:48"
+            },
+            {
+              "hash": "36a3f8f",
+              "date": "2026-03-04",
+              "message": "feat(product): implement Epoch VII (The Fleet Admiral)"
+            },
+            {
+              "hash": "7609116",
+              "date": "2026-03-04",
+              "message": "feat(product): implement Epoch VI (The Operator's Forge)"
+            },
+            {
+              "hash": "e508e29",
+              "date": "2026-03-04",
+              "message": "feat(ci): implement Epoch V (Institutional Automated Guardrails)"
+            },
+            {
+              "hash": "cf85ca5",
+              "date": "2026-03-04",
+              "message": "feat(conductor): implement Epochs II, III, and IV (Assembly Line, Synthetic Architect, Omni-Present Intelligence)"
+            },
+            {
+              "hash": "c7e6a49",
+              "date": "2026-03-04",
+              "message": "fix: capture registry/governance paths as instance attrs in GovernanceRuntime"
+            },
+            {
+              "hash": "bb94a9b",
+              "date": "2026-03-04",
+              "message": "feat(conductor): implement full workflow runtime and routing briefings"
+            },
+            {
+              "hash": "0d45eb2",
+              "date": "2026-03-04",
+              "message": "docs: add process validation workflow references"
+            },
+            {
+              "hash": "ba10143",
+              "date": "2026-03-04",
+              "message": "feat(ci): enforce process contracts and quality gate"
+            },
+            {
+              "hash": "931a538",
+              "date": "2026-03-04",
+              "message": "feat(process): add canonical operating-system assets"
+            },
+            {
+              "hash": "77976f3",
+              "date": "2026-03-04",
+              "message": "feat: add canonical handoff orchestration and edge telemetry"
+            },
+            {
+              "hash": "46126d6",
+              "date": "2026-03-04",
+              "message": "feat: implement 12-point runtime hardening roadmap"
+            },
+            {
+              "hash": "8ecca5a",
+              "date": "2026-03-04",
+              "message": "docs(repo): add contributor guidelines and ignore local runtime artifacts"
+            },
+            {
+              "hash": "25ba579",
+              "date": "2026-03-04",
+              "message": "feat(plugins): log provider failures and enforce strict policy mode"
+            },
+            {
+              "hash": "1676767",
+              "date": "2026-03-04",
+              "message": "fix(validation): return structured workflow errors and harden mcp import path"
+            },
+            {
+              "hash": "4ced0f2",
+              "date": "2026-03-04",
+              "message": "fix(packaging): expose router and mcp_server as top-level modules"
+            },
+            {
+              "hash": "8477aa7",
+              "date": "2026-03-04",
+              "message": "fix(ci): include mcp SDK in dev test dependencies"
+            },
+            {
+              "hash": "8d648cf",
+              "date": "2026-03-04",
+              "message": "test(ci): add quality gates, benchmark SLA, and end-to-end coverage"
+            },
+            {
+              "hash": "5bf7f05",
+              "date": "2026-03-04",
+              "message": "feat(policy): add policy bundles, observability, and governance wiring"
+            },
+            {
+              "hash": "b33e122",
+              "date": "2026-03-04",
+              "message": "feat(schema): add versioned schemas, doctor diagnostics, and migration CLI"
+            },
+            {
+              "hash": "f8ba7ea",
+              "date": "2026-03-04",
+              "message": "feat(core): harden routing/runtime and remove wildcard dispatch route"
+            },
+            {
+              "hash": "f83fe26",
+              "date": "2026-03-04",
+              "message": "feat: activate system with router tests, route densification, and MCP registration"
+            },
+            {
+              "hash": "e596a9c",
+              "date": "2026-03-04",
+              "message": "fix: harden patchbay with graceful degradation and full test coverage"
+            },
+            {
+              "hash": "d38aaf9",
+              "date": "2026-03-04",
+              "message": "feat: add patchbay command center (v0.5.0)"
+            },
+            {
+              "hash": "f5c9b5e",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "f42473e",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "dad90b7",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "204c750",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "a8c55bd",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "e378b63",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "e9d385c",
+              "date": "2026-03-04",
+              "message": "refactor: split conductor.py monolith into package (P3-P5)"
+            },
+            {
+              "hash": "5b87693",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "f50c45a",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "55b7f1c",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "cba6647",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "b725a07",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "27bd8f6",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "00c6132",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "d90f5aa",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "da9cc8f",
+              "date": "2026-03-04",
+              "message": "session: close 2026-03-04-III-test [CLOSED]"
+            },
+            {
+              "hash": "6b0b4fa",
+              "date": "2026-03-04",
+              "message": "fix: E2G review — correctness fixes, integrity guards, 30 tests"
+            },
+            {
+              "hash": "3c4cf87",
+              "date": "2026-03-04",
+              "message": "feat: add conductor — session engine, governance runtime, product extractor, MCP server"
+            }
+          ],
+          "files_changed": 115
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        "organvm-v-logos": {
+          "commits": [
+            {
+              "hash": "44c950c",
+              "date": "2026-03-04",
+              "message": "chore: add platform standards and branch protection tooling"
+            },
+            {
+              "hash": "4de4b9b",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            },
+            {
+              "hash": "4e35672",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            }
+          ],
+          "files_changed": 11
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "654d144",
+              "date": "2026-03-04",
+              "message": "chore: harden org governance standards and templates"
+            },
+            {
+              "hash": "ca647d6",
+              "date": "2026-03-04",
+              "message": "fix: remove pip dependabot since no pip dependencies exist"
+            }
+          ],
+          "files_changed": 10
+        },
+        "analytics-engine": {
+          "commits": [
+            {
+              "hash": "5259757",
+              "date": "2026-03-04",
+              "message": "feat: add attribution and weekly signals pipeline"
+            },
+            {
+              "hash": "de8efd1",
+              "date": "2026-03-04",
+              "message": "fix: make analytics ci non-blocking"
+            },
+            {
+              "hash": "4e46843",
+              "date": "2026-03-04",
+              "message": "fix: harden weekly metrics workflow"
+            },
+            {
+              "hash": "17277ea",
+              "date": "2026-03-04",
+              "message": "chore: update weekly metrics 2026-03-04"
+            }
+          ],
+          "files_changed": 22
+        },
+        "editorial-standards": {
+          "commits": [
+            {
+              "hash": "342cce0",
+              "date": "2026-03-04",
+              "message": "feat: add frontmatter word count policy fields"
+            }
+          ],
+          "files_changed": 2
+        },
+        "essay-pipeline": {
+          "commits": [
+            {
+              "hash": "12f642a",
+              "date": "2026-03-04",
+              "message": "feat: enforce word count integrity in validator"
+            },
+            {
+              "hash": "b38c818",
+              "date": "2026-03-04",
+              "message": "fix: stabilize ci checkout paths and cross-org log PR auth"
+            },
+            {
+              "hash": "559efdb",
+              "date": "2026-03-04",
+              "message": "fix: use default GITHUB_TOKEN for captain log generation"
+            },
+            {
+              "hash": "44f0d43",
+              "date": "2026-03-04",
+              "message": "fix: checkout editorial-standards into workspace instead of parent directory"
+            },
+            {
+              "hash": "2cee174",
+              "date": "2026-03-04",
+              "message": "fix: remove undefined CROSS_ORG_DISPATCH_TOKEN from checkout to resolve 'Input required and not supplied: token' error"
+            }
+          ],
+          "files_changed": 3
+        },
+        "public-process": {
+          "commits": [
+            {
+              "hash": "f0a3c9f",
+              "date": "2026-03-04",
+              "message": "feat: harden content integrity and contributor runway"
+            },
+            {
+              "hash": "666d9b0",
+              "date": "2026-03-04",
+              "message": "feat: publish styx behavioral market doctoral thesis (~58K words, 9 proofs)"
+            },
+            {
+              "hash": "e387859",
+              "date": "2026-03-04",
+              "message": "feat: essay #47 — The Autonomous Sprint: When the System Maintains Itself"
+            },
+            {
+              "hash": "b5c866f",
+              "date": "2026-03-04",
+              "message": "fix: WCAG 2.1 AA accessibility fixes — skip link, focus styles, nav aria-label, contrast"
+            },
+            {
+              "hash": "1ece559",
+              "date": "2026-03-04",
+              "message": "feat: publish precision-over-volume doctoral thesis (~50K words)"
+            },
+            {
+              "hash": "a4d91aa",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            }
+          ],
+          "files_changed": 91
+        },
+        "reading-observatory": {
+          "commits": [
+            {
+              "hash": "39c757c",
+              "date": "2026-03-04",
+              "message": "chore: add versioned pre-commit hook"
+            },
+            {
+              "hash": "f83f514",
+              "date": "2026-03-04",
+              "message": "fix: harden weekly feed workflow"
+            },
+            {
+              "hash": "7a4a07d",
+              "date": "2026-03-04",
+              "message": "chore: update weekly feed aggregation 2026-03-04"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    },
+    "VI": {
+      "name": "Koinonia",
+      "repos": {
+        "organvm-vi-koinonia": {
+          "commits": [
+            {
+              "hash": "4b3d06c",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            }
+          ],
+          "files_changed": 1
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "462f609",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "33b513c",
+              "date": "2026-03-04",
+              "message": "fix: make keepalive ping resilient to curl timeouts"
+            },
+            {
+              "hash": "3e6ee58",
+              "date": "2026-03-04",
+              "message": "fix: remove pip dependabot since no pip dependencies exist"
+            }
+          ],
+          "files_changed": 2
+        },
+        "community-hub": {
+          "commits": [
+            {
+              "hash": "1592205",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "koinonia-db": {
+          "commits": [
+            {
+              "hash": "4bf68a7",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        },
+        "reading-group-curriculum": {
+          "commits": [
+            {
+              "hash": "27bdee1",
+              "date": "2026-03-04",
+              "message": "fix: stabilize workflow reliability"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "VII": {
+      "name": "Kerygma",
+      "repos": {
+        "organvm-vii-kerygma": {
+          "commits": [
+            {
+              "hash": "d0c2f95",
+              "date": "2026-03-04",
+              "message": "chore: checkpoint all local changes"
+            }
+          ],
+          "files_changed": 3
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "66933c8",
+              "date": "2026-03-04",
+              "message": "chore: disable dependabot updates during CI stabilization"
+            },
+            {
+              "hash": "8d36a83",
+              "date": "2026-03-04",
+              "message": "fix: harden rss auto-dispatch auth and failure handling"
+            },
+            {
+              "hash": "42bf5eb",
+              "date": "2026-03-04",
+              "message": "fix: remove pip dependabot since no pip dependencies exist"
+            }
+          ],
+          "files_changed": 2
+        },
+        "kerygma-pipeline": {
+          "commits": [
+            {
+              "hash": "7352cad",
+              "date": "2026-03-04",
+              "message": "fix: install kerygma dependencies from GitHub in CI"
+            },
+            {
+              "hash": "1494dcc",
+              "date": "2026-03-04",
+              "message": "fix: use correct dependency names for social-automation and distribution-strategy"
+            },
+            {
+              "hash": "19dc930",
+              "date": "2026-03-04",
+              "message": "fix: use correct dependency name for announcement-templates"
+            }
+          ],
+          "files_changed": 2
+        },
+        "social-automation": {
+          "commits": [
+            {
+              "hash": "a9a6522",
+              "date": "2026-03-04",
+              "message": "fix: install kerygma-profiles from GitHub in CI to resolve ModuleNotFoundError"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

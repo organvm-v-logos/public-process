@@ -1,0 +1,435 @@
+{
+  "generated": "2026-03-06T00:39:45Z",
+  "since": "2025-07-29",
+  "until": "2025-07-29",
+  "summary": {
+    "total_commits": 82,
+    "repos_active": 1,
+    "files_changed": 35,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "6aacb3d",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "9cab8c5",
+              "date": "2025-07-29",
+              "message": "Create endorsements.html"
+            },
+            {
+              "hash": "ad93433",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "6cbfacf",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "3b16ce8",
+              "date": "2025-07-29",
+              "message": "Create rekt.html"
+            },
+            {
+              "hash": "c17f695",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "c6eefd6",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "ecbfb70",
+              "date": "2025-07-29",
+              "message": "Create shop.html"
+            },
+            {
+              "hash": "1b14281",
+              "date": "2025-07-29",
+              "message": "Update wif.html"
+            },
+            {
+              "hash": "781ed7c",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "fb8403e",
+              "date": "2025-07-29",
+              "message": "Update wif.html"
+            },
+            {
+              "hash": "8941dac",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "5d83cc2",
+              "date": "2025-07-29",
+              "message": "Create wif.html"
+            },
+            {
+              "hash": "e55d32b",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "4f77055",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "9896d51",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "6955228",
+              "date": "2025-07-29",
+              "message": "Create mexico.html"
+            },
+            {
+              "hash": "4ab26bb",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "2c8b38c",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "3ae0fc6",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "b3128ae",
+              "date": "2025-07-29",
+              "message": "Create russia.html"
+            },
+            {
+              "hash": "231502b",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "2c27599",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "5f0baa9",
+              "date": "2025-07-29",
+              "message": "Create interns.html"
+            },
+            {
+              "hash": "8fa0aa3",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "9c030df",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "3b40b8e",
+              "date": "2025-07-29",
+              "message": "Update transgenders.html"
+            },
+            {
+              "hash": "64fe965",
+              "date": "2025-07-29",
+              "message": "Rename DOT.jpg to dot.jpg"
+            },
+            {
+              "hash": "63cdb0f",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "80c5ca2",
+              "date": "2025-07-29",
+              "message": "Delete images/DOT.jpg"
+            },
+            {
+              "hash": "a201a86",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "523f853",
+              "date": "2025-07-29",
+              "message": "Delete images/dot.jpg"
+            },
+            {
+              "hash": "9ab183d",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "9ba325e",
+              "date": "2025-07-29",
+              "message": "Delete images/DOT.jpg"
+            },
+            {
+              "hash": "de3b50c",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "df77383",
+              "date": "2025-07-29",
+              "message": "Create transgenders.html"
+            },
+            {
+              "hash": "9c2fbfa",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "23596a9",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "a4e2d69",
+              "date": "2025-07-29",
+              "message": "Create nsa.html"
+            },
+            {
+              "hash": "0b745d6",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "37cdd72",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "25ac9f5",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "118e0c2",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "cab3471",
+              "date": "2025-07-29",
+              "message": "Create presssecretary.html"
+            },
+            {
+              "hash": "9ae28ed",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "0d46786",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "819f753",
+              "date": "2025-07-29",
+              "message": "Create coordination.html"
+            },
+            {
+              "hash": "c6469ea",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "141447e",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "b60cdcc",
+              "date": "2025-07-29",
+              "message": "Create chiefusher.html"
+            },
+            {
+              "hash": "725b4db",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "9dd1da5",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "347c046",
+              "date": "2025-07-29",
+              "message": "Create wuhan.html"
+            },
+            {
+              "hash": "541ae60",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "c138b90",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "d7cca2a",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "147bbf6",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "303161e",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "a95fe91",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "5f4208c",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "c0c8d81",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "1b84629",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "030ad61",
+              "date": "2025-07-29",
+              "message": "Delete wuhan.html"
+            },
+            {
+              "hash": "773beb0",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "c5e8e80",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "866d4f0",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "bc26d55",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "71f9358",
+              "date": "2025-07-29",
+              "message": "Create wuhan.html"
+            },
+            {
+              "hash": "71c6421",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "89ba08e",
+              "date": "2025-07-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "fff2a1a",
+              "date": "2025-07-29",
+              "message": "Create education.html"
+            },
+            {
+              "hash": "2daca31",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "50e252e",
+              "date": "2025-07-29",
+              "message": "Update chiefofstaff.html"
+            },
+            {
+              "hash": "55fd4e3",
+              "date": "2025-07-29",
+              "message": "Update chiefofstaff.html"
+            },
+            {
+              "hash": "5f22595",
+              "date": "2025-07-29",
+              "message": "Update chiefofstaff.html"
+            },
+            {
+              "hash": "f70cf55",
+              "date": "2025-07-29",
+              "message": "Update chiefofstaff.html"
+            },
+            {
+              "hash": "8b857d2",
+              "date": "2025-07-29",
+              "message": "Rename cofstaff to cofstaff.jpg"
+            },
+            {
+              "hash": "69f5c32",
+              "date": "2025-07-29",
+              "message": "Rename 206bbae5-4b6c-4de1-b0a9-f943f67f0206.png to cofstaff"
+            },
+            {
+              "hash": "11249ed",
+              "date": "2025-07-29",
+              "message": "Update chiefofstaff.html"
+            },
+            {
+              "hash": "d207b77",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "0a14ec3",
+              "date": "2025-07-29",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "403d537",
+              "date": "2025-07-29",
+              "message": "Delete images/vp.jpg"
+            }
+          ],
+          "files_changed": 35
+        }
+      }
+    }
+  }
+}

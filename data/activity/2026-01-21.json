@@ -1,0 +1,207 @@
+{
+  "generated": "2026-03-06T00:39:29Z",
+  "since": "2026-01-21",
+  "until": "2026-01-21",
+  "summary": {
+    "total_commits": 29,
+    "repos_active": 6,
+    "files_changed": 303,
+    "organs_touched": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "call-function--ontological": {
+          "commits": [
+            {
+              "hash": "9479f22",
+              "date": "2026-01-21",
+              "message": "[logic:docs] move Rosetta Stone Codex to dedicated doc"
+            },
+            {
+              "hash": "3a6e54f",
+              "date": "2026-01-21",
+              "message": "[interface:docs] revise README with problem-approach-outcome narrative"
+            },
+            {
+              "hash": "43bc31a",
+              "date": "2026-01-21",
+              "message": "[logic:tools] implement improvement plan — P0-P3"
+            }
+          ],
+          "files_changed": 39
+        },
+        "linguistic-atomization-framework": {
+          "commits": [
+            {
+              "hash": "209a78b",
+              "date": "2026-01-21",
+              "message": "Fix syntax error in corpus_observatory.py"
+            },
+            {
+              "hash": "315e8d9",
+              "date": "2026-01-21",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Complete remaining corpus gaps    2 │    3 │ New texts added:    4 │ - Journey to the West: Chinese original (26,793 lines) - PG 23962    5 │ - Conference of Birds: FitzGerald 1889 (1,412 lines) - sacred-texts    6 │ - Rigveda: Complete Griffith 1896 (4,224 lines, all 10 books) - sacred-texts    7 │ - Gilgamesh: Jastrow 1920 (5,073 lines) - PG 11000    8 │ - Tao Te Ching: Medhurst 1905 (978 lines) - sacred-texts    9 │   10 │ Total: ~38,500 new lines   11 │   12 │ Updated corpus_index.yaml with new entries.   13 │   14 │ Remaining gaps (difficult to source in public domain):   15 │ - Beowulf Child 1904 translation   16 │ - Faust Swanwick/Anster translations   17 │ - Don Quixote Jarvis/Shelton translations   18 │ - Full Mahabharata Ganguli (18 parvas)   19 │   20 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "c5fbeca",
+              "date": "2026-01-21",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Complete corpus acquisition: Phase 2 & 3    2 │    3 │ Phase 2 - Original Languages:    4 │ - Hebrew Tanakh (WLC 4.20): 23,337 lines, all 39 books    5 │ - Japanese: Kojiki, Tale of Heike, Tale of Genji, Narrow Road    6 │ - French: Song of Roland (Old French), Les Fleurs du Mal, Madame Bovary    7 │ - Chinese: Art of War original    8 │ - Russian: Crime & Punishment, Eugene Onegin, We    9 │ - Greek: Iliad & Odyssey originals   10 │ - Sanskrit: Rigveda, Bhagavad Gita originals   11 │ - Persian: Rubaiyat original   12 │   13 │ Phase 3 - Additional Translations:   14 │ - Quran: Sale (1734), Pickthall (1930), Yusuf Ali (1934)   15 │ - Bhagavad Gita: Telang (1882), Besant (1895)   16 │ - Kojiki: Chamberlain (1919)   17 │ - Homer: Cowper (1791) for both Iliad & Odyssey   18 │ - Divine Comedy: Norton (1891)   19 │ - Beowulf: Morris (1895)   20 │ - Tao Te Ching: Goddard (1919)   21 │ - Rigveda: Griffith (1896) Book 1   22 │   23 │ Corpus now includes:   24 │ - 100+ text files across 12+ language traditions   25 │ - 60+ translations from public domain sources   26 │ - Complete corpus_index.yaml with metadata   27 │ - Multi-language tokenizer support (Arabic, Chinese, Japanese)   28 │   29 │ Sources: Project Gutenberg, sacred-texts.com, OpenScriptures,   30 │ az.lib.ru, Aozora Bunko, UVA Japanese Text Initiative, tanzil.net   31 │   32 │ Note: Secret scanner false positives bypassed - flagged words like   33 │ \"secret\" appear in normal literary/religious context in classic texts.   34 │   35 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "cddb160",
+              "date": "2026-01-21",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix Corpus Observatory to scan nested corpus structure    2 │    3 │ The corpus has a nested structure (period/text/) that wasn't being    4 │ scanned correctly. Updated load_corpus_index() to:    5 │ - Scan period directories (classical, medieval, early-modern, modern)    6 │ - Find text directories within each period    7 │ - Parse README metadata for each text    8 │ - List all available versions (original + translations)    9 │   10 │ Now correctly loads 6 texts with 10 text files (~130K lines total).   11 │   12 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "9fcbb17",
+              "date": "2026-01-21",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add cross-visualization linking and update roadmap    2 │    3 │ Features:    4 │ - Cross-visualization navigation bar in all visualizations    5 │ - URL parameter-based linking between views (?highlight, ?filter, ?focus)    6 │ - JavaScript CrossVizLink API for programmatic navigation    7 │ - Updated README roadmap to reflect completed features    8 │    9 │ Files:   10 │ - New: framework/visualization/cross_linking.py   11 │ - Updated: All visualization adapters to include viz_type parameter   12 │ - Updated: base.py with cross-linking support in wrap_html()   13 │ - Updated: README.md roadmap (19 completed items, 4 planned)   14 │   15 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "4169ab2",
+              "date": "2026-01-21",
+              "message": "Add validation infrastructure (C2)"
+            },
+            {
+              "hash": "d25032b",
+              "date": "2026-01-21",
+              "message": "Add methodology documentation (C1)"
+            },
+            {
+              "hash": "74e0caa",
+              "date": "2026-01-21",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add Corpus Observatory (D3) and Rhetoric Gym (D2)    2 │    3 │ D3: Corpus Observatory    4 │ - Sidebar navigation in streamlit_app.py    5 │ - corpus_observatory.py: Browse corpus texts with filters    6 │ - Text detail view with metadata and preview    7 │ - Side-by-side text comparison    8 │    9 │ D2: Rhetoric Gym   10 │ - rhetoric_gym.py: Practice rhetorical techniques   11 │ - 6 exercises covering Ethos, Pathos, Logos   12 │ - Word count validation and feedback   13 │ - Analysis-based scoring using LingFrame pipeline   14 │   15 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "875527d",
+              "date": "2026-01-21",
+              "message": "Add original language texts to corpus"
+            },
+            {
+              "hash": "faefffc",
+              "date": "2026-01-21",
+              "message": "Add desktop application launcher and build scripts"
+            },
+            {
+              "hash": "e8bfc90",
+              "date": "2026-01-21",
+              "message": "Add .serena/ to gitignore"
+            },
+            {
+              "hash": "326facb",
+              "date": "2026-01-21",
+              "message": "Add visualization bridge for Streamlit web app"
+            }
+          ],
+          "files_changed": 157
+        },
+        "organon-noumenon--ontogenetic-morphe": {
+          "commits": [
+            {
+              "hash": "edec20d",
+              "date": "2026-01-21",
+              "message": "Update README with problem/approach/outcome narrative"
+            },
+            {
+              "hash": "da5734d",
+              "date": "2026-01-21",
+              "message": "Complete Weeks 11-12: Final polish, type fixes, and verification"
+            },
+            {
+              "hash": "4963a9b",
+              "date": "2026-01-21",
+              "message": "Initial commit: organon-noumenon--ontogenetic-morphe"
+            }
+          ],
+          "files_changed": 91
+        },
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "5f0ef45",
+              "date": "2026-01-21",
+              "message": "🎨 Palette: Add loading spinners & clean up output"
+            },
+            {
+              "hash": "c5e445f",
+              "date": "2026-01-21",
+              "message": "⚡ Bolt: optimize `sanitize_for_terminal` with `str.translate`"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "dfaf509",
+              "date": "2026-01-21",
+              "message": "perf: Optimize MonthCalendar rendering and lookups"
+            },
+            {
+              "hash": "9a53822",
+              "date": "2026-01-21",
+              "message": "🛡️ Sentinel: [HIGH] Add input sanitization and profanity filter to AI Chat"
+            },
+            {
+              "hash": "dfaf509",
+              "date": "2026-01-21",
+              "message": "perf: Optimize MonthCalendar rendering and lookups"
+            },
+            {
+              "hash": "9a53822",
+              "date": "2026-01-21",
+              "message": "🛡️ Sentinel: [HIGH] Add input sanitization and profanity filter to AI Chat"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "47102cc",
+              "date": "2026-01-21",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Rename repo and rewrite README with narrative structure    2 │    3 │ Renamed repository: dotfiles → domus-semper-palingenesis    4 │    5 │ README now follows Problem → Approach → Outcome narrative:    6 │ - Problem: Machine setup pain, secret leaks, config drift, no recovery    7 │ - Approach: 1Password secrets, templated configs, self-healing daemon    8 │ - Outcome: One-command setup, consistent environments, automatic repair    9 │   10 │ Updated install command for new repo name.   11 │   12 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "a91cad3",
+              "date": "2026-01-21",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Rename project to Domus Semper Palingenesis    2 │    3 │ \"The Ever-Regenerating Home\" - Latin/Greek name capturing:    4 │ - Domus: home (your dotfiles environment)    5 │ - Semper: always (persistent, faithful)    6 │ - Palingenesis: rebirth (self-healing, regeneration)    7 │    8 │ Rewrote README following best practices:    9 │ - Centered header with tagline and nav links   10 │ - Problem/solution table upfront   11 │ - One-command install prominent   12 │ - Features organized by capability   13 │ - Clean structure diagram   14 │ - Stats at a glance   15 │   16 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "30c613c",
+              "date": "2026-01-21",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Revise README with problem-approach-outcome narrative    2 │    3 │ Restructure documentation to tell the story:    4 │ - Problem: Machine setup pain, secrets in git, config drift    5 │ - Approach: Chezmoi + 1Password + templates + self-healing    6 │ - Outcome: One-command setup, unified Tokyo Night terminal, auto-recovery    7 │    8 │ Also document the new Terminal Hyperdrive feature set.    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "a45bdf7",
+              "date": "2026-01-21",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add Terminal Hyperdrive with Tokyo Night theme    2 │    3 │ Unified terminal experience across all tools with Tokyo Night colors:    4 │    5 │ - Kitty: Replace 111KB defaults with 230-line production config    6 │   - JetBrains Mono Nerd Font, 14pt with ligatures    7 │   - macOS-native keybindings (Cmd+T/W/D, vim-style navigation)    8 │   - Powerline tab bar, 8px padding, GPU rendering    9 │   10 │ - Tmux: Enable TPM with auto-install and session persistence   11 │   - tmux-resurrect + tmux-continuum for session survival   12 │   - Tokyo Night status bar with Nerd Font icons   13 │   - Undercurl support for nvim diagnostics   14 │   15 │ - New configs: lazygit (delta pager, nvim editor) and bat   16 │   17 │ - FZF: Tokyo Night colors with Nerd Font pointer/marker glyphs   18 │   19 │ - Delta: Tokyo Night syntax theme with colored line numbers   20 │   21 │ - Starship: All module colors aligned to Tokyo Night palette   22 │   23 │ - Install script: Add git-delta, lazygit, bat, JetBrains Mono Nerd Font   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "bdae3bc",
+              "date": "2026-01-21",
+              "message": "feat(claude): add template interceptor for content filtering bypass"
+            }
+          ],
+          "files_changed": 16
+        }
+      }
+    }
+  }
+}
