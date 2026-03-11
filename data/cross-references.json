@@ -1,7 +1,7 @@
 {
   "version": "1.1",
-  "updated": "2026-03-06",
-  "total": 48,
+  "updated": "2026-03-11",
+  "total": 49,
   "entries": {
     "2026-02-10-building-in-public.md": {
       "title": "Building in Public: Radical Transparency as Creative Methodology",
@@ -816,6 +816,26 @@
         "accessibility",
         "governance",
         "operations"
+      ],
+      "category": "methodology"
+    },
+    "2026-03-11-the-organ-chain-reset.md": {
+      "title": "The Organ Chain Reset: When the Pipeline Is the Product",
+      "related_repos": [
+        "organvm-iii-ergon/peer-audited--behavioral-blockchain",
+        "organvm-i-theoria/styx-behavioral-economics-theory",
+        "organvm-ii-poiesis/styx-behavioral-art",
+        "meta-organvm/organvm-engine",
+        "meta-organvm/materia-collider"
+      ],
+      "tags": [
+        "governance",
+        "pipeline",
+        "organ-chain",
+        "styx",
+        "behavioral-economics",
+        "reset",
+        "building-in-public"
       ],
       "category": "methodology"
     }
