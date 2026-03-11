@@ -1,22 +1,22 @@
 {
   "version": "1.1",
-  "updated": "2026-03-06",
+  "updated": "2026-03-11",
   "generated_by": "essay-pipeline indexer v0.3.0",
-  "total_essays": 48,
-  "total_words": 144796,
+  "total_essays": 49,
+  "total_words": 145687,
   "categories": {
     "meta-system": 21,
     "case-study": 8,
-    "methodology": 7,
+    "methodology": 8,
     "guide": 7,
     "retrospective": 5
   },
   "tag_frequency": {
-    "governance": 11,
+    "governance": 12,
     "methodology": 10,
     "creative-practice": 9,
     "infrastructure": 8,
-    "building-in-public": 5,
+    "building-in-public": 6,
     "retrospective": 5,
     "orchestration": 5,
     "meta-system": 5,
@@ -184,7 +184,12 @@
     "autonomy": 1,
     "security": 1,
     "accessibility": 1,
-    "operations": 1
+    "operations": 1,
+    "pipeline": 1,
+    "organ-chain": 1,
+    "styx": 1,
+    "behavioral-economics": 1,
+    "reset": 1
   },
   "essays": [
     {
@@ -1047,6 +1052,25 @@
       "word_count": 1802,
       "readability_score": 67.4,
       "reading_time": "7 min",
+      "portfolio_relevance": "HIGH"
+    },
+    {
+      "filename": "2026-03-11-the-organ-chain-reset.md",
+      "title": "The Organ Chain Reset: When the Pipeline Is the Product",
+      "date": "2026-03-11",
+      "category": "methodology",
+      "tags": [
+        "governance",
+        "pipeline",
+        "organ-chain",
+        "styx",
+        "behavioral-economics",
+        "reset",
+        "building-in-public"
+      ],
+      "word_count": 891,
+      "readability_score": 66.4,
+      "reading_time": "4 min",
       "portfolio_relevance": "HIGH"
     }
   ]

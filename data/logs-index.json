@@ -1,25 +1,28 @@
 {
   "version": "1.0",
-  "updated": "2026-03-06",
+  "updated": "2026-03-11",
   "generated_by": "essay-pipeline indexer v0.3.0",
-  "total_logs": 456,
-  "total_words": 141926,
+  "total_logs": 458,
+  "total_words": 145314,
   "mood_frequency": {
     "routine": 454,
-    "focused": 1,
-    "breakthrough": 1
+    "focused": 2,
+    "breakthrough": 2
   },
   "tag_frequency": {
     "historical": 453,
+    "governance": 3,
+    "automation": 2,
     "ci-cd": 1,
     "stability": 1,
     "conductor": 1,
-    "automation": 1,
     "dissertation": 1,
     "security": 1,
     "analytics": 1,
     "federation": 1,
-    "governance": 1
+    "distillation": 1,
+    "graduation": 1,
+    "coordination": 1
   },
   "logs": [
     {
@@ -6205,6 +6208,46 @@
       ],
       "word_count": 258,
       "organs_touched": [
+        "META",
+        "Personal"
+      ]
+    },
+    {
+      "filename": "2026-03-07-captains-log.md",
+      "title": "The Governance Flood — 80 Features, Distillation Pipeline, and the Taxis Construction Blitz",
+      "date": "2026-03-07",
+      "mood": "focused",
+      "tags": [
+        "governance",
+        "automation",
+        "distillation"
+      ],
+      "word_count": 1672,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal"
+      ]
+    },
+    {
+      "filename": "2026-03-08-captains-log.md",
+      "title": "The Grand Unification — 100% Graduation, Multi-Agent Coordination, and the Study Suite",
+      "date": "2026-03-08",
+      "mood": "breakthrough",
+      "tags": [
+        "graduation",
+        "coordination",
+        "governance"
+      ],
+      "word_count": 1716,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
         "META",
         "Personal"
       ]
