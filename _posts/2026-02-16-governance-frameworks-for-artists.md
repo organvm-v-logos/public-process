@@ -11,8 +11,8 @@ related_repos:
   - organvm-iv-taxis/orchestration-start-here
   - organvm-iv-taxis/system-governance-framework
   - organvm-v-logos/public-process
-reading_time: "14 min"
-word_count: 3000
+reading_time: "7 min"
+word_count: 1678
 references: []
 ---
 

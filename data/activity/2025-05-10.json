@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2025-05-10",
+  "until": "2025-05-10",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 276,
+    "organs_touched": [
+      "I"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "ba3241d",
+              "date": "2025-05-10",
+              "message": "Initial commit: Obsidian system + vault - May 10 2025"
+            },
+            {
+              "hash": "aa42290",
+              "date": "2025-05-10",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 276
+        }
+      }
+    }
+  }
+}

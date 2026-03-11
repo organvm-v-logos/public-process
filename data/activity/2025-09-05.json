@@ -1,0 +1,110 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2025-09-05",
+  "until": "2025-09-05",
+  "summary": {
+    "total_commits": 17,
+    "repos_active": 1,
+    "files_changed": 18,
+    "organs_touched": [
+      "I"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "731e81f",
+              "date": "2025-09-05",
+              "message": "Fix vault metadata and docs"
+            },
+            {
+              "hash": "8184db7",
+              "date": "2025-09-05",
+              "message": "Reorganize and expand documentation"
+            },
+            {
+              "hash": "715c314",
+              "date": "2025-09-05",
+              "message": "Update commit_agent.py with new functionality"
+            },
+            {
+              "hash": "434f142",
+              "date": "2025-09-05",
+              "message": "Fix vault metadata and docs"
+            },
+            {
+              "hash": "984c4e2",
+              "date": "2025-09-05",
+              "message": "Reorganize and expand documentation"
+            },
+            {
+              "hash": "e1e6492",
+              "date": "2025-09-05",
+              "message": "Update commit_agent.py with new functionality"
+            },
+            {
+              "hash": "3281155",
+              "date": "2025-09-05",
+              "message": "Fix vault metadata and docs"
+            },
+            {
+              "hash": "82b7089",
+              "date": "2025-09-05",
+              "message": "Reorganize and expand documentation"
+            },
+            {
+              "hash": "86b20dc",
+              "date": "2025-09-05",
+              "message": "Update commit_agent.py with new functionality"
+            },
+            {
+              "hash": "a8c7004",
+              "date": "2025-09-05",
+              "message": "Update commit_agent.py"
+            },
+            {
+              "hash": "ab2285a",
+              "date": "2025-09-05",
+              "message": "Update test_commit_agent.py"
+            },
+            {
+              "hash": "5ce1ffb",
+              "date": "2025-09-05",
+              "message": "Refine credential script check and fix catalog reference"
+            },
+            {
+              "hash": "9c0a86b",
+              "date": "2025-09-05",
+              "message": "Refine commit agent and add tests."
+            },
+            {
+              "hash": "6b240ee",
+              "date": "2025-09-05",
+              "message": "Handle missing credentials file in askpass"
+            },
+            {
+              "hash": "3314306",
+              "date": "2025-09-05",
+              "message": "Expand thread index to scan repository"
+            },
+            {
+              "hash": "c0565e3",
+              "date": "2025-09-05",
+              "message": "Add repository fact checker"
+            },
+            {
+              "hash": "3b8b803",
+              "date": "2025-09-05",
+              "message": "add deduplication and folder structure suggestions"
+            }
+          ],
+          "files_changed": 18
+        }
+      }
+    }
+  }
+}

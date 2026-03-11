@@ -1,0 +1,608 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2025-11-18",
+  "until": "2025-11-18",
+  "summary": {
+    "total_commits": 101,
+    "repos_active": 13,
+    "files_changed": 136,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "ff4654c",
+              "date": "2025-11-18",
+              "message": "Add Phase 3 completion summary document"
+            },
+            {
+              "hash": "cde3f0f",
+              "date": "2025-11-18",
+              "message": "Complete Phase 3 baseline: AI conversations ingestion"
+            },
+            {
+              "hash": "c48e3c0",
+              "date": "2025-11-18",
+              "message": "Add comprehensive Phase 3 AI conversations path analysis"
+            }
+          ],
+          "files_changed": 38
+        },
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "6aa937e",
+              "date": "2025-11-18",
+              "message": "Add comprehensive project roadmap"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "e382b05",
+              "date": "2025-11-18",
+              "message": "Add comprehensive CLAUDE.md guide for AI assistants"
+            },
+            {
+              "hash": "260bcda",
+              "date": "2025-11-18",
+              "message": "Add comprehensive CLAUDE.md guide for AI assistants"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "a3ba330",
+              "date": "2025-11-18",
+              "message": "chore(deps-dev): Bump eslint-plugin-react-hooks from 4.6.2 to 7.0.1"
+            },
+            {
+              "hash": "151e596",
+              "date": "2025-11-18",
+              "message": "chore(deps): Bump react-dom and @types/react-dom"
+            },
+            {
+              "hash": "ae73507",
+              "date": "2025-11-18",
+              "message": "chore(deps): Bump framer-motion from 10.18.0 to 12.23.24"
+            },
+            {
+              "hash": "a3ba330",
+              "date": "2025-11-18",
+              "message": "chore(deps-dev): Bump eslint-plugin-react-hooks from 4.6.2 to 7.0.1"
+            },
+            {
+              "hash": "151e596",
+              "date": "2025-11-18",
+              "message": "chore(deps): Bump react-dom and @types/react-dom"
+            },
+            {
+              "hash": "ae73507",
+              "date": "2025-11-18",
+              "message": "chore(deps): Bump framer-motion from 10.18.0 to 12.23.24"
+            }
+          ],
+          "files_changed": 5
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "552122e",
+              "date": "2025-11-18",
+              "message": "docs: Add comprehensive logic audit and architectural framework"
+            },
+            {
+              "hash": "a4c472e",
+              "date": "2025-11-18",
+              "message": "docs: Add North Star reference to README"
+            },
+            {
+              "hash": "da05ef9",
+              "date": "2025-11-18",
+              "message": "docs: Establish North Star guiding principles and logical framework"
+            },
+            {
+              "hash": "a1a4d25",
+              "date": "2025-11-18",
+              "message": "docs: Update README with comprehensive project overview"
+            },
+            {
+              "hash": "f67db53",
+              "date": "2025-11-18",
+              "message": "fix: Replace broken analyze_docs.py with clean version"
+            },
+            {
+              "hash": "4e28c81",
+              "date": "2025-11-18",
+              "message": "Add comprehensive CLAUDE.md documentation for AI assistants"
+            },
+            {
+              "hash": "552122e",
+              "date": "2025-11-18",
+              "message": "docs: Add comprehensive logic audit and architectural framework"
+            },
+            {
+              "hash": "a4c472e",
+              "date": "2025-11-18",
+              "message": "docs: Add North Star reference to README"
+            },
+            {
+              "hash": "da05ef9",
+              "date": "2025-11-18",
+              "message": "docs: Establish North Star guiding principles and logical framework"
+            },
+            {
+              "hash": "a1a4d25",
+              "date": "2025-11-18",
+              "message": "docs: Update README with comprehensive project overview"
+            },
+            {
+              "hash": "f67db53",
+              "date": "2025-11-18",
+              "message": "fix: Replace broken analyze_docs.py with clean version"
+            },
+            {
+              "hash": "4e28c81",
+              "date": "2025-11-18",
+              "message": "Add comprehensive CLAUDE.md documentation for AI assistants"
+            }
+          ],
+          "files_changed": 0
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "cb2749a",
+              "date": "2025-11-18",
+              "message": "Add exhaustive lifecycle roadmap and implementation checklist for logic-first framework"
+            },
+            {
+              "hash": "9567ae5",
+              "date": "2025-11-18",
+              "message": "Establish logic as the prime guiding principle across all organizational documents"
+            }
+          ],
+          "files_changed": 0
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "2aaa793",
+              "date": "2025-11-18",
+              "message": "Add comprehensive system verification and production-ready documentation"
+            },
+            {
+              "hash": "5b08dff",
+              "date": "2025-11-18",
+              "message": "Add automated scheduling system for autonomous data collection"
+            },
+            {
+              "hash": "be8b4d0",
+              "date": "2025-11-18",
+              "message": "Add multi-state UCC scraping with concurrent collection (5 states)"
+            },
+            {
+              "hash": "28eb26c",
+              "date": "2025-11-18",
+              "message": "Add comprehensive guide explaining three paths to fully functional system"
+            },
+            {
+              "hash": "e773076",
+              "date": "2025-11-18",
+              "message": "Add three scraper implementations with factory pattern (MOCK/Puppeteer/API)"
+            },
+            {
+              "hash": "b7bd00c",
+              "date": "2025-11-18",
+              "message": "Add implementation summary documenting linear path to full functionality"
+            },
+            {
+              "hash": "fb5826a",
+              "date": "2025-11-18",
+              "message": "Implement complete end-to-end data pipeline from scraping to UI"
+            },
+            {
+              "hash": "7912091",
+              "date": "2025-11-18",
+              "message": "Add database initialization and seeding scripts with npm commands"
+            },
+            {
+              "hash": "cbe8d27",
+              "date": "2025-11-18",
+              "message": "Implement complete database access layer with connection pooling"
+            },
+            {
+              "hash": "f8e4565",
+              "date": "2025-11-18",
+              "message": "Complete TypeScript error cleanup - achieve zero compile errors"
+            },
+            {
+              "hash": "ec03476",
+              "date": "2025-11-18",
+              "message": "Fix major TypeScript type errors in core codebase"
+            },
+            {
+              "hash": "ab8f04c",
+              "date": "2025-11-18",
+              "message": "Fix test suite: achieve 100% pass rate (526/526 tests)"
+            },
+            {
+              "hash": "3d3c7e4",
+              "date": "2025-11-18",
+              "message": "Update README to reflect 100% test pass rate achievement"
+            },
+            {
+              "hash": "98cae25",
+              "date": "2025-11-18",
+              "message": "Fix moderate security vulnerability in js-yaml dependency"
+            },
+            {
+              "hash": "e6e3b3f",
+              "date": "2025-11-18",
+              "message": "Fix 2 failing AgentOrchestrator tests - achieve 100% test pass rate"
+            },
+            {
+              "hash": "356eb38",
+              "date": "2025-11-18",
+              "message": "feat: Add database infrastructure and monitoring system"
+            },
+            {
+              "hash": "6cc5122",
+              "date": "2025-11-18",
+              "message": "feat: Implement comprehensive testing infrastructure (Track 1)"
+            },
+            {
+              "hash": "aa1dea4",
+              "date": "2025-11-18",
+              "message": "feat: Implement comprehensive real API integrations (Track 9)"
+            },
+            {
+              "hash": "0deb68d",
+              "date": "2025-11-18",
+              "message": "Set up PostgreSQL database connection and migrations"
+            },
+            {
+              "hash": "30a9c4d",
+              "date": "2025-11-18",
+              "message": "Major documentation cleanup and reorganization"
+            },
+            {
+              "hash": "2c14026",
+              "date": "2025-11-18",
+              "message": "Update README with accurate test counts: 512 tests (510 passing, 99.6%)"
+            },
+            {
+              "hash": "5e11826",
+              "date": "2025-11-18",
+              "message": "Fix 2/4 failing AgentOrchestrator tests by increasing timeouts"
+            },
+            {
+              "hash": "df2cf65",
+              "date": "2025-11-18",
+              "message": "Enable TypeScript strict mode and add missing type definitions"
+            },
+            {
+              "hash": "68bcc28",
+              "date": "2025-11-18",
+              "message": "Implement real UCC scrapers for CA, TX, FL, NY"
+            },
+            {
+              "hash": "82a0c67",
+              "date": "2025-11-18",
+              "message": "Add comprehensive tests for DataIngestionService (34 new tests)"
+            },
+            {
+              "hash": "47279a9",
+              "date": "2025-11-18",
+              "message": "Add comprehensive tests for retry utilities (28 new tests)"
+            },
+            {
+              "hash": "7698578",
+              "date": "2025-11-18",
+              "message": "Fix security vulnerability: upgrade js-yaml to patch prototype pollution"
+            },
+            {
+              "hash": "2aaa793",
+              "date": "2025-11-18",
+              "message": "Add comprehensive system verification and production-ready documentation"
+            },
+            {
+              "hash": "5b08dff",
+              "date": "2025-11-18",
+              "message": "Add automated scheduling system for autonomous data collection"
+            },
+            {
+              "hash": "be8b4d0",
+              "date": "2025-11-18",
+              "message": "Add multi-state UCC scraping with concurrent collection (5 states)"
+            },
+            {
+              "hash": "28eb26c",
+              "date": "2025-11-18",
+              "message": "Add comprehensive guide explaining three paths to fully functional system"
+            },
+            {
+              "hash": "e773076",
+              "date": "2025-11-18",
+              "message": "Add three scraper implementations with factory pattern (MOCK/Puppeteer/API)"
+            },
+            {
+              "hash": "b7bd00c",
+              "date": "2025-11-18",
+              "message": "Add implementation summary documenting linear path to full functionality"
+            },
+            {
+              "hash": "fb5826a",
+              "date": "2025-11-18",
+              "message": "Implement complete end-to-end data pipeline from scraping to UI"
+            },
+            {
+              "hash": "7912091",
+              "date": "2025-11-18",
+              "message": "Add database initialization and seeding scripts with npm commands"
+            },
+            {
+              "hash": "cbe8d27",
+              "date": "2025-11-18",
+              "message": "Implement complete database access layer with connection pooling"
+            },
+            {
+              "hash": "f8e4565",
+              "date": "2025-11-18",
+              "message": "Complete TypeScript error cleanup - achieve zero compile errors"
+            },
+            {
+              "hash": "ec03476",
+              "date": "2025-11-18",
+              "message": "Fix major TypeScript type errors in core codebase"
+            },
+            {
+              "hash": "ab8f04c",
+              "date": "2025-11-18",
+              "message": "Fix test suite: achieve 100% pass rate (526/526 tests)"
+            },
+            {
+              "hash": "3d3c7e4",
+              "date": "2025-11-18",
+              "message": "Update README to reflect 100% test pass rate achievement"
+            },
+            {
+              "hash": "98cae25",
+              "date": "2025-11-18",
+              "message": "Fix moderate security vulnerability in js-yaml dependency"
+            },
+            {
+              "hash": "e6e3b3f",
+              "date": "2025-11-18",
+              "message": "Fix 2 failing AgentOrchestrator tests - achieve 100% test pass rate"
+            },
+            {
+              "hash": "356eb38",
+              "date": "2025-11-18",
+              "message": "feat: Add database infrastructure and monitoring system"
+            },
+            {
+              "hash": "6cc5122",
+              "date": "2025-11-18",
+              "message": "feat: Implement comprehensive testing infrastructure (Track 1)"
+            },
+            {
+              "hash": "aa1dea4",
+              "date": "2025-11-18",
+              "message": "feat: Implement comprehensive real API integrations (Track 9)"
+            },
+            {
+              "hash": "0deb68d",
+              "date": "2025-11-18",
+              "message": "Set up PostgreSQL database connection and migrations"
+            },
+            {
+              "hash": "30a9c4d",
+              "date": "2025-11-18",
+              "message": "Major documentation cleanup and reorganization"
+            },
+            {
+              "hash": "2c14026",
+              "date": "2025-11-18",
+              "message": "Update README with accurate test counts: 512 tests (510 passing, 99.6%)"
+            },
+            {
+              "hash": "5e11826",
+              "date": "2025-11-18",
+              "message": "Fix 2/4 failing AgentOrchestrator tests by increasing timeouts"
+            },
+            {
+              "hash": "df2cf65",
+              "date": "2025-11-18",
+              "message": "Enable TypeScript strict mode and add missing type definitions"
+            },
+            {
+              "hash": "68bcc28",
+              "date": "2025-11-18",
+              "message": "Implement real UCC scrapers for CA, TX, FL, NY"
+            },
+            {
+              "hash": "82a0c67",
+              "date": "2025-11-18",
+              "message": "Add comprehensive tests for DataIngestionService (34 new tests)"
+            },
+            {
+              "hash": "47279a9",
+              "date": "2025-11-18",
+              "message": "Add comprehensive tests for retry utilities (28 new tests)"
+            },
+            {
+              "hash": "7698578",
+              "date": "2025-11-18",
+              "message": "Fix security vulnerability: upgrade js-yaml to patch prototype pollution"
+            }
+          ],
+          "files_changed": 80
+        },
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "09b66fa",
+              "date": "2025-11-18",
+              "message": "Add comprehensive documentation - README v2.0"
+            },
+            {
+              "hash": "11c2ee5",
+              "date": "2025-11-18",
+              "message": "Implement comprehensive social media platform - Backend complete"
+            },
+            {
+              "hash": "9f0db78",
+              "date": "2025-11-18",
+              "message": "Implement social media platform with affiliation-based bubbles"
+            }
+          ],
+          "files_changed": 0
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "da22dbf",
+              "date": "2025-11-18",
+              "message": "feat: Add deployment configuration and comprehensive deployment guide"
+            },
+            {
+              "hash": "a08f4f4",
+              "date": "2025-11-18",
+              "message": "docs: Update README to v2.0 and add comprehensive consolidation summary"
+            },
+            {
+              "hash": "62ec30b",
+              "date": "2025-11-18",
+              "message": "feat: Add order history, P&L analytics, tab navigation, and comprehensive documentation"
+            },
+            {
+              "hash": "e8a90c0",
+              "date": "2025-11-18",
+              "message": "feat: Consolidate feature branches and add comprehensive trading features"
+            },
+            {
+              "hash": "da22dbf",
+              "date": "2025-11-18",
+              "message": "feat: Add deployment configuration and comprehensive deployment guide"
+            },
+            {
+              "hash": "a08f4f4",
+              "date": "2025-11-18",
+              "message": "docs: Update README to v2.0 and add comprehensive consolidation summary"
+            },
+            {
+              "hash": "62ec30b",
+              "date": "2025-11-18",
+              "message": "feat: Add order history, P&L analytics, tab navigation, and comprehensive documentation"
+            },
+            {
+              "hash": "e8a90c0",
+              "date": "2025-11-18",
+              "message": "feat: Consolidate feature branches and add comprehensive trading features"
+            }
+          ],
+          "files_changed": 5
+        },
+        "virgil-training-overlay": {
+          "commits": [
+            {
+              "hash": "d7f0a5d",
+              "date": "2025-11-18",
+              "message": "Add exhaustive lifecycle roadmap"
+            },
+            {
+              "hash": "afa38a8",
+              "date": "2025-11-18",
+              "message": "Add comprehensive CLAUDE.md documentation for AI assistants"
+            },
+            {
+              "hash": "d7f0a5d",
+              "date": "2025-11-18",
+              "message": "Add exhaustive lifecycle roadmap"
+            },
+            {
+              "hash": "afa38a8",
+              "date": "2025-11-18",
+              "message": "Add comprehensive CLAUDE.md documentation for AI assistants"
+            }
+          ],
+          "files_changed": 0
+        },
+        "search-local--happy-hour": {
+          "commits": [
+            {
+              "hash": "a4649b9",
+              "date": "2025-11-18",
+              "message": "Add comprehensive CLAUDE.md documentation for AI assistants"
+            },
+            {
+              "hash": "0f1c45d",
+              "date": "2025-11-18",
+              "message": "Add comprehensive roadmap and detailed task list"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "5f81abe",
+              "date": "2025-11-18",
+              "message": "hunyuan support added"
+            },
+            {
+              "hash": "6a58e20",
+              "date": "2025-11-18",
+              "message": "anon telemetry"
+            }
+          ],
+          "files_changed": 8
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "cb2749a",
+              "date": "2025-11-18",
+              "message": "Add exhaustive lifecycle roadmap and implementation checklist for logic-first framework"
+            },
+            {
+              "hash": "9567ae5",
+              "date": "2025-11-18",
+              "message": "Establish logic as the prime guiding principle across all organizational documents"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,533 @@
+{
+  "generated": "2026-03-06T00:39:29Z",
+  "since": "2025-12-11",
+  "until": "2025-12-11",
+  "summary": {
+    "total_commits": 86,
+    "repos_active": 13,
+    "files_changed": 83,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "a-recursive-root": {
+          "commits": [
+            {
+              "hash": "b996e78",
+              "date": "2025-12-11",
+              "message": "feat: Successfully merged all open PRs and branches"
+            },
+            {
+              "hash": "f7fe8c9",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3163817",
+              "date": "2025-12-11",
+              "message": "Add comprehensive merge summary documentation"
+            },
+            {
+              "hash": "d85f200",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 1
+        },
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "7401c88",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "8ed0b28",
+              "date": "2025-12-11",
+              "message": "Add GitHub Copilot organization instructions (#20)"
+            },
+            {
+              "hash": "2319dc3",
+              "date": "2025-12-11",
+              "message": "Initial plan (#22)"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "951e264",
+              "date": "2025-12-11",
+              "message": "docs: Add quick start guide for developers"
+            },
+            {
+              "hash": "fbd5d15",
+              "date": "2025-12-11",
+              "message": "docs: Add comprehensive deployment guide and finalize documentation"
+            },
+            {
+              "hash": "9345751",
+              "date": "2025-12-11",
+              "message": "feat: Add complete voting/gamification system, FastAPI backend, Next.js frontend, Docker infrastructure, CI/CD, and documentation"
+            },
+            {
+              "hash": "a1a7fd2",
+              "date": "2025-12-11",
+              "message": "feat: Add AI agent framework (7 modules), event pipeline (7 components), and blockchain integration"
+            },
+            {
+              "hash": "87ee027",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "c8b3ffc",
+              "date": "2025-12-11",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 57
+        },
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "13e6961",
+              "date": "2025-12-11",
+              "message": "Update diary.js"
+            },
+            {
+              "hash": "3c20894",
+              "date": "2025-12-11",
+              "message": "Update diary.js"
+            },
+            {
+              "hash": "09f0800",
+              "date": "2025-12-11",
+              "message": "fix: use v3.9.3 for actions-gh-pages to maintain version consistency"
+            },
+            {
+              "hash": "66be182",
+              "date": "2025-12-11",
+              "message": "security: pin GitHub Actions to full-length commit SHAs"
+            },
+            {
+              "hash": "9b770a9",
+              "date": "2025-12-11",
+              "message": "security: restore HTTPS for Bandcamp iframe embeds"
+            },
+            {
+              "hash": "fa878f7",
+              "date": "2025-12-11",
+              "message": "Fix ESLint error and finalize all PR merges"
+            },
+            {
+              "hash": "44a310c",
+              "date": "2025-12-11",
+              "message": "fix: use strict equality operator in main.js"
+            },
+            {
+              "hash": "11f7cac",
+              "date": "2025-12-11",
+              "message": "docs: add SESSION_INDEX.md documentation for navigation"
+            },
+            {
+              "hash": "9b36e72",
+              "date": "2025-12-11",
+              "message": "feat: add GitHub Copilot and AI assistant configuration"
+            },
+            {
+              "hash": "4d865fe",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "50a6925",
+              "date": "2025-12-11",
+              "message": "Add comprehensive final merge report"
+            },
+            {
+              "hash": "edd5feb",
+              "date": "2025-12-11",
+              "message": "Verify merge with passing tests and example execution"
+            },
+            {
+              "hash": "9483601",
+              "date": "2025-12-11",
+              "message": "Complete merge of all open PRs and branches into main"
+            },
+            {
+              "hash": "da65975",
+              "date": "2025-12-11",
+              "message": "Remove files.zip and add *.zip to .gitignore"
+            },
+            {
+              "hash": "62dd0a1",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "86f26f8",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8137cc7",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "86f26f8",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8137cc7",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "676adaf",
+              "date": "2025-12-11",
+              "message": "Add comprehensive merge summary documentation"
+            },
+            {
+              "hash": "ccf8442",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "676adaf",
+              "date": "2025-12-11",
+              "message": "Add comprehensive merge summary documentation"
+            },
+            {
+              "hash": "ccf8442",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 1
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "d6047e0",
+              "date": "2025-12-11",
+              "message": "Address code review feedback: add decision authority, fix hardcoded refs, improve README clarity"
+            },
+            {
+              "hash": "aed49c6",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "6e2d6cc",
+              "date": "2025-12-11",
+              "message": "Update retry.test.ts"
+            },
+            {
+              "hash": "01f2068",
+              "date": "2025-12-11",
+              "message": "Update DataIngestionService.test.ts"
+            },
+            {
+              "hash": "2ab64da",
+              "date": "2025-12-11",
+              "message": "Update DataIngestionService.test.ts"
+            },
+            {
+              "hash": "fb84d63",
+              "date": "2025-12-11",
+              "message": "Update csvLoader.ts"
+            },
+            {
+              "hash": "a989a7c",
+              "date": "2025-12-11",
+              "message": "Restore agent files"
+            },
+            {
+              "hash": "1af5482",
+              "date": "2025-12-11",
+              "message": "Restore utils.ts file for UI components"
+            },
+            {
+              "hash": "f53c2e1",
+              "date": "2025-12-11",
+              "message": "Restore exportUtils.ts file"
+            },
+            {
+              "hash": "433b5b5",
+              "date": "2025-12-11",
+              "message": "Fix duplicate import in AgenticDashboard"
+            },
+            {
+              "hash": "e09d176",
+              "date": "2025-12-11",
+              "message": "Remove remaining conflict markers from AgenticDashboard"
+            },
+            {
+              "hash": "9105f40",
+              "date": "2025-12-11",
+              "message": "Fix merge conflict markers in files"
+            },
+            {
+              "hash": "22d1bd3",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "6e2d6cc",
+              "date": "2025-12-11",
+              "message": "Update retry.test.ts"
+            },
+            {
+              "hash": "01f2068",
+              "date": "2025-12-11",
+              "message": "Update DataIngestionService.test.ts"
+            },
+            {
+              "hash": "2ab64da",
+              "date": "2025-12-11",
+              "message": "Update DataIngestionService.test.ts"
+            },
+            {
+              "hash": "fb84d63",
+              "date": "2025-12-11",
+              "message": "Update csvLoader.ts"
+            },
+            {
+              "hash": "a989a7c",
+              "date": "2025-12-11",
+              "message": "Restore agent files"
+            },
+            {
+              "hash": "1af5482",
+              "date": "2025-12-11",
+              "message": "Restore utils.ts file for UI components"
+            },
+            {
+              "hash": "f53c2e1",
+              "date": "2025-12-11",
+              "message": "Restore exportUtils.ts file"
+            },
+            {
+              "hash": "433b5b5",
+              "date": "2025-12-11",
+              "message": "Fix duplicate import in AgenticDashboard"
+            },
+            {
+              "hash": "e09d176",
+              "date": "2025-12-11",
+              "message": "Remove remaining conflict markers from AgenticDashboard"
+            },
+            {
+              "hash": "9105f40",
+              "date": "2025-12-11",
+              "message": "Fix merge conflict markers in files"
+            },
+            {
+              "hash": "22d1bd3",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 5
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "8ed0b28",
+              "date": "2025-12-11",
+              "message": "Add GitHub Copilot organization instructions (#20)"
+            },
+            {
+              "hash": "2319dc3",
+              "date": "2025-12-11",
+              "message": "Initial plan (#22)"
+            }
+          ],
+          "files_changed": 0
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "034241d",
+              "date": "2025-12-11",
+              "message": "fix: Add null checks and improve error handling for edge cases"
+            },
+            {
+              "hash": "645af20",
+              "date": "2025-12-11",
+              "message": "fix: Restore advanced trading features (Limit/Stop orders, real-time pricing) and fix code issues"
+            },
+            {
+              "hash": "8ec8647",
+              "date": "2025-12-11",
+              "message": "Apply suggestions from code review"
+            },
+            {
+              "hash": "6ed0a22",
+              "date": "2025-12-11",
+              "message": "Complete consolidation of all PRs and branches - ready for merge"
+            },
+            {
+              "hash": "090f667",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "280e3fa",
+              "date": "2025-12-11",
+              "message": "fix: Improve BN precision handling and use OrderType enum consistently"
+            },
+            {
+              "hash": "de3ada7",
+              "date": "2025-12-11",
+              "message": "docs: Add merge summary documenting consolidation of all open PRs"
+            },
+            {
+              "hash": "4aa877c",
+              "date": "2025-12-11",
+              "message": "fix: Add termsAccepted state to App for RiskWarning component"
+            },
+            {
+              "hash": "7d5eebe",
+              "date": "2025-12-11",
+              "message": "feat: Consolidate trading features, governance docs, and utilities from open PRs"
+            },
+            {
+              "hash": "74b326e",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "0b8cbeb",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "034241d",
+              "date": "2025-12-11",
+              "message": "fix: Add null checks and improve error handling for edge cases"
+            },
+            {
+              "hash": "645af20",
+              "date": "2025-12-11",
+              "message": "fix: Restore advanced trading features (Limit/Stop orders, real-time pricing) and fix code issues"
+            },
+            {
+              "hash": "8ec8647",
+              "date": "2025-12-11",
+              "message": "Apply suggestions from code review"
+            },
+            {
+              "hash": "6ed0a22",
+              "date": "2025-12-11",
+              "message": "Complete consolidation of all PRs and branches - ready for merge"
+            },
+            {
+              "hash": "090f667",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "280e3fa",
+              "date": "2025-12-11",
+              "message": "fix: Improve BN precision handling and use OrderType enum consistently"
+            },
+            {
+              "hash": "de3ada7",
+              "date": "2025-12-11",
+              "message": "docs: Add merge summary documenting consolidation of all open PRs"
+            },
+            {
+              "hash": "4aa877c",
+              "date": "2025-12-11",
+              "message": "fix: Add termsAccepted state to App for RiskWarning component"
+            },
+            {
+              "hash": "7d5eebe",
+              "date": "2025-12-11",
+              "message": "feat: Consolidate trading features, governance docs, and utilities from open PRs"
+            },
+            {
+              "hash": "74b326e",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "0b8cbeb",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 18
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "d6047e0",
+              "date": "2025-12-11",
+              "message": "Address code review feedback: add decision authority, fix hardcoded refs, improve README clarity"
+            },
+            {
+              "hash": "aed49c6",
+              "date": "2025-12-11",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

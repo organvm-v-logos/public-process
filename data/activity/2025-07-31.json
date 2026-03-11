@@ -1,0 +1,50 @@
+{
+  "generated": "2026-03-06T00:39:45Z",
+  "since": "2025-07-31",
+  "until": "2025-07-31",
+  "summary": {
+    "total_commits": 5,
+    "repos_active": 1,
+    "files_changed": 3,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "fec537c",
+              "date": "2025-07-31",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "a924654",
+              "date": "2025-07-31",
+              "message": "Delete images/endorsement1.jpg"
+            },
+            {
+              "hash": "0182d07",
+              "date": "2025-07-31",
+              "message": "Update endorsements.html"
+            },
+            {
+              "hash": "78ae4a9",
+              "date": "2025-07-31",
+              "message": "Update endorsements.html"
+            },
+            {
+              "hash": "93ab79c",
+              "date": "2025-07-31",
+              "message": "Add files via upload"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

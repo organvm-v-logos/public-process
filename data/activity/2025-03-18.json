@@ -1,0 +1,91 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-03-18",
+  "until": "2025-03-18",
+  "summary": {
+    "total_commits": 11,
+    "repos_active": 2,
+    "files_changed": 11,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "8ff21a7",
+              "date": "2025-03-18",
+              "message": "GrindrPlus: Cleanup dead versions"
+            },
+            {
+              "hash": "dfb90a3",
+              "date": "2025-03-18",
+              "message": "GrindrPlus: Fix default state for interest section"
+            },
+            {
+              "hash": "ff4f9af",
+              "date": "2025-03-18",
+              "message": "GrindrPlus: Restore missing features"
+            },
+            {
+              "hash": "2f7ab9b",
+              "date": "2025-03-18",
+              "message": "GrindrPlus: Kill enjoying popularity pop-up"
+            },
+            {
+              "hash": "fc508e0",
+              "date": "2025-03-18",
+              "message": "GrindrPlus: Fix tags cascade"
+            }
+          ],
+          "files_changed": 9
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "d272b7e",
+              "date": "2025-03-18",
+              "message": "make operator name more specific"
+            },
+            {
+              "hash": "0c15cec",
+              "date": "2025-03-18",
+              "message": "A simpler way to hide API key"
+            },
+            {
+              "hash": "1a12d50",
+              "date": "2025-03-18",
+              "message": "Revert \"Hide Hyper3D API key in UI Panel\""
+            },
+            {
+              "hash": "4b06d4d",
+              "date": "2025-03-18",
+              "message": "Hide Hyper3D API key in UI Panel"
+            },
+            {
+              "hash": "acdc16f",
+              "date": "2025-03-18",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "767d6cb",
+              "date": "2025-03-18",
+              "message": "removed the -fixed- word from description"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}

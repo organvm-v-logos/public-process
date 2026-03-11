@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-05-31",
+  "until": "2023-05-31",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 7,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "522bddb",
+              "date": "2023-05-31",
+              "message": "CI build"
+            },
+            {
+              "hash": "b191ec2",
+              "date": "2023-05-31",
+              "message": "feat: concat the output of official \"Continue generating\""
+            }
+          ],
+          "files_changed": 7
+        }
+      }
+    }
+  }
+}

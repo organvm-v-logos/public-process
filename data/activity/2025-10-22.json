@@ -1,0 +1,30 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2025-10-22",
+  "until": "2025-10-22",
+  "summary": {
+    "total_commits": 1,
+    "repos_active": 1,
+    "files_changed": 13,
+    "organs_touched": [
+      "I"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "6dc249e",
+              "date": "2025-10-22",
+              "message": "docs: codify knowledge governance standards"
+            }
+          ],
+          "files_changed": 13
+        }
+      }
+    }
+  }
+}

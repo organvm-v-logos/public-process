@@ -1,0 +1,675 @@
+{
+  "generated": "2026-03-06T00:39:45Z",
+  "since": "2025-07-28",
+  "until": "2025-07-28",
+  "summary": {
+    "total_commits": 130,
+    "repos_active": 1,
+    "files_changed": 19,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "850e05b",
+              "date": "2025-07-28",
+              "message": "Update origins.html"
+            },
+            {
+              "hash": "26e1f04",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "3a0ffc8",
+              "date": "2025-07-28",
+              "message": "Delete images/vp.jpg"
+            },
+            {
+              "hash": "6cb869c",
+              "date": "2025-07-28",
+              "message": "Update origins.html"
+            },
+            {
+              "hash": "7eb1134",
+              "date": "2025-07-28",
+              "message": "Update origins.html"
+            },
+            {
+              "hash": "9e08107",
+              "date": "2025-07-28",
+              "message": "Update origins.html"
+            },
+            {
+              "hash": "8364569",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "d73b323",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "2834638",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "8fe9432",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "8af7298",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "92c0726",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "e26889e",
+              "date": "2025-07-28",
+              "message": "Update livestock.html"
+            },
+            {
+              "hash": "ee11f54",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "ba865d5",
+              "date": "2025-07-28",
+              "message": "Update vicepresident.html"
+            },
+            {
+              "hash": "c481b32",
+              "date": "2025-07-28",
+              "message": "Update firstlady.html"
+            },
+            {
+              "hash": "8e78f92",
+              "date": "2025-07-28",
+              "message": "Update chiefofstaff.html"
+            },
+            {
+              "hash": "8da3a51",
+              "date": "2025-07-28",
+              "message": "Update origins.html"
+            },
+            {
+              "hash": "4429dd3",
+              "date": "2025-07-28",
+              "message": "Update livestock.html"
+            },
+            {
+              "hash": "23aea1d",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "5bdff73",
+              "date": "2025-07-28",
+              "message": "Update firstlady.html"
+            },
+            {
+              "hash": "557f326",
+              "date": "2025-07-28",
+              "message": "Update vicepresident.html"
+            },
+            {
+              "hash": "2558880",
+              "date": "2025-07-28",
+              "message": "Update livestock.html"
+            },
+            {
+              "hash": "862933f",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "8f0ea0f",
+              "date": "2025-07-28",
+              "message": "Update livestock.html"
+            },
+            {
+              "hash": "b8c2c01",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "03dde7c",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "6df0b0a",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "ea2384e",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "7c5e188",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "940a91d",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "4b98f6e",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "172d72d",
+              "date": "2025-07-28",
+              "message": "Create chiefofstaff.html"
+            },
+            {
+              "hash": "c7202f4",
+              "date": "2025-07-28",
+              "message": "Create livestock.html"
+            },
+            {
+              "hash": "814b1f2",
+              "date": "2025-07-28",
+              "message": "Create ministerofhealth.html"
+            },
+            {
+              "hash": "312847e",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "35f9782",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "cf1111e",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "080e073",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "e8becf8",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "bec4578",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "e01c238",
+              "date": "2025-07-28",
+              "message": "Delete images/nixon-health.jpg"
+            },
+            {
+              "hash": "68fe68f",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "1bb8b40",
+              "date": "2025-07-28",
+              "message": "Delete ministerofhealth.html"
+            },
+            {
+              "hash": "c64b55e",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "abe0c36",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "383fefb",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "05aa5fb",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "312b3a2",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "842b404",
+              "date": "2025-07-28",
+              "message": "Create ministerofhealth.html"
+            },
+            {
+              "hash": "717c14f",
+              "date": "2025-07-28",
+              "message": "Update origins.html"
+            },
+            {
+              "hash": "dd15930",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "07fc12c",
+              "date": "2025-07-28",
+              "message": "Delete images/images/image-8.jpg"
+            },
+            {
+              "hash": "3920ebc",
+              "date": "2025-07-28",
+              "message": "Rename images/IMAGE 2025-07-28 16:19:24.jpg to images/images/image-8.jpg"
+            },
+            {
+              "hash": "ded262d",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "c1276c7",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "b009e4f",
+              "date": "2025-07-28",
+              "message": "Rename image-8.jpg to banner.jpg"
+            },
+            {
+              "hash": "c2d5d3b",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "707b62f",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "0e8a216",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "e695f79",
+              "date": "2025-07-28",
+              "message": "Delete images/parabolic.jpg"
+            },
+            {
+              "hash": "fbaeba6",
+              "date": "2025-07-28",
+              "message": "Delete livestock.html"
+            },
+            {
+              "hash": "e8e1e36",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "a666486",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "555d69d",
+              "date": "2025-07-28",
+              "message": "Delete images/health.jpg"
+            },
+            {
+              "hash": "6d27dce",
+              "date": "2025-07-28",
+              "message": "Delete ministerofhealth.html"
+            },
+            {
+              "hash": "bdc734d",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "f49dc94",
+              "date": "2025-07-28",
+              "message": "Rename nixon-health.jpg to health.jpg"
+            },
+            {
+              "hash": "3eb0661",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "390c0fc",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "04d8754",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "6167471",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "bced457",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "c4c30a2",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "2116317",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "550c4c5",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "fc9692b",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "0f8b5bd",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "654003b",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "75ba00d",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "95ee1b5",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "1f64589",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "6d327e1",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "5a69b88",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "3428b56",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "8f3af1b",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "e7a4da0",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "78955a9",
+              "date": "2025-07-28",
+              "message": "Rename nixonhealth.jpg to nixon-health.jpg"
+            },
+            {
+              "hash": "4f6d41f",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "00117a4",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "57c8b47",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "8a81020",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "47e7393",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "de8d23d",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "c1f1a38",
+              "date": "2025-07-28",
+              "message": "Rename ministerofhealth.jpg to nixonhealth.jpg"
+            },
+            {
+              "hash": "30c32b0",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "ca0a738",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "e32b624",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "d92c5b8",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "14f35b6",
+              "date": "2025-07-28",
+              "message": "Update origins.html"
+            },
+            {
+              "hash": "a0a9e0b",
+              "date": "2025-07-28",
+              "message": "Update origins.html"
+            },
+            {
+              "hash": "76bbeb3",
+              "date": "2025-07-28",
+              "message": "Update livestock.html"
+            },
+            {
+              "hash": "49c453a",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "f9ee067",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "984a4ff",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "8c883ab",
+              "date": "2025-07-28",
+              "message": "Update livestock.html"
+            },
+            {
+              "hash": "a39819c",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "c51d078",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "7bed35d",
+              "date": "2025-07-28",
+              "message": "Rename agriculture.html to livestock.html"
+            },
+            {
+              "hash": "b534ddb",
+              "date": "2025-07-28",
+              "message": "Update agriculture.html"
+            },
+            {
+              "hash": "49c2dbb",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "33b1dfe",
+              "date": "2025-07-28",
+              "message": "Delete ministerofhealth.html"
+            },
+            {
+              "hash": "2ecce6e",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "917a149",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "9d5da44",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "b642c7d",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "1de2509",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "58498b9",
+              "date": "2025-07-28",
+              "message": "Delete ministerofhealth.html"
+            },
+            {
+              "hash": "c0e47fe",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "8e39151",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "de4c435",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "269a39c",
+              "date": "2025-07-28",
+              "message": "Update ministerofhealth.html"
+            },
+            {
+              "hash": "25f78ff",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "0850c75",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "33271f4",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "3d25111",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "c29b731",
+              "date": "2025-07-28",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "3926e33",
+              "date": "2025-07-28",
+              "message": "Update agriculture.html"
+            },
+            {
+              "hash": "4a9e75a",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "87d350c",
+              "date": "2025-07-28",
+              "message": "Add files via upload"
+            }
+          ],
+          "files_changed": 19
+        }
+      }
+    }
+  }
+}

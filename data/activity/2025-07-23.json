@@ -1,0 +1,50 @@
+{
+  "generated": "2026-03-06T00:39:37Z",
+  "since": "2025-07-23",
+  "until": "2025-07-23",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 2,
+    "files_changed": 25,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "f4c4a7f",
+              "date": "2025-07-23",
+              "message": "fix(api): fix project-level chat export stuck at \"Loading\""
+            }
+          ],
+          "files_changed": 0
+        },
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "8f26c5f",
+              "date": "2025-07-23",
+              "message": "GrindrPlus: Update manifest for latest version"
+            },
+            {
+              "hash": "367f088",
+              "date": "2025-07-23",
+              "message": "GrindrPlus: Disable `QuickBlock` and `AntiBlock`"
+            },
+            {
+              "hash": "15cb6da",
+              "date": "2025-07-23",
+              "message": "GrindrPlus: Update obfuscation for `25.12.1`"
+            }
+          ],
+          "files_changed": 25
+        }
+      }
+    }
+  }
+}

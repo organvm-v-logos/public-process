@@ -1,0 +1,70 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2024-02-24",
+  "until": "2024-02-24",
+  "summary": {
+    "total_commits": 9,
+    "repos_active": 1,
+    "files_changed": 32,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "9377061",
+              "date": "2024-02-24",
+              "message": "chore: fix release please v4 config"
+            },
+            {
+              "hash": "b5b124a",
+              "date": "2024-02-24",
+              "message": "chore: ci build"
+            },
+            {
+              "hash": "70b80fa",
+              "date": "2024-02-24",
+              "message": "build: bump actions"
+            },
+            {
+              "hash": "0151794",
+              "date": "2024-02-24",
+              "message": "chore: release userscript 2.21.0"
+            },
+            {
+              "hash": "a28f9fd",
+              "date": "2024-02-24",
+              "message": "feat: support export to tavern and ooba format"
+            },
+            {
+              "hash": "4ab9b19",
+              "date": "2024-02-24",
+              "message": "refactor: adjust icon size, add PDF icon"
+            },
+            {
+              "hash": "8ee62f5",
+              "date": "2024-02-24",
+              "message": "fix: update style to follow chatgpt updates"
+            },
+            {
+              "hash": "02909ec",
+              "date": "2024-02-24",
+              "message": "fix(i18n): use `contohnya` instead of `mis.` in Bahasa translation to avoid confusion"
+            },
+            {
+              "hash": "cd4af40",
+              "date": "2024-02-24",
+              "message": "chore: bump deps"
+            }
+          ],
+          "files_changed": 32
+        }
+      }
+    }
+  }
+}

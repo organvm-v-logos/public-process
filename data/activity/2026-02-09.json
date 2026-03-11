@@ -1,0 +1,422 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2026-02-09",
+  "until": "2026-02-09",
+  "summary": {
+    "total_commits": 70,
+    "repos_active": 8,
+    "files_changed": 551,
+    "organs_touched": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "5993e86",
+              "date": "2026-02-09",
+              "message": "fix: use normalized image tag for trivy scan"
+            },
+            {
+              "hash": "6746ca9",
+              "date": "2026-02-09",
+              "message": "fix: include tsconfig in docker build context"
+            },
+            {
+              "hash": "c1e1fe5",
+              "date": "2026-02-09",
+              "message": "fix: install build deps in docker builder stage"
+            },
+            {
+              "hash": "9b12537",
+              "date": "2026-02-09",
+              "message": "fix: harden gemini export list handling"
+            },
+            {
+              "hash": "c170172",
+              "date": "2026-02-09",
+              "message": "fix: harden full reindex and migration parity"
+            },
+            {
+              "hash": "d3ec0a7",
+              "date": "2026-02-09",
+              "message": "feat: harden semantic search profile and readiness flow"
+            },
+            {
+              "hash": "0e82b8b",
+              "date": "2026-02-09",
+              "message": "feat: harden search parity and semantic runtime readiness"
+            },
+            {
+              "hash": "800fc18",
+              "date": "2026-02-09",
+              "message": "docs: add release hardening runbook and notes"
+            },
+            {
+              "hash": "063931d",
+              "date": "2026-02-09",
+              "message": "fix: complete evaluation-to-growth hardening pass"
+            }
+          ],
+          "files_changed": 82
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "5993e86",
+              "date": "2026-02-09",
+              "message": "fix: use normalized image tag for trivy scan"
+            },
+            {
+              "hash": "6746ca9",
+              "date": "2026-02-09",
+              "message": "fix: include tsconfig in docker build context"
+            },
+            {
+              "hash": "c1e1fe5",
+              "date": "2026-02-09",
+              "message": "fix: install build deps in docker builder stage"
+            },
+            {
+              "hash": "9b12537",
+              "date": "2026-02-09",
+              "message": "fix: harden gemini export list handling"
+            },
+            {
+              "hash": "c170172",
+              "date": "2026-02-09",
+              "message": "fix: harden full reindex and migration parity"
+            },
+            {
+              "hash": "d3ec0a7",
+              "date": "2026-02-09",
+              "message": "feat: harden semantic search profile and readiness flow"
+            },
+            {
+              "hash": "0e82b8b",
+              "date": "2026-02-09",
+              "message": "feat: harden search parity and semantic runtime readiness"
+            },
+            {
+              "hash": "800fc18",
+              "date": "2026-02-09",
+              "message": "docs: add release hardening runbook and notes"
+            },
+            {
+              "hash": "063931d",
+              "date": "2026-02-09",
+              "message": "fix: complete evaluation-to-growth hardening pass"
+            }
+          ],
+          "files_changed": 82
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "5993e86",
+              "date": "2026-02-09",
+              "message": "fix: use normalized image tag for trivy scan"
+            },
+            {
+              "hash": "6746ca9",
+              "date": "2026-02-09",
+              "message": "fix: include tsconfig in docker build context"
+            },
+            {
+              "hash": "c1e1fe5",
+              "date": "2026-02-09",
+              "message": "fix: install build deps in docker builder stage"
+            },
+            {
+              "hash": "9b12537",
+              "date": "2026-02-09",
+              "message": "fix: harden gemini export list handling"
+            },
+            {
+              "hash": "c170172",
+              "date": "2026-02-09",
+              "message": "fix: harden full reindex and migration parity"
+            },
+            {
+              "hash": "d3ec0a7",
+              "date": "2026-02-09",
+              "message": "feat: harden semantic search profile and readiness flow"
+            },
+            {
+              "hash": "0e82b8b",
+              "date": "2026-02-09",
+              "message": "feat: harden search parity and semantic runtime readiness"
+            },
+            {
+              "hash": "800fc18",
+              "date": "2026-02-09",
+              "message": "docs: add release hardening runbook and notes"
+            },
+            {
+              "hash": "063931d",
+              "date": "2026-02-09",
+              "message": "fix: complete evaluation-to-growth hardening pass"
+            }
+          ],
+          "files_changed": 82
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "5993e86",
+              "date": "2026-02-09",
+              "message": "fix: use normalized image tag for trivy scan"
+            },
+            {
+              "hash": "6746ca9",
+              "date": "2026-02-09",
+              "message": "fix: include tsconfig in docker build context"
+            },
+            {
+              "hash": "c1e1fe5",
+              "date": "2026-02-09",
+              "message": "fix: install build deps in docker builder stage"
+            },
+            {
+              "hash": "9b12537",
+              "date": "2026-02-09",
+              "message": "fix: harden gemini export list handling"
+            },
+            {
+              "hash": "c170172",
+              "date": "2026-02-09",
+              "message": "fix: harden full reindex and migration parity"
+            },
+            {
+              "hash": "d3ec0a7",
+              "date": "2026-02-09",
+              "message": "feat: harden semantic search profile and readiness flow"
+            },
+            {
+              "hash": "0e82b8b",
+              "date": "2026-02-09",
+              "message": "feat: harden search parity and semantic runtime readiness"
+            },
+            {
+              "hash": "800fc18",
+              "date": "2026-02-09",
+              "message": "docs: add release hardening runbook and notes"
+            },
+            {
+              "hash": "063931d",
+              "date": "2026-02-09",
+              "message": "fix: complete evaluation-to-growth hardening pass"
+            },
+            {
+              "hash": "5993e86",
+              "date": "2026-02-09",
+              "message": "fix: use normalized image tag for trivy scan"
+            },
+            {
+              "hash": "6746ca9",
+              "date": "2026-02-09",
+              "message": "fix: include tsconfig in docker build context"
+            },
+            {
+              "hash": "c1e1fe5",
+              "date": "2026-02-09",
+              "message": "fix: install build deps in docker builder stage"
+            },
+            {
+              "hash": "9b12537",
+              "date": "2026-02-09",
+              "message": "fix: harden gemini export list handling"
+            },
+            {
+              "hash": "c170172",
+              "date": "2026-02-09",
+              "message": "fix: harden full reindex and migration parity"
+            },
+            {
+              "hash": "d3ec0a7",
+              "date": "2026-02-09",
+              "message": "feat: harden semantic search profile and readiness flow"
+            },
+            {
+              "hash": "0e82b8b",
+              "date": "2026-02-09",
+              "message": "feat: harden search parity and semantic runtime readiness"
+            },
+            {
+              "hash": "800fc18",
+              "date": "2026-02-09",
+              "message": "docs: add release hardening runbook and notes"
+            },
+            {
+              "hash": "063931d",
+              "date": "2026-02-09",
+              "message": "fix: complete evaluation-to-growth hardening pass"
+            }
+          ],
+          "files_changed": 82
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "5993e86",
+              "date": "2026-02-09",
+              "message": "fix: use normalized image tag for trivy scan"
+            },
+            {
+              "hash": "6746ca9",
+              "date": "2026-02-09",
+              "message": "fix: include tsconfig in docker build context"
+            },
+            {
+              "hash": "c1e1fe5",
+              "date": "2026-02-09",
+              "message": "fix: install build deps in docker builder stage"
+            },
+            {
+              "hash": "9b12537",
+              "date": "2026-02-09",
+              "message": "fix: harden gemini export list handling"
+            },
+            {
+              "hash": "c170172",
+              "date": "2026-02-09",
+              "message": "fix: harden full reindex and migration parity"
+            },
+            {
+              "hash": "d3ec0a7",
+              "date": "2026-02-09",
+              "message": "feat: harden semantic search profile and readiness flow"
+            },
+            {
+              "hash": "0e82b8b",
+              "date": "2026-02-09",
+              "message": "feat: harden search parity and semantic runtime readiness"
+            },
+            {
+              "hash": "800fc18",
+              "date": "2026-02-09",
+              "message": "docs: add release hardening runbook and notes"
+            },
+            {
+              "hash": "063931d",
+              "date": "2026-02-09",
+              "message": "fix: complete evaluation-to-growth hardening pass"
+            }
+          ],
+          "files_changed": 82
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "5993e86",
+              "date": "2026-02-09",
+              "message": "fix: use normalized image tag for trivy scan"
+            },
+            {
+              "hash": "6746ca9",
+              "date": "2026-02-09",
+              "message": "fix: include tsconfig in docker build context"
+            },
+            {
+              "hash": "c1e1fe5",
+              "date": "2026-02-09",
+              "message": "fix: install build deps in docker builder stage"
+            },
+            {
+              "hash": "9b12537",
+              "date": "2026-02-09",
+              "message": "fix: harden gemini export list handling"
+            },
+            {
+              "hash": "c170172",
+              "date": "2026-02-09",
+              "message": "fix: harden full reindex and migration parity"
+            },
+            {
+              "hash": "d3ec0a7",
+              "date": "2026-02-09",
+              "message": "feat: harden semantic search profile and readiness flow"
+            },
+            {
+              "hash": "0e82b8b",
+              "date": "2026-02-09",
+              "message": "feat: harden search parity and semantic runtime readiness"
+            },
+            {
+              "hash": "800fc18",
+              "date": "2026-02-09",
+              "message": "docs: add release hardening runbook and notes"
+            },
+            {
+              "hash": "063931d",
+              "date": "2026-02-09",
+              "message": "fix: complete evaluation-to-growth hardening pass"
+            }
+          ],
+          "files_changed": 82
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "agentic-titan": {
+          "commits": [
+            {
+              "hash": "0e9fe4f",
+              "date": "2026-02-09",
+              "message": "ratchet(batch): promote artifact_store to blocking mypy scope"
+            },
+            {
+              "hash": "d4dfed8",
+              "date": "2026-02-09",
+              "message": "ratchet(auth): promote jwt/storage to blocking mypy and harden warnings"
+            },
+            {
+              "hash": "48ba43b",
+              "date": "2026-02-09",
+              "message": "chore: commit all pending quality-gate and API ratchet changes"
+            },
+            {
+              "hash": "d90aefd",
+              "date": "2026-02-09",
+              "message": "ratchet(api): typed route decorators and pydantic shim"
+            },
+            {
+              "hash": "ed94d84",
+              "date": "2026-02-09",
+              "message": "ratchet(api): replace file-level mypy disables with targeted ignores"
+            }
+          ],
+          "files_changed": 46
+        },
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "db38732",
+              "date": "2026-02-09",
+              "message": "Add markdownify to Docker MCP config, reset Gemini approvalMode to default"
+            },
+            {
+              "hash": "adcbe66",
+              "date": "2026-02-09",
+              "message": "Update path references after repo rename to domus-semper-palingenesis"
+            }
+          ],
+          "files_changed": 13
+        }
+      }
+    }
+  }
+}

@@ -11,8 +11,8 @@ related_repos:
   - organvm-ii-poiesis/example-choreographic-interface
   - organvm-ii-poiesis/metasystem-master
   - organvm-ii-poiesis/example-interactive-installation
-reading_time: "18 min"
-word_count: 4200
+reading_time: "16 min"
+word_count: 3920
 references: []
 ---
 

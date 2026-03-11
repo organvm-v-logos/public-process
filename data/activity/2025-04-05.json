@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-04-05",
+  "until": "2025-04-05",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 1,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "630c8de",
+              "date": "2025-04-05",
+              "message": "Remove old return statement"
+            },
+            {
+              "hash": "25b16af",
+              "date": "2025-04-05",
+              "message": "Returns execute_code stdout"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

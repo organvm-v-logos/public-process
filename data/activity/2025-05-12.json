@@ -1,0 +1,46 @@
+{
+  "generated": "2026-03-06T00:39:37Z",
+  "since": "2025-05-12",
+  "until": "2025-05-12",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 2,
+    "files_changed": 1,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "d3b73cb",
+              "date": "2025-05-12",
+              "message": "fix: fix button position disappeared on new sidebar layout"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "3efef8d",
+              "date": "2025-05-12",
+              "message": "Update README.md"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-04-23",
+  "until": "2025-04-23",
+  "summary": {
+    "total_commits": 1,
+    "repos_active": 1,
+    "files_changed": 1,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "afd276f",
+              "date": "2025-04-23",
+              "message": "GrindrPlus: Mark all taps as viewable"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-03-22",
+  "until": "2025-03-22",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 1,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "96e31db",
+              "date": "2025-03-22",
+              "message": "update windows user json configure"
+            },
+            {
+              "hash": "7dcefae",
+              "date": "2025-03-22",
+              "message": "Update README.md"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

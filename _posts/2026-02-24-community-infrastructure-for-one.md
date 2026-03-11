@@ -12,8 +12,8 @@ related_repos:
   - organvm-vi-koinonia/reading-group-curriculum
   - organvm-vi-koinonia/salon-archive
   - organvm-vi-koinonia/adaptive-personal-syllabus
-reading_time: "10 min"
-word_count: 2400
+reading_time: "8 min"
+word_count: 2019
 references:
   - "[1] Etienne Wenger, [*Communities of Practice: Learning, Meaning, and Identity*](https://en.wikipedia.org/wiki/Community_of_practice), Cambridge University Press, 1998."
   - "[2] Douglas Hofstadter, [*Gödel, Escher, Bach: An Eternal Golden Braid*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach), Basic Books, 1979."

@@ -1,0 +1,40 @@
+{
+  "generated": "2026-03-06T00:39:39Z",
+  "since": "2023-01-12",
+  "until": "2023-01-12",
+  "summary": {
+    "total_commits": 3,
+    "repos_active": 1,
+    "files_changed": 0,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "3398f0d",
+              "date": "2023-01-12",
+              "message": "chore: remove dangle comma"
+            },
+            {
+              "hash": "85b64b0",
+              "date": "2023-01-12",
+              "message": "feat: support to customize the filename"
+            },
+            {
+              "hash": "c8626c0",
+              "date": "2023-01-12",
+              "message": "refactor: adopt `preact` and restructure the codebase"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "generated": "2026-03-06T00:39:34Z",
+  "since": "2025-10-15",
+  "until": "2025-10-15",
+  "summary": {
+    "total_commits": 5,
+    "repos_active": 2,
+    "files_changed": 308,
+    "organs_touched": [
+      "II",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "a96b14d",
+              "date": "2025-10-15",
+              "message": "Add security best practices, fork/clone guidance, and critical file structure warnings"
+            },
+            {
+              "hash": "fe1db1d",
+              "date": "2025-10-15",
+              "message": "Fix critical blindspots: auth setup, branch names, package.json URLs, cross-platform support"
+            },
+            {
+              "hash": "ddde270",
+              "date": "2025-10-15",
+              "message": "Add comprehensive audit summary documentation"
+            },
+            {
+              "hash": "c1069ad",
+              "date": "2025-10-15",
+              "message": "Comprehensive security audit: Fix CSP, modernize code, add documentation"
+            }
+          ],
+          "files_changed": 18
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "a-i--skills": {
+          "commits": [
+            {
+              "hash": "37292f3",
+              "date": "2025-10-15",
+              "message": "init repo"
+            }
+          ],
+          "files_changed": 290
+        }
+      }
+    }
+  }
+}

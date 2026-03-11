@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:34Z",
+  "since": "2017-07-20",
+  "until": "2017-07-20",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 12,
+    "organs_touched": [
+      "II"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "7f4e5f9",
+              "date": "2017-07-20",
+              "message": "password chng"
+            },
+            {
+              "hash": "b581bd5",
+              "date": "2017-07-20",
+              "message": "js animations were slowing the site down; these updates minamilze the scope of the website for now......"
+            }
+          ],
+          "files_changed": 12
+        }
+      }
+    }
+  }
+}

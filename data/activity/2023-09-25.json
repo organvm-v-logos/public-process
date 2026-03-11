@@ -1,0 +1,45 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-09-25",
+  "until": "2023-09-25",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 1,
+    "files_changed": 14,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "67d0be2",
+              "date": "2023-09-25",
+              "message": "readme: Remove language info in chrome ext URL"
+            },
+            {
+              "hash": "0ef4baa",
+              "date": "2023-09-25",
+              "message": "CI build"
+            },
+            {
+              "hash": "484ea8c",
+              "date": "2023-09-25",
+              "message": "chore: release userscript 2.14.5"
+            },
+            {
+              "hash": "3e6629d",
+              "date": "2023-09-25",
+              "message": "fix: handle canvas size might exceed browser's limit"
+            }
+          ],
+          "files_changed": 14
+        }
+      }
+    }
+  }
+}

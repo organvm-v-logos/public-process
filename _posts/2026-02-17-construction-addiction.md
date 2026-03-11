@@ -11,8 +11,8 @@ related_repos:
   - meta-organvm/organvm-corpvs-testamentvm
   - organvm-iv-taxis/orchestration-start-here
   - organvm-iii-ergon/life-my--midst--in
-reading_time: "10 min"
-word_count: 2600
+reading_time: "7 min"
+word_count: 1672
 references: []
 ---
 

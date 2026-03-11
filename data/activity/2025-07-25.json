@@ -1,0 +1,465 @@
+{
+  "generated": "2026-03-06T00:39:37Z",
+  "since": "2025-07-25",
+  "until": "2025-07-25",
+  "summary": {
+    "total_commits": 87,
+    "repos_active": 2,
+    "files_changed": 42,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "0baa7b1",
+              "date": "2025-07-25",
+              "message": "chore: ci build"
+            },
+            {
+              "hash": "c182b6a",
+              "date": "2025-07-25",
+              "message": "chore: release userscript 2.29.1"
+            }
+          ],
+          "files_changed": 0
+        },
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "deef77f",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "4165775",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "9dec21d",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "1a88957",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "38b7e0c",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "9ab1075",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "fd28aef",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 12:45:49.jpg to image-10.jpg"
+            },
+            {
+              "hash": "9bb119a",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 12:46:24.jpg to image-9.jpg"
+            },
+            {
+              "hash": "28c52c5",
+              "date": "2025-07-25",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "3b89820",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "c6d7e2b",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "a4588eb",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "47f618f",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "b0a88da",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "433174b",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "5510f89",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "8528ba8",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "f47048f",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "f34aa21",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "78aa654",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "9ab0765",
+              "date": "2025-07-25",
+              "message": "Rename image-10.jpg to image-2.jpg"
+            },
+            {
+              "hash": "83e67fc",
+              "date": "2025-07-25",
+              "message": "Rename image-9.jpg to image-1.jpg"
+            },
+            {
+              "hash": "634e665",
+              "date": "2025-07-25",
+              "message": "Delete images/images directory"
+            },
+            {
+              "hash": "5c9d481",
+              "date": "2025-07-25",
+              "message": "Delete images/folder"
+            },
+            {
+              "hash": "bfad8bd",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "c05a812",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "8ceac47",
+              "date": "2025-07-25",
+              "message": "Rename images/image-2.jpg to images/images/image-2.jpg"
+            },
+            {
+              "hash": "3eb1350",
+              "date": "2025-07-25",
+              "message": "Rename images/image-1.jpg to images/images/image-1.jpg"
+            },
+            {
+              "hash": "fc68ea8",
+              "date": "2025-07-25",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "14c6254",
+              "date": "2025-07-25",
+              "message": "Create folder"
+            },
+            {
+              "hash": "3cfbf4f",
+              "date": "2025-07-25",
+              "message": "Delete images/image-9.jpg"
+            },
+            {
+              "hash": "3bcec08",
+              "date": "2025-07-25",
+              "message": "Delete images/image-8.jpg"
+            },
+            {
+              "hash": "c7c57a2",
+              "date": "2025-07-25",
+              "message": "Delete images/image-7.jpg"
+            },
+            {
+              "hash": "9d9dc5e",
+              "date": "2025-07-25",
+              "message": "Delete images/image-6.jpg"
+            },
+            {
+              "hash": "00be8fe",
+              "date": "2025-07-25",
+              "message": "Delete images/image-5.jpg"
+            },
+            {
+              "hash": "dd238cb",
+              "date": "2025-07-25",
+              "message": "Delete images/image-4.jpg"
+            },
+            {
+              "hash": "83c1906",
+              "date": "2025-07-25",
+              "message": "Delete images/image-3.jpg"
+            },
+            {
+              "hash": "35c4f4f",
+              "date": "2025-07-25",
+              "message": "Delete images/image-2.jpg"
+            },
+            {
+              "hash": "6f43636",
+              "date": "2025-07-25",
+              "message": "Delete images/image-10.jpg"
+            },
+            {
+              "hash": "713b9a8",
+              "date": "2025-07-25",
+              "message": "Delete images/image-1.jpg"
+            },
+            {
+              "hash": "7667c91",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "192b3ca",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 09:31:56.jpg to image-1.jpg"
+            },
+            {
+              "hash": "7a0e4c8",
+              "date": "2025-07-25",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "38fcbf9",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "d246bff",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "aaa5f16",
+              "date": "2025-07-25",
+              "message": "Delete image-1.jpg"
+            },
+            {
+              "hash": "e96e952",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 09:32:19.jpg to image-10.jpg"
+            },
+            {
+              "hash": "15d18d8",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 09:32:21.jpg to image-9.jpg"
+            },
+            {
+              "hash": "69affa3",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 09:32:24.jpg to image-8.jpg"
+            },
+            {
+              "hash": "e5b54b2",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 09:32:07.jpg to image-7.jpg"
+            },
+            {
+              "hash": "6f60aab",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 09:32:25.jpg to image-6.jpg"
+            },
+            {
+              "hash": "2a2ad61",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 09:32:29.jpg to image-5.jpg"
+            },
+            {
+              "hash": "6f3821b",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 09:32:34.jpg to image-4.jpg"
+            },
+            {
+              "hash": "a7291e6",
+              "date": "2025-07-25",
+              "message": "Rename image-1.jpg to image-1.jpg"
+            },
+            {
+              "hash": "b1ded41",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 09:32:05.jpg to image-3.jpg"
+            },
+            {
+              "hash": "7aee900",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 09:32:03.jpg to image-2.jpg"
+            },
+            {
+              "hash": "5e87e5c",
+              "date": "2025-07-25",
+              "message": "image-1.jpg"
+            },
+            {
+              "hash": "04b6395",
+              "date": "2025-07-25",
+              "message": "Rename images/IMAGE 2025-07-25 09:31:56.jpg to imagesimage-1.jpg"
+            },
+            {
+              "hash": "b2bda64",
+              "date": "2025-07-25",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "5354817",
+              "date": "2025-07-25",
+              "message": "Delete IMAGE 2025-07-25 09:32:29.jpg"
+            },
+            {
+              "hash": "b710bd5",
+              "date": "2025-07-25",
+              "message": "Delete pepe_images_only (2).zip"
+            },
+            {
+              "hash": "6257ac6",
+              "date": "2025-07-25",
+              "message": "Delete IMAGE 2025-07-25 09:32:25.jpg"
+            },
+            {
+              "hash": "34666b4",
+              "date": "2025-07-25",
+              "message": "Delete IMAGE 2025-07-25 09:32:24.jpg"
+            },
+            {
+              "hash": "91254c4",
+              "date": "2025-07-25",
+              "message": "Delete IMAGE 2025-07-25 09:32:21.jpg"
+            },
+            {
+              "hash": "32e8326",
+              "date": "2025-07-25",
+              "message": "Delete IMAGE 2025-07-25 09:32:19.jpg"
+            },
+            {
+              "hash": "03698fb",
+              "date": "2025-07-25",
+              "message": "Delete IMAGE 2025-07-25 09:32:07.jpg"
+            },
+            {
+              "hash": "e7b0855",
+              "date": "2025-07-25",
+              "message": "Delete IMAGE 2025-07-25 09:32:34.jpg"
+            },
+            {
+              "hash": "b48a6c8",
+              "date": "2025-07-25",
+              "message": "Delete IMAGE 2025-07-25 09:32:05.jpg"
+            },
+            {
+              "hash": "0908efe",
+              "date": "2025-07-25",
+              "message": "Delete imagesimages/IMAGE 2025-07-25 09:31:56.jpg"
+            },
+            {
+              "hash": "3c0dc2a",
+              "date": "2025-07-25",
+              "message": "Rename IMAGE 2025-07-25 09:32:03.jpg to images/IMAGE 2025-07-25 09:31:56.jpg"
+            },
+            {
+              "hash": "829fd1c",
+              "date": "2025-07-25",
+              "message": "images/IMAGE 2025-07-25 09:31:56.jpg"
+            },
+            {
+              "hash": "ebc910d",
+              "date": "2025-07-25",
+              "message": "Delete images"
+            },
+            {
+              "hash": "56208f3",
+              "date": "2025-07-25",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "8769692",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "fc26e82",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "68dcc0c",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "c57dceb",
+              "date": "2025-07-25",
+              "message": "images"
+            },
+            {
+              "hash": "cb5f243",
+              "date": "2025-07-25",
+              "message": "Create images"
+            },
+            {
+              "hash": "76a1a2b",
+              "date": "2025-07-25",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "f68f26a",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "9d35910",
+              "date": "2025-07-25",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "46e9b8d",
+              "date": "2025-07-25",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "74b9f0d",
+              "date": "2025-07-25",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "1f7f4e4",
+              "date": "2025-07-25",
+              "message": "Create CNAME"
+            },
+            {
+              "hash": "a2e5bbe",
+              "date": "2025-07-25",
+              "message": "Add files via upload"
+            }
+          ],
+          "files_changed": 42
+        }
+      }
+    }
+  }
+}

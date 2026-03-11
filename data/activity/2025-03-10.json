@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-03-10",
+  "until": "2025-03-10",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 12,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "bc20bc2",
+              "date": "2025-03-10",
+              "message": "get scene info and object are working properly now;"
+            },
+            {
+              "hash": "fbf8fd4",
+              "date": "2025-03-10",
+              "message": "changed resource to tool"
+            }
+          ],
+          "files_changed": 12
+        }
+      }
+    }
+  }
+}

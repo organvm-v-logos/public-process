@@ -1,0 +1,541 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2025-11-12",
+  "until": "2025-11-12",
+  "summary": {
+    "total_commits": 98,
+    "repos_active": 5,
+    "files_changed": 98,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "4f58162",
+              "date": "2025-11-12",
+              "message": "Create logical order version for cognitive archaeology"
+            },
+            {
+              "hash": "c15a13f",
+              "date": "2025-11-12",
+              "message": "Rename 4_ivi374_F0Rivi4_  CognitiveOperatingSystem.rtf to 4_ivi374_F0Rivi4_ CognitiveOperatingSystem.md"
+            },
+            {
+              "hash": "ea3928b",
+              "date": "2025-11-12",
+              "message": "Rename genesis-chat-preservation to GENESIS-CHAT-PRESERVATION"
+            },
+            {
+              "hash": "d28e698",
+              "date": "2025-11-12",
+              "message": "Remove title from documentation"
+            },
+            {
+              "hash": "c669239",
+              "date": "2025-11-12",
+              "message": "Rename file to CHAOS>ORDER_LINEAR-PATH_STEPXSTEP.MD"
+            },
+            {
+              "hash": "03026e6",
+              "date": "2025-11-12",
+              "message": "genesis-chat-preservation"
+            },
+            {
+              "hash": "0ec0c29",
+              "date": "2025-11-12",
+              "message": "Delete 4_ivi374_F0Rivi4_  CognitiveOperatingSystem.docx"
+            },
+            {
+              "hash": "8404698",
+              "date": "2025-11-12",
+              "message": "Remove detailed phases and tasks from document"
+            },
+            {
+              "hash": "39d3512",
+              "date": "2025-11-12",
+              "message": "Convert Cognitive Operating System RTF to markdown"
+            },
+            {
+              "hash": "a5c0482",
+              "date": "2025-11-12",
+              "message": "Update--4_ivi374_F0Rivi4_CognitiveOperatingSystem"
+            },
+            {
+              "hash": "fcc9ef6",
+              "date": "2025-11-12",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "34444c3",
+              "date": "2025-11-12",
+              "message": "Update tests/test_archive_scanner.py"
+            }
+          ],
+          "files_changed": 21
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "2e1ae7c",
+              "date": "2025-11-12",
+              "message": "docs: improve documentation and optimize memory usage"
+            },
+            {
+              "hash": "074f87e",
+              "date": "2025-11-12",
+              "message": "chore: remove unused sys import"
+            },
+            {
+              "hash": "ce42104",
+              "date": "2025-11-12",
+              "message": "fix: address code review feedback - remove unused import, improve word counting, remove redundant check"
+            },
+            {
+              "hash": "1370cf8",
+              "date": "2025-11-12",
+              "message": "refactor: address code review feedback with improvements"
+            },
+            {
+              "hash": "5419df6",
+              "date": "2025-11-12",
+              "message": "feat: implement dynamic development path generation based on document analysis"
+            },
+            {
+              "hash": "97da0fd",
+              "date": "2025-11-12",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "221acae",
+              "date": "2025-11-12",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "2e1ae7c",
+              "date": "2025-11-12",
+              "message": "docs: improve documentation and optimize memory usage"
+            },
+            {
+              "hash": "074f87e",
+              "date": "2025-11-12",
+              "message": "chore: remove unused sys import"
+            },
+            {
+              "hash": "ce42104",
+              "date": "2025-11-12",
+              "message": "fix: address code review feedback - remove unused import, improve word counting, remove redundant check"
+            },
+            {
+              "hash": "1370cf8",
+              "date": "2025-11-12",
+              "message": "refactor: address code review feedback with improvements"
+            },
+            {
+              "hash": "5419df6",
+              "date": "2025-11-12",
+              "message": "feat: implement dynamic development path generation based on document analysis"
+            },
+            {
+              "hash": "97da0fd",
+              "date": "2025-11-12",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "221acae",
+              "date": "2025-11-12",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 4
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "c9eee25",
+              "date": "2025-11-12",
+              "message": "Add competitor categories and icons to agentic system"
+            },
+            {
+              "hash": "0ed9fac",
+              "date": "2025-11-12",
+              "message": "Add competitor categories and icons to agentic system"
+            },
+            {
+              "hash": "9e69a05",
+              "date": "2025-11-12",
+              "message": "fix: guard agent storage and ensure main branch availability"
+            },
+            {
+              "hash": "bab428f",
+              "date": "2025-11-12",
+              "message": "Add local persistence hook and CI diff guard"
+            },
+            {
+              "hash": "a6e58af",
+              "date": "2025-11-12",
+              "message": "Add resilient KV hook and CI fetch for main diff"
+            },
+            {
+              "hash": "34f61c1",
+              "date": "2025-11-12",
+              "message": "Add CodeQL analysis workflow"
+            },
+            {
+              "hash": "4441567",
+              "date": "2025-11-12",
+              "message": "Document code scanning policy requirements"
+            },
+            {
+              "hash": "cae4819",
+              "date": "2025-11-12",
+              "message": "Replace contrast scan workflow with CodeQL"
+            },
+            {
+              "hash": "8950f45",
+              "date": "2025-11-12",
+              "message": "Replace restricted code scanning workflow"
+            },
+            {
+              "hash": "d4263c9",
+              "date": "2025-11-12",
+              "message": "Add resilient agent callback client and CI diff guard"
+            },
+            {
+              "hash": "466c28d",
+              "date": "2025-11-12",
+              "message": "Update dependabot.yml"
+            },
+            {
+              "hash": "707cea4",
+              "date": "2025-11-12",
+              "message": "Add GitHub Actions workflow for labeling PRs"
+            },
+            {
+              "hash": "7ae70b9",
+              "date": "2025-11-12",
+              "message": "Create frogbot-scan-and-fix.yml"
+            },
+            {
+              "hash": "d8688cb",
+              "date": "2025-11-12",
+              "message": "Add Contrast Scan workflow for security analysis"
+            },
+            {
+              "hash": "e24975a",
+              "date": "2025-11-12",
+              "message": "Add Dependency Review Action workflow"
+            },
+            {
+              "hash": "06bc4d3",
+              "date": "2025-11-12",
+              "message": "Delete empty agent response from pull request summary file"
+            },
+            {
+              "hash": "7015444",
+              "date": "2025-11-12",
+              "message": "Add SpecStory pull request summary for public-record-data-scraper (2025-11-11)"
+            },
+            {
+              "hash": "e3a89ff",
+              "date": "2025-11-12",
+              "message": "Update Codacy instructions to remove outdated tool argument usage section"
+            },
+            {
+              "hash": "5e49dcb",
+              "date": "2025-11-12",
+              "message": "Enhance competitor intelligence cascade"
+            },
+            {
+              "hash": "c9eee25",
+              "date": "2025-11-12",
+              "message": "Add competitor categories and icons to agentic system"
+            },
+            {
+              "hash": "0ed9fac",
+              "date": "2025-11-12",
+              "message": "Add competitor categories and icons to agentic system"
+            },
+            {
+              "hash": "9e69a05",
+              "date": "2025-11-12",
+              "message": "fix: guard agent storage and ensure main branch availability"
+            },
+            {
+              "hash": "bab428f",
+              "date": "2025-11-12",
+              "message": "Add local persistence hook and CI diff guard"
+            },
+            {
+              "hash": "a6e58af",
+              "date": "2025-11-12",
+              "message": "Add resilient KV hook and CI fetch for main diff"
+            },
+            {
+              "hash": "34f61c1",
+              "date": "2025-11-12",
+              "message": "Add CodeQL analysis workflow"
+            },
+            {
+              "hash": "4441567",
+              "date": "2025-11-12",
+              "message": "Document code scanning policy requirements"
+            },
+            {
+              "hash": "cae4819",
+              "date": "2025-11-12",
+              "message": "Replace contrast scan workflow with CodeQL"
+            },
+            {
+              "hash": "8950f45",
+              "date": "2025-11-12",
+              "message": "Replace restricted code scanning workflow"
+            },
+            {
+              "hash": "d4263c9",
+              "date": "2025-11-12",
+              "message": "Add resilient agent callback client and CI diff guard"
+            },
+            {
+              "hash": "466c28d",
+              "date": "2025-11-12",
+              "message": "Update dependabot.yml"
+            },
+            {
+              "hash": "707cea4",
+              "date": "2025-11-12",
+              "message": "Add GitHub Actions workflow for labeling PRs"
+            },
+            {
+              "hash": "7ae70b9",
+              "date": "2025-11-12",
+              "message": "Create frogbot-scan-and-fix.yml"
+            },
+            {
+              "hash": "d8688cb",
+              "date": "2025-11-12",
+              "message": "Add Contrast Scan workflow for security analysis"
+            },
+            {
+              "hash": "e24975a",
+              "date": "2025-11-12",
+              "message": "Add Dependency Review Action workflow"
+            },
+            {
+              "hash": "06bc4d3",
+              "date": "2025-11-12",
+              "message": "Delete empty agent response from pull request summary file"
+            },
+            {
+              "hash": "7015444",
+              "date": "2025-11-12",
+              "message": "Add SpecStory pull request summary for public-record-data-scraper (2025-11-11)"
+            },
+            {
+              "hash": "e3a89ff",
+              "date": "2025-11-12",
+              "message": "Update Codacy instructions to remove outdated tool argument usage section"
+            },
+            {
+              "hash": "5e49dcb",
+              "date": "2025-11-12",
+              "message": "Enhance competitor intelligence cascade"
+            }
+          ],
+          "files_changed": 25
+        },
+        "tab-bookmark-manager": {
+          "commits": [
+            {
+              "hash": "d3c9b22",
+              "date": "2025-11-12",
+              "message": "docs: Add Tier 1 implementation summary"
+            },
+            {
+              "hash": "a5a1e8f",
+              "date": "2025-11-12",
+              "message": "docs: Add comprehensive API guide"
+            },
+            {
+              "hash": "f89401a",
+              "date": "2025-11-12",
+              "message": "feat: Add comprehensive error handling and ML service resilience"
+            },
+            {
+              "hash": "8c4b856",
+              "date": "2025-11-12",
+              "message": "feat: Add user profile management and API documentation with Swagger"
+            },
+            {
+              "hash": "d81e171",
+              "date": "2025-11-12",
+              "message": "Initial exploration - understanding the codebase"
+            },
+            {
+              "hash": "9c6b227",
+              "date": "2025-11-12",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "a475dfb",
+              "date": "2025-11-12",
+              "message": "feat: Implement browser deloading feature"
+            },
+            {
+              "hash": "bfee754",
+              "date": "2025-11-12",
+              "message": "feat: Implement bulk import for tabs and bookmarks"
+            }
+          ],
+          "files_changed": 27
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "4c7daf1",
+              "date": "2025-11-12",
+              "message": "feat: Add Stop Market Order Functionality"
+            },
+            {
+              "hash": "7ba07bd",
+              "date": "2025-11-12",
+              "message": "feat: Add Limit Order Functionality"
+            },
+            {
+              "hash": "decaa81",
+              "date": "2025-11-12",
+              "message": "docs: Complete documentation review with conversion plan and compliance report"
+            },
+            {
+              "hash": "2bc427c",
+              "date": "2025-11-12",
+              "message": "docs: Add comprehensive documentation index and governance files"
+            },
+            {
+              "hash": "4386854",
+              "date": "2025-11-12",
+              "message": "feat: Add ADR backlog template and example ADRs for org standards alignment"
+            },
+            {
+              "hash": "4f10ef3",
+              "date": "2025-11-12",
+              "message": "Fix typo in project description in README.md"
+            },
+            {
+              "hash": "d69f75f",
+              "date": "2025-11-12",
+              "message": "Update project title in README.md"
+            },
+            {
+              "hash": "a91695a",
+              "date": "2025-11-12",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3d537be",
+              "date": "2025-11-12",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "bf0680f",
+              "date": "2025-11-12",
+              "message": "feat: Display real-time market data in TradePanel"
+            },
+            {
+              "hash": "a311082",
+              "date": "2025-11-12",
+              "message": "feat: Add DashboardPanel component"
+            },
+            {
+              "hash": "75c5a5a",
+              "date": "2025-11-12",
+              "message": "feat: Implement position management"
+            },
+            {
+              "hash": "ed9c714",
+              "date": "2025-11-12",
+              "message": "The component is now ready to be integrated into the main application."
+            },
+            {
+              "hash": "4c7daf1",
+              "date": "2025-11-12",
+              "message": "feat: Add Stop Market Order Functionality"
+            },
+            {
+              "hash": "7ba07bd",
+              "date": "2025-11-12",
+              "message": "feat: Add Limit Order Functionality"
+            },
+            {
+              "hash": "decaa81",
+              "date": "2025-11-12",
+              "message": "docs: Complete documentation review with conversion plan and compliance report"
+            },
+            {
+              "hash": "2bc427c",
+              "date": "2025-11-12",
+              "message": "docs: Add comprehensive documentation index and governance files"
+            },
+            {
+              "hash": "4386854",
+              "date": "2025-11-12",
+              "message": "feat: Add ADR backlog template and example ADRs for org standards alignment"
+            },
+            {
+              "hash": "4f10ef3",
+              "date": "2025-11-12",
+              "message": "Fix typo in project description in README.md"
+            },
+            {
+              "hash": "d69f75f",
+              "date": "2025-11-12",
+              "message": "Update project title in README.md"
+            },
+            {
+              "hash": "a91695a",
+              "date": "2025-11-12",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3d537be",
+              "date": "2025-11-12",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "bf0680f",
+              "date": "2025-11-12",
+              "message": "feat: Display real-time market data in TradePanel"
+            },
+            {
+              "hash": "a311082",
+              "date": "2025-11-12",
+              "message": "feat: Add DashboardPanel component"
+            },
+            {
+              "hash": "75c5a5a",
+              "date": "2025-11-12",
+              "message": "feat: Implement position management"
+            },
+            {
+              "hash": "ed9c714",
+              "date": "2025-11-12",
+              "message": "The component is now ready to be integrated into the main application."
+            }
+          ],
+          "files_changed": 21
+        }
+      }
+    }
+  }
+}

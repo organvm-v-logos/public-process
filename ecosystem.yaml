@@ -1,0 +1,8 @@
+schema_version: '1.0'
+repo: public-process
+organ: V
+display_name: Essays, case studies, methodology documentation, RSS feed, newsletter
+  integration
+delivery:
+- platform: web_app
+  status: not_started

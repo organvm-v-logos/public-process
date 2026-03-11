@@ -10,8 +10,8 @@ portfolio_relevance: "HIGH"
 related_repos:
   - organvm-i-theoria/recursive-engine--generative-entity
   - organvm-i-theoria/narratological-algorithmic-lenses
-reading_time: "18 min"
-word_count: 4350
+reading_time: "15 min"
+word_count: 3726
 references: []
 ---
 

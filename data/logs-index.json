@@ -1,68 +1,6099 @@
 {
   "version": "1.0",
-  "updated": "2026-03-03",
+  "updated": "2026-03-11",
   "generated_by": "essay-pipeline indexer v0.3.0",
-  "total_logs": 5,
-  "total_words": 7840,
+  "total_logs": 458,
+  "total_words": 145314,
   "mood_frequency": {
+    "routine": 454,
     "focused": 2,
-    "breakthrough": 1,
-    "reflective": 1,
-    "routine": 1
+    "breakthrough": 2
   },
   "tag_frequency": {
-    "infrastructure": 5,
-    "testing": 2,
-    "building-in-public": 1,
-    "revenue": 1,
-    "content-cadence": 1,
-    "deployment": 1,
-    "omega-sprint": 1,
-    "maintenance": 1,
-    "documentation": 1,
-    "feature": 1,
-    "automation": 1,
-    "self-assessment": 1
+    "historical": 453,
+    "governance": 3,
+    "automation": 2,
+    "ci-cd": 1,
+    "stability": 1,
+    "conductor": 1,
+    "dissertation": 1,
+    "security": 1,
+    "analytics": 1,
+    "federation": 1,
+    "distillation": 1,
+    "graduation": 1,
+    "coordination": 1
   },
   "logs": [
     {
-      "filename": "2026-02-27-captains-log.md",
-      "title": "First Light — Content Cadence, Revenue Infrastructure, Going Public",
-      "date": "2026-02-27",
-      "mood": "breakthrough",
+      "filename": "2016-11-06-captains-log.md",
+      "title": "Historical Activity Log - 2016-11-06",
+      "date": "2016-11-06",
+      "mood": "routine",
       "tags": [
-        "building-in-public",
-        "infrastructure",
-        "revenue",
-        "content-cadence",
-        "testing"
+        "historical"
       ],
-      "word_count": 2402,
+      "word_count": 182,
       "organs_touched": [
-        "III",
-        "META",
-        "V",
-        "VII"
+        "II"
       ]
     },
     {
-      "filename": "2026-02-28-captains-log.md",
-      "title": "The Omega Sprint — 224 Commits, 85 Repos, Everything Everywhere All at Once",
-      "date": "2026-02-28",
-      "mood": "focused",
+      "filename": "2016-11-28-captains-log.md",
+      "title": "Historical Activity Log - 2016-11-28",
+      "date": "2016-11-28",
+      "mood": "routine",
       "tags": [
-        "infrastructure",
-        "deployment",
-        "testing",
-        "omega-sprint"
+        "historical"
       ],
-      "word_count": 2774,
+      "word_count": 201,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-11-29-captains-log.md",
+      "title": "Historical Activity Log - 2016-11-29",
+      "date": "2016-11-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-11-30-captains-log.md",
+      "title": "Historical Activity Log - 2016-11-30",
+      "date": "2016-11-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-02-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-02",
+      "date": "2016-12-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-04-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-04",
+      "date": "2016-12-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-07-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-07",
+      "date": "2016-12-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-09-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-09",
+      "date": "2016-12-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 219,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-11-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-11",
+      "date": "2016-12-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-17-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-17",
+      "date": "2016-12-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-23-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-23",
+      "date": "2016-12-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 210,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-26-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-26",
+      "date": "2016-12-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 183,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-27-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-27",
+      "date": "2016-12-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-28-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-28",
+      "date": "2016-12-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-29-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-29",
+      "date": "2016-12-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2016-12-30-captains-log.md",
+      "title": "Historical Activity Log - 2016-12-30",
+      "date": "2016-12-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2017-01-04-captains-log.md",
+      "title": "Historical Activity Log - 2017-01-04",
+      "date": "2017-01-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2017-01-11-captains-log.md",
+      "title": "Historical Activity Log - 2017-01-11",
+      "date": "2017-01-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2017-02-07-captains-log.md",
+      "title": "Historical Activity Log - 2017-02-07",
+      "date": "2017-02-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2017-03-07-captains-log.md",
+      "title": "Historical Activity Log - 2017-03-07",
+      "date": "2017-03-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2017-04-17-captains-log.md",
+      "title": "Historical Activity Log - 2017-04-17",
+      "date": "2017-04-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 183,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2017-04-18-captains-log.md",
+      "title": "Historical Activity Log - 2017-04-18",
+      "date": "2017-04-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 180,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2017-04-20-captains-log.md",
+      "title": "Historical Activity Log - 2017-04-20",
+      "date": "2017-04-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 182,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2017-04-21-captains-log.md",
+      "title": "Historical Activity Log - 2017-04-21",
+      "date": "2017-04-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 181,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2017-07-20-captains-log.md",
+      "title": "Historical Activity Log - 2017-07-20",
+      "date": "2017-07-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2022-12-05-captains-log.md",
+      "title": "Historical Activity Log - 2022-12-05",
+      "date": "2022-12-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2022-12-06-captains-log.md",
+      "title": "Historical Activity Log - 2022-12-06",
+      "date": "2022-12-06",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2022-12-07-captains-log.md",
+      "title": "Historical Activity Log - 2022-12-07",
+      "date": "2022-12-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2022-12-10-captains-log.md",
+      "title": "Historical Activity Log - 2022-12-10",
+      "date": "2022-12-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2022-12-11-captains-log.md",
+      "title": "Historical Activity Log - 2022-12-11",
+      "date": "2022-12-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2022-12-16-captains-log.md",
+      "title": "Historical Activity Log - 2022-12-16",
+      "date": "2022-12-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2022-12-17-captains-log.md",
+      "title": "Historical Activity Log - 2022-12-17",
+      "date": "2022-12-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2022-12-18-captains-log.md",
+      "title": "Historical Activity Log - 2022-12-18",
+      "date": "2022-12-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2022-12-21-captains-log.md",
+      "title": "Historical Activity Log - 2022-12-21",
+      "date": "2022-12-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2022-12-22-captains-log.md",
+      "title": "Historical Activity Log - 2022-12-22",
+      "date": "2022-12-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2022-12-28-captains-log.md",
+      "title": "Historical Activity Log - 2022-12-28",
+      "date": "2022-12-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-01-08-captains-log.md",
+      "title": "Historical Activity Log - 2023-01-08",
+      "date": "2023-01-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-01-09-captains-log.md",
+      "title": "Historical Activity Log - 2023-01-09",
+      "date": "2023-01-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-01-11-captains-log.md",
+      "title": "Historical Activity Log - 2023-01-11",
+      "date": "2023-01-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-01-12-captains-log.md",
+      "title": "Historical Activity Log - 2023-01-12",
+      "date": "2023-01-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-01-14-captains-log.md",
+      "title": "Historical Activity Log - 2023-01-14",
+      "date": "2023-01-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-01-25-captains-log.md",
+      "title": "Historical Activity Log - 2023-01-25",
+      "date": "2023-01-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-01-27-captains-log.md",
+      "title": "Historical Activity Log - 2023-01-27",
+      "date": "2023-01-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-02-04-captains-log.md",
+      "title": "Historical Activity Log - 2023-02-04",
+      "date": "2023-02-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 182,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-02-10-captains-log.md",
+      "title": "Historical Activity Log - 2023-02-10",
+      "date": "2023-02-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-02-11-captains-log.md",
+      "title": "Historical Activity Log - 2023-02-11",
+      "date": "2023-02-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-02-16-captains-log.md",
+      "title": "Historical Activity Log - 2023-02-16",
+      "date": "2023-02-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-02-17-captains-log.md",
+      "title": "Historical Activity Log - 2023-02-17",
+      "date": "2023-02-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-02-18-captains-log.md",
+      "title": "Historical Activity Log - 2023-02-18",
+      "date": "2023-02-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-02-21-captains-log.md",
+      "title": "Historical Activity Log - 2023-02-21",
+      "date": "2023-02-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-02-26-captains-log.md",
+      "title": "Historical Activity Log - 2023-02-26",
+      "date": "2023-02-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 205,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-02-27-captains-log.md",
+      "title": "Historical Activity Log - 2023-02-27",
+      "date": "2023-02-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-05-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-05",
+      "date": "2023-03-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-07-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-07",
+      "date": "2023-03-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-08-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-08",
+      "date": "2023-03-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-09-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-09",
+      "date": "2023-03-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 205,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-10-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-10",
+      "date": "2023-03-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-11-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-11",
+      "date": "2023-03-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-15-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-15",
+      "date": "2023-03-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-16-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-16",
+      "date": "2023-03-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-18-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-18",
+      "date": "2023-03-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-19-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-19",
+      "date": "2023-03-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-21-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-21",
+      "date": "2023-03-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-24-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-24",
+      "date": "2023-03-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-25-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-25",
+      "date": "2023-03-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-26-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-26",
+      "date": "2023-03-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-27-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-27",
+      "date": "2023-03-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-29-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-29",
+      "date": "2023-03-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-30-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-30",
+      "date": "2023-03-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-03-31-captains-log.md",
+      "title": "Historical Activity Log - 2023-03-31",
+      "date": "2023-03-31",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-01-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-01",
+      "date": "2023-04-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-04-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-04",
+      "date": "2023-04-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-05-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-05",
+      "date": "2023-04-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-07-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-07",
+      "date": "2023-04-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-08-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-08",
+      "date": "2023-04-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-12-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-12",
+      "date": "2023-04-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-13-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-13",
+      "date": "2023-04-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-14-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-14",
+      "date": "2023-04-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-15-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-15",
+      "date": "2023-04-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-20-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-20",
+      "date": "2023-04-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 202,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-21-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-21",
+      "date": "2023-04-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-22-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-22",
+      "date": "2023-04-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-23-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-23",
+      "date": "2023-04-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-04-24-captains-log.md",
+      "title": "Historical Activity Log - 2023-04-24",
+      "date": "2023-04-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-05-01-captains-log.md",
+      "title": "Historical Activity Log - 2023-05-01",
+      "date": "2023-05-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-05-08-captains-log.md",
+      "title": "Historical Activity Log - 2023-05-08",
+      "date": "2023-05-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-05-09-captains-log.md",
+      "title": "Historical Activity Log - 2023-05-09",
+      "date": "2023-05-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-05-31-captains-log.md",
+      "title": "Historical Activity Log - 2023-05-31",
+      "date": "2023-05-31",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 190,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-06-01-captains-log.md",
+      "title": "Historical Activity Log - 2023-06-01",
+      "date": "2023-06-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-06-06-captains-log.md",
+      "title": "Historical Activity Log - 2023-06-06",
+      "date": "2023-06-06",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-06-08-captains-log.md",
+      "title": "Historical Activity Log - 2023-06-08",
+      "date": "2023-06-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-06-09-captains-log.md",
+      "title": "Historical Activity Log - 2023-06-09",
+      "date": "2023-06-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-06-10-captains-log.md",
+      "title": "Historical Activity Log - 2023-06-10",
+      "date": "2023-06-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-06-15-captains-log.md",
+      "title": "Historical Activity Log - 2023-06-15",
+      "date": "2023-06-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-06-16-captains-log.md",
+      "title": "Historical Activity Log - 2023-06-16",
+      "date": "2023-06-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-07-09-captains-log.md",
+      "title": "Historical Activity Log - 2023-07-09",
+      "date": "2023-07-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-07-10-captains-log.md",
+      "title": "Historical Activity Log - 2023-07-10",
+      "date": "2023-07-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-08-20-captains-log.md",
+      "title": "Historical Activity Log - 2023-08-20",
+      "date": "2023-08-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-08-21-captains-log.md",
+      "title": "Historical Activity Log - 2023-08-21",
+      "date": "2023-08-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-08-22-captains-log.md",
+      "title": "Historical Activity Log - 2023-08-22",
+      "date": "2023-08-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-08-29-captains-log.md",
+      "title": "Historical Activity Log - 2023-08-29",
+      "date": "2023-08-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-08-30-captains-log.md",
+      "title": "Historical Activity Log - 2023-08-30",
+      "date": "2023-08-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-09-19-captains-log.md",
+      "title": "Historical Activity Log - 2023-09-19",
+      "date": "2023-09-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-09-20-captains-log.md",
+      "title": "Historical Activity Log - 2023-09-20",
+      "date": "2023-09-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-09-25-captains-log.md",
+      "title": "Historical Activity Log - 2023-09-25",
+      "date": "2023-09-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-09-26-captains-log.md",
+      "title": "Historical Activity Log - 2023-09-26",
+      "date": "2023-09-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 213,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-10-16-captains-log.md",
+      "title": "Historical Activity Log - 2023-10-16",
+      "date": "2023-10-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-11-04-captains-log.md",
+      "title": "Historical Activity Log - 2023-11-04",
+      "date": "2023-11-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-11-05-captains-log.md",
+      "title": "Historical Activity Log - 2023-11-05",
+      "date": "2023-11-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-11-07-captains-log.md",
+      "title": "Historical Activity Log - 2023-11-07",
+      "date": "2023-11-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-11-08-captains-log.md",
+      "title": "Historical Activity Log - 2023-11-08",
+      "date": "2023-11-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-11-09-captains-log.md",
+      "title": "Historical Activity Log - 2023-11-09",
+      "date": "2023-11-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-11-12-captains-log.md",
+      "title": "Historical Activity Log - 2023-11-12",
+      "date": "2023-11-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-11-13-captains-log.md",
+      "title": "Historical Activity Log - 2023-11-13",
+      "date": "2023-11-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-11-14-captains-log.md",
+      "title": "Historical Activity Log - 2023-11-14",
+      "date": "2023-11-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-11-22-captains-log.md",
+      "title": "Historical Activity Log - 2023-11-22",
+      "date": "2023-11-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-11-23-captains-log.md",
+      "title": "Historical Activity Log - 2023-11-23",
+      "date": "2023-11-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-12-21-captains-log.md",
+      "title": "Historical Activity Log - 2023-12-21",
+      "date": "2023-12-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-12-23-captains-log.md",
+      "title": "Historical Activity Log - 2023-12-23",
+      "date": "2023-12-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-12-24-captains-log.md",
+      "title": "Historical Activity Log - 2023-12-24",
+      "date": "2023-12-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2023-12-25-captains-log.md",
+      "title": "Historical Activity Log - 2023-12-25",
+      "date": "2023-12-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-01-07-captains-log.md",
+      "title": "Historical Activity Log - 2024-01-07",
+      "date": "2024-01-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-01-20-captains-log.md",
+      "title": "Historical Activity Log - 2024-01-20",
+      "date": "2024-01-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 183,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-02-13-captains-log.md",
+      "title": "Historical Activity Log - 2024-02-13",
+      "date": "2024-02-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-02-14-captains-log.md",
+      "title": "Historical Activity Log - 2024-02-14",
+      "date": "2024-02-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-02-15-captains-log.md",
+      "title": "Historical Activity Log - 2024-02-15",
+      "date": "2024-02-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-02-24-captains-log.md",
+      "title": "Historical Activity Log - 2024-02-24",
+      "date": "2024-02-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-03-11-captains-log.md",
+      "title": "Historical Activity Log - 2024-03-11",
+      "date": "2024-03-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-03-13-captains-log.md",
+      "title": "Historical Activity Log - 2024-03-13",
+      "date": "2024-03-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-03-14-captains-log.md",
+      "title": "Historical Activity Log - 2024-03-14",
+      "date": "2024-03-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-03-19-captains-log.md",
+      "title": "Historical Activity Log - 2024-03-19",
+      "date": "2024-03-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-03-21-captains-log.md",
+      "title": "Historical Activity Log - 2024-03-21",
+      "date": "2024-03-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-03-30-captains-log.md",
+      "title": "Historical Activity Log - 2024-03-30",
+      "date": "2024-03-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-03-31-captains-log.md",
+      "title": "Historical Activity Log - 2024-03-31",
+      "date": "2024-03-31",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-04-01-captains-log.md",
+      "title": "Historical Activity Log - 2024-04-01",
+      "date": "2024-04-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-04-04-captains-log.md",
+      "title": "Historical Activity Log - 2024-04-04",
+      "date": "2024-04-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-04-05-captains-log.md",
+      "title": "Historical Activity Log - 2024-04-05",
+      "date": "2024-04-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-04-06-captains-log.md",
+      "title": "Historical Activity Log - 2024-04-06",
+      "date": "2024-04-06",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 183,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-04-23-captains-log.md",
+      "title": "Historical Activity Log - 2024-04-23",
+      "date": "2024-04-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-04-24-captains-log.md",
+      "title": "Historical Activity Log - 2024-04-24",
+      "date": "2024-04-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-04-26-captains-log.md",
+      "title": "Historical Activity Log - 2024-04-26",
+      "date": "2024-04-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-04-27-captains-log.md",
+      "title": "Historical Activity Log - 2024-04-27",
+      "date": "2024-04-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-04-28-captains-log.md",
+      "title": "Historical Activity Log - 2024-04-28",
+      "date": "2024-04-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-04-29-captains-log.md",
+      "title": "Historical Activity Log - 2024-04-29",
+      "date": "2024-04-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-04-30-captains-log.md",
+      "title": "Historical Activity Log - 2024-04-30",
+      "date": "2024-04-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-05-01-captains-log.md",
+      "title": "Historical Activity Log - 2024-05-01",
+      "date": "2024-05-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-05-02-captains-log.md",
+      "title": "Historical Activity Log - 2024-05-02",
+      "date": "2024-05-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-05-04-captains-log.md",
+      "title": "Historical Activity Log - 2024-05-04",
+      "date": "2024-05-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-05-05-captains-log.md",
+      "title": "Historical Activity Log - 2024-05-05",
+      "date": "2024-05-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 183,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-05-18-captains-log.md",
+      "title": "Historical Activity Log - 2024-05-18",
+      "date": "2024-05-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 190,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-05-19-captains-log.md",
+      "title": "Historical Activity Log - 2024-05-19",
+      "date": "2024-05-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 183,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-05-20-captains-log.md",
+      "title": "Historical Activity Log - 2024-05-20",
+      "date": "2024-05-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 190,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-05-21-captains-log.md",
+      "title": "Historical Activity Log - 2024-05-21",
+      "date": "2024-05-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-06-10-captains-log.md",
+      "title": "Historical Activity Log - 2024-06-10",
+      "date": "2024-06-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-06-11-captains-log.md",
+      "title": "Historical Activity Log - 2024-06-11",
+      "date": "2024-06-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-06-17-captains-log.md",
+      "title": "Historical Activity Log - 2024-06-17",
+      "date": "2024-06-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-06-29-captains-log.md",
+      "title": "Historical Activity Log - 2024-06-29",
+      "date": "2024-06-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-06-30-captains-log.md",
+      "title": "Historical Activity Log - 2024-06-30",
+      "date": "2024-06-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 201,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-07-19-captains-log.md",
+      "title": "Historical Activity Log - 2024-07-19",
+      "date": "2024-07-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 190,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-07-20-captains-log.md",
+      "title": "Historical Activity Log - 2024-07-20",
+      "date": "2024-07-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-07-25-captains-log.md",
+      "title": "Historical Activity Log - 2024-07-25",
+      "date": "2024-07-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-07-28-captains-log.md",
+      "title": "Historical Activity Log - 2024-07-28",
+      "date": "2024-07-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-08-04-captains-log.md",
+      "title": "Historical Activity Log - 2024-08-04",
+      "date": "2024-08-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-08-06-captains-log.md",
+      "title": "Historical Activity Log - 2024-08-06",
+      "date": "2024-08-06",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-08-07-captains-log.md",
+      "title": "Historical Activity Log - 2024-08-07",
+      "date": "2024-08-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-05-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-05",
+      "date": "2024-09-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-07-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-07",
+      "date": "2024-09-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-08-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-08",
+      "date": "2024-09-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-09-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-09",
+      "date": "2024-09-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 203,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-10-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-10",
+      "date": "2024-09-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-11-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-11",
+      "date": "2024-09-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-12-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-12",
+      "date": "2024-09-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 206,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-13-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-13",
+      "date": "2024-09-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-14-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-14",
+      "date": "2024-09-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-15-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-15",
+      "date": "2024-09-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-16-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-16",
+      "date": "2024-09-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-17-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-17",
+      "date": "2024-09-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-09-18-captains-log.md",
+      "title": "Historical Activity Log - 2024-09-18",
+      "date": "2024-09-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-10-04-captains-log.md",
+      "title": "Historical Activity Log - 2024-10-04",
+      "date": "2024-10-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-10-05-captains-log.md",
+      "title": "Historical Activity Log - 2024-10-05",
+      "date": "2024-10-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-10-07-captains-log.md",
+      "title": "Historical Activity Log - 2024-10-07",
+      "date": "2024-10-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-10-12-captains-log.md",
+      "title": "Historical Activity Log - 2024-10-12",
+      "date": "2024-10-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-11-12-captains-log.md",
+      "title": "Historical Activity Log - 2024-11-12",
+      "date": "2024-11-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-11-13-captains-log.md",
+      "title": "Historical Activity Log - 2024-11-13",
+      "date": "2024-11-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-11-14-captains-log.md",
+      "title": "Historical Activity Log - 2024-11-14",
+      "date": "2024-11-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-11-15-captains-log.md",
+      "title": "Historical Activity Log - 2024-11-15",
+      "date": "2024-11-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-11-16-captains-log.md",
+      "title": "Historical Activity Log - 2024-11-16",
+      "date": "2024-11-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-11-17-captains-log.md",
+      "title": "Historical Activity Log - 2024-11-17",
+      "date": "2024-11-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-11-18-captains-log.md",
+      "title": "Historical Activity Log - 2024-11-18",
+      "date": "2024-11-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-11-19-captains-log.md",
+      "title": "Historical Activity Log - 2024-11-19",
+      "date": "2024-11-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-11-20-captains-log.md",
+      "title": "Historical Activity Log - 2024-11-20",
+      "date": "2024-11-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-11-29-captains-log.md",
+      "title": "Historical Activity Log - 2024-11-29",
+      "date": "2024-11-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-11-30-captains-log.md",
+      "title": "Historical Activity Log - 2024-11-30",
+      "date": "2024-11-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-12-03-captains-log.md",
+      "title": "Historical Activity Log - 2024-12-03",
+      "date": "2024-12-03",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-12-05-captains-log.md",
+      "title": "Historical Activity Log - 2024-12-05",
+      "date": "2024-12-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-12-07-captains-log.md",
+      "title": "Historical Activity Log - 2024-12-07",
+      "date": "2024-12-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-12-08-captains-log.md",
+      "title": "Historical Activity Log - 2024-12-08",
+      "date": "2024-12-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-12-12-captains-log.md",
+      "title": "Historical Activity Log - 2024-12-12",
+      "date": "2024-12-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-12-20-captains-log.md",
+      "title": "Historical Activity Log - 2024-12-20",
+      "date": "2024-12-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-12-21-captains-log.md",
+      "title": "Historical Activity Log - 2024-12-21",
+      "date": "2024-12-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-12-22-captains-log.md",
+      "title": "Historical Activity Log - 2024-12-22",
+      "date": "2024-12-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-12-23-captains-log.md",
+      "title": "Historical Activity Log - 2024-12-23",
+      "date": "2024-12-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-12-26-captains-log.md",
+      "title": "Historical Activity Log - 2024-12-26",
+      "date": "2024-12-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2024-12-27-captains-log.md",
+      "title": "Historical Activity Log - 2024-12-27",
+      "date": "2024-12-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-01-02-captains-log.md",
+      "title": "Historical Activity Log - 2025-01-02",
+      "date": "2025-01-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-01-03-captains-log.md",
+      "title": "Historical Activity Log - 2025-01-03",
+      "date": "2025-01-03",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-01-07-captains-log.md",
+      "title": "Historical Activity Log - 2025-01-07",
+      "date": "2025-01-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-01-11-captains-log.md",
+      "title": "Historical Activity Log - 2025-01-11",
+      "date": "2025-01-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-01-12-captains-log.md",
+      "title": "Historical Activity Log - 2025-01-12",
+      "date": "2025-01-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-01-13-captains-log.md",
+      "title": "Historical Activity Log - 2025-01-13",
+      "date": "2025-01-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-01-23-captains-log.md",
+      "title": "Historical Activity Log - 2025-01-23",
+      "date": "2025-01-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-01-27-captains-log.md",
+      "title": "Historical Activity Log - 2025-01-27",
+      "date": "2025-01-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-01-29-captains-log.md",
+      "title": "Historical Activity Log - 2025-01-29",
+      "date": "2025-01-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-01-30-captains-log.md",
+      "title": "Historical Activity Log - 2025-01-30",
+      "date": "2025-01-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-02-01-captains-log.md",
+      "title": "Historical Activity Log - 2025-02-01",
+      "date": "2025-02-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-02-02-captains-log.md",
+      "title": "Historical Activity Log - 2025-02-02",
+      "date": "2025-02-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-02-06-captains-log.md",
+      "title": "Historical Activity Log - 2025-02-06",
+      "date": "2025-02-06",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-02-20-captains-log.md",
+      "title": "Historical Activity Log - 2025-02-20",
+      "date": "2025-02-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-02-21-captains-log.md",
+      "title": "Historical Activity Log - 2025-02-21",
+      "date": "2025-02-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-03-01-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-01",
+      "date": "2025-03-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-03-02-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-02",
+      "date": "2025-03-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 204,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-03-05-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-05",
+      "date": "2025-03-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 203,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-03-07-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-07",
+      "date": "2025-03-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-08-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-08",
+      "date": "2025-03-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-10-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-10",
+      "date": "2025-03-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-11-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-11",
+      "date": "2025-03-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 223,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-12-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-12",
+      "date": "2025-03-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-13-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-13",
+      "date": "2025-03-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-14-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-14",
+      "date": "2025-03-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 204,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-15-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-15",
+      "date": "2025-03-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-16-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-16",
+      "date": "2025-03-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-17-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-17",
+      "date": "2025-03-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 222,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-18-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-18",
+      "date": "2025-03-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 230,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-19-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-19",
+      "date": "2025-03-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-21-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-21",
+      "date": "2025-03-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 182,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-22-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-22",
+      "date": "2025-03-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-24-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-24",
+      "date": "2025-03-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 182,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-25-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-25",
+      "date": "2025-03-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 205,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-27-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-27",
+      "date": "2025-03-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 207,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-28-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-28",
+      "date": "2025-03-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 231,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-30-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-30",
+      "date": "2025-03-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 217,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-03-31-captains-log.md",
+      "title": "Historical Activity Log - 2025-03-31",
+      "date": "2025-03-31",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-01-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-01",
+      "date": "2025-04-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 197,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-02-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-02",
+      "date": "2025-04-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-03-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-03",
+      "date": "2025-04-03",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 212,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-04-04-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-04",
+      "date": "2025-04-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-05-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-05",
+      "date": "2025-04-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-04-06-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-06",
+      "date": "2025-04-06",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-07-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-07",
+      "date": "2025-04-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 201,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-10-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-10",
+      "date": "2025-04-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 183,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-04-12-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-12",
+      "date": "2025-04-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 203,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-13-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-13",
+      "date": "2025-04-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-15-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-15",
+      "date": "2025-04-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-16-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-16",
+      "date": "2025-04-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-17-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-17",
+      "date": "2025-04-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-18-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-18",
+      "date": "2025-04-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-19-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-19",
+      "date": "2025-04-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 203,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-20-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-20",
+      "date": "2025-04-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-21-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-21",
+      "date": "2025-04-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-22-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-22",
+      "date": "2025-04-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-23-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-23",
+      "date": "2025-04-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-27-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-27",
+      "date": "2025-04-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-04-30-captains-log.md",
+      "title": "Historical Activity Log - 2025-04-30",
+      "date": "2025-04-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-05-01-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-01",
+      "date": "2025-05-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-05-03-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-03",
+      "date": "2025-05-03",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-05-04-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-04",
+      "date": "2025-05-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 214,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-05-05-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-05",
+      "date": "2025-05-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 227,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-05-06-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-06",
+      "date": "2025-05-06",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 203,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-05-07-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-07",
+      "date": "2025-05-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-05-09-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-09",
+      "date": "2025-05-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 216,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-05-10-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-10",
+      "date": "2025-05-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "I"
+      ]
+    },
+    {
+      "filename": "2025-05-11-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-11",
+      "date": "2025-05-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-05-12-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-12",
+      "date": "2025-05-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-05-27-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-27",
+      "date": "2025-05-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-05-28-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-28",
+      "date": "2025-05-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-05-29-captains-log.md",
+      "title": "Historical Activity Log - 2025-05-29",
+      "date": "2025-05-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-06-01-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-01",
+      "date": "2025-06-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-06-02-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-02",
+      "date": "2025-06-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 202,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-06-03-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-03",
+      "date": "2025-06-03",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-06-05-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-05",
+      "date": "2025-06-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-06-07-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-07",
+      "date": "2025-06-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-06-08-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-08",
+      "date": "2025-06-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 232,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-06-09-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-09",
+      "date": "2025-06-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-06-16-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-16",
+      "date": "2025-06-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 190,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-06-18-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-18",
+      "date": "2025-06-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-06-21-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-21",
+      "date": "2025-06-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 205,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-06-23-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-23",
+      "date": "2025-06-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 188,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-06-24-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-24",
+      "date": "2025-06-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 184,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-06-26-captains-log.md",
+      "title": "Historical Activity Log - 2025-06-26",
+      "date": "2025-06-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-01-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-01",
+      "date": "2025-07-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-02-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-02",
+      "date": "2025-07-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 193,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-03-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-03",
+      "date": "2025-07-03",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-04-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-04",
+      "date": "2025-07-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 208,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-09-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-09",
+      "date": "2025-07-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-11-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-11",
+      "date": "2025-07-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-17-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-17",
+      "date": "2025-07-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 187,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-18-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-18",
+      "date": "2025-07-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-22-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-22",
+      "date": "2025-07-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 192,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-23-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-23",
+      "date": "2025-07-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 212,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-24-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-24",
+      "date": "2025-07-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 201,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-25-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-25",
+      "date": "2025-07-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 201,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-26-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-26",
+      "date": "2025-07-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 212,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-27-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-27",
+      "date": "2025-07-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 214,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-28-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-28",
+      "date": "2025-07-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-29-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-29",
+      "date": "2025-07-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-30-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-30",
+      "date": "2025-07-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-07-31-captains-log.md",
+      "title": "Historical Activity Log - 2025-07-31",
+      "date": "2025-07-31",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 191,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-08-01-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-01",
+      "date": "2025-08-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 205,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-08-02-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-02",
+      "date": "2025-08-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 213,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-08-03-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-03",
+      "date": "2025-08-03",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-08-04-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-04",
+      "date": "2025-08-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 218,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-08-05-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-05",
+      "date": "2025-08-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 194,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-08-09-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-09",
+      "date": "2025-08-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 225,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-08-10-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-10",
+      "date": "2025-08-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 208,
+      "organs_touched": [
+        "I"
+      ]
+    },
+    {
+      "filename": "2025-08-11-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-11",
+      "date": "2025-08-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 216,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-08-12-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-12",
+      "date": "2025-08-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 217,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-08-13-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-13",
+      "date": "2025-08-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 214,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-08-14-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-14",
+      "date": "2025-08-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 234,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-08-18-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-18",
+      "date": "2025-08-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 182,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-08-22-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-22",
+      "date": "2025-08-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "I"
+      ]
+    },
+    {
+      "filename": "2025-08-24-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-24",
+      "date": "2025-08-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-08-26-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-26",
+      "date": "2025-08-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2025-08-27-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-27",
+      "date": "2025-08-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 220,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-08-28-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-28",
+      "date": "2025-08-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 200,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2025-08-29-captains-log.md",
+      "title": "Historical Activity Log - 2025-08-29",
+      "date": "2025-08-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 203,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2025-09-05-captains-log.md",
+      "title": "Historical Activity Log - 2025-09-05",
+      "date": "2025-09-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "I"
+      ]
+    },
+    {
+      "filename": "2025-09-06-captains-log.md",
+      "title": "Historical Activity Log - 2025-09-06",
+      "date": "2025-09-06",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 224,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-09-08-captains-log.md",
+      "title": "Historical Activity Log - 2025-09-08",
+      "date": "2025-09-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 195,
+      "organs_touched": [
+        "I"
+      ]
+    },
+    {
+      "filename": "2025-09-09-captains-log.md",
+      "title": "Historical Activity Log - 2025-09-09",
+      "date": "2025-09-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-09-17-captains-log.md",
+      "title": "Historical Activity Log - 2025-09-17",
+      "date": "2025-09-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-09-18-captains-log.md",
+      "title": "Historical Activity Log - 2025-09-18",
+      "date": "2025-09-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-09-20-captains-log.md",
+      "title": "Historical Activity Log - 2025-09-20",
+      "date": "2025-09-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 196,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-09-25-captains-log.md",
+      "title": "Historical Activity Log - 2025-09-25",
+      "date": "2025-09-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "I"
+      ]
+    },
+    {
+      "filename": "2025-09-26-captains-log.md",
+      "title": "Historical Activity Log - 2025-09-26",
+      "date": "2025-09-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 198,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-09-30-captains-log.md",
+      "title": "Historical Activity Log - 2025-09-30",
+      "date": "2025-09-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-10-08-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-08",
+      "date": "2025-10-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 186,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-10-14-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-14",
+      "date": "2025-10-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 221,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-10-15-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-15",
+      "date": "2025-10-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 221,
+      "organs_touched": [
+        "II",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-10-16-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-16",
+      "date": "2025-10-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 203,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-10-17-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-17",
+      "date": "2025-10-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-10-18-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-18",
+      "date": "2025-10-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 205,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-10-20-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-20",
+      "date": "2025-10-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 182,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-10-22-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-22",
+      "date": "2025-10-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "I"
+      ]
+    },
+    {
+      "filename": "2025-10-23-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-23",
+      "date": "2025-10-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 299,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-10-24-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-24",
+      "date": "2025-10-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 216,
+      "organs_touched": [
+        "I",
+        "II"
+      ]
+    },
+    {
+      "filename": "2025-10-25-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-25",
+      "date": "2025-10-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 283,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-10-26-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-26",
+      "date": "2025-10-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 213,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-10-27-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-27",
+      "date": "2025-10-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 227,
+      "organs_touched": [
+        "I",
+        "II"
+      ]
+    },
+    {
+      "filename": "2025-10-28-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-28",
+      "date": "2025-10-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 268,
+      "organs_touched": [
+        "I",
+        "II",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-10-29-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-29",
+      "date": "2025-10-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 375,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-10-30-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-30",
+      "date": "2025-10-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 377,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-10-31-captains-log.md",
+      "title": "Historical Activity Log - 2025-10-31",
+      "date": "2025-10-31",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 302,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-11-01-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-01",
+      "date": "2025-11-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 203,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-11-02-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-02",
+      "date": "2025-11-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 235,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-03-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-03",
+      "date": "2025-11-03",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 257,
+      "organs_touched": [
+        "I",
+        "II",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-04-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-04",
+      "date": "2025-11-04",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 421,
+      "organs_touched": [
+        "I",
+        "II",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-05-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-05",
+      "date": "2025-11-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 205,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-06-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-06",
+      "date": "2025-11-06",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 288,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-07-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-07",
+      "date": "2025-11-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 202,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-08-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-08",
+      "date": "2025-11-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 234,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-09-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-09",
+      "date": "2025-11-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 338,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-10-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-10",
+      "date": "2025-11-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 217,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-11-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-11",
+      "date": "2025-11-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 220,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-12-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-12",
+      "date": "2025-11-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 333,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-13-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-13",
+      "date": "2025-11-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 232,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-16-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-16",
+      "date": "2025-11-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 309,
+      "organs_touched": [
+        "I",
+        "II",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-17-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-17",
+      "date": "2025-11-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 275,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-18-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-18",
+      "date": "2025-11-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 506,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-11-19-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-19",
+      "date": "2025-11-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 358,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-11-20-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-20",
+      "date": "2025-11-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 261,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-21-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-21",
+      "date": "2025-11-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 259,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-22-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-22",
+      "date": "2025-11-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 212,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-23-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-23",
+      "date": "2025-11-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 228,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-11-24-captains-log.md",
+      "title": "Historical Activity Log - 2025-11-24",
+      "date": "2025-11-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 237,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-08-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-08",
+      "date": "2025-12-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 182,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-12-09-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-09",
+      "date": "2025-12-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 280,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2025-12-10-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-10",
+      "date": "2025-12-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 322,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-12-11-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-11",
+      "date": "2025-12-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 461,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-12-12-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-12",
+      "date": "2025-12-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 237,
+      "organs_touched": [
+        "II",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-13-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-13",
+      "date": "2025-12-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 230,
+      "organs_touched": [
+        "II",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-14-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-14",
+      "date": "2025-12-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 206,
+      "organs_touched": [
+        "I"
+      ]
+    },
+    {
+      "filename": "2025-12-15-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-15",
+      "date": "2025-12-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 262,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-16-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-16",
+      "date": "2025-12-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 476,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-17-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-17",
+      "date": "2025-12-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 362,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-18-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-18",
+      "date": "2025-12-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 293,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-19-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-19",
+      "date": "2025-12-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 420,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-20-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-20",
+      "date": "2025-12-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 304,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-21-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-21",
+      "date": "2025-12-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 209,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-22-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-22",
+      "date": "2025-12-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 320,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-23-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-23",
+      "date": "2025-12-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 294,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-24-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-24",
+      "date": "2025-12-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 239,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-25-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-25",
+      "date": "2025-12-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2025-12-26-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-26",
+      "date": "2025-12-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 270,
+      "organs_touched": [
+        "I",
+        "II",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-28-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-28",
+      "date": "2025-12-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 382,
+      "organs_touched": [
+        "II",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-12-29-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-29",
+      "date": "2025-12-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 281,
+      "organs_touched": [
+        "II",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2025-12-30-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-30",
+      "date": "2025-12-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 474,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2025-12-31-captains-log.md",
+      "title": "Historical Activity Log - 2025-12-31",
+      "date": "2025-12-31",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 452,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-01-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-01",
+      "date": "2026-01-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 352,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-02-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-02",
+      "date": "2026-01-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 301,
+      "organs_touched": [
+        "I",
+        "II",
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-03-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-03",
+      "date": "2026-01-03",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 333,
+      "organs_touched": [
+        "I",
+        "II",
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-05-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-05",
+      "date": "2026-01-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 185,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-07-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-07",
+      "date": "2026-01-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 358,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-08-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-08",
+      "date": "2026-01-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 377,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-09-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-09",
+      "date": "2026-01-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 460,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-11-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-11",
+      "date": "2026-01-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 189,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-12-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-12",
+      "date": "2026-01-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 498,
+      "organs_touched": [
+        "I",
+        "III",
+        "Personal"
+      ]
+    },
+    {
+      "filename": "2026-01-13-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-13",
+      "date": "2026-01-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 359,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-15-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-15",
+      "date": "2026-01-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 296,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-16-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-16",
+      "date": "2026-01-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 209,
+      "organs_touched": [
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-17-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-17",
+      "date": "2026-01-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 325,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-18-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-18",
+      "date": "2026-01-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 277,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-19-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-19",
+      "date": "2026-01-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 536,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-20-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-20",
+      "date": "2026-01-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 342,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-21-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-21",
+      "date": "2026-01-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 1007,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-22-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-22",
+      "date": "2026-01-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 1685,
+      "organs_touched": [
+        "I",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-23-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-23",
+      "date": "2026-01-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 748,
+      "organs_touched": [
+        "I",
+        "II",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-24-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-24",
+      "date": "2026-01-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 766,
+      "organs_touched": [
+        "I",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-25-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-25",
+      "date": "2026-01-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 2506,
+      "organs_touched": [
+        "I",
+        "II",
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-26-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-26",
+      "date": "2026-01-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 2955,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-27-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-27",
+      "date": "2026-01-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 3252,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-01-28-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-28",
+      "date": "2026-01-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 2394,
+      "organs_touched": [
+        "I",
+        "II",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-29-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-29",
+      "date": "2026-01-29",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 3405,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-30-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-30",
+      "date": "2026-01-30",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 744,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-01-31-captains-log.md",
+      "title": "Historical Activity Log - 2026-01-31",
+      "date": "2026-01-31",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 648,
+      "organs_touched": [
+        "I",
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-02-01-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-01",
+      "date": "2026-02-01",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 1138,
+      "organs_touched": [
+        "I",
+        "II",
+        "III"
+      ]
+    },
+    {
+      "filename": "2026-02-02-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-02",
+      "date": "2026-02-02",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 210,
+      "organs_touched": [
+        "II"
+      ]
+    },
+    {
+      "filename": "2026-02-05-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-05",
+      "date": "2026-02-05",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 676,
+      "organs_touched": [
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-02-06-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-06",
+      "date": "2026-02-06",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 453,
+      "organs_touched": [
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-02-07-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-07",
+      "date": "2026-02-07",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 305,
+      "organs_touched": [
+        "II",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-02-08-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-08",
+      "date": "2026-02-08",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 461,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-02-09-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-09",
+      "date": "2026-02-09",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 432,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV"
+      ]
+    },
+    {
+      "filename": "2026-02-10-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-10",
+      "date": "2026-02-10",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 1620,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "Personal",
+        "V"
+      ]
+    },
+    {
+      "filename": "2026-02-11-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-11",
+      "date": "2026-02-11",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 2025,
       "organs_touched": [
         "I",
         "II",
         "III",
         "IV",
         "META",
+        "Personal",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-02-12-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-12",
+      "date": "2026-02-12",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 3029,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-02-13-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-13",
+      "date": "2026-02-13",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 705,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V",
+        "VI"
+      ]
+    },
+    {
+      "filename": "2026-02-14-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-14",
+      "date": "2026-02-14",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 802,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V"
+      ]
+    },
+    {
+      "filename": "2026-02-15-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-15",
+      "date": "2026-02-15",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 460,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "META",
+        "Personal"
+      ]
+    },
+    {
+      "filename": "2026-02-16-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-16",
+      "date": "2026-02-16",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 657,
+      "organs_touched": [
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-02-17-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-17",
+      "date": "2026-02-17",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 2581,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-02-18-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-18",
+      "date": "2026-02-18",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 1377,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-02-19-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-19",
+      "date": "2026-02-19",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III",
+        "META"
+      ]
+    },
+    {
+      "filename": "2026-02-20-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-20",
+      "date": "2026-02-20",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 199,
+      "organs_touched": [
+        "III",
+        "META"
+      ]
+    },
+    {
+      "filename": "2026-02-21-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-21",
+      "date": "2026-02-21",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 245,
+      "organs_touched": [
+        "III",
+        "META",
+        "Personal"
+      ]
+    },
+    {
+      "filename": "2026-02-22-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-22",
+      "date": "2026-02-22",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 307,
+      "organs_touched": [
+        "III",
+        "META",
+        "Personal"
+      ]
+    },
+    {
+      "filename": "2026-02-23-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-23",
+      "date": "2026-02-23",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 1298,
+      "organs_touched": [
+        "I",
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-02-24-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-24",
+      "date": "2026-02-24",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 3669,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-02-25-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-25",
+      "date": "2026-02-25",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 295,
+      "organs_touched": [
+        "II",
+        "III",
+        "META",
+        "Personal"
+      ]
+    },
+    {
+      "filename": "2026-02-26-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-26",
+      "date": "2026-02-26",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 380,
+      "organs_touched": [
+        "III",
+        "META",
+        "Personal"
+      ]
+    },
+    {
+      "filename": "2026-02-27-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-27",
+      "date": "2026-02-27",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 1122,
+      "organs_touched": [
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-02-28-captains-log.md",
+      "title": "Historical Activity Log - 2026-02-28",
+      "date": "2026-02-28",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 2084,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal",
         "V",
         "VI",
         "VII"
@@ -70,47 +6101,155 @@
     },
     {
       "filename": "2026-03-01-captains-log.md",
-      "title": "The Quiet After — Three Commits and a Long Exhale",
+      "title": "Historical Activity Log - 2026-03-01",
       "date": "2026-03-01",
-      "mood": "reflective",
+      "mood": "routine",
       "tags": [
-        "infrastructure",
-        "maintenance"
+        "historical"
       ],
-      "word_count": 832,
+      "word_count": 237,
       "organs_touched": [
         "I",
-        "META"
+        "III",
+        "META",
+        "Personal"
       ]
     },
     {
       "filename": "2026-03-02-captains-log.md",
-      "title": "Pipeline Deep Dive — Application Infrastructure Matures",
+      "title": "Historical Activity Log - 2026-03-02",
       "date": "2026-03-02",
-      "mood": "focused",
+      "mood": "routine",
       "tags": [
-        "infrastructure",
-        "documentation",
-        "feature"
+        "historical"
       ],
-      "word_count": 937,
+      "word_count": 228,
       "organs_touched": [
-        "META"
+        "III",
+        "META",
+        "Personal"
       ]
     },
     {
       "filename": "2026-03-03-captains-log.md",
-      "title": "Systems Talking to Themselves — Automation, Evaluation, Backups",
+      "title": "The CI Stabilization — Chezmoi Hardening, Citation Logic, and Conductor Genesis",
       "date": "2026-03-03",
       "mood": "routine",
       "tags": [
-        "infrastructure",
-        "automation",
-        "self-assessment"
+        "ci-cd",
+        "stability",
+        "conductor"
       ],
-      "word_count": 895,
+      "word_count": 1762,
       "organs_touched": [
-        "META"
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-03-04-captains-log.md",
+      "title": "The Great Surfacing — Doctoral Dissertations, Conductor OS, and the Enterprise Fix",
+      "date": "2026-03-04",
+      "mood": "focused",
+      "tags": [
+        "automation",
+        "dissertation",
+        "security"
+      ],
+      "word_count": 2628,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-03-05-captains-log.md",
+      "title": "Omnipresence and the Progress Gate — Federation, Escalation, and Alpha-to-Omega Completion",
+      "date": "2026-03-05",
+      "mood": "breakthrough",
+      "tags": [
+        "analytics",
+        "federation",
+        "governance"
+      ],
+      "word_count": 2172,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal",
+        "V",
+        "VI",
+        "VII"
+      ]
+    },
+    {
+      "filename": "2026-03-06-captains-log.md",
+      "title": "Historical Activity Log - 2026-03-06",
+      "date": "2026-03-06",
+      "mood": "routine",
+      "tags": [
+        "historical"
+      ],
+      "word_count": 258,
+      "organs_touched": [
+        "META",
+        "Personal"
+      ]
+    },
+    {
+      "filename": "2026-03-07-captains-log.md",
+      "title": "The Governance Flood — 80 Features, Distillation Pipeline, and the Taxis Construction Blitz",
+      "date": "2026-03-07",
+      "mood": "focused",
+      "tags": [
+        "governance",
+        "automation",
+        "distillation"
+      ],
+      "word_count": 1672,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal"
+      ]
+    },
+    {
+      "filename": "2026-03-08-captains-log.md",
+      "title": "The Grand Unification — 100% Graduation, Multi-Agent Coordination, and the Study Suite",
+      "date": "2026-03-08",
+      "mood": "breakthrough",
+      "tags": [
+        "graduation",
+        "coordination",
+        "governance"
+      ],
+      "word_count": 1716,
+      "organs_touched": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "META",
+        "Personal"
       ]
     }
   ]

@@ -1,0 +1,55 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2025-08-10",
+  "until": "2025-08-10",
+  "summary": {
+    "total_commits": 6,
+    "repos_active": 1,
+    "files_changed": 85,
+    "organs_touched": [
+      "I"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "0ba499d",
+              "date": "2025-08-10",
+              "message": "Add 10 suggested agents for RE:GE environment system"
+            },
+            {
+              "hash": "0d7024b",
+              "date": "2025-08-10",
+              "message": "Complete Obsidian BRAIN reorganization - ready for cold storage"
+            },
+            {
+              "hash": "ad65238",
+              "date": "2025-08-10",
+              "message": "Major vault reorganization: standardize naming and directory structure"
+            },
+            {
+              "hash": "663b554",
+              "date": "2025-08-10",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "cc10f5d",
+              "date": "2025-08-10",
+              "message": "Implement TemplateConive AI management system with templates, registry, and David example"
+            },
+            {
+              "hash": "184b4fc",
+              "date": "2025-08-10",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 85
+        }
+      }
+    }
+  }
+}

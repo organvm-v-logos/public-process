@@ -1,0 +1,55 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-04-18",
+  "until": "2025-04-18",
+  "summary": {
+    "total_commits": 6,
+    "repos_active": 1,
+    "files_changed": 4,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "70aae79",
+              "date": "2025-04-18",
+              "message": "GrindrPlus: Prepare for 25.6.0"
+            },
+            {
+              "hash": "76811a7",
+              "date": "2025-04-18",
+              "message": "GrindrPlus: Fix wrong class name for phrasesRestService"
+            },
+            {
+              "hash": "09b2b42",
+              "date": "2025-04-18",
+              "message": "GrindrPlus: Fix more config race conditions"
+            },
+            {
+              "hash": "aa5b521",
+              "date": "2025-04-18",
+              "message": "GrindrPlus: Reduce memory leaks in HTTP client"
+            },
+            {
+              "hash": "2f955f4",
+              "date": "2025-04-18",
+              "message": "GrindrPlus: Store current activity in WeakReference"
+            },
+            {
+              "hash": "13c775e",
+              "date": "2025-04-18",
+              "message": "GrindrPlus: Updates for 25.6.0"
+            }
+          ],
+          "files_changed": 4
+        }
+      }
+    }
+  }
+}

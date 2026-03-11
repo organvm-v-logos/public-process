@@ -1,0 +1,65 @@
+{
+  "generated": "2026-03-06T00:39:47Z",
+  "since": "2025-10-16",
+  "until": "2025-10-16",
+  "summary": {
+    "total_commits": 8,
+    "repos_active": 1,
+    "files_changed": 292,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "a-i--skills": {
+          "commits": [
+            {
+              "hash": "0877bae",
+              "date": "2025-10-16",
+              "message": "Updates to README.md (#9)"
+            },
+            {
+              "hash": "b118d29",
+              "date": "2025-10-16",
+              "message": "Add Claude Claude instructions to the readme (#8)"
+            },
+            {
+              "hash": "4d1e3f3",
+              "date": "2025-10-16",
+              "message": "Add Claude Code Marketplace (#5)"
+            },
+            {
+              "hash": "9b61003",
+              "date": "2025-10-16",
+              "message": "Small tweak to blog link (#7)"
+            },
+            {
+              "hash": "10e0fbe",
+              "date": "2025-10-16",
+              "message": "Add initial Agent Skills Spec (#2)"
+            },
+            {
+              "hash": "ec84104",
+              "date": "2025-10-16",
+              "message": "Add 3rd Party notices (#4)"
+            },
+            {
+              "hash": "67ada86",
+              "date": "2025-10-16",
+              "message": "Adding more details to README (#3)"
+            },
+            {
+              "hash": "83291af",
+              "date": "2025-10-16",
+              "message": "Reorganize the example skills (#1)"
+            }
+          ],
+          "files_changed": 292
+        }
+      }
+    }
+  }
+}

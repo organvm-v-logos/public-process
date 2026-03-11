@@ -1,0 +1,45 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-03-08",
+  "until": "2025-03-08",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 1,
+    "files_changed": 11,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "320461d",
+              "date": "2025-03-08",
+              "message": "formatted and uploaded to pypi"
+            },
+            {
+              "hash": "bdde154",
+              "date": "2025-03-08",
+              "message": "updated readme"
+            },
+            {
+              "hash": "962839a",
+              "date": "2025-03-08",
+              "message": "change material seems to be working now"
+            },
+            {
+              "hash": "31bce0d",
+              "date": "2025-03-08",
+              "message": "at least it isnt crashing now? somewhat works!"
+            }
+          ],
+          "files_changed": 11
+        }
+      }
+    }
+  }
+}

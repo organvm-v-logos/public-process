@@ -1,0 +1,638 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2026-01-26",
+  "until": "2026-01-26",
+  "summary": {
+    "total_commits": 109,
+    "repos_active": 11,
+    "files_changed": 347,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "c5a68ed",
+              "date": "2026-01-26",
+              "message": "chore: gitignore test artifacts (.test-tmp/)"
+            },
+            {
+              "hash": "f79a27c",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ docs: streamline CLAUDE.md with missing commands and fixes    2 │    3 │ - Add test commands (npm test, watch, coverage, UI)    4 │ - Add database commands (migrate, prepare-db)    5 │ - Add --source= filter for export    6 │ - Update status to 177/235 (75%) per roadmap    7 │ - Fix project structure to match actual flat src/ layout    8 │ - Remove redundancy and reduce from ~280 to ~180 lines    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "de2fdb2",
+              "date": "2026-01-26",
+              "message": "chore: gitignore playwright sessions, copilot exports, debug scripts"
+            },
+            {
+              "hash": "a628f5d",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add Gemini browser crawler and source filter option    2 │    3 │ - Implement full Playwright-based Gemini crawler with login detection,    4 │   conversation list extraction, and message scraping    5 │ - Add --source= CLI option to export.ts for single-source exports    6 │ - Update atomized index with cleaned data    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "087ea28",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ chore: add archived intake data and ChatGPT exports    2 │    3 │ Add 2025 archive intake files including ChatGPT conversation exports    4 │ with audio recordings, images, DALL-E generations, and metadata.    5 │ Update .gitignore to exclude sensitive files, raw imported data,    6 │ and large files exceeding GitHub limits.    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 5
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "c5a68ed",
+              "date": "2026-01-26",
+              "message": "chore: gitignore test artifacts (.test-tmp/)"
+            },
+            {
+              "hash": "f79a27c",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ docs: streamline CLAUDE.md with missing commands and fixes    2 │    3 │ - Add test commands (npm test, watch, coverage, UI)    4 │ - Add database commands (migrate, prepare-db)    5 │ - Add --source= filter for export    6 │ - Update status to 177/235 (75%) per roadmap    7 │ - Fix project structure to match actual flat src/ layout    8 │ - Remove redundancy and reduce from ~280 to ~180 lines    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "de2fdb2",
+              "date": "2026-01-26",
+              "message": "chore: gitignore playwright sessions, copilot exports, debug scripts"
+            },
+            {
+              "hash": "a628f5d",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add Gemini browser crawler and source filter option    2 │    3 │ - Implement full Playwright-based Gemini crawler with login detection,    4 │   conversation list extraction, and message scraping    5 │ - Add --source= CLI option to export.ts for single-source exports    6 │ - Update atomized index with cleaned data    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "087ea28",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ chore: add archived intake data and ChatGPT exports    2 │    3 │ Add 2025 archive intake files including ChatGPT conversation exports    4 │ with audio recordings, images, DALL-E generations, and metadata.    5 │ Update .gitignore to exclude sensitive files, raw imported data,    6 │ and large files exceeding GitHub limits.    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 5
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "c5a68ed",
+              "date": "2026-01-26",
+              "message": "chore: gitignore test artifacts (.test-tmp/)"
+            },
+            {
+              "hash": "f79a27c",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ docs: streamline CLAUDE.md with missing commands and fixes    2 │    3 │ - Add test commands (npm test, watch, coverage, UI)    4 │ - Add database commands (migrate, prepare-db)    5 │ - Add --source= filter for export    6 │ - Update status to 177/235 (75%) per roadmap    7 │ - Fix project structure to match actual flat src/ layout    8 │ - Remove redundancy and reduce from ~280 to ~180 lines    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "de2fdb2",
+              "date": "2026-01-26",
+              "message": "chore: gitignore playwright sessions, copilot exports, debug scripts"
+            },
+            {
+              "hash": "a628f5d",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add Gemini browser crawler and source filter option    2 │    3 │ - Implement full Playwright-based Gemini crawler with login detection,    4 │   conversation list extraction, and message scraping    5 │ - Add --source= CLI option to export.ts for single-source exports    6 │ - Update atomized index with cleaned data    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "087ea28",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ chore: add archived intake data and ChatGPT exports    2 │    3 │ Add 2025 archive intake files including ChatGPT conversation exports    4 │ with audio recordings, images, DALL-E generations, and metadata.    5 │ Update .gitignore to exclude sensitive files, raw imported data,    6 │ and large files exceeding GitHub limits.    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 5
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "c5a68ed",
+              "date": "2026-01-26",
+              "message": "chore: gitignore test artifacts (.test-tmp/)"
+            },
+            {
+              "hash": "f79a27c",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ docs: streamline CLAUDE.md with missing commands and fixes    2 │    3 │ - Add test commands (npm test, watch, coverage, UI)    4 │ - Add database commands (migrate, prepare-db)    5 │ - Add --source= filter for export    6 │ - Update status to 177/235 (75%) per roadmap    7 │ - Fix project structure to match actual flat src/ layout    8 │ - Remove redundancy and reduce from ~280 to ~180 lines    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "de2fdb2",
+              "date": "2026-01-26",
+              "message": "chore: gitignore playwright sessions, copilot exports, debug scripts"
+            },
+            {
+              "hash": "a628f5d",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add Gemini browser crawler and source filter option    2 │    3 │ - Implement full Playwright-based Gemini crawler with login detection,    4 │   conversation list extraction, and message scraping    5 │ - Add --source= CLI option to export.ts for single-source exports    6 │ - Update atomized index with cleaned data    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "087ea28",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ chore: add archived intake data and ChatGPT exports    2 │    3 │ Add 2025 archive intake files including ChatGPT conversation exports    4 │ with audio recordings, images, DALL-E generations, and metadata.    5 │ Update .gitignore to exclude sensitive files, raw imported data,    6 │ and large files exceeding GitHub limits.    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "c5a68ed",
+              "date": "2026-01-26",
+              "message": "chore: gitignore test artifacts (.test-tmp/)"
+            },
+            {
+              "hash": "f79a27c",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ docs: streamline CLAUDE.md with missing commands and fixes    2 │    3 │ - Add test commands (npm test, watch, coverage, UI)    4 │ - Add database commands (migrate, prepare-db)    5 │ - Add --source= filter for export    6 │ - Update status to 177/235 (75%) per roadmap    7 │ - Fix project structure to match actual flat src/ layout    8 │ - Remove redundancy and reduce from ~280 to ~180 lines    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "de2fdb2",
+              "date": "2026-01-26",
+              "message": "chore: gitignore playwright sessions, copilot exports, debug scripts"
+            },
+            {
+              "hash": "a628f5d",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add Gemini browser crawler and source filter option    2 │    3 │ - Implement full Playwright-based Gemini crawler with login detection,    4 │   conversation list extraction, and message scraping    5 │ - Add --source= CLI option to export.ts for single-source exports    6 │ - Update atomized index with cleaned data    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "087ea28",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ chore: add archived intake data and ChatGPT exports    2 │    3 │ Add 2025 archive intake files including ChatGPT conversation exports    4 │ with audio recordings, images, DALL-E generations, and metadata.    5 │ Update .gitignore to exclude sensitive files, raw imported data,    6 │ and large files exceeding GitHub limits.    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 5
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "c5a68ed",
+              "date": "2026-01-26",
+              "message": "chore: gitignore test artifacts (.test-tmp/)"
+            },
+            {
+              "hash": "f79a27c",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ docs: streamline CLAUDE.md with missing commands and fixes    2 │    3 │ - Add test commands (npm test, watch, coverage, UI)    4 │ - Add database commands (migrate, prepare-db)    5 │ - Add --source= filter for export    6 │ - Update status to 177/235 (75%) per roadmap    7 │ - Fix project structure to match actual flat src/ layout    8 │ - Remove redundancy and reduce from ~280 to ~180 lines    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "de2fdb2",
+              "date": "2026-01-26",
+              "message": "chore: gitignore playwright sessions, copilot exports, debug scripts"
+            },
+            {
+              "hash": "a628f5d",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add Gemini browser crawler and source filter option    2 │    3 │ - Implement full Playwright-based Gemini crawler with login detection,    4 │   conversation list extraction, and message scraping    5 │ - Add --source= CLI option to export.ts for single-source exports    6 │ - Update atomized index with cleaned data    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "087ea28",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ chore: add archived intake data and ChatGPT exports    2 │    3 │ Add 2025 archive intake files including ChatGPT conversation exports    4 │ with audio recordings, images, DALL-E generations, and metadata.    5 │ Update .gitignore to exclude sensitive files, raw imported data,    6 │ and large files exceeding GitHub limits.    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 5
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "91d7553",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: skip WebGL E2E tests in CI and enable software rendering    2 │    3 │ Playwright Config:    4 │ - Add SwiftShader launch args for Chromium and Mobile Chrome    5 │ - Enable software WebGL rendering with --use-gl=swiftshader    6 │    7 │ E2E Tests (ogod-3d.spec.js):    8 │ - Add isWebGLAvailable() helper for WebGL detection    9 │ - Update waitForSceneReady() to check WebGL availability first   10 │ - Skip OGOD 3D tests in CI - requires GPU and audio context   11 │ - Add beforeEach WebGL check as fallback for local environments   12 │   13 │ Headless browsers lack proper WebGL/Tone.js audio support, causing   14 │ timeouts when the loading screen never hides. Tests now gracefully   15 │ skip in CI while remaining runnable locally with GPU support.   16 │   17 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "2eaf265",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: enhance Three.js mocks to fix unit test failures    2 │    3 │ Mock Enhancements in setup.js:    4 │ - Vector3: Add distanceTo method, fix length/lengthSq to calculate actual values    5 │ - Color: Add hex parsing for strings/numbers, proper r/g/b values, clone support    6 │ - PerspectiveCamera: Use proper Vector3 for position with getWorldPosition    7 │ - Points: Add visible and name properties with geometry/material defaults    8 │ - ShaderMaterial: Create proper uniform structure with .value properties    9 │ - Add window.devicePixelRatio global property for device detection   10 │   11 │ Test Fixes:   12 │ - SessionManager: Clear timers/components before dispose to prevent save errors   13 │ - QualityConfig: Add missing afterEach import, fix boolean interpolation test   14 │ - LODManager: Fix forceUpdate test expectation (count is 1 after call)   15 │ - EnvironmentData: Fix eval to properly expose class to test scope   16 │   17 │ All 495 tests now pass across 16 test files.   18 │   19 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "06bce79",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add environmental effects scripts and expand unit test coverage    2 │    3 │ Environmental Effects:    4 │ - Load TimeLighting.js, MoonEffects.js, WeatherEffects.js in ogod-3d.html    5 │    6 │ Unit Tests:    7 │ - EnvironmentBase.test.js: Abstract environment class tests    8 │ - LODManager.test.js: Level-of-detail system tests    9 │ - QualityConfig.test.js: Adaptive quality settings tests   10 │ - SessionManager.test.js: Session save/restore tests   11 │ - VRController.test.js: WebXR VR controller tests   12 │ - WeatherEffects.test.js: Weather particle effects tests   13 │   14 │ Test Infrastructure:   15 │ - Add Group, Line, Raycaster mocks to setup.js   16 │ - Add RingGeometry, CircleGeometry, CylinderGeometry mocks   17 │ - Add Float32BufferAttribute, LineBasicMaterial mocks   18 │ - Add navigator.xr WebXR mock for VR testing   19 │   20 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "916a81c",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: wire audio analysis, effect passes, VR teleport, and unit tests    2 │    3 │ Audio Analysis:    4 │ - Load AudioAnalyzer.js and BeatDetector.js in ogod-3d.html    5 │ - OGODAudioEngine already uses these for audio-reactive visuals    6 │    7 │ Post-Processing Effects:    8 │ - Wire DOF, MotionBlur, SSAO passes in OGODSceneManager._setupPostProcessing()    9 │ - Add SSAO toggle to SettingsPanel with effect enable/disable handlers   10 │ - Add postProcessing config for ssao, motionBlur in config.js   11 │   12 │ VR Teleport:   13 │ - Add floorMesh property and getFloorMesh() to EnvironmentBase   14 │ - Store teleport floor reference in _createGround()   15 │ - Add invisible teleport floors to all environments   16 │ - Add getFloorObjects() to OGODSceneManager   17 │ - Call vrController.updateTeleport() in animation loop   18 │   19 │ Unit Tests:   20 │ - AudioAnalyzer.test.js: FFT frequency analysis tests   21 │ - BeatDetector.test.js: Beat detection and BPM calculation tests   22 │ - DOFPass.test.js: Depth of field post-processing tests   23 │ - MotionBlurPass.test.js: Motion blur effect tests   24 │ - SSAOPass.test.js: Ambient occlusion tests   25 │ - Update setup.js with Matrix4, Tone.Analyser, improved Vector mocks   26 │   27 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "d006c4b",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add VR support, advanced effects, audio analysis, and testing infrastructure    2 │    3 │ VR Support:    4 │ - Add VRController.js for WebXR integration with hand tracking    5 │ - Teleportation locomotion and grip-based interactions    6 │    7 │ Post-Processing Effects:    8 │ - DOFPass: Depth of field with bokeh    9 │ - MotionBlurPass: Camera motion blur   10 │ - SSAOPass: Screen-space ambient occlusion   11 │ - MoonEffects: Lunar phase-based lighting   12 │ - TimeLighting: Time-of-day color grading   13 │ - WeatherEffects: Rain, snow, fog particles   14 │   15 │ Audio Analysis:   16 │ - AudioAnalyzer.js: FFT frequency analysis for visuals   17 │ - BeatDetector.js: Tempo and beat detection for sync   18 │   19 │ New Environments:   20 │ - IsoGridEnv: Isometric grid with reactive tiles   21 │ - MirrorMazeEnv: Reflective corridors   22 │ - RaymarchEnv: SDF-based procedural geometry   23 │ - WaveformEnv: Audio waveform visualization   24 │   25 │ UI Components:   26 │ - SettingsPanel: Quality/effect controls   27 │ - StemMixer: Individual stem volume control   28 │ - PresetSelector: Environment preset management   29 │ - SessionManager: Save/restore session state   30 │   31 │ Performance Infrastructure:   32 │ - LODManager: Level-of-detail system   33 │ - QualityConfig: Adaptive quality settings   34 │ - InstancedHelper: GPU instancing utilities   35 │   36 │ Testing:   37 │ - Unit tests with Vitest for core modules   38 │ - Performance benchmarks   39 │ - Extended E2E tests for OGOD 3D   40 │   41 │ Documentation:   42 │ - Add docs/3d-system.md with architecture overview   43 │   44 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 72
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "72f4840",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ refactor: fix type mismatches and wire disconnected features    2 │    3 │ Type System Fixes:    4 │ - Extend QuestType with 'learning', 'challenge', 'essay' variants    5 │ - Add QuestDifficulty type and Quest.difficulty/objectives/unlockConditions    6 │ - Add Realm.icon and Realm.questIds optional properties    7 │ - Add KnowledgeCrystal.rarity optional property    8 │    9 │ Demo Data Alignment (sandbox-mode.ts):   10 │ - Rename title→name, xpReward→xpValue in getDemoQuests()   11 │ - Add createdAt timestamps to demo quests and realms   12 │ - Add studentId, isAttuned to getDemoCrystals()   13 │ - Rename respondedAt→resolvedAt in getDemoLinkRequests()   14 │   15 │ Type Consolidation:   16 │ - Remove duplicate LinkRequest from use-parent-linking.ts   17 │ - Use ParentStudentLink from types.ts throughout   18 │ - Update ParentPortal and ParentLinkingModal imports   19 │   20 │ Feature Integration:   21 │ - Wire useParentLinking hook in App.tsx with full parent portal support   22 │ - Add realm update callback through ViewRouter to TeacherDashboard   23 │ - Add notification triggers for quest graded, artifact earned, level up   24 │ - Implement complete vote creation form in VotingView with validation   25 │   26 │ UI Fixes:   27 │ - Fix MobileNav role toggle text for 3-role system (teacher→student→parent)   28 │   29 │ Test Updates:   30 │ - Update sandbox-mode.test.ts for renamed properties   31 │ - Update use-parent-linking.test.ts: respondedAt→resolvedAt   32 │   33 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "7a06166",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: initialize sandbox demo data at app startup    2 │    3 │ Move sandbox localStorage initialization from useSandboxKV hook to app    4 │ startup in main.tsx to fix race conditions when multiple hooks mount    5 │ simultaneously.    6 │    7 │ Changes:    8 │ - Add initializeLocalStorageSandboxData() in sandbox-mode.ts that writes    9 │   ALL demo data keys atomically before React renders   10 │ - Call initialization at app startup in main.tsx (dev mode only)   11 │ - Simplify useSandboxKV hook to just read/write - remove complex   12 │   initialization lock logic that caused some hooks to miss data   13 │   14 │ This ensures all demo data is available in localStorage before any   15 │ hooks try to read, preventing empty defaults for some data types.   16 │   17 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "a7c5dec",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ chore: add intake reference documents    2 │    3 │ Include original project reference materials:    4 │ - autoGrade.jsx: grading component reference    5 │ - educator-dashboard_v1.2.txt: dashboard specification    6 │ - Teacher Dashboard Application.pdf: application requirements    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "1b31446",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add AI consent management, notifications, and parent linking    2 │    3 │ AI Consent System:    4 │ - useAIConsent hook with feature-level consent tracking    5 │ - Enhanced AIConsentModal with granular feature selection    6 │ - Consent checks before quest evaluation in App.tsx    7 │ - Full test coverage for consent management    8 │    9 │ Notification Center:   10 │ - useNotifications hook for in-app notification management   11 │ - NotificationCenter component with read/unread states   12 │ - Support for different notification types (achievement, quest, etc.)   13 │   14 │ Parent-Student Linking:   15 │ - useParentLinking hook for managing family connections   16 │ - ParentLinkingModal for link request workflow   17 │ - StudentLinkApproval for student-side acceptance   18 │ - Integration with ParentPortal for linked student access   19 │ - Comprehensive test suite for linking flows   20 │   21 │ New Components:   22 │ - ArtifactDetailModal: detailed view of earned artifacts   23 │ - SafeMotion: animation wrapper respecting reduced motion   24 │ - ReportConfigDialog: educator report customization   25 │   26 │ Demo Data:   27 │ - Expanded demo preferences, variants, votes, and standards   28 │ - Enhanced sandbox-mode.ts with richer test scenarios   29 │   30 │ UI Improvements:   31 │ - CharacterSheet with expanded stats and artifact display   32 │ - Leaderboard filtering and sorting options   33 │ - QuestCard with improved progress indicators   34 │ - QuestCreator with standards integration   35 │ - 2D/3D map mode toggle in ViewRouter   36 │   37 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "72f4840",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ refactor: fix type mismatches and wire disconnected features    2 │    3 │ Type System Fixes:    4 │ - Extend QuestType with 'learning', 'challenge', 'essay' variants    5 │ - Add QuestDifficulty type and Quest.difficulty/objectives/unlockConditions    6 │ - Add Realm.icon and Realm.questIds optional properties    7 │ - Add KnowledgeCrystal.rarity optional property    8 │    9 │ Demo Data Alignment (sandbox-mode.ts):   10 │ - Rename title→name, xpReward→xpValue in getDemoQuests()   11 │ - Add createdAt timestamps to demo quests and realms   12 │ - Add studentId, isAttuned to getDemoCrystals()   13 │ - Rename respondedAt→resolvedAt in getDemoLinkRequests()   14 │   15 │ Type Consolidation:   16 │ - Remove duplicate LinkRequest from use-parent-linking.ts   17 │ - Use ParentStudentLink from types.ts throughout   18 │ - Update ParentPortal and ParentLinkingModal imports   19 │   20 │ Feature Integration:   21 │ - Wire useParentLinking hook in App.tsx with full parent portal support   22 │ - Add realm update callback through ViewRouter to TeacherDashboard   23 │ - Add notification triggers for quest graded, artifact earned, level up   24 │ - Implement complete vote creation form in VotingView with validation   25 │   26 │ UI Fixes:   27 │ - Fix MobileNav role toggle text for 3-role system (teacher→student→parent)   28 │   29 │ Test Updates:   30 │ - Update sandbox-mode.test.ts for renamed properties   31 │ - Update use-parent-linking.test.ts: respondedAt→resolvedAt   32 │   33 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "7a06166",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: initialize sandbox demo data at app startup    2 │    3 │ Move sandbox localStorage initialization from useSandboxKV hook to app    4 │ startup in main.tsx to fix race conditions when multiple hooks mount    5 │ simultaneously.    6 │    7 │ Changes:    8 │ - Add initializeLocalStorageSandboxData() in sandbox-mode.ts that writes    9 │   ALL demo data keys atomically before React renders   10 │ - Call initialization at app startup in main.tsx (dev mode only)   11 │ - Simplify useSandboxKV hook to just read/write - remove complex   12 │   initialization lock logic that caused some hooks to miss data   13 │   14 │ This ensures all demo data is available in localStorage before any   15 │ hooks try to read, preventing empty defaults for some data types.   16 │   17 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "a7c5dec",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ chore: add intake reference documents    2 │    3 │ Include original project reference materials:    4 │ - autoGrade.jsx: grading component reference    5 │ - educator-dashboard_v1.2.txt: dashboard specification    6 │ - Teacher Dashboard Application.pdf: application requirements    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "1b31446",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add AI consent management, notifications, and parent linking    2 │    3 │ AI Consent System:    4 │ - useAIConsent hook with feature-level consent tracking    5 │ - Enhanced AIConsentModal with granular feature selection    6 │ - Consent checks before quest evaluation in App.tsx    7 │ - Full test coverage for consent management    8 │    9 │ Notification Center:   10 │ - useNotifications hook for in-app notification management   11 │ - NotificationCenter component with read/unread states   12 │ - Support for different notification types (achievement, quest, etc.)   13 │   14 │ Parent-Student Linking:   15 │ - useParentLinking hook for managing family connections   16 │ - ParentLinkingModal for link request workflow   17 │ - StudentLinkApproval for student-side acceptance   18 │ - Integration with ParentPortal for linked student access   19 │ - Comprehensive test suite for linking flows   20 │   21 │ New Components:   22 │ - ArtifactDetailModal: detailed view of earned artifacts   23 │ - SafeMotion: animation wrapper respecting reduced motion   24 │ - ReportConfigDialog: educator report customization   25 │   26 │ Demo Data:   27 │ - Expanded demo preferences, variants, votes, and standards   28 │ - Enhanced sandbox-mode.ts with richer test scenarios   29 │   30 │ UI Improvements:   31 │ - CharacterSheet with expanded stats and artifact display   32 │ - Leaderboard filtering and sorting options   33 │ - QuestCard with improved progress indicators   34 │ - QuestCreator with standards integration   35 │ - 2D/3D map mode toggle in ViewRouter   36 │   37 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 43
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "dc24e06",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add React Native iOS app (MVP)    2 │    3 │ New Expo-based iOS app with core features:    4 │    5 │ Project setup:    6 │ - Expo SDK 54 with TypeScript    7 │ - NativeWind (Tailwind for React Native)    8 │ - React Navigation stack    9 │ - React Native Reanimated for animations   10 │   11 │ Core components:   12 │ - CalendarCard with dog/cat flip, daily content   13 │ - DateNavigation (previous/today/next)   14 │ - ThemeSelector with 8 themes   15 │ - Reusable UI components (Button, Card, IconButton)   16 │   17 │ Screens:   18 │ - HomeScreen with full daily experience   19 │ - FavoritesScreen with grid view   20 │ - JournalScreen with editor   21 │   22 │ Hooks & utilities:   23 │ - useDarkMode with system preference sync   24 │ - useFavorites with AsyncStorage persistence   25 │ - useJournal for entry management   26 │ - ThemeContext for app-wide theming   27 │ - imageApi service with rate limiting   28 │ - dailyContent for facts, moods, quotes   29 │   30 │ Run with: cd ios-app && npm install && npm start   31 │   32 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "9c2f9bd",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ refactor: complete UI redesign for cleaner, professional look    2 │    3 │ Header redesign (App.jsx):    4 │ - Clean text logo without gradient    5 │ - Subtitle below title    6 │ - Reduced to 3 header buttons: dark mode, settings, user    7 │ - Proper flex layout with sticky positioning    8 │    9 │ ThemeSelector redesign:   10 │ - Removed emojis, now minimal text pills   11 │ - Horizontal scroll with selected = filled, others = outline   12 │ - Framer Motion animations   13 │   14 │ CalendarCard redesign:   15 │ - Widened from max-w-md to max-w-xl   16 │ - Removed gradient backgrounds, uses white/dark surface   17 │ - Theme color as accent only (border, badge)   18 │ - Solid action buttons instead of glass effect   19 │ - Improved whitespace and typography   20 │   21 │ DateNavigation redesign:   22 │ - Lucide icons (ChevronLeft/Right)   23 │ - Today as primary button, Previous/Next as ghost   24 │ - Responsive labels on larger screens   25 │   26 │ CSS utilities (globals.css):   27 │ - Added container-app, section-spacing, card-base classes   28 │ - Limited glass-effect to modal overlays only   29 │   30 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "c0d6f53",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: complete feature implementation plan (phases A-D)    2 │    3 │ Phase A - Infrastructure:    4 │ - PWA service worker registration in index.jsx    5 │ - iOS PWA meta tags in index.html    6 │ - ReducedMotionContext and useReducedMotion hook for accessibility    7 │ - CSS support for prefers-reduced-motion    8 │ - React.lazy code splitting for all modals in App.jsx    9 │   10 │ Phase B - Core Features:   11 │ - memorialStorage utility for pet memorial persistence   12 │ - PetMemorial component with creation flow, candles, tributes   13 │ - storyTemplates utility with 5 story types (adventure, day_in_life, etc.)   14 │ - useStoryGeneration updated with template fallback   15 │ - exportService enhanced with PDF export and import functionality   16 │   17 │ Phase C - Gamification:   18 │ - questProgress utility with local quest tracking   19 │ - useQuests updated with trackAction(), trackStreak() methods   20 │ - useLeaderboards with demo data and local user ranking   21 │ - AchievementContext enhanced with local stats tracking   22 │   23 │ Phase D - Social & Virtual Pet:   24 │ - petMechanics utility with 8 actions, stat decay, moods   25 │ - useVirtualPet with care tips, wellbeing score, cooldowns   26 │ - useFriends with demo mode and offline fallback   27 │   28 │ Updates tests to match new local-first behavior.   29 │   30 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "cf4a615",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ test: fix imageApi test timeouts and fallback extensions    2 │    3 │ - Extend test timeouts for retry delay tests (15s)    4 │ - Fix fallback image expectations to use .svg extension    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "53e30f2",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add resilient storage and centralized image API service    2 │    3 │ Storage improvements:    4 │ - resilientStorage utility with versioned backups (max 3)    5 │ - Write verification before returning success    6 │ - Automatic recovery from corrupted data    7 │ - storageMonitor for quota tracking and alerts    8 │ - useStorageQuota hook for React components    9 │   10 │ Image API service:   11 │ - Centralized imageApi.js with rate limiting (50 req/min)   12 │ - Retry logic with exponential backoff (max 3 attempts)   13 │ - 10s timeout handling with AbortController   14 │ - SVG fallback images for offline/error states   15 │ - Breed extraction from dog.ceo URLs   16 │   17 │ Component updates:   18 │ - App.jsx uses dogTaleStorage for all localStorage operations   19 │ - CalendarCard uses fetchPetImage service   20 │ - SettingsModal adds storage management UI   21 │ - AiModal and index.jsx updated for new patterns   22 │   23 │ Includes comprehensive test coverage for new utilities.   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "f496698",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: rename integration test setup.js to setup.jsx    2 │    3 │ File contains JSX syntax and needs the .jsx extension for Vite to    4 │ parse it correctly.    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "b9b9208",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ test: fix tests to match updated component implementations    2 │    3 │ - Add missing hook mocks (useAuth, useActivityFeed, useGymBattles, etc.)    4 │ - Update selectors to match Lucide icons instead of emojis    5 │ - Fix CSS class selectors (bg-surface-200 instead of bg-gray-200)    6 │ - Add AnimatePresence and motion.button mocks for framer-motion    7 │ - Update assertions to match actual component behavior    8 │    9 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "0a272fe",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add achievements, battle system, season pass, and enhanced social features    2 │    3 │ Major feature additions across the platform:    4 │    5 │ Achievements System:    6 │ - AchievementContext for global state management    7 │ - useAchievementTrigger hook for tracking progress    8 │ - Achievement badge UI components and notifications    9 │ - Configurable achievement definitions   10 │   11 │ Battle & Gym System:   12 │ - useGymBattles and useBattleQueue hooks   13 │ - Battle system database migration   14 │ - Real-time battle queue matching   15 │   16 │ Season Pass:   17 │ - SeasonPass component with tier rewards   18 │ - useSeasonPass hook for progress tracking   19 │ - Premium/free tier differentiation   20 │   21 │ Enhanced Social Features:   22 │ - ARCamera: Expanded AR pet interactions   23 │ - ActivityFeed: Rich activity stream with reactions   24 │ - CoachingHub: AI-powered training guidance   25 │ - EnhancedMemorial: AI tribute generation with useAiTribute   26 │ - FriendsList: Improved friend management   27 │ - VetTelemedicine: Enhanced vet consultation UI   28 │   29 │ Story Generation:   30 │ - StoryModal for AI-generated pet stories   31 │ - useStoryGeneration hook   32 │   33 │ Data & Services:   34 │ - DataExport component with exportService   35 │ - analyticsService for usage tracking   36 │ - syncService for cross-device sync   37 │ - Push notifications with service worker   38 │ - Enhanced notificationService   39 │   40 │ Infrastructure:   41 │ - Database migrations for battles and push notifications   42 │ - New UI components and settings modules   43 │ - Comprehensive test coverage   44 │ - Extended Tailwind config and global styles   45 │   46 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "dc24e06",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add React Native iOS app (MVP)    2 │    3 │ New Expo-based iOS app with core features:    4 │    5 │ Project setup:    6 │ - Expo SDK 54 with TypeScript    7 │ - NativeWind (Tailwind for React Native)    8 │ - React Navigation stack    9 │ - React Native Reanimated for animations   10 │   11 │ Core components:   12 │ - CalendarCard with dog/cat flip, daily content   13 │ - DateNavigation (previous/today/next)   14 │ - ThemeSelector with 8 themes   15 │ - Reusable UI components (Button, Card, IconButton)   16 │   17 │ Screens:   18 │ - HomeScreen with full daily experience   19 │ - FavoritesScreen with grid view   20 │ - JournalScreen with editor   21 │   22 │ Hooks & utilities:   23 │ - useDarkMode with system preference sync   24 │ - useFavorites with AsyncStorage persistence   25 │ - useJournal for entry management   26 │ - ThemeContext for app-wide theming   27 │ - imageApi service with rate limiting   28 │ - dailyContent for facts, moods, quotes   29 │   30 │ Run with: cd ios-app && npm install && npm start   31 │   32 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "9c2f9bd",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ refactor: complete UI redesign for cleaner, professional look    2 │    3 │ Header redesign (App.jsx):    4 │ - Clean text logo without gradient    5 │ - Subtitle below title    6 │ - Reduced to 3 header buttons: dark mode, settings, user    7 │ - Proper flex layout with sticky positioning    8 │    9 │ ThemeSelector redesign:   10 │ - Removed emojis, now minimal text pills   11 │ - Horizontal scroll with selected = filled, others = outline   12 │ - Framer Motion animations   13 │   14 │ CalendarCard redesign:   15 │ - Widened from max-w-md to max-w-xl   16 │ - Removed gradient backgrounds, uses white/dark surface   17 │ - Theme color as accent only (border, badge)   18 │ - Solid action buttons instead of glass effect   19 │ - Improved whitespace and typography   20 │   21 │ DateNavigation redesign:   22 │ - Lucide icons (ChevronLeft/Right)   23 │ - Today as primary button, Previous/Next as ghost   24 │ - Responsive labels on larger screens   25 │   26 │ CSS utilities (globals.css):   27 │ - Added container-app, section-spacing, card-base classes   28 │ - Limited glass-effect to modal overlays only   29 │   30 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "c0d6f53",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: complete feature implementation plan (phases A-D)    2 │    3 │ Phase A - Infrastructure:    4 │ - PWA service worker registration in index.jsx    5 │ - iOS PWA meta tags in index.html    6 │ - ReducedMotionContext and useReducedMotion hook for accessibility    7 │ - CSS support for prefers-reduced-motion    8 │ - React.lazy code splitting for all modals in App.jsx    9 │   10 │ Phase B - Core Features:   11 │ - memorialStorage utility for pet memorial persistence   12 │ - PetMemorial component with creation flow, candles, tributes   13 │ - storyTemplates utility with 5 story types (adventure, day_in_life, etc.)   14 │ - useStoryGeneration updated with template fallback   15 │ - exportService enhanced with PDF export and import functionality   16 │   17 │ Phase C - Gamification:   18 │ - questProgress utility with local quest tracking   19 │ - useQuests updated with trackAction(), trackStreak() methods   20 │ - useLeaderboards with demo data and local user ranking   21 │ - AchievementContext enhanced with local stats tracking   22 │   23 │ Phase D - Social & Virtual Pet:   24 │ - petMechanics utility with 8 actions, stat decay, moods   25 │ - useVirtualPet with care tips, wellbeing score, cooldowns   26 │ - useFriends with demo mode and offline fallback   27 │   28 │ Updates tests to match new local-first behavior.   29 │   30 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "cf4a615",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ test: fix imageApi test timeouts and fallback extensions    2 │    3 │ - Extend test timeouts for retry delay tests (15s)    4 │ - Fix fallback image expectations to use .svg extension    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "53e30f2",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add resilient storage and centralized image API service    2 │    3 │ Storage improvements:    4 │ - resilientStorage utility with versioned backups (max 3)    5 │ - Write verification before returning success    6 │ - Automatic recovery from corrupted data    7 │ - storageMonitor for quota tracking and alerts    8 │ - useStorageQuota hook for React components    9 │   10 │ Image API service:   11 │ - Centralized imageApi.js with rate limiting (50 req/min)   12 │ - Retry logic with exponential backoff (max 3 attempts)   13 │ - 10s timeout handling with AbortController   14 │ - SVG fallback images for offline/error states   15 │ - Breed extraction from dog.ceo URLs   16 │   17 │ Component updates:   18 │ - App.jsx uses dogTaleStorage for all localStorage operations   19 │ - CalendarCard uses fetchPetImage service   20 │ - SettingsModal adds storage management UI   21 │ - AiModal and index.jsx updated for new patterns   22 │   23 │ Includes comprehensive test coverage for new utilities.   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "f496698",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: rename integration test setup.js to setup.jsx    2 │    3 │ File contains JSX syntax and needs the .jsx extension for Vite to    4 │ parse it correctly.    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "b9b9208",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ test: fix tests to match updated component implementations    2 │    3 │ - Add missing hook mocks (useAuth, useActivityFeed, useGymBattles, etc.)    4 │ - Update selectors to match Lucide icons instead of emojis    5 │ - Fix CSS class selectors (bg-surface-200 instead of bg-gray-200)    6 │ - Add AnimatePresence and motion.button mocks for framer-motion    7 │ - Update assertions to match actual component behavior    8 │    9 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "0a272fe",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add achievements, battle system, season pass, and enhanced social features    2 │    3 │ Major feature additions across the platform:    4 │    5 │ Achievements System:    6 │ - AchievementContext for global state management    7 │ - useAchievementTrigger hook for tracking progress    8 │ - Achievement badge UI components and notifications    9 │ - Configurable achievement definitions   10 │   11 │ Battle & Gym System:   12 │ - useGymBattles and useBattleQueue hooks   13 │ - Battle system database migration   14 │ - Real-time battle queue matching   15 │   16 │ Season Pass:   17 │ - SeasonPass component with tier rewards   18 │ - useSeasonPass hook for progress tracking   19 │ - Premium/free tier differentiation   20 │   21 │ Enhanced Social Features:   22 │ - ARCamera: Expanded AR pet interactions   23 │ - ActivityFeed: Rich activity stream with reactions   24 │ - CoachingHub: AI-powered training guidance   25 │ - EnhancedMemorial: AI tribute generation with useAiTribute   26 │ - FriendsList: Improved friend management   27 │ - VetTelemedicine: Enhanced vet consultation UI   28 │   29 │ Story Generation:   30 │ - StoryModal for AI-generated pet stories   31 │ - useStoryGeneration hook   32 │   33 │ Data & Services:   34 │ - DataExport component with exportService   35 │ - analyticsService for usage tracking   36 │ - syncService for cross-device sync   37 │ - Push notifications with service worker   38 │ - Enhanced notificationService   39 │   40 │ Infrastructure:   41 │ - Database migrations for battles and push notifications   42 │ - New UI components and settings modules   43 │ - Comprehensive test coverage   44 │ - Extended Tailwind config and global styles   45 │   46 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 126
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "c5a68ed",
+              "date": "2026-01-26",
+              "message": "chore: gitignore test artifacts (.test-tmp/)"
+            },
+            {
+              "hash": "f79a27c",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ docs: streamline CLAUDE.md with missing commands and fixes    2 │    3 │ - Add test commands (npm test, watch, coverage, UI)    4 │ - Add database commands (migrate, prepare-db)    5 │ - Add --source= filter for export    6 │ - Update status to 177/235 (75%) per roadmap    7 │ - Fix project structure to match actual flat src/ layout    8 │ - Remove redundancy and reduce from ~280 to ~180 lines    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "de2fdb2",
+              "date": "2026-01-26",
+              "message": "chore: gitignore playwright sessions, copilot exports, debug scripts"
+            },
+            {
+              "hash": "a628f5d",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add Gemini browser crawler and source filter option    2 │    3 │ - Implement full Playwright-based Gemini crawler with login detection,    4 │   conversation list extraction, and message scraping    5 │ - Add --source= CLI option to export.ts for single-source exports    6 │ - Update atomized index with cleaned data    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "087ea28",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ chore: add archived intake data and ChatGPT exports    2 │    3 │ Add 2025 archive intake files including ChatGPT conversation exports    4 │ with audio recordings, images, DALL-E generations, and metadata.    5 │ Update .gitignore to exclude sensitive files, raw imported data,    6 │ and large files exceeding GitHub limits.    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 5
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "343ff5b",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Allow all hosts in Vite dev server for ngrok tunneling    2 │    3 │ - Add server.allowedHosts: true to vite.config.ts    4 │ - Fixes \"Blocked request\" error when accessing via ngrok    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "bccd7a6",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Ensure consistent card heights and use safe KV hook    2 │    3 │ - Add h-full and flexbox to ProspectCard for equal heights in grid    4 │ - Add h-full to StatsOverview cards with consistent subtitle area    5 │ - Replace @github/spark useKV with local useSafeKV to prevent re-render bugs    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "612dd38",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix blue screen caused by TabsTrigger missing RovingFocusGroup context    2 │    3 │ - Wrap TabsTrigger components in TabsList in MobileBottomNav.tsx    4 │   (Radix UI requires TabsTrigger to be inside TabsList for roving focus)    5 │ - Remove DEV mode error rethrow in ErrorFallback to display errors properly    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "73eface",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix useSafeKV infinite re-render bug with object/array values    2 │    3 │ - Remove initialValue from useEffect dependency array to prevent    4 │   infinite loops caused by object reference changes on each render    5 │ - Un-skip the object and array value tests that were failing due to OOM    6 │ - All 30 useSparkKV tests now pass    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "719cd00",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix useSparkKV.test.ts memory leak causing OOM errors    2 │    3 │ - Remove describe.skip and fix the test file so tests actually run    4 │ - Skip 2 tests (object/array values) that trigger infinite re-render loop    5 │   due to object reference changes in initialValue useEffect dependency    6 │ - 28 tests now pass (previously 0 due to OOM before tests could run)    7 │    8 │ The skipped object/array tests expose a potential bug in the useSafeKV    9 │ hook that should be addressed separately.   10 │   11 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "7b69a65",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix tests for health endpoint hardening and dashboard stats    2 │    3 │ - health.test.ts: Set NODE_ENV=development in tests to get full response    4 │ - dashboardStats.test.ts: Add missing mocks for getNewSignalsCountForToday    5 │   and getPortfolioStats, fix type annotations    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "4d7375e",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Harden health endpoints against info leakage    2 │    3 │ Only expose environment and service details in development mode    4 │ to prevent information disclosure in production.    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "3380084",
+              "date": "2026-01-26",
+              "message": "feat: calculate h-index and citation count for researchers (#202)"
+            },
+            {
+              "hash": "58abd87",
+              "date": "2026-01-26",
+              "message": "Bump @tanstack/react-query from 5.90.14 to 5.90.15 (#198)"
+            },
+            {
+              "hash": "09c7f64",
+              "date": "2026-01-26",
+              "message": "Bump jsdom from 27.3.0 to 27.4.0 (#199)"
+            },
+            {
+              "hash": "40910bc",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix axios vulnerabilities via npm override    2 │    3 │ Add npm override to force localtunnel to use axios ^1.7.4 instead of    4 │ the vulnerable 0.21.4 version. This resolves:    5 │ - GHSA-jr5f-v2jv-69x6 (high): SSRF and Credential Leakage    6 │ - GHSA-wf5p-g6vw-rhxx (medium): CSRF vulnerability    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "5c10423",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix type import consistency in StatsOverview    2 │    3 │ Import ElementType directly from react instead of using React.ElementType    4 │ to align with the codebase convention of direct type imports.    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "9e0327f",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add comprehensive mobile-first responsive UI refactor    2 │    3 │ - MobileBottomNav.tsx: Fixed bottom nav with 4 tabs + \"More\" sheet    4 │ - MobileProspectDetails.tsx: Accordion-based detail view for mobile    5 │ - Header.tsx: Hamburger menu consolidating Tour/Theme/Refresh on mobile    6 │ - TabNavigation.tsx: Hide desktop tabs on mobile (md:hidden)    7 │ - StatsOverview.tsx: Collapsible stats showing 2 primary metrics on mobile    8 │ - ProspectCard.tsx: Progressive disclosure with collapsed/expanded states    9 │ - ProspectDetailDialog.tsx: Drawer on mobile, Dialog on desktop   10 │ - ProspectsTab.tsx: Filter FAB with badge, consolidated filter sheet   11 │ - BatchOperations.tsx: Sticky selection bar above bottom nav on mobile   12 │ - index.css: Touch-friendly utilities (safe-area-pb, touch-target)   13 │ - test/setup.ts: Add window.matchMedia mock for useIsMobile hook   14 │   15 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "c534d41",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix README accuracy and structural issues    2 │    3 │ - Update test count: 526 → 2055 (7 locations)    4 │ - Update versions: TypeScript 5.9, Vite 7.3, React 19    5 │ - Fix 12 broken doc links to correct paths in docs/    6 │ - Remove merge conflict marker    7 │ - Remove duplicate sections (Project Reports, Custom Agents, Security)    8 │ - Remove empty Data Export section    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "fd0bba2",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Update README hero section and roadmap with recent features    2 │    3 │ - README.md: Add problem/approach/outcome narrative, update test count    4 │ - ROADMAP.md: Add recent completions section (themes, sharing, tests, security)    5 │ - TODO.md: Update with latest achievements and mark completed items    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "9b9b625",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add interactive demo tour for user onboarding    2 │    3 │ - DemoTour.tsx: New guided tour component with step-by-step walkthrough    4 │ - Header.tsx: Add Tour button and demo mode indicator    5 │ - App.tsx: Integration with tour component    6 │ - StatsOverview.tsx: Add data-tour attributes for tour targeting    7 │ - TabNavigation.tsx: Add data-tour attributes for tour targeting    8 │ - ProspectsTab.tsx: Add data-tour attributes for tour targeting    9 │ - mockData.ts: Demo data enhancements   10 │ - ConversationAI.ts: Conversation AI improvements with proper types   11 │ - LLMService.ts: LLM service updates with type safety   12 │   13 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "6e10b87",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add remote sharing support with localtunnel    2 │    3 │ - Add localtunnel as dev dependency for public URL tunneling    4 │ - Add `npm run share` script to expose dev server on port 5000    5 │ - Document sharing feature in README.md Quick Start section    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "8a10429",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add multi-theme system with 5 selectable themes    2 │    3 │ - dark-professional: Slate/blue Linear/Vercel style (default)    4 │ - light-clean: White/gray business dashboard    5 │ - dark-green: Finance/trading aesthetic with emerald accents    6 │ - current-fixed: Purple theme with improved contrast    7 │ - hacker: Terminal black/green matrix style with scan-lines    8 │    9 │ - ThemeToggle.tsx: Expand to 5 themes with icons and descriptions   10 │ - main.tsx: Configure ThemeProvider with theme names   11 │ - index.css/main.css: Add CSS variables and glass effects per theme   12 │ - ThemeToggle.test.tsx: Update tests for 5 themes (10 tests passing)   13 │   14 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "647c9a6",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix flaky tests with proper timer handling and mock improvements    2 │    3 │ - scheduler.test.ts: Unskip callback error test, use advanceTimersByTimeAsync    4 │ - enrichmentWorker.test.ts: Use fake timers for consistent test behavior    5 │ - ingestionWorker.test.ts: Improve timer and mock handling    6 │ - AgenticDashboard.tsx: Remove unused imports    7 │ - AgenticDashboard.test.tsx: Fix test assertions and mocking    8 │ - FeedbackViewer.test.tsx: Fix require() to use ES imports    9 │ - use-agentic-engine.test.tsx: Fix hook test mocking   10 │ - use-data-pipeline.test.ts: Improve async test handling   11 │ - client.test.ts: Fix API client test mocking   12 │ - retry.test.ts: Improve retry utility tests   13 │   14 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "cb92b22",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add hook and worker tests for agentic engine and queue system    2 │    3 │ - use-agentic-engine.test.tsx: Expand tests for engine state, cycles, improvements    4 │ - scheduler.test.ts: Test job scheduling and queue management    5 │ - enrichmentWorker.test.ts: Test data enrichment processing    6 │ - healthWorker.test.ts: Test health scoring worker    7 │ - ingestionWorker.test.ts: Test data ingestion pipeline    8 │ - use-data-pipeline.test.ts: Test pipeline hook state and actions    9 │ - use-enrichment.test.ts: Test enrichment hook   10 │ - use-safe-kv.test.ts: Test safe KV storage hook   11 │ - useSparkKV.test.ts: Test Spark KV integration   12 │ - useSystemContext.test.ts: Test system context provider   13 │   14 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "343ff5b",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Allow all hosts in Vite dev server for ngrok tunneling    2 │    3 │ - Add server.allowedHosts: true to vite.config.ts    4 │ - Fixes \"Blocked request\" error when accessing via ngrok    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "bccd7a6",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Ensure consistent card heights and use safe KV hook    2 │    3 │ - Add h-full and flexbox to ProspectCard for equal heights in grid    4 │ - Add h-full to StatsOverview cards with consistent subtitle area    5 │ - Replace @github/spark useKV with local useSafeKV to prevent re-render bugs    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "612dd38",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix blue screen caused by TabsTrigger missing RovingFocusGroup context    2 │    3 │ - Wrap TabsTrigger components in TabsList in MobileBottomNav.tsx    4 │   (Radix UI requires TabsTrigger to be inside TabsList for roving focus)    5 │ - Remove DEV mode error rethrow in ErrorFallback to display errors properly    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "73eface",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix useSafeKV infinite re-render bug with object/array values    2 │    3 │ - Remove initialValue from useEffect dependency array to prevent    4 │   infinite loops caused by object reference changes on each render    5 │ - Un-skip the object and array value tests that were failing due to OOM    6 │ - All 30 useSparkKV tests now pass    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "719cd00",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix useSparkKV.test.ts memory leak causing OOM errors    2 │    3 │ - Remove describe.skip and fix the test file so tests actually run    4 │ - Skip 2 tests (object/array values) that trigger infinite re-render loop    5 │   due to object reference changes in initialValue useEffect dependency    6 │ - 28 tests now pass (previously 0 due to OOM before tests could run)    7 │    8 │ The skipped object/array tests expose a potential bug in the useSafeKV    9 │ hook that should be addressed separately.   10 │   11 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "7b69a65",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix tests for health endpoint hardening and dashboard stats    2 │    3 │ - health.test.ts: Set NODE_ENV=development in tests to get full response    4 │ - dashboardStats.test.ts: Add missing mocks for getNewSignalsCountForToday    5 │   and getPortfolioStats, fix type annotations    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "4d7375e",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Harden health endpoints against info leakage    2 │    3 │ Only expose environment and service details in development mode    4 │ to prevent information disclosure in production.    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "3380084",
+              "date": "2026-01-26",
+              "message": "feat: calculate h-index and citation count for researchers (#202)"
+            },
+            {
+              "hash": "58abd87",
+              "date": "2026-01-26",
+              "message": "Bump @tanstack/react-query from 5.90.14 to 5.90.15 (#198)"
+            },
+            {
+              "hash": "09c7f64",
+              "date": "2026-01-26",
+              "message": "Bump jsdom from 27.3.0 to 27.4.0 (#199)"
+            },
+            {
+              "hash": "40910bc",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix axios vulnerabilities via npm override    2 │    3 │ Add npm override to force localtunnel to use axios ^1.7.4 instead of    4 │ the vulnerable 0.21.4 version. This resolves:    5 │ - GHSA-jr5f-v2jv-69x6 (high): SSRF and Credential Leakage    6 │ - GHSA-wf5p-g6vw-rhxx (medium): CSRF vulnerability    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "5c10423",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix type import consistency in StatsOverview    2 │    3 │ Import ElementType directly from react instead of using React.ElementType    4 │ to align with the codebase convention of direct type imports.    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "9e0327f",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add comprehensive mobile-first responsive UI refactor    2 │    3 │ - MobileBottomNav.tsx: Fixed bottom nav with 4 tabs + \"More\" sheet    4 │ - MobileProspectDetails.tsx: Accordion-based detail view for mobile    5 │ - Header.tsx: Hamburger menu consolidating Tour/Theme/Refresh on mobile    6 │ - TabNavigation.tsx: Hide desktop tabs on mobile (md:hidden)    7 │ - StatsOverview.tsx: Collapsible stats showing 2 primary metrics on mobile    8 │ - ProspectCard.tsx: Progressive disclosure with collapsed/expanded states    9 │ - ProspectDetailDialog.tsx: Drawer on mobile, Dialog on desktop   10 │ - ProspectsTab.tsx: Filter FAB with badge, consolidated filter sheet   11 │ - BatchOperations.tsx: Sticky selection bar above bottom nav on mobile   12 │ - index.css: Touch-friendly utilities (safe-area-pb, touch-target)   13 │ - test/setup.ts: Add window.matchMedia mock for useIsMobile hook   14 │   15 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "c534d41",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix README accuracy and structural issues    2 │    3 │ - Update test count: 526 → 2055 (7 locations)    4 │ - Update versions: TypeScript 5.9, Vite 7.3, React 19    5 │ - Fix 12 broken doc links to correct paths in docs/    6 │ - Remove merge conflict marker    7 │ - Remove duplicate sections (Project Reports, Custom Agents, Security)    8 │ - Remove empty Data Export section    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "fd0bba2",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Update README hero section and roadmap with recent features    2 │    3 │ - README.md: Add problem/approach/outcome narrative, update test count    4 │ - ROADMAP.md: Add recent completions section (themes, sharing, tests, security)    5 │ - TODO.md: Update with latest achievements and mark completed items    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "9b9b625",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add interactive demo tour for user onboarding    2 │    3 │ - DemoTour.tsx: New guided tour component with step-by-step walkthrough    4 │ - Header.tsx: Add Tour button and demo mode indicator    5 │ - App.tsx: Integration with tour component    6 │ - StatsOverview.tsx: Add data-tour attributes for tour targeting    7 │ - TabNavigation.tsx: Add data-tour attributes for tour targeting    8 │ - ProspectsTab.tsx: Add data-tour attributes for tour targeting    9 │ - mockData.ts: Demo data enhancements   10 │ - ConversationAI.ts: Conversation AI improvements with proper types   11 │ - LLMService.ts: LLM service updates with type safety   12 │   13 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "6e10b87",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add remote sharing support with localtunnel    2 │    3 │ - Add localtunnel as dev dependency for public URL tunneling    4 │ - Add `npm run share` script to expose dev server on port 5000    5 │ - Document sharing feature in README.md Quick Start section    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "8a10429",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add multi-theme system with 5 selectable themes    2 │    3 │ - dark-professional: Slate/blue Linear/Vercel style (default)    4 │ - light-clean: White/gray business dashboard    5 │ - dark-green: Finance/trading aesthetic with emerald accents    6 │ - current-fixed: Purple theme with improved contrast    7 │ - hacker: Terminal black/green matrix style with scan-lines    8 │    9 │ - ThemeToggle.tsx: Expand to 5 themes with icons and descriptions   10 │ - main.tsx: Configure ThemeProvider with theme names   11 │ - index.css/main.css: Add CSS variables and glass effects per theme   12 │ - ThemeToggle.test.tsx: Update tests for 5 themes (10 tests passing)   13 │   14 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "647c9a6",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix flaky tests with proper timer handling and mock improvements    2 │    3 │ - scheduler.test.ts: Unskip callback error test, use advanceTimersByTimeAsync    4 │ - enrichmentWorker.test.ts: Use fake timers for consistent test behavior    5 │ - ingestionWorker.test.ts: Improve timer and mock handling    6 │ - AgenticDashboard.tsx: Remove unused imports    7 │ - AgenticDashboard.test.tsx: Fix test assertions and mocking    8 │ - FeedbackViewer.test.tsx: Fix require() to use ES imports    9 │ - use-agentic-engine.test.tsx: Fix hook test mocking   10 │ - use-data-pipeline.test.ts: Improve async test handling   11 │ - client.test.ts: Fix API client test mocking   12 │ - retry.test.ts: Improve retry utility tests   13 │   14 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "cb92b22",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add hook and worker tests for agentic engine and queue system    2 │    3 │ - use-agentic-engine.test.tsx: Expand tests for engine state, cycles, improvements    4 │ - scheduler.test.ts: Test job scheduling and queue management    5 │ - enrichmentWorker.test.ts: Test data enrichment processing    6 │ - healthWorker.test.ts: Test health scoring worker    7 │ - ingestionWorker.test.ts: Test data ingestion pipeline    8 │ - use-data-pipeline.test.ts: Test pipeline hook state and actions    9 │ - use-enrichment.test.ts: Test enrichment hook   10 │ - use-safe-kv.test.ts: Test safe KV storage hook   11 │ - useSparkKV.test.ts: Test Spark KV integration   12 │ - useSystemContext.test.ts: Test system context provider   13 │   14 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 52
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "537c5f7",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix 1Password CLI integration and update chezmoi aliases    2 │    3 │ 1Password fix:    4 │ - Rename dot_config/op to dot_config/private_op for 700 permissions    5 │ - 1Password CLI requires strict permissions on its config directory    6 │    7 │ Alias updates:    8 │ - Update chezmoi aliases to use ~/dotfiles instead of ~/.local/share/chezmoi    9 │   10 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "821e5a3",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Optimize shell startup and expand package manifest    2 │    3 │ Shell startup optimization:    4 │ - Add cached 1Password secrets loading (dot_config/op/secrets.zsh)    5 │ - Secrets load instantly from ~/.cache/op-secrets    6 │ - Background refresh when cache is >60 minutes stale    7 │ - Reduces shell startup from 3252ms to ~77ms    8 │    9 │ Manifest updates (~45 packages added):   10 │ - Development environments: go, rust, ruby, node, uv, pre-commit   11 │ - DevOps & containers: act, k9s, lazydocker   12 │ - Security & code quality: gitleaks, ggshield, trivy, shellcheck, shfmt   13 │ - Media & files: ffmpeg, rclone, qpdf   14 │ - Shell tools: zsh plugins, thefuck, carapace   15 │ - Utilities: ncdu, micro, glow, htop, hyperfine   16 │ - Casks: claude-code, gcloud-cli, mailmate, etc.   17 │ - NPM: @github/copilot, @google/jules, localtunnel, etc.   18 │   19 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "d33f583",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add Domus Semper Palingenesis home management system    2 │    3 │ Implements a unified home directory management system with:    4 │    5 │ Components:    6 │ - domus: Main CLI with status, apply, sort, packages, perf commands    7 │ - domus-packages: Package drift detection for brew/pipx/npm/cargo    8 │ - domus-sort: File sorter with FSEvents and smart naming    9 │ - domus-notify: Tiered notifications with batching and quiet hours   10 │ - domus-daemon: Hourly orchestrator for all checks   11 │   12 │ Configuration:   13 │ - manifest.yaml: Single source of truth for packages, sorting rules,   14 │   performance budgets, and notification settings   15 │ - LaunchAgents for daemon (hourly) and file sorter (FSEvents)   16 │   17 │ Shell integration:   18 │ - Startup timing telemetry in zsh and fish   19 │ - Aliases: dm, dms, dma, dmp, dmpd   20 │   21 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "34d4a2d",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add conda initialization to fish config    2 │    3 │ Preserves conda shell integration added by 'conda init fish'.    4 │    5 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "eebe2e3",
+              "date": "2026-01-26",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add kitty theme switching with keybindings and shell helpers    2 │    3 │ New features:    4 │ - Theme picker overlay (Cmd+Shift+T) with fzf selection    5 │ - Quick theme switches via Ctrl+Shift+F1-F7 keybindings    6 │ - Bundled themes: tokyo-night, dracula, gruvbox-dark, catppuccin, nord, solarized-dark, pywal    7 │ - Shell functions: kthemes() to list, ktheme() to switch    8 │    9 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 24
+        }
+      }
+    }
+  }
+}

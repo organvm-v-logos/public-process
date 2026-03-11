@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:34Z",
+  "since": "2016-11-30",
+  "until": "2016-11-30",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 3,
+    "organs_touched": [
+      "II"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "c646b4f",
+              "date": "2016-11-30",
+              "message": "messed around with html5 outlining (aka, failing.) & removed canvas"
+            },
+            {
+              "hash": "07c6a36",
+              "date": "2016-11-30",
+              "message": "creating the animations for ze landing page button"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

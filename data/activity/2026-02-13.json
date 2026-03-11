@@ -1,0 +1,1597 @@
+{
+  "generated": "2026-03-06T00:39:27Z",
+  "since": "2026-02-13",
+  "until": "2026-02-13",
+  "summary": {
+    "total_commits": 290,
+    "repos_active": 17,
+    "files_changed": 544,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "META",
+      "Personal",
+      "V",
+      "VI"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "4444J99": {
+          "commits": [
+            {
+              "hash": "1df86fe",
+              "date": "2026-02-13",
+              "message": "chore: update essay feed in README [skip ci]"
+            },
+            {
+              "hash": "a8f0a3b",
+              "date": "2026-02-13",
+              "message": "chore: update contribution snake [skip ci]"
+            },
+            {
+              "hash": "8af42cb",
+              "date": "2026-02-13",
+              "message": "Update assets/metrics-dark.svg - [Skip GitHub Action]"
+            },
+            {
+              "hash": "36dd8f9",
+              "date": "2026-02-13",
+              "message": "Update assets/metrics.svg - [Skip GitHub Action]"
+            }
+          ],
+          "files_changed": 0
+        },
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "c89c085",
+              "date": "2026-02-13",
+              "message": "feat: add Products and Community pages for 12/12 validation"
+            },
+            {
+              "hash": "1b4cef0",
+              "date": "2026-02-13",
+              "message": "feat: commit data files for CI build (src/data/*.json)"
+            },
+            {
+              "hash": "f706018",
+              "date": "2026-02-13",
+              "message": "feat: add Dashboard, Architecture, and Essays pages from PRAXIS merge"
+            }
+          ],
+          "files_changed": 16
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "dc1036d",
+              "date": "2026-02-13",
+              "message": "feat: Implement Forward Propulsion phases (Metrics, A/B Testing, NRT, Automation)"
+            },
+            {
+              "hash": "918aea1",
+              "date": "2026-02-13",
+              "message": "feat: Complete implementation of exhaustive plan including Agent Smith, Ditto, and Measurement Harness"
+            },
+            {
+              "hash": "971add0",
+              "date": "2026-02-13",
+              "message": "feat: Implement refined infrastructure, stereo organisms, and UI abstractions"
+            },
+            {
+              "hash": "32d2a81",
+              "date": "2026-02-13",
+              "message": "feat: Initial commit"
+            }
+          ],
+          "files_changed": 37
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "e686645",
+              "date": "2026-02-13",
+              "message": "feat: VERITAS Sprint — credibility hardening across 12 files"
+            },
+            {
+              "hash": "d2ec1ab",
+              "date": "2026-02-13",
+              "message": "feat: E2G full system review — 9-dimension credibility audit, 18 action items"
+            },
+            {
+              "hash": "d9a846f",
+              "date": "2026-02-13",
+              "message": "feat: PRAXIS Sprint — 12/12 validation, revenue demo + community infra"
+            },
+            {
+              "hash": "9c939d1",
+              "date": "2026-02-13",
+              "message": "feat: CONVERGENCE Sprint — 82/82 PRODUCTION, 28 essays, zero provenance gaps"
+            },
+            {
+              "hash": "fbe0259",
+              "date": "2026-02-13",
+              "message": "docs: deploy the-living-document-system.pdf (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "fc5c30b",
+              "date": "2026-02-13",
+              "message": "docs: deploy Repository Inventory and Consolidation Strategy for GitHub Organizations.pdf (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "23a8198",
+              "date": "2026-02-13",
+              "message": "docs: deploy integrating-ai-tools-for-research,-writing,-and-project-management-automation.pdf (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9a49b8b",
+              "date": "2026-02-13",
+              "message": "docs: deploy The.injected.drive.now.includes.two.txt — Historical notes (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "31cab9f",
+              "date": "2026-02-13",
+              "message": "docs: deploy UNIVERSE_STATUS.md — Dec 2025 universe status snapshot (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "67dd591",
+              "date": "2026-02-13",
+              "message": "docs: deploy Transforming-content-into-growth-opportunities.md — Growth strategy asset — richest parent material (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "e10699f",
+              "date": "2026-02-13",
+              "message": "docs: deploy Preparing-AI-handoff-with-autonomous-agent-scaffolding.md — Genesis transcript: AI handoff scaffolding (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "651bb7e",
+              "date": "2026-02-13",
+              "message": "docs: deploy MANIFEST_INDEX_TABLE.csv — Historical manifest index from Dec 2025 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "306762b",
+              "date": "2026-02-13",
+              "message": "docs: deploy UNIVERSAL-ORCHESTRATOR-ARCHITECTURE.md — Historical architecture doc from Dec 2025 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "252fe9e",
+              "date": "2026-02-13",
+              "message": "chore: add .serena project configuration"
+            }
+          ],
+          "files_changed": 75
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "scalable-lore-expert": {
+          "commits": [
+            {
+              "hash": "b3f6b7d",
+              "date": "2026-02-13",
+              "message": "chore: standardize badge row (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "bad8b74",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-002 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9f57fa8",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-001 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "c111064",
+              "date": "2026-02-13",
+              "message": "docs: add CHANGELOG (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "82f5506",
+              "date": "2026-02-13",
+              "message": "ci: upgrade to full CI workflow (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "25c2dd4",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "07226c9",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "30ec539",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "3a4f660",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "31a36b6",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "b311ec1",
+              "date": "2026-02-13",
+              "message": "docs: deploy auth.ts from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "b3fc035",
+              "date": "2026-02-13",
+              "message": "docs: deploy oauth.ts from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "3b2b5da",
+              "date": "2026-02-13",
+              "message": "docs: deploy csrf.ts from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9f977ec",
+              "date": "2026-02-13",
+              "message": "docs: deploy README.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "30d1c92",
+              "date": "2026-02-13",
+              "message": "docs: deploy csrf-example.ts from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "6632e86",
+              "date": "2026-02-13",
+              "message": "docs: deploy Utility Patent for a Plumbing Test Apparatus.txt from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "2b92b59",
+              "date": "2026-02-13",
+              "message": "docs: deploy clearview-v1.txt from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "37536b1",
+              "date": "2026-02-13",
+              "message": "docs: deploy MET4_Fusion.txt from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "4f1c919",
+              "date": "2026-02-13",
+              "message": "docs: deploy Design Paths for a Scalable Lore Expert System.docx from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "c8a8942",
+              "date": "2026-02-13",
+              "message": "docs: deploy Dante's Midlife Crisis Explained.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "ecc15e3",
+              "date": "2026-02-13",
+              "message": "docs: deploy Modular-Myth-Fusion-Engine.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "104e725",
+              "date": "2026-02-13",
+              "message": "docs: deploy Name-Fusion-Creations.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "24c7d3d",
+              "date": "2026-02-13",
+              "message": "docs: deploy met4-fuse-transform-symbiote.code-workspace from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "de2b445",
+              "date": "2026-02-13",
+              "message": "docs: deploy Fusion-Possession-Symbiote-Protocols.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "31fd461",
+              "date": "2026-02-13",
+              "message": "docs: deploy KH-Mythos-Analysis.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "4a27c36",
+              "date": "2026-02-13",
+              "message": "docs: deploy Majin-Buu-Cell-Fusion.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "c33edce",
+              "date": "2026-02-13",
+              "message": "docs: deploy Myth-Fusion-Framework.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "aa681df",
+              "date": "2026-02-13",
+              "message": "docs: deploy Trans-Universe-Mythic-Characters.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "5c19714",
+              "date": "2026-02-13",
+              "message": "docs: deploy _gemini_visit_20260102.json from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "f624135",
+              "date": "2026-02-13",
+              "message": "docs: deploy New-Gods-Multi-Tiered-Ingest.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "8f6c2bc",
+              "date": "2026-02-13",
+              "message": "docs: deploy Personalized-Gameplay-Design.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "00f2dc6",
+              "date": "2026-02-13",
+              "message": "docs: deploy META-MYTH-4LL-The-Fusion-Engine-of-All-Media-Minds-and-Matter.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "4d39a7b",
+              "date": "2026-02-13",
+              "message": "docs: deploy Symbiote-Fusion-Experiment.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "3e05b86",
+              "date": "2026-02-13",
+              "message": "docs: deploy full-structure.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "a5e59f9",
+              "date": "2026-02-13",
+              "message": "docs: deploy HERE-THERE-EVERYWHERE-NOWHERE.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9309139",
+              "date": "2026-02-13",
+              "message": "docs: deploy grokking-algorithms-for-os.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "651a68f",
+              "date": "2026-02-13",
+              "message": "docs: deploy combined-new-gods-multi-tiered-ingest.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "8cb97c5",
+              "date": "2026-02-13",
+              "message": "docs: deploy here-there-everywhere-nowhere-226eb690ee2081bcb0c4ffb3a7912c77.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "b9c9ec0",
+              "date": "2026-02-13",
+              "message": "docs: deploy here-there-everywhere-nowhere-2.md from provenance (CONVERGENCE Sprint)"
+            }
+          ],
+          "files_changed": 39
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "3e22176",
+              "date": "2026-02-13",
+              "message": "feat: activate generative chambers — Pinakotheke, Khronos, Bibliotheke, Oikos, Theatron, Agora"
+            },
+            {
+              "hash": "6ba0374",
+              "date": "2026-02-13",
+              "message": "feat: activate Living Pantheon, Ergasterion exhibits, and Odeion player"
+            },
+            {
+              "hash": "7471b5b",
+              "date": "2026-02-13",
+              "message": "feat: integrate OGOD TKOL Glitch renderer, export pipeline, and standalone E2E tests"
+            },
+            {
+              "hash": "c2b25f1",
+              "date": "2026-02-13",
+              "message": "fix: prevent search modal from blocking page on load"
+            }
+          ],
+          "files_changed": 77
+        },
+        "life-betterment-simulation": {
+          "commits": [
+            {
+              "hash": "7d8ea11",
+              "date": "2026-02-13",
+              "message": "chore: standardize badge row (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "e5216b3",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-002 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "f8177df",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-001 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "d43dc57",
+              "date": "2026-02-13",
+              "message": "docs: add CHANGELOG (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "e241588",
+              "date": "2026-02-13",
+              "message": "ci: upgrade to full CI workflow (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "82f54c9",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "a01ff12",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "cc0d060",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "783228b",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "a34ee95",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "3631d0f",
+              "date": "2026-02-13",
+              "message": "docs: deploy \"The Social Influence Theory_ Beyond the Five\" | Shared Grok Conversation.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "f2d93ff",
+              "date": "2026-02-13",
+              "message": "docs: deploy animating-a-spiral-shape-for-web-2.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "95eef16",
+              "date": "2026-02-13",
+              "message": "docs: deploy designing-future-dating-sim-prompts.docx from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "acb1a30",
+              "date": "2026-02-13",
+              "message": "docs: deploy easterncosmos-vv.html from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "56ed154",
+              "date": "2026-02-13",
+              "message": "docs: deploy Human Design Schedule Mapping.txt from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "3b6cfe0",
+              "date": "2026-02-13",
+              "message": "docs: deploy nsfw-dating-sim-design-prompt.docx from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "96f7778",
+              "date": "2026-02-13",
+              "message": "docs: deploy designing-future-dating-sim-prompts.pdf from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "0b10ee1",
+              "date": "2026-02-13",
+              "message": "docs: deploy Siddhartha 30-Day Guided Journal.docx from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "0d4898e",
+              "date": "2026-02-13",
+              "message": "docs: deploy friend-zone_contagion_v1.8.html from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "2134eea",
+              "date": "2026-02-13",
+              "message": "docs: deploy NSFW Dating Sim Design Prompt.docx from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "21f6efe",
+              "date": "2026-02-13",
+              "message": "docs: deploy conversation-topics-across-social-and-professional-contexts.pdf from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "b240528",
+              "date": "2026-02-13",
+              "message": "docs: deploy easterncosmos-v.html from provenance (CONVERGENCE Sprint)"
+            }
+          ],
+          "files_changed": 22
+        },
+        "shared-remembrance-gateway": {
+          "commits": [
+            {
+              "hash": "5d1aa46",
+              "date": "2026-02-13",
+              "message": "chore: standardize badge row (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "ed80f33",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-002 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "d233101",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-001 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "1ba05d5",
+              "date": "2026-02-13",
+              "message": "docs: add CHANGELOG (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "fe89d68",
+              "date": "2026-02-13",
+              "message": "ci: upgrade to full CI workflow (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "e76f3fd",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "821b68b",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "3283146",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "61599a2",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "8b33be7",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "1ab9a4f",
+              "date": "2026-02-13",
+              "message": "docs: deploy Metaverse Hub App Concept Exploration.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "63549bc",
+              "date": "2026-02-13",
+              "message": "docs: deploy metaverse-hub-app-concept-exploration.pdf from provenance (CONVERGENCE Sprint)"
+            }
+          ],
+          "files_changed": 12
+        },
+        "universal-waveform-explorer": {
+          "commits": [
+            {
+              "hash": "3965297",
+              "date": "2026-02-13",
+              "message": "chore: standardize badge row (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "b7c27d0",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-002 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "4fcfe3d",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-001 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "a46ed37",
+              "date": "2026-02-13",
+              "message": "docs: add CHANGELOG (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "4559f29",
+              "date": "2026-02-13",
+              "message": "ci: upgrade to full CI workflow (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "8a5eb0e",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "e24ef14",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "ff27539",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "6d96c3e",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "e220967",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "98c426d",
+              "date": "2026-02-13",
+              "message": "docs: deploy w4v3-synth-chain.vx.sys-core.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "a4894ad",
+              "date": "2026-02-13",
+              "message": "docs: deploy dualcoreextend-v2.9.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "215717e",
+              "date": "2026-02-13",
+              "message": "docs: deploy patch-example-d3ath.l0v3r-fus10n.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "56eaf76",
+              "date": "2026-02-13",
+              "message": "docs: deploy dual-binary-bridge.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "7f740b7",
+              "date": "2026-02-13",
+              "message": "docs: deploy _gemini_visit_20260102.json from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "8818bc5",
+              "date": "2026-02-13",
+              "message": "docs: deploy modulatable-features.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "be449e8",
+              "date": "2026-02-13",
+              "message": "docs: deploy fx-unit-g0d-model.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "d4802cf",
+              "date": "2026-02-13",
+              "message": "docs: deploy dualcore-master.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "cb19cf1",
+              "date": "2026-02-13",
+              "message": "docs: deploy fx-unit-gods.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "1544efd",
+              "date": "2026-02-13",
+              "message": "docs: deploy ritual-engine-summary.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "1ff474d",
+              "date": "2026-02-13",
+              "message": "docs: deploy dualcore-oswavemod-protocol-v1.0.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "8e7f8d6",
+              "date": "2026-02-13",
+              "message": "docs: deploy rng-m4pp1ng-system.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "0d9f055",
+              "date": "2026-02-13",
+              "message": "docs: deploy symbolic-ritual-trigger-engine.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "97bfe4d",
+              "date": "2026-02-13",
+              "message": "docs: deploy dualcorem1rror-t4bl3.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "809c87f",
+              "date": "2026-02-13",
+              "message": "docs: deploy universal-modulation-engine.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "cad97f8",
+              "date": "2026-02-13",
+              "message": "docs: deploy synthesis-ring.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "c0359a1",
+              "date": "2026-02-13",
+              "message": "docs: deploy character-w4v3-model.v1.0.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "164b76a",
+              "date": "2026-02-13",
+              "message": "docs: deploy synth-chain-core.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "dd3c158",
+              "date": "2026-02-13",
+              "message": "docs: deploy ritual-engine.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "ef73273",
+              "date": "2026-02-13",
+              "message": "docs: deploy hybrid-toggle.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "fcc332d",
+              "date": "2026-02-13",
+              "message": "docs: deploy overview-system-table-architecture-v1.0.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "be50d1e",
+              "date": "2026-02-13",
+              "message": "docs: deploy binary-mirror.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "8b04f32",
+              "date": "2026-02-13",
+              "message": "docs: deploy dualcorev3.0-sorted-by-domain.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "e933f6c",
+              "date": "2026-02-13",
+              "message": "docs: deploy modulatable-features.v1.0.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "3162ffe",
+              "date": "2026-02-13",
+              "message": "docs: deploy aether-canvas-the-universal-waveform-explorer.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "a3074d3",
+              "date": "2026-02-13",
+              "message": "docs: deploy Digital Art: Interactive Sound Synthesis.pdf from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "dc4fd85",
+              "date": "2026-02-13",
+              "message": "docs: deploy universal-system-architecture.md from provenance (CONVERGENCE Sprint)"
+            }
+          ],
+          "files_changed": 37
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "card-trade-social": {
+          "commits": [
+            {
+              "hash": "be57894",
+              "date": "2026-02-13",
+              "message": "chore: standardize badge row (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "c4c1795",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-002 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "41e5a8b",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-001 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "03e4b12",
+              "date": "2026-02-13",
+              "message": "docs: add CHANGELOG (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "eb71bca",
+              "date": "2026-02-13",
+              "message": "ci: upgrade to full CI workflow (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "99cb59a",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "71e4412",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "72799f3",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "82413b4",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "355c021",
+              "date": "2026-02-13",
+              "message": "feat: add TypeScript prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "8014211",
+              "date": "2026-02-13",
+              "message": "docs: deploy dog-calendar-app-roadmap.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "871e150",
+              "date": "2026-02-13",
+              "message": "docs: deploy Title Revolutionizing the Trading Card Market.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "b965a48",
+              "date": "2026-02-13",
+              "message": "docs: deploy Theoretical Specifications_ Hydra Platform.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "08ccbbd",
+              "date": "2026-02-13",
+              "message": "docs: deploy TCG Ecosystem Research and Growth.md from provenance (CONVERGENCE Sprint)"
+            }
+          ],
+          "files_changed": 14
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "fd4adbd",
+              "date": "2026-02-13",
+              "message": "ci: add GitHub Pages deploy workflow"
+            },
+            {
+              "hash": "5aa9765",
+              "date": "2026-02-13",
+              "message": "feat: add GitHub Pages base path for deployment"
+            },
+            {
+              "hash": "fd4adbd",
+              "date": "2026-02-13",
+              "message": "ci: add GitHub Pages deploy workflow"
+            },
+            {
+              "hash": "5aa9765",
+              "date": "2026-02-13",
+              "message": "feat: add GitHub Pages base path for deployment"
+            }
+          ],
+          "files_changed": 2
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "e686645",
+              "date": "2026-02-13",
+              "message": "feat: VERITAS Sprint — credibility hardening across 12 files"
+            },
+            {
+              "hash": "d2ec1ab",
+              "date": "2026-02-13",
+              "message": "feat: E2G full system review — 9-dimension credibility audit, 18 action items"
+            },
+            {
+              "hash": "d9a846f",
+              "date": "2026-02-13",
+              "message": "feat: PRAXIS Sprint — 12/12 validation, revenue demo + community infra"
+            },
+            {
+              "hash": "9c939d1",
+              "date": "2026-02-13",
+              "message": "feat: CONVERGENCE Sprint — 82/82 PRODUCTION, 28 essays, zero provenance gaps"
+            },
+            {
+              "hash": "fbe0259",
+              "date": "2026-02-13",
+              "message": "docs: deploy the-living-document-system.pdf (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "fc5c30b",
+              "date": "2026-02-13",
+              "message": "docs: deploy Repository Inventory and Consolidation Strategy for GitHub Organizations.pdf (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "23a8198",
+              "date": "2026-02-13",
+              "message": "docs: deploy integrating-ai-tools-for-research,-writing,-and-project-management-automation.pdf (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9a49b8b",
+              "date": "2026-02-13",
+              "message": "docs: deploy The.injected.drive.now.includes.two.txt — Historical notes (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "31cab9f",
+              "date": "2026-02-13",
+              "message": "docs: deploy UNIVERSE_STATUS.md — Dec 2025 universe status snapshot (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "67dd591",
+              "date": "2026-02-13",
+              "message": "docs: deploy Transforming-content-into-growth-opportunities.md — Growth strategy asset — richest parent material (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "e10699f",
+              "date": "2026-02-13",
+              "message": "docs: deploy Preparing-AI-handoff-with-autonomous-agent-scaffolding.md — Genesis transcript: AI handoff scaffolding (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "651bb7e",
+              "date": "2026-02-13",
+              "message": "docs: deploy MANIFEST_INDEX_TABLE.csv — Historical manifest index from Dec 2025 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "306762b",
+              "date": "2026-02-13",
+              "message": "docs: deploy UNIVERSAL-ORCHESTRATOR-ARCHITECTURE.md — Historical architecture doc from Dec 2025 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "252fe9e",
+              "date": "2026-02-13",
+              "message": "chore: add .serena project configuration"
+            }
+          ],
+          "files_changed": 75
+        },
+        "scalable-lore-expert": {
+          "commits": [
+            {
+              "hash": "b3f6b7d",
+              "date": "2026-02-13",
+              "message": "chore: standardize badge row (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "bad8b74",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-002 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9f57fa8",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-001 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "c111064",
+              "date": "2026-02-13",
+              "message": "docs: add CHANGELOG (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "82f5506",
+              "date": "2026-02-13",
+              "message": "ci: upgrade to full CI workflow (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "25c2dd4",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "07226c9",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "30ec539",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "3a4f660",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "31a36b6",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "b311ec1",
+              "date": "2026-02-13",
+              "message": "docs: deploy auth.ts from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "b3fc035",
+              "date": "2026-02-13",
+              "message": "docs: deploy oauth.ts from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "3b2b5da",
+              "date": "2026-02-13",
+              "message": "docs: deploy csrf.ts from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9f977ec",
+              "date": "2026-02-13",
+              "message": "docs: deploy README.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "30d1c92",
+              "date": "2026-02-13",
+              "message": "docs: deploy csrf-example.ts from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "6632e86",
+              "date": "2026-02-13",
+              "message": "docs: deploy Utility Patent for a Plumbing Test Apparatus.txt from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "2b92b59",
+              "date": "2026-02-13",
+              "message": "docs: deploy clearview-v1.txt from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "37536b1",
+              "date": "2026-02-13",
+              "message": "docs: deploy MET4_Fusion.txt from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "4f1c919",
+              "date": "2026-02-13",
+              "message": "docs: deploy Design Paths for a Scalable Lore Expert System.docx from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "c8a8942",
+              "date": "2026-02-13",
+              "message": "docs: deploy Dante's Midlife Crisis Explained.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "ecc15e3",
+              "date": "2026-02-13",
+              "message": "docs: deploy Modular-Myth-Fusion-Engine.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "104e725",
+              "date": "2026-02-13",
+              "message": "docs: deploy Name-Fusion-Creations.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "24c7d3d",
+              "date": "2026-02-13",
+              "message": "docs: deploy met4-fuse-transform-symbiote.code-workspace from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "de2b445",
+              "date": "2026-02-13",
+              "message": "docs: deploy Fusion-Possession-Symbiote-Protocols.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "31fd461",
+              "date": "2026-02-13",
+              "message": "docs: deploy KH-Mythos-Analysis.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "4a27c36",
+              "date": "2026-02-13",
+              "message": "docs: deploy Majin-Buu-Cell-Fusion.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "c33edce",
+              "date": "2026-02-13",
+              "message": "docs: deploy Myth-Fusion-Framework.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "aa681df",
+              "date": "2026-02-13",
+              "message": "docs: deploy Trans-Universe-Mythic-Characters.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "5c19714",
+              "date": "2026-02-13",
+              "message": "docs: deploy _gemini_visit_20260102.json from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "f624135",
+              "date": "2026-02-13",
+              "message": "docs: deploy New-Gods-Multi-Tiered-Ingest.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "8f6c2bc",
+              "date": "2026-02-13",
+              "message": "docs: deploy Personalized-Gameplay-Design.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "00f2dc6",
+              "date": "2026-02-13",
+              "message": "docs: deploy META-MYTH-4LL-The-Fusion-Engine-of-All-Media-Minds-and-Matter.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "4d39a7b",
+              "date": "2026-02-13",
+              "message": "docs: deploy Symbiote-Fusion-Experiment.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "3e05b86",
+              "date": "2026-02-13",
+              "message": "docs: deploy full-structure.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "a5e59f9",
+              "date": "2026-02-13",
+              "message": "docs: deploy HERE-THERE-EVERYWHERE-NOWHERE.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9309139",
+              "date": "2026-02-13",
+              "message": "docs: deploy grokking-algorithms-for-os.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "651a68f",
+              "date": "2026-02-13",
+              "message": "docs: deploy combined-new-gods-multi-tiered-ingest.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "8cb97c5",
+              "date": "2026-02-13",
+              "message": "docs: deploy here-there-everywhere-nowhere-226eb690ee2081bcb0c4ffb3a7912c77.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "b9c9ec0",
+              "date": "2026-02-13",
+              "message": "docs: deploy here-there-everywhere-nowhere-2.md from provenance (CONVERGENCE Sprint)"
+            }
+          ],
+          "files_changed": 39
+        },
+        "hokage-chess": {
+          "commits": [
+            {
+              "hash": "d24071c",
+              "date": "2026-02-13",
+              "message": "chore: standardize badge row (CONVERGENCE Sprint)"
+            }
+          ],
+          "files_changed": 25
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "1f6c4d3",
+              "date": "2026-02-13",
+              "message": "Bump domus CLI to v1.1.0 with logging, debug mode, and logs command"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        "public-process": {
+          "commits": [
+            {
+              "hash": "b796846",
+              "date": "2026-02-13",
+              "message": "feat: add honesty essay — how-this-was-built (VERITAS Sprint)"
+            },
+            {
+              "hash": "96731e7",
+              "date": "2026-02-13",
+              "message": "fix: remove old-dated _posts/2026-02-22-the-convergence.md (VERITAS Sprint)"
+            },
+            {
+              "hash": "bd9b625",
+              "date": "2026-02-13",
+              "message": "fix: redate the-convergence from 2026-02-22 to 2026-02-13 (VERITAS Sprint)"
+            },
+            {
+              "hash": "5b314f4",
+              "date": "2026-02-13",
+              "message": "fix: remove old-dated _posts/2026-02-21-dependency-graph.md (VERITAS Sprint)"
+            },
+            {
+              "hash": "dfeb81a",
+              "date": "2026-02-13",
+              "message": "fix: redate dependency-graph from 2026-02-21 to 2026-02-13 (VERITAS Sprint)"
+            },
+            {
+              "hash": "6a32bb7",
+              "date": "2026-02-13",
+              "message": "fix: remove old-dated _posts/2026-02-20-archive-paradox.md (VERITAS Sprint)"
+            },
+            {
+              "hash": "310f10b",
+              "date": "2026-02-13",
+              "message": "fix: redate archive-paradox from 2026-02-20 to 2026-02-13 (VERITAS Sprint)"
+            },
+            {
+              "hash": "d745dc0",
+              "date": "2026-02-13",
+              "message": "fix: remove old-dated _posts/2026-02-19-provenance-as-practice.md (VERITAS Sprint)"
+            },
+            {
+              "hash": "68beba6",
+              "date": "2026-02-13",
+              "message": "fix: redate provenance-as-practice from 2026-02-19 to 2026-02-13 (VERITAS Sprint)"
+            },
+            {
+              "hash": "47364ae",
+              "date": "2026-02-13",
+              "message": "fix: remove old-dated _posts/2026-02-18-seed-contracts.md (VERITAS Sprint)"
+            },
+            {
+              "hash": "36b1aaf",
+              "date": "2026-02-13",
+              "message": "fix: redate seed-contracts from 2026-02-18 to 2026-02-13 (VERITAS Sprint)"
+            },
+            {
+              "hash": "c36e896",
+              "date": "2026-02-13",
+              "message": "fix: remove old-dated _posts/2026-02-17-aesthetic-nervous-system.md (VERITAS Sprint)"
+            },
+            {
+              "hash": "c558e0b",
+              "date": "2026-02-13",
+              "message": "fix: redate aesthetic-nervous-system from 2026-02-17 to 2026-02-13 (VERITAS Sprint)"
+            },
+            {
+              "hash": "61d082d",
+              "date": "2026-02-13",
+              "message": "fix: remove old-dated _posts/2026-02-16-bootstrap-to-scale.md (VERITAS Sprint)"
+            },
+            {
+              "hash": "9794401",
+              "date": "2026-02-13",
+              "message": "fix: redate bootstrap-to-scale from 2026-02-16 to 2026-02-13 (VERITAS Sprint)"
+            },
+            {
+              "hash": "ad74db1",
+              "date": "2026-02-13",
+              "message": "fix: remove old-dated _posts/2026-02-15-deploying-the-portfolio.md (VERITAS Sprint)"
+            },
+            {
+              "hash": "f642ba4",
+              "date": "2026-02-13",
+              "message": "fix: redate deploying-the-portfolio from 2026-02-15 to 2026-02-13 (VERITAS Sprint)"
+            },
+            {
+              "hash": "a480465",
+              "date": "2026-02-13",
+              "message": "fix: remove old-dated _posts/2026-02-14-the-promotion-pipeline.md (VERITAS Sprint)"
+            },
+            {
+              "hash": "805d530",
+              "date": "2026-02-13",
+              "message": "fix: redate the-promotion-pipeline from 2026-02-14 to 2026-02-13 (VERITAS Sprint)"
+            },
+            {
+              "hash": "e63414a",
+              "date": "2026-02-13",
+              "message": "essay: deploy 2026-02-22-the-convergence.md (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "6f2214e",
+              "date": "2026-02-13",
+              "message": "essay: deploy 2026-02-21-dependency-graph.md (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "5dcc3ee",
+              "date": "2026-02-13",
+              "message": "essay: deploy 2026-02-20-archive-paradox.md (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "7ebae6d",
+              "date": "2026-02-13",
+              "message": "essay: deploy 2026-02-19-provenance-as-practice.md (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "2e93b18",
+              "date": "2026-02-13",
+              "message": "essay: deploy 2026-02-18-seed-contracts.md (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "d7ba379",
+              "date": "2026-02-13",
+              "message": "essay: deploy 2026-02-17-aesthetic-nervous-system.md (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "41e589e",
+              "date": "2026-02-13",
+              "message": "essay: deploy 2026-02-16-bootstrap-to-scale.md (CONVERGENCE Sprint)"
+            }
+          ],
+          "files_changed": 19
+        }
+      }
+    },
+    "VI": {
+      "name": "Koinonia",
+      "repos": {
+        "adaptive-personal-syllabus": {
+          "commits": [
+            {
+              "hash": "a9778cb",
+              "date": "2026-02-13",
+              "message": "chore: standardize badge row (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9172c8c",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-002 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "bf4ddfc",
+              "date": "2026-02-13",
+              "message": "docs: add ADR-001 (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "d77b9b9",
+              "date": "2026-02-13",
+              "message": "docs: add CHANGELOG (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "5c2de0c",
+              "date": "2026-02-13",
+              "message": "ci: upgrade to full CI workflow (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "2fb2545",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "4cd004a",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "306ca0f",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "c131ca6",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "5de418a",
+              "date": "2026-02-13",
+              "message": "feat: add Python prototype skeleton (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "20d5810",
+              "date": "2026-02-13",
+              "message": "docs: deploy _gemini_visit_20260102.json from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "fc26f62",
+              "date": "2026-02-13",
+              "message": "docs: deploy os-syllabus-v3-3.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "902e6a3",
+              "date": "2026-02-13",
+              "message": "docs: deploy os-syllabus-v3-2.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "1888633",
+              "date": "2026-02-13",
+              "message": "docs: deploy os-syllabus-v3.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "b2609e9",
+              "date": "2026-02-13",
+              "message": "docs: deploy init-protocall.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "ec3785c",
+              "date": "2026-02-13",
+              "message": "docs: deploy regeos-draftcurriculum-v2.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "21985c5",
+              "date": "2026-02-13",
+              "message": "docs: deploy onupaway-syllabus-2.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "578e298",
+              "date": "2026-02-13",
+              "message": "docs: deploy OnUpAway-Syllabus.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9a9b526",
+              "date": "2026-02-13",
+              "message": "docs: deploy 3-clauderebuddle-grok.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "3d003f7",
+              "date": "2026-02-13",
+              "message": "docs: deploy 11-recontextualize-gpt.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "e933771",
+              "date": "2026-02-13",
+              "message": "docs: deploy 01-onupaway-os-syllabuscritique-grok.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "61dbc92",
+              "date": "2026-02-13",
+              "message": "docs: deploy 5-grokcontinues.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "b1848e1",
+              "date": "2026-02-13",
+              "message": "docs: deploy 9-userChecksGROK.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "7924cb2",
+              "date": "2026-02-13",
+              "message": "docs: deploy 2-onupaway-os-syllabuscritique-claude.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "00ee0df",
+              "date": "2026-02-13",
+              "message": "docs: deploy 12-deeperinsights-postrest-grok.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "5707074",
+              "date": "2026-02-13",
+              "message": "docs: deploy thread-compilation-report.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "695e482",
+              "date": "2026-02-13",
+              "message": "docs: deploy _gemini_visit_20260102.json from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "f38a500",
+              "date": "2026-02-13",
+              "message": "docs: deploy 6-easeuser-grok.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "6a08fe8",
+              "date": "2026-02-13",
+              "message": "docs: deploy 01a-structuresuggestion-grok.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "a04ae3a",
+              "date": "2026-02-13",
+              "message": "docs: deploy 10-GROKsUpdatedReadingList.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "bbc904d",
+              "date": "2026-02-13",
+              "message": "docs: deploy 8-grokRespondsAndResponds.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "253bc4a",
+              "date": "2026-02-13",
+              "message": "docs: deploy 0-syllabus-foraireview.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "6ca3861",
+              "date": "2026-02-13",
+              "message": "docs: deploy 15-expansiveINQUIRY.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "edc0b48",
+              "date": "2026-02-13",
+              "message": "docs: deploy 13-grokFart.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "81f4316",
+              "date": "2026-02-13",
+              "message": "docs: deploy 16.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "e2a393d",
+              "date": "2026-02-13",
+              "message": "docs: deploy 7-bowout-claude.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "ba43019",
+              "date": "2026-02-13",
+              "message": "docs: deploy 4-grokrebuddle-claude.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "196c329",
+              "date": "2026-02-13",
+              "message": "docs: deploy A_ _ .. [ [ execution over concept[.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "5b60f8a",
+              "date": "2026-02-13",
+              "message": "docs: deploy Here are some structured writing exercises and activities that will….md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "fc8ae3f",
+              "date": "2026-02-13",
+              "message": "docs: deploy 📜 FINALIZED RULES FOR THE NAMING STRUCTURE & UNIVERSAL SYSTEM.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9f9cc3b",
+              "date": "2026-02-13",
+              "message": "docs: deploy Got it. Here’s a full breakdown of writing structures, along with….md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "f5dc4ca",
+              "date": "2026-02-13",
+              "message": "docs: deploy The Graphic Novel Writing Guide for Derek Inspiration, Structure….md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "ae97964",
+              "date": "2026-02-13",
+              "message": "docs: deploy Analyzing the Common Threads in Whiplash, Real, and Vagabond.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "2cf6066",
+              "date": "2026-02-13",
+              "message": "docs: deploy Essential Storytelling Principles for Derek.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "7551335",
+              "date": "2026-02-13",
+              "message": "docs: deploy Aligning McKee’s Story with McCloud’s Understanding Comics.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "4daf74d",
+              "date": "2026-02-13",
+              "message": "docs: deploy Writing Guide for Derek Structure, Exploration, and Momentum.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "6057b71",
+              "date": "2026-02-13",
+              "message": "docs: deploy I’ve taken all of this into account and structured it into a logical….md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "9024a6b",
+              "date": "2026-02-13",
+              "message": "docs: deploy OnUpAway-Syllabus.md.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "ff6a7f6",
+              "date": "2026-02-13",
+              "message": "docs: deploy Context-capture-and-analysis.md from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "a680a7e",
+              "date": "2026-02-13",
+              "message": "docs: deploy transcript-jf-ap-trading-cards.txt from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "258de83",
+              "date": "2026-02-13",
+              "message": "docs: deploy seed.yaml from provenance (CONVERGENCE Sprint)"
+            },
+            {
+              "hash": "ae55f40",
+              "date": "2026-02-13",
+              "message": "docs: deploy README.md from provenance (CONVERGENCE Sprint)"
+            }
+          ],
+          "files_changed": 52
+        }
+      }
+    }
+  }
+}

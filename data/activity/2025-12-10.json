@@ -1,0 +1,178 @@
+{
+  "generated": "2026-03-06T00:39:33Z",
+  "since": "2025-12-10",
+  "until": "2025-12-10",
+  "summary": {
+    "total_commits": 23,
+    "repos_active": 5,
+    "files_changed": 121,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "f61e4f3",
+              "date": "2025-12-10",
+              "message": "Consolidate all open PRs and branches into main (#23)"
+            },
+            {
+              "hash": "7daab08",
+              "date": "2025-12-10",
+              "message": "chore(deps): bump actions/setup-python from 5 to 6 (#7)"
+            },
+            {
+              "hash": "cbc7b37",
+              "date": "2025-12-10",
+              "message": "chore(deps): bump DavidAnson/markdownlint-cli2-action from 16 to 20 (#6)"
+            },
+            {
+              "hash": "c1b4fa3",
+              "date": "2025-12-10",
+              "message": "chore(deps): bump actions/setup-java from 4 to 5 (#5)"
+            },
+            {
+              "hash": "2c17603",
+              "date": "2025-12-10",
+              "message": "chore(deps): bump github/codeql-action from 3 to 4 (#4)"
+            },
+            {
+              "hash": "d9133f0",
+              "date": "2025-12-10",
+              "message": "docs: Add comprehensive critique and strategic analysis (#21)"
+            }
+          ],
+          "files_changed": 45
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "b6d5b6f",
+              "date": "2025-12-10",
+              "message": "fix: remove deprecated VS Code extension from recommendations"
+            },
+            {
+              "hash": "de17496",
+              "date": "2025-12-10",
+              "message": "Merge PR #9: Add GitHub Copilot and AI assistant configuration"
+            },
+            {
+              "hash": "71ab2e4",
+              "date": "2025-12-10",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 17
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "2d5d4be",
+              "date": "2025-12-10",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "b2fa30f",
+              "date": "2025-12-10",
+              "message": "Update COMPREHENSIVE_CRITIQUE.md"
+            },
+            {
+              "hash": "02a985d",
+              "date": "2025-12-10",
+              "message": "Update org-issue-notifications.yml"
+            },
+            {
+              "hash": "de68640",
+              "date": "2025-12-10",
+              "message": "Update CODEOWNERS"
+            }
+          ],
+          "files_changed": 7
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "f61e4f3",
+              "date": "2025-12-10",
+              "message": "Consolidate all open PRs and branches into main (#23)"
+            },
+            {
+              "hash": "7daab08",
+              "date": "2025-12-10",
+              "message": "chore(deps): bump actions/setup-python from 5 to 6 (#7)"
+            },
+            {
+              "hash": "cbc7b37",
+              "date": "2025-12-10",
+              "message": "chore(deps): bump DavidAnson/markdownlint-cli2-action from 16 to 20 (#6)"
+            },
+            {
+              "hash": "c1b4fa3",
+              "date": "2025-12-10",
+              "message": "chore(deps): bump actions/setup-java from 4 to 5 (#5)"
+            },
+            {
+              "hash": "2c17603",
+              "date": "2025-12-10",
+              "message": "chore(deps): bump github/codeql-action from 3 to 4 (#4)"
+            },
+            {
+              "hash": "d9133f0",
+              "date": "2025-12-10",
+              "message": "docs: Add comprehensive critique and strategic analysis (#21)"
+            }
+          ],
+          "files_changed": 45
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "2d5d4be",
+              "date": "2025-12-10",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "b2fa30f",
+              "date": "2025-12-10",
+              "message": "Update COMPREHENSIVE_CRITIQUE.md"
+            },
+            {
+              "hash": "02a985d",
+              "date": "2025-12-10",
+              "message": "Update org-issue-notifications.yml"
+            },
+            {
+              "hash": "de68640",
+              "date": "2025-12-10",
+              "message": "Update CODEOWNERS"
+            }
+          ],
+          "files_changed": 7
+        }
+      }
+    }
+  }
+}

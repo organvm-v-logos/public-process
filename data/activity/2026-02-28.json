@@ -1,11 +1,11 @@
 {
-  "generated": "2026-03-03T23:32:07Z",
+  "generated": "2026-03-06T00:39:27Z",
   "since": "2026-02-28",
-  "until": "2026-03-01",
+  "until": "2026-02-28",
   "summary": {
-    "total_commits": 224,
-    "repos_active": 85,
-    "files_changed": 692,
+    "total_commits": 343,
+    "repos_active": 108,
+    "files_changed": 772,
     "organs_touched": [
       "I",
       "II",
@@ -147,6 +147,16 @@
           ],
           "files_changed": 6
         },
+        ".github": {
+          "commits": [
+            {
+              "hash": "9beb131",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
         "alchemia-ingestvm": {
           "commits": [
             {
@@ -156,6 +166,51 @@
             }
           ],
           "files_changed": 1
+        },
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "784e302",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "etceter4": {
+          "commits": [
+            {
+              "hash": "2b45a62",
+              "date": "2026-02-28",
+              "message": "chore: sync corpus pointer after Wave 5/6 deployment registry updates"
+            },
+            {
+              "hash": "a80da1c",
+              "date": "2026-02-28",
+              "message": "chore: sync corpvs-testamentvm pointer after registry deployment URL updates"
+            },
+            {
+              "hash": "d7827f9",
+              "date": "2026-02-28",
+              "message": "chore: sync registry pointer after API URL addition"
+            },
+            {
+              "hash": "d7d272d",
+              "date": "2026-02-28",
+              "message": "chore: sync corpvs-testamentvm pointer after deployment URL registry update"
+            },
+            {
+              "hash": "a5b9b02",
+              "date": "2026-02-28",
+              "message": "chore: sync corpvs pointer after registry update"
+            },
+            {
+              "hash": "50d7985",
+              "date": "2026-02-28",
+              "message": "chore: sync submodule pointers after omega advancement sprint"
+            }
+          ],
+          "files_changed": 6
         },
         "organvm-corpvs-testamentvm": {
           "commits": [
@@ -332,6 +387,51 @@
           ],
           "files_changed": 1
         },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "650f495",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "650f495",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "650f495",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "650f495",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "650f495",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
         "organon-noumenon--ontogenetic-morphe": {
           "commits": [
             {
@@ -411,6 +511,16 @@
             }
           ],
           "files_changed": 28
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "1f6ffbc",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
         },
         "a-i-council--coliseum": {
           "commits": [
@@ -792,8 +902,33 @@
           ],
           "files_changed": 33
         },
+        ".github": {
+          "commits": [
+            {
+              "hash": "bfccb90",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 4
+        },
         "a-i-chat--exporter": {
           "commits": [
+            {
+              "hash": "69ddea2",
+              "date": "2026-02-28",
+              "message": "docs: improve CLAUDE.md with commands and architecture"
+            },
+            {
+              "hash": "af37f81",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "e9d8321",
+              "date": "2026-02-28",
+              "message": "test: add vitest suite for utilities and conversion"
+            },
             {
               "hash": "69ddea2",
               "date": "2026-02-28",
@@ -814,6 +949,21 @@
         },
         "anon-hookup-now": {
           "commits": [
+            {
+              "hash": "0aa2247",
+              "date": "2026-02-28",
+              "message": "docs: improve CLAUDE.md with commands and architecture"
+            },
+            {
+              "hash": "11fcda6",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "38c09d2",
+              "date": "2026-02-28",
+              "message": "test: add data file validation and save_version_to_json tests"
+            },
             {
               "hash": "0aa2247",
               "date": "2026-02-28",
@@ -883,6 +1033,26 @@
               "hash": "812303d",
               "date": "2026-02-28",
               "message": "test: add vitest suite for constants, error messages, and avatar options"
+            },
+            {
+              "hash": "ac273ff",
+              "date": "2026-02-28",
+              "message": "chore: add .netlify to .gitignore"
+            },
+            {
+              "hash": "612c210",
+              "date": "2026-02-28",
+              "message": "docs: add Netlify deployment URL to CLAUDE.md"
+            },
+            {
+              "hash": "141fac8",
+              "date": "2026-02-28",
+              "message": "docs: add Netlify deployment URL to seed.yaml"
+            },
+            {
+              "hash": "812303d",
+              "date": "2026-02-28",
+              "message": "test: add vitest suite for constants, error messages, and avatar options"
             }
           ],
           "files_changed": 8
@@ -893,17 +1063,37 @@
               "hash": "1ef5719",
               "date": "2026-02-28",
               "message": "chore: sync promotion_status with registry-v2.json"
-            },
-            {
-              "hash": "9b7550e",
-              "date": "2026-02-24",
-              "message": "chore: auto-sync context files (CLAUDE, GEMINI, AGENTS) and pitch docs"
             }
           ],
           "files_changed": 5
         },
+        "alchemia-ingestvm": {
+          "commits": [
+            {
+              "hash": "88502e1",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "community-hub": {
+          "commits": [
+            {
+              "hash": "6d46f11",
+              "date": "2026-02-28",
+              "message": "docs: add Render deployment URL to seed.yaml"
+            }
+          ],
+          "files_changed": 1
+        },
         "enterprise-plugin": {
           "commits": [
+            {
+              "hash": "16a565b",
+              "date": "2026-02-28",
+              "message": "docs: add CLAUDE.md with archived status header"
+            },
             {
               "hash": "16a565b",
               "date": "2026-02-28",
@@ -914,6 +1104,26 @@
         },
         "fetch-familiar-friends": {
           "commits": [
+            {
+              "hash": "a3c4d60",
+              "date": "2026-02-28",
+              "message": "chore: add .netlify and src/test/repro/ to .gitignore"
+            },
+            {
+              "hash": "6fc1327",
+              "date": "2026-02-28",
+              "message": "docs: add Netlify deployment URL to CLAUDE.md"
+            },
+            {
+              "hash": "14e9cfe",
+              "date": "2026-02-28",
+              "message": "docs: add Netlify deployment URL to seed.yaml"
+            },
+            {
+              "hash": "4e09029",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
             {
               "hash": "a3c4d60",
               "date": "2026-02-28",
@@ -963,42 +1173,72 @@
               "hash": "79f5965",
               "date": "2026-02-28",
               "message": "test: add Jest suite for auth middleware and error handler"
-            }
-          ],
-          "files_changed": 5
-        },
-        "hokage-chess": {
-          "commits": [
-            {
-              "hash": "1db94fc",
-              "date": "2026-02-28",
-              "message": "docs: add CLAUDE.md with architecture and commands"
             },
             {
-              "hash": "68598eb",
+              "hash": "571b098",
+              "date": "2026-02-28",
+              "message": "docs: rewrite CLAUDE.md with Three.js/backend architecture and deployment URL"
+            },
+            {
+              "hash": "56c03d5",
               "date": "2026-02-28",
               "message": "chore: update seed.yaml with deployment URL and promote to PUBLIC_PROCESS"
             },
             {
-              "hash": "10c9d3b",
+              "hash": "fd5907d",
               "date": "2026-02-28",
-              "message": "chore: add GitHub Pages deployment workflow"
+              "message": "fix: set base to / and add multi-page inputs for Cloudflare Pages deployment"
             },
             {
-              "hash": "dbe064e",
+              "hash": "dfac4c6",
               "date": "2026-02-28",
               "message": "chore: sync promotion_status with registry-v2.json"
             },
             {
-              "hash": "ed8b20b",
+              "hash": "79f5965",
               "date": "2026-02-28",
-              "message": "feat: implement content strategy modules with tests"
+              "message": "test: add Jest suite for auth middleware and error handler"
             }
           ],
-          "files_changed": 14
+          "files_changed": 5
+        },
+        "kerygma-pipeline": {
+          "commits": [
+            {
+              "hash": "1b9c353",
+              "date": "2026-02-28",
+              "message": "ci: add CI workflow"
+            },
+            {
+              "hash": "631b97e",
+              "date": "2026-02-28",
+              "message": "chore: add missing seed.yaml"
+            }
+          ],
+          "files_changed": 2
         },
         "life-my--midst--in": {
           "commits": [
+            {
+              "hash": "7812c5b",
+              "date": "2026-02-28",
+              "message": "chore: promote to PUBLIC_PROCESS after Render deployment"
+            },
+            {
+              "hash": "2de985f",
+              "date": "2026-02-28",
+              "message": "fix: remove standalone output and add health endpoint"
+            },
+            {
+              "hash": "a2be460",
+              "date": "2026-02-28",
+              "message": "fix: skip TS checking in next build to avoid OOM"
+            },
+            {
+              "hash": "d60aced",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
             {
               "hash": "7812c5b",
               "date": "2026-02-28",
@@ -1048,9 +1288,734 @@
               "hash": "638f24b",
               "date": "2026-02-28",
               "message": "test: add vitest suite for hooks and utilities"
+            },
+            {
+              "hash": "f8b353a",
+              "date": "2026-02-28",
+              "message": "chore: add .netlify to .gitignore"
+            },
+            {
+              "hash": "5e0c7ab",
+              "date": "2026-02-28",
+              "message": "docs: rewrite CLAUDE.md with real architecture and deployment URL"
+            },
+            {
+              "hash": "765b360",
+              "date": "2026-02-28",
+              "message": "docs: update seed.yaml with deployment URL after Netlify deploy"
+            },
+            {
+              "hash": "38081ce",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "638f24b",
+              "date": "2026-02-28",
+              "message": "test: add vitest suite for hooks and utilities"
             }
           ],
           "files_changed": 10
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "650f495",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "84a37a0",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "b118491",
+              "date": "2026-02-28",
+              "message": "chore: add deployment URLs for Wave 5/6 repos (7 repos → PUBLIC_PROCESS)"
+            },
+            {
+              "hash": "dddbb47",
+              "date": "2026-02-28",
+              "message": "chore: update portfolio-site data files"
+            },
+            {
+              "hash": "2d49681",
+              "date": "2026-02-28",
+              "message": "docs: omega #13 MET — LobeHub organic inbound links discovered"
+            },
+            {
+              "hash": "152c79f",
+              "date": "2026-02-28",
+              "message": "docs: update omega scorecard — 3/17 MET (#5, #6, #8)"
+            },
+            {
+              "hash": "4f4e772",
+              "date": "2026-02-28",
+              "message": "docs: add deployment URLs for 4 newly deployed repos"
+            },
+            {
+              "hash": "70a2e70",
+              "date": "2026-02-28",
+              "message": "chore: auto-refresh metrics 2026-02-28"
+            },
+            {
+              "hash": "ba7a95b",
+              "date": "2026-02-28",
+              "message": "docs: add public-record-data-scrapper API URL to registry"
+            },
+            {
+              "hash": "6f601ad",
+              "date": "2026-02-28",
+              "message": "chore: auto-refresh metrics 2026-02-28"
+            },
+            {
+              "hash": "3dcd924",
+              "date": "2026-02-28",
+              "message": "docs: add deployment URLs for 6 newly deployed products"
+            },
+            {
+              "hash": "f8faf6f",
+              "date": "2026-02-28",
+              "message": "chore: auto-refresh metrics 2026-02-28"
+            },
+            {
+              "hash": "c66dc63",
+              "date": "2026-02-28",
+              "message": "chore: promote life-my--midst--in CANDIDATE → PUBLIC_PROCESS"
+            },
+            {
+              "hash": "80566de",
+              "date": "2026-02-28",
+              "message": "chore: add soak snapshots (Feb 27-28), daily-soak automation, update concordance"
+            },
+            {
+              "hash": "b60c84e",
+              "date": "2026-02-28",
+              "message": "chore: soak test snapshot 2026-02-28"
+            },
+            {
+              "hash": "a140110",
+              "date": "2026-02-28",
+              "message": "chore: auto-refresh metrics 2026-02-28"
+            }
+          ],
+          "files_changed": 19
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "3cf284f",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "organvm-i-theoria--superproject": {
+          "commits": [
+            {
+              "hash": "ac04a6c",
+              "date": "2026-02-28",
+              "message": "chore: sync submodule pointers after omega advancement sprint"
+            }
+          ],
+          "files_changed": 12
+        },
+        "organvm-iii-ergon--superproject": {
+          "commits": [
+            {
+              "hash": "e2ee651",
+              "date": "2026-02-28",
+              "message": "chore: sync virgil-training-overlay and enterprise-plugin pointers"
+            },
+            {
+              "hash": "afdbd8c",
+              "date": "2026-02-28",
+              "message": "chore: sync submodule pointers after gitignore/lockfile cleanup"
+            },
+            {
+              "hash": "2ce8262",
+              "date": "2026-02-28",
+              "message": "chore: sync submodule pointers and remove orphaned peer-audited gitlink"
+            },
+            {
+              "hash": "0a5491e",
+              "date": "2026-02-28",
+              "message": "chore: sync submodule pointers after CLAUDE.md updates"
+            },
+            {
+              "hash": "5515779",
+              "date": "2026-02-28",
+              "message": "docs: update CLAUDE.md with deployments, branch note, submodule fix"
+            },
+            {
+              "hash": "308ba81",
+              "date": "2026-02-28",
+              "message": "Update submodules"
+            },
+            {
+              "hash": "e09eea0",
+              "date": "2026-02-28",
+              "message": "chore: sync submodule pointers after Wave 5/6 deployments"
+            },
+            {
+              "hash": "ac5916d",
+              "date": "2026-02-28",
+              "message": "chore: sync submodule pointers after Netlify deployments"
+            },
+            {
+              "hash": "9080b3b",
+              "date": "2026-02-28",
+              "message": "chore: sync public-record-data-scrapper pointer after Render deployment"
+            },
+            {
+              "hash": "ea49532",
+              "date": "2026-02-28",
+              "message": "chore: sync public-record-data-scrapper pointer after Netlify deployment"
+            },
+            {
+              "hash": "d218395",
+              "date": "2026-02-28",
+              "message": "chore: sync submodule pointers after Wave 1 Netlify deployments"
+            },
+            {
+              "hash": "7c0fa1d",
+              "date": "2026-02-28",
+              "message": "docs: update organ map for life-my--midst--in promotion"
+            },
+            {
+              "hash": "0a71780",
+              "date": "2026-02-28",
+              "message": "chore: sync life-my--midst--in pointer after promotion"
+            },
+            {
+              "hash": "cf25ad5",
+              "date": "2026-02-28",
+              "message": "chore: sync life-my--midst--in pointer after Render deployment"
+            },
+            {
+              "hash": "99a795e",
+              "date": "2026-02-28",
+              "message": "chore: sync submodule pointers after omega advancement sprint"
+            },
+            {
+              "hash": "8d81e50",
+              "date": "2026-02-28",
+              "message": "docs: update auto-generated organ map with current seed.yaml data"
+            },
+            {
+              "hash": "1c0fb26",
+              "date": "2026-02-28",
+              "message": "docs: fix submodule count and standalone repo notes in CLAUDE.md"
+            },
+            {
+              "hash": "771a001",
+              "date": "2026-02-28",
+              "message": "docs: update CLAUDE.md catalog for parlor-games submodule status"
+            },
+            {
+              "hash": "5763792",
+              "date": "2026-02-28",
+              "message": "chore: register parlor-games--ephemera-engine as submodule"
+            },
+            {
+              "hash": "8746fbf",
+              "date": "2026-02-28",
+              "message": "chore: sync submodule pointers after test coverage sweep"
+            }
+          ],
+          "files_changed": 33
+        },
+        "peer-audited--behavioral-blockchain": {
+          "commits": [
+            {
+              "hash": "6c6981d",
+              "date": "2026-02-28",
+              "message": "feat: implement all 18 E2G roadmap tasks (Alpha → Delta)"
+            },
+            {
+              "hash": "4a7dcb8",
+              "date": "2026-02-28",
+              "message": "fix: resolve GHSA-5c6j-r48x-rmvq — upgrade serialize-javascript to 7.0.3"
+            },
+            {
+              "hash": "43d4da3",
+              "date": "2026-02-28",
+              "message": "test: close test coverage gaps across all workspaces (1,272 → 1,318)"
+            },
+            {
+              "hash": "0699305",
+              "date": "2026-02-28",
+              "message": "feat: replace mock GeofenceService IP lookup with geoip-lite (#30)"
+            },
+            {
+              "hash": "02f442a",
+              "date": "2026-02-28",
+              "message": "fix: resolve issues #28, #29, #32, #33, #34, #35 — Sprint 10"
+            },
+            {
+              "hash": "c0fbd9f",
+              "date": "2026-02-28",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "f408270",
+              "date": "2026-02-28",
+              "message": "docs: update SECURITY.md supported versions table"
+            },
+            {
+              "hash": "5e618b5",
+              "date": "2026-02-28",
+              "message": "docs: update README and CONTRIBUTING for Sprint 9 (1,107 tests, MIT license)"
+            },
+            {
+              "hash": "deeca85",
+              "date": "2026-02-28",
+              "message": "docs: Sprint 9 — sync docs to 1,107 tests, validate gates against live API"
+            },
+            {
+              "hash": "6c6981d",
+              "date": "2026-02-28",
+              "message": "feat: implement all 18 E2G roadmap tasks (Alpha → Delta)"
+            },
+            {
+              "hash": "4a7dcb8",
+              "date": "2026-02-28",
+              "message": "fix: resolve GHSA-5c6j-r48x-rmvq — upgrade serialize-javascript to 7.0.3"
+            },
+            {
+              "hash": "43d4da3",
+              "date": "2026-02-28",
+              "message": "test: close test coverage gaps across all workspaces (1,272 → 1,318)"
+            },
+            {
+              "hash": "0699305",
+              "date": "2026-02-28",
+              "message": "feat: replace mock GeofenceService IP lookup with geoip-lite (#30)"
+            },
+            {
+              "hash": "02f442a",
+              "date": "2026-02-28",
+              "message": "fix: resolve issues #28, #29, #32, #33, #34, #35 — Sprint 10"
+            },
+            {
+              "hash": "c0fbd9f",
+              "date": "2026-02-28",
+              "message": "chore: stage and commit all changes"
+            },
+            {
+              "hash": "f408270",
+              "date": "2026-02-28",
+              "message": "docs: update SECURITY.md supported versions table"
+            },
+            {
+              "hash": "5e618b5",
+              "date": "2026-02-28",
+              "message": "docs: update README and CONTRIBUTING for Sprint 9 (1,107 tests, MIT license)"
+            },
+            {
+              "hash": "deeca85",
+              "date": "2026-02-28",
+              "message": "docs: Sprint 9 — sync docs to 1,107 tests, validate gates against live API"
+            }
+          ],
+          "files_changed": 111
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "b980e53",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "scalable-lore-expert": {
+          "commits": [
+            {
+              "hash": "a30ccb1",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "97efbb7",
+              "date": "2026-02-28",
+              "message": "docs: improve CLAUDE.md with commands and architecture"
+            },
+            {
+              "hash": "d8e70bb",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "68d1aa9",
+              "date": "2026-02-28",
+              "message": "test: extract pure functions and add vitest suite"
+            },
+            {
+              "hash": "97efbb7",
+              "date": "2026-02-28",
+              "message": "docs: improve CLAUDE.md with commands and architecture"
+            },
+            {
+              "hash": "d8e70bb",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "68d1aa9",
+              "date": "2026-02-28",
+              "message": "test: extract pure functions and add vitest suite"
+            }
+          ],
+          "files_changed": 8
+        },
+        "sovereign-ecosystem--real-estate-luxury": {
+          "commits": [
+            {
+              "hash": "560bf1d",
+              "date": "2026-02-28",
+              "message": "chore: add .netlify to .gitignore"
+            },
+            {
+              "hash": "ed9467c",
+              "date": "2026-02-28",
+              "message": "docs: rewrite CLAUDE.md with real architecture and deployment URL"
+            },
+            {
+              "hash": "7d5460a",
+              "date": "2026-02-28",
+              "message": "docs: update seed.yaml with deployment URL after Netlify deploy"
+            },
+            {
+              "hash": "8431f12",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "e5ca804",
+              "date": "2026-02-28",
+              "message": "test: add vitest suite for hooks and utilities"
+            },
+            {
+              "hash": "560bf1d",
+              "date": "2026-02-28",
+              "message": "chore: add .netlify to .gitignore"
+            },
+            {
+              "hash": "ed9467c",
+              "date": "2026-02-28",
+              "message": "docs: rewrite CLAUDE.md with real architecture and deployment URL"
+            },
+            {
+              "hash": "7d5460a",
+              "date": "2026-02-28",
+              "message": "docs: update seed.yaml with deployment URL after Netlify deploy"
+            },
+            {
+              "hash": "8431f12",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "e5ca804",
+              "date": "2026-02-28",
+              "message": "test: add vitest suite for hooks and utilities"
+            }
+          ],
+          "files_changed": 10
+        },
+        "system-dashboard": {
+          "commits": [
+            {
+              "hash": "f13e6cc",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "694841d",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
+        "tab-bookmark-manager": {
+          "commits": [
+            {
+              "hash": "21ddda5",
+              "date": "2026-02-28",
+              "message": "docs: add CLAUDE.md with architecture and commands"
+            },
+            {
+              "hash": "c4a9cac",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "e560698",
+              "date": "2026-02-28",
+              "message": "test: add Jest suite for error classes and error handler middleware"
+            },
+            {
+              "hash": "21ddda5",
+              "date": "2026-02-28",
+              "message": "docs: add CLAUDE.md with architecture and commands"
+            },
+            {
+              "hash": "c4a9cac",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "e560698",
+              "date": "2026-02-28",
+              "message": "test: add Jest suite for error classes and error handler middleware"
+            }
+          ],
+          "files_changed": 5
+        },
+        "the-actual-news": {
+          "commits": [
+            {
+              "hash": "0c81c0f",
+              "date": "2026-02-28",
+              "message": "chore: add .netlify and next-env.d.ts to .gitignore; fix jsx compiler option"
+            },
+            {
+              "hash": "02fb791",
+              "date": "2026-02-28",
+              "message": "docs: rewrite CLAUDE.md with monorepo architecture, make commands, and deployment URL"
+            },
+            {
+              "hash": "7e6202c",
+              "date": "2026-02-28",
+              "message": "chore: update seed.yaml with deployment URL and promote to PUBLIC_PROCESS"
+            },
+            {
+              "hash": "275c69a",
+              "date": "2026-02-28",
+              "message": "fix: align React versions and enable static export for Cloudflare Pages"
+            },
+            {
+              "hash": "8983ffe",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "c0dcda5",
+              "date": "2026-02-28",
+              "message": "feat: implement CRUD endpoints for all microservices with tests"
+            },
+            {
+              "hash": "0c81c0f",
+              "date": "2026-02-28",
+              "message": "chore: add .netlify and next-env.d.ts to .gitignore; fix jsx compiler option"
+            },
+            {
+              "hash": "02fb791",
+              "date": "2026-02-28",
+              "message": "docs: rewrite CLAUDE.md with monorepo architecture, make commands, and deployment URL"
+            },
+            {
+              "hash": "7e6202c",
+              "date": "2026-02-28",
+              "message": "chore: update seed.yaml with deployment URL and promote to PUBLIC_PROCESS"
+            },
+            {
+              "hash": "275c69a",
+              "date": "2026-02-28",
+              "message": "fix: align React versions and enable static export for Cloudflare Pages"
+            },
+            {
+              "hash": "8983ffe",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "c0dcda5",
+              "date": "2026-02-28",
+              "message": "feat: implement CRUD endpoints for all microservices with tests"
+            }
+          ],
+          "files_changed": 20
+        },
+        "the-invisible-ledger": {
+          "commits": [
+            {
+              "hash": "d7fea71",
+              "date": "2026-02-28",
+              "message": "chore: add .netlify to .gitignore"
+            },
+            {
+              "hash": "97deaef",
+              "date": "2026-02-28",
+              "message": "docs: rewrite CLAUDE.md with real architecture and deployment URL"
+            },
+            {
+              "hash": "988d7fa",
+              "date": "2026-02-28",
+              "message": "docs: add deployment URL after Netlify deploy"
+            },
+            {
+              "hash": "38c6d08",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "ddfbc58",
+              "date": "2026-02-28",
+              "message": "test: add vitest suite for hooks and utilities"
+            },
+            {
+              "hash": "d7fea71",
+              "date": "2026-02-28",
+              "message": "chore: add .netlify to .gitignore"
+            },
+            {
+              "hash": "97deaef",
+              "date": "2026-02-28",
+              "message": "docs: rewrite CLAUDE.md with real architecture and deployment URL"
+            },
+            {
+              "hash": "988d7fa",
+              "date": "2026-02-28",
+              "message": "docs: add deployment URL after Netlify deploy"
+            },
+            {
+              "hash": "38c6d08",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "ddfbc58",
+              "date": "2026-02-28",
+              "message": "test: add vitest suite for hooks and utilities"
+            }
+          ],
+          "files_changed": 7
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "2c4aefd",
+              "date": "2026-02-28",
+              "message": "chore: add .netlify to .gitignore"
+            },
+            {
+              "hash": "3a08ce0",
+              "date": "2026-02-28",
+              "message": "docs: rewrite CLAUDE.md with Solana/Drift architecture and deployment URL"
+            },
+            {
+              "hash": "5e6d498",
+              "date": "2026-02-28",
+              "message": "docs: add Netlify deployment URL to seed.yaml"
+            },
+            {
+              "hash": "673a223",
+              "date": "2026-02-28",
+              "message": "test: add vitest suite for presets, themes, and game adapter"
+            },
+            {
+              "hash": "2c4aefd",
+              "date": "2026-02-28",
+              "message": "chore: add .netlify to .gitignore"
+            },
+            {
+              "hash": "3a08ce0",
+              "date": "2026-02-28",
+              "message": "docs: rewrite CLAUDE.md with Solana/Drift architecture and deployment URL"
+            },
+            {
+              "hash": "5e6d498",
+              "date": "2026-02-28",
+              "message": "docs: add Netlify deployment URL to seed.yaml"
+            },
+            {
+              "hash": "673a223",
+              "date": "2026-02-28",
+              "message": "test: add vitest suite for presets, themes, and game adapter"
+            }
+          ],
+          "files_changed": 7
+        },
+        "universal-mail--automation": {
+          "commits": [
+            {
+              "hash": "c59601a",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "be61519",
+              "date": "2026-02-28",
+              "message": "test: add comprehensive pytest suite for email automation"
+            },
+            {
+              "hash": "c59601a",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "be61519",
+              "date": "2026-02-28",
+              "message": "test: add comprehensive pytest suite for email automation"
+            }
+          ],
+          "files_changed": 8
+        },
+        "hokage-chess": {
+          "commits": [
+            {
+              "hash": "1db94fc",
+              "date": "2026-02-28",
+              "message": "docs: add CLAUDE.md with architecture and commands"
+            },
+            {
+              "hash": "68598eb",
+              "date": "2026-02-28",
+              "message": "chore: update seed.yaml with deployment URL and promote to PUBLIC_PROCESS"
+            },
+            {
+              "hash": "10c9d3b",
+              "date": "2026-02-28",
+              "message": "chore: add GitHub Pages deployment workflow"
+            },
+            {
+              "hash": "dbe064e",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            },
+            {
+              "hash": "ed8b20b",
+              "date": "2026-02-28",
+              "message": "feat: implement content strategy modules with tests"
+            }
+          ],
+          "files_changed": 14
         },
         "multi-camera--livestream--framework": {
           "commits": [
@@ -1122,106 +2087,6 @@
           ],
           "files_changed": 5
         },
-        "peer-audited--behavioral-blockchain": {
-          "commits": [
-            {
-              "hash": "6c6981d",
-              "date": "2026-02-28",
-              "message": "feat: implement all 18 E2G roadmap tasks (Alpha → Delta)"
-            },
-            {
-              "hash": "4a7dcb8",
-              "date": "2026-02-28",
-              "message": "fix: resolve GHSA-5c6j-r48x-rmvq — upgrade serialize-javascript to 7.0.3"
-            },
-            {
-              "hash": "43d4da3",
-              "date": "2026-02-28",
-              "message": "test: close test coverage gaps across all workspaces (1,272 → 1,318)"
-            },
-            {
-              "hash": "0699305",
-              "date": "2026-02-28",
-              "message": "feat: replace mock GeofenceService IP lookup with geoip-lite (#30)"
-            },
-            {
-              "hash": "02f442a",
-              "date": "2026-02-28",
-              "message": "fix: resolve issues #28, #29, #32, #33, #34, #35 — Sprint 10"
-            },
-            {
-              "hash": "c0fbd9f",
-              "date": "2026-02-28",
-              "message": "chore: stage and commit all changes"
-            },
-            {
-              "hash": "f408270",
-              "date": "2026-02-28",
-              "message": "docs: update SECURITY.md supported versions table"
-            },
-            {
-              "hash": "5e618b5",
-              "date": "2026-02-28",
-              "message": "docs: update README and CONTRIBUTING for Sprint 9 (1,107 tests, MIT license)"
-            },
-            {
-              "hash": "deeca85",
-              "date": "2026-02-28",
-              "message": "docs: Sprint 9 — sync docs to 1,107 tests, validate gates against live API"
-            }
-          ],
-          "files_changed": 111
-        },
-        "public-record-data-scrapper": {
-          "commits": [
-            {
-              "hash": "ce8a414",
-              "date": "2026-02-28",
-              "message": "chore: add .netlify to .gitignore, update package-lock.json"
-            },
-            {
-              "hash": "6d9be6d",
-              "date": "2026-02-28",
-              "message": "docs: add API deployment URL to seed.yaml"
-            },
-            {
-              "hash": "4e0116d",
-              "date": "2026-02-28",
-              "message": "fix: output server bundle as .cjs to avoid ESM conflict"
-            },
-            {
-              "hash": "2beb102",
-              "date": "2026-02-28",
-              "message": "fix: move jsonwebtoken from devDependencies to dependencies"
-            },
-            {
-              "hash": "edcf803",
-              "date": "2026-02-28",
-              "message": "fix: track packages/core source files needed for server build"
-            },
-            {
-              "hash": "38b1e30",
-              "date": "2026-02-28",
-              "message": "fix: install all deps for server build, add --ignore-scripts to esbuild install"
-            },
-            {
-              "hash": "4caf1b3",
-              "date": "2026-02-28",
-              "message": "fix: add --ignore-scripts to Render build to skip husky prepare"
-            },
-            {
-              "hash": "de0d2b6",
-              "date": "2026-02-28",
-              "message": "feat: add Render deployment config and esbuild server build"
-            },
-            {
-              "hash": "81b11d3",
-              "date": "2026-02-28",
-              "message": "docs: add Netlify deployment URL to seed.yaml"
-            }
-          ],
-          "files_changed": 14
-        },
         "search-local--happy-hour": {
           "commits": [
             {
@@ -1248,181 +2113,6 @@
               "hash": "1a8d01a",
               "date": "2026-02-28",
               "message": "test: add vitest suite for hooks and utilities"
-            }
-          ],
-          "files_changed": 8
-        },
-        "select-or-left-or-right-or": {
-          "commits": [
-            {
-              "hash": "97efbb7",
-              "date": "2026-02-28",
-              "message": "docs: improve CLAUDE.md with commands and architecture"
-            },
-            {
-              "hash": "d8e70bb",
-              "date": "2026-02-28",
-              "message": "chore: sync promotion_status with registry-v2.json"
-            },
-            {
-              "hash": "68d1aa9",
-              "date": "2026-02-28",
-              "message": "test: extract pure functions and add vitest suite"
-            }
-          ],
-          "files_changed": 8
-        },
-        "sovereign-ecosystem--real-estate-luxury": {
-          "commits": [
-            {
-              "hash": "560bf1d",
-              "date": "2026-02-28",
-              "message": "chore: add .netlify to .gitignore"
-            },
-            {
-              "hash": "ed9467c",
-              "date": "2026-02-28",
-              "message": "docs: rewrite CLAUDE.md with real architecture and deployment URL"
-            },
-            {
-              "hash": "7d5460a",
-              "date": "2026-02-28",
-              "message": "docs: update seed.yaml with deployment URL after Netlify deploy"
-            },
-            {
-              "hash": "8431f12",
-              "date": "2026-02-28",
-              "message": "chore: sync promotion_status with registry-v2.json"
-            },
-            {
-              "hash": "e5ca804",
-              "date": "2026-02-28",
-              "message": "test: add vitest suite for hooks and utilities"
-            }
-          ],
-          "files_changed": 10
-        },
-        "tab-bookmark-manager": {
-          "commits": [
-            {
-              "hash": "21ddda5",
-              "date": "2026-02-28",
-              "message": "docs: add CLAUDE.md with architecture and commands"
-            },
-            {
-              "hash": "c4a9cac",
-              "date": "2026-02-28",
-              "message": "chore: sync promotion_status with registry-v2.json"
-            },
-            {
-              "hash": "e560698",
-              "date": "2026-02-28",
-              "message": "test: add Jest suite for error classes and error handler middleware"
-            }
-          ],
-          "files_changed": 5
-        },
-        "the-actual-news": {
-          "commits": [
-            {
-              "hash": "0c81c0f",
-              "date": "2026-02-28",
-              "message": "chore: add .netlify and next-env.d.ts to .gitignore; fix jsx compiler option"
-            },
-            {
-              "hash": "02fb791",
-              "date": "2026-02-28",
-              "message": "docs: rewrite CLAUDE.md with monorepo architecture, make commands, and deployment URL"
-            },
-            {
-              "hash": "7e6202c",
-              "date": "2026-02-28",
-              "message": "chore: update seed.yaml with deployment URL and promote to PUBLIC_PROCESS"
-            },
-            {
-              "hash": "275c69a",
-              "date": "2026-02-28",
-              "message": "fix: align React versions and enable static export for Cloudflare Pages"
-            },
-            {
-              "hash": "8983ffe",
-              "date": "2026-02-28",
-              "message": "chore: sync promotion_status with registry-v2.json"
-            },
-            {
-              "hash": "c0dcda5",
-              "date": "2026-02-28",
-              "message": "feat: implement CRUD endpoints for all microservices with tests"
-            }
-          ],
-          "files_changed": 20
-        },
-        "the-invisible-ledger": {
-          "commits": [
-            {
-              "hash": "d7fea71",
-              "date": "2026-02-28",
-              "message": "chore: add .netlify to .gitignore"
-            },
-            {
-              "hash": "97deaef",
-              "date": "2026-02-28",
-              "message": "docs: rewrite CLAUDE.md with real architecture and deployment URL"
-            },
-            {
-              "hash": "988d7fa",
-              "date": "2026-02-28",
-              "message": "docs: add deployment URL after Netlify deploy"
-            },
-            {
-              "hash": "38c6d08",
-              "date": "2026-02-28",
-              "message": "chore: sync promotion_status with registry-v2.json"
-            },
-            {
-              "hash": "ddfbc58",
-              "date": "2026-02-28",
-              "message": "test: add vitest suite for hooks and utilities"
-            }
-          ],
-          "files_changed": 7
-        },
-        "trade-perpetual-future": {
-          "commits": [
-            {
-              "hash": "2c4aefd",
-              "date": "2026-02-28",
-              "message": "chore: add .netlify to .gitignore"
-            },
-            {
-              "hash": "3a08ce0",
-              "date": "2026-02-28",
-              "message": "docs: rewrite CLAUDE.md with Solana/Drift architecture and deployment URL"
-            },
-            {
-              "hash": "5e6d498",
-              "date": "2026-02-28",
-              "message": "docs: add Netlify deployment URL to seed.yaml"
-            },
-            {
-              "hash": "673a223",
-              "date": "2026-02-28",
-              "message": "test: add vitest suite for presets, themes, and game adapter"
-            }
-          ],
-          "files_changed": 7
-        },
-        "universal-mail--automation": {
-          "commits": [
-            {
-              "hash": "c59601a",
-              "date": "2026-02-28",
-              "message": "chore: sync promotion_status with registry-v2.json"
-            },
-            {
-              "hash": "be61519",
-              "date": "2026-02-28",
-              "message": "test: add comprehensive pytest suite for email automation"
             }
           ],
           "files_changed": 8
@@ -1477,6 +2167,16 @@
           ],
           "files_changed": 1
         },
+        "org-dotgithub": {
+          "commits": [
+            {
+              "hash": "b000992",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
+        },
         "petasum-super-petasum": {
           "commits": [
             {
@@ -1521,6 +2221,16 @@
             }
           ],
           "files_changed": 4
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "bdde2aa",
+              "date": "2026-02-28",
+              "message": "chore: sync promotion_status with registry-v2.json"
+            }
+          ],
+          "files_changed": 1
         },
         "public-process": {
           "commits": [

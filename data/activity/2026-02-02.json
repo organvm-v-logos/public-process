@@ -1,0 +1,80 @@
+{
+  "generated": "2026-03-06T00:39:33Z",
+  "since": "2026-02-02",
+  "until": "2026-02-02",
+  "summary": {
+    "total_commits": 11,
+    "repos_active": 1,
+    "files_changed": 155,
+    "organs_touched": [
+      "II"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "0b77db2",
+              "date": "2026-02-02",
+              "message": "fix: unskip and stabilize E2E tests for mobile menu, navigation, and touch"
+            },
+            {
+              "hash": "20f857c",
+              "date": "2026-02-02",
+              "message": "fix: resolve E2E test failures and accessibility issues"
+            },
+            {
+              "hash": "ad03ab4",
+              "date": "2026-02-02",
+              "message": "fix: resolve E2E test failures in chambers.spec.js"
+            },
+            {
+              "hash": "46b500c",
+              "date": "2026-02-02",
+              "message": "feat: add THEATRON video player and PINAKOTHEKE lightbox"
+            },
+            {
+              "hash": "591a47f",
+              "date": "2026-02-02",
+              "message": "feat: implement Phase 2 self-hosted media infrastructure"
+            },
+            {
+              "hash": "312a46a",
+              "date": "2026-02-02",
+              "message": "feat: implement Phase 5 discovery system with search, filters, and related works"
+            },
+            {
+              "hash": "71d5ca6",
+              "date": "2026-02-02",
+              "message": "fix: correct failing living-pantheon tests"
+            },
+            {
+              "hash": "b57df3d",
+              "date": "2026-02-02",
+              "message": "chore: re-apply ESLint and Vitest improvements"
+            },
+            {
+              "hash": "fcc8822",
+              "date": "2026-02-02",
+              "message": "Revert \"refactor: remove dead code and reduce console noise\""
+            },
+            {
+              "hash": "27b9b81",
+              "date": "2026-02-02",
+              "message": "refactor: remove dead code and reduce console noise"
+            },
+            {
+              "hash": "8a70686",
+              "date": "2026-02-02",
+              "message": "feat: implement ETCETER4 Pantheon - 9 chambers, Living Pantheon, media infrastructure"
+            }
+          ],
+          "files_changed": 155
+        }
+      }
+    }
+  }
+}

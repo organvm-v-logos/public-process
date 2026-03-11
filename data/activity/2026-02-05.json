@@ -1,0 +1,100 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2026-02-05",
+  "until": "2026-02-05",
+  "summary": {
+    "total_commits": 15,
+    "repos_active": 1,
+    "files_changed": 86,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "104c9b7",
+              "date": "2026-02-05",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix shell startup time, domus doctor, and sync manifest    2 │    3 │ Shell startup (~1071ms → ~160ms warm):    4 │ - Cache starship/zoxide/atuin/direnv/mise init output to ~/.cache,    5 │   invalidating when the tool binary is updated (~130ms savings)    6 │ - Cache compinit via compdump, regenerated once per day (~20ms savings)    7 │ - Suppress fzf \"can't change option: zle\" warnings on shell exit    8 │ - Add `just cache-clear` recipe for manual cache invalidation    9 │   10 │ Doctor fixes:   11 │ - Read startup thresholds from manifest instead of hardcoded 200/500ms   12 │ - Raise performance budgets (target 400ms, warning 700ms) to account   13 │   for ~400ms Terminal session restore overhead in wall-clock measurement   14 │ - Fix packages check swallowing drift exit code (|| echo \"unknown\")   15 │ - Add 10s timeout to chezmoi diff check to prevent hanging   16 │   17 │ Manifest sync:   18 │ - Add ~130 extra formulae (libraries/dependencies), 4 casks, @expo/ngrok   19 │ - Remove @anthropic-ai/claude-code from npm (installed via Homebrew cask)   20 │ - Reorganize formulae into clearer categories   21 │   22 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "bf24d93",
+              "date": "2026-02-05",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Comprehensive quality improvements: testing, CI, code quality, docs    2 │    3 │ Sprint 1 — Testing (8 → 53 BATS tests):    4 │ - Add test-helpers.bash with mock HOME, manifest, chezmoi, telemetry    5 │ - Add fixture manifest-minimal.yaml for isolated testing    6 │ - Expand test-domus-cli.bats: status, JSON, perf, doctor, apply, errors    7 │ - Add test-domus-sort.bats: help, dry-run, skips, templates, collisions    8 │ - Add test-domus-notify.bats: help, flush, silent, state, events    9 │ - Add test-domus-daemon.bats: help, locking, telemetry, verbose, logs   10 │ - Add test-domus-packages.bats: help, status, JSON, diff, errors   11 │   12 │ Sprint 2 — CI/CD hardening:   13 │ - Add BATS test job and gitleaks secret scanning to GitHub Actions   14 │ - Make shfmt strict (remove || true), fix shellcheck template stripping   15 │ - Add ci-local, security, and check-all recipes to justfile   16 │   17 │ Sprint 3 — Code quality:   18 │ - Standardize domus-packages colors to $'...' ANSI-C quoting + %s printf   19 │ - Same standardization for domus-sort and domus-notify   20 │ - Fix domus-daemon date arithmetic bug (macOS %3N outputs literal N)   21 │ - Add set -euo pipefail to theme-switcher.sh and statusline-command.sh   22 │ - Replace ls with find in theme-switcher, [ with [[ in statusline-command   23 │   24 │ Sprint 5 — Documentation:   25 │ - Add docs/TROUBLESHOOTING.md covering 10 common issues   26 │ - Link troubleshooting guide from README docs table   27 │   28 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "2018950",
+              "date": "2026-02-05",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Apply shfmt formatting to domus CLI suite and theme-switch    2 │    3 │ Automated formatting via `just fmt`: expand one-liner case arms,    4 │ normalize redirect/pipe spacing, split local declarations.    5 │    6 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "d40cb1f",
+              "date": "2026-02-05",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix shellcheck warnings in domus-packages and domus-sort    2 │    3 │ - SC2059: Rewrite printf calls to use %b with color vars in arguments    4 │ - SC2155: Split local declarations from command substitutions    5 │ - SC2034: Remove unused CYAN and age_days variables in domus-sort    6 │ - SC2053: Add shellcheck disable for intentional glob pattern match    7 │    8 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "c0199ec",
+              "date": "2026-02-05",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix all shellcheck warnings across domus CLI suite    2 │    3 │ - SC2034: Remove unused vars (LOCAL_CONFIG, telemetry_dir, MIN_INTERVAL_SECONDS)    4 │ - SC2034: Replace unused loop var `i` with `_` in domus-notify    5 │ - SC2059: Switch color definitions to $'...' ANSI-C quoting in domus    6 │ - SC2059: Rewrite ~50 printf calls to use %s placeholders for colors    7 │ - SC2012: Replace `ls *.jsonl | wc -l` with `find` in telemetry check    8 │    9 │ `just lint` now reports zero warnings; all 8 BATS tests pass.   10 │   11 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "ad62160",
+              "date": "2026-02-05",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix remaining #!/bin/bash shebangs caught by BATS tests    2 │    3 │ Normalize 3 scripts missed in initial pass:    4 │ - private_dot_claude/scripts/template-interceptor.sh    5 │ - private_dot_claude/executable_statusline-command.sh    6 │ - dot_config/kitty/scripts/executable_theme-switcher.sh    7 │    8 │ All 8 BATS tests now pass.    9 │   10 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "d228329",
+              "date": "2026-02-05",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Implement full dotfiles roadmap: testing, quality, infra, security, features, docs    2 │    3 │ Sprint 1 — Bugs & Foundation:    4 │ - Fix domus-notify dead code (string concat on line 52)    5 │ - Merge environment.tmpl XDG vars into 15-env.zsh (was never sourced)    6 │ - Normalize all script headers to #!/usr/bin/env bash + set -euo pipefail    7 │ - Add .gitignore, .shellcheckrc, .yamllint.yml    8 │    9 │ Sprint 2 — CI, Tests, Plugins:   10 │ - Add GitHub Actions CI (shellcheck, yamllint, json, shfmt, template check)   11 │ - Add template validation tests and BATS integration tests   12 │ - Activate zsh-autosuggestions and zsh-syntax-highlighting (85-plugins.zsh)   13 │ - Update README with accurate structure, stats, and domus CLI docs   14 │   15 │ Sprint 3 — Task Runner, Bootstrap, Performance:   16 │ - Add justfile with 13 recipes (lint, test, apply, health, fmt, etc.)   17 │ - Align bootstrap with manifest (starship, zoxide, fd, eza, atuin, etc.)   18 │ - Add rustup to bootstrap with --no-modify-path   19 │ - Lazy-load conda, navi, gcloud for faster shell startup   20 │   21 │ Sprint 4 — Security:   22 │ - Harden SSH config (HashKnownHosts, StrictHostKeyChecking, VisualHostKey)   23 │ - Add .gitleaks.toml with chezmoi template allowlists   24 │ - Add .pre-commit-config.yaml (shellcheck, shfmt, yamllint, gitleaks)   25 │ - Add file permission audit to chezmoi-health   26 │   27 │ Sprint 5 — Features & Cleanup:   28 │ - Add domus doctor command (startup, packages, daemons, disk, 1password)   29 │ - Expand navi cheatsheets with domus commands   30 │ - Deduplicate directory setup scripts into single run_once_after   31 │ - Add fish shell feature parity (FZF Tokyo Night, kitty helpers, XDG, etc.)   32 │   33 │ Sprint 6 — Documentation:   34 │ - Add docs/ARCHITECTURE.md, DOMUS_CLI.md, DAEMONS.md, DEVELOPMENT.md   35 │ - Add BACKUP_STRATEGY.md with bare-metal recovery steps   36 │ - Move organization docs into docs/ directory   37 │ - Update .chezmoiignore for all new repo-only files   38 │   39 │ Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "746acec",
+              "date": "2026-02-05",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add modular zshrc and dev configs from top dotfiles research    2 │    3 │ - Refactor zshrc into modular components (~/.config/zsh/*.zsh)    4 │ - Add development configs: editorconfig, npmrc, cargo, pip, curlrc    5 │ - Add shell enhancements: inputrc, lesskey, custom completions    6 │ - Enhance git: XDG gitignore, attributes, commitizen config    7 │ - Add macOS defaults script (Finder, Dock, keyboard settings)    8 │ - Add terminal configs: WezTerm, Alacritty (Tokyo Night theme)    9 │ - Add IDE configs: VS Code settings/keybindings, Zed settings   10 │   11 │ Inspired by mathiasbynens, thoughtbot, holman, and other top repos.   12 │   13 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "4df5217",
+              "date": "2026-02-05",
+              "message": "Add .zprofile"
+            },
+            {
+              "hash": "d09dec2",
+              "date": "2026-02-05",
+              "message": "Update .zshrc"
+            },
+            {
+              "hash": "c851db5",
+              "date": "2026-02-05",
+              "message": "Update .zshrc"
+            },
+            {
+              "hash": "011cd8c",
+              "date": "2026-02-05",
+              "message": "Update .zshrc"
+            },
+            {
+              "hash": "4f0095c",
+              "date": "2026-02-05",
+              "message": "Update .zshrc"
+            },
+            {
+              "hash": "36734a3",
+              "date": "2026-02-05",
+              "message": "Change attributes of .zshrc"
+            },
+            {
+              "hash": "ed91fa4",
+              "date": "2026-02-05",
+              "message": "Remove Library/Application Support/Claude/Claude Extensions Settings/ant.dir.gh.flux159.mcp-server-kubernetes.json Add Library/Application Support/Claude/Claude Extensions Settings/ant.dir.gh.flux159.mcp-server-kubernetes.json"
+            }
+          ],
+          "files_changed": 86
+        }
+      }
+    }
+  }
+}
