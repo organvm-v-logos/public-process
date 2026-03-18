@@ -1,8 +1,47 @@
 schema_version: '1.0'
 repo: public-process
 organ: V
-display_name: Essays, case studies, methodology documentation, RSS feed, newsletter
-  integration
+display_name: "Public Process — Essays, case studies, methodology documentation, RSS feed, newsletter"
+
 delivery:
 - platform: web_app
+  status: live
+  priority: critical
+  notes: "Deployed at public-process.netlify.app"
+  next_action: "Monitor uptime and content publishing pipeline"
+
+content:
+- platform: blog
+  status: in_progress
+  priority: critical
+  notes: "Essays and case studies on system development methodology"
+  next_action: "Publish next essay in pipeline"
+- platform: rss_feed
+  status: live
+  priority: high
+  notes: "RSS feed for essay subscribers"
+  next_action: "Verify feed validates and is discoverable"
+- platform: newsletter
+  status: planned
+  priority: high
+  notes: "Email newsletter integration for essay distribution"
+  next_action: "Set up newsletter provider and subscription form"
+
+marketing:
+- platform: seo
+  status: planned
+  priority: high
+  notes: "System development, creative infrastructure, one-person enterprise keywords"
+  next_action: "Optimize essay pages for target keywords"
+- platform: social_organic
   status: not_started
+  priority: medium
+  notes: "Twitter/X, Mastodon for essay promotion"
+  next_action: "Activate POSSE distribution via kerygma pipeline"
+
+community:
+- platform: github_discussions
+  status: not_started
+  priority: medium
+  notes: "Essay discussions and reader feedback"
+  next_action: "Enable Discussions on the repo"
