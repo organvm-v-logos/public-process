@@ -329,3 +329,11 @@ The system is live. The process is public. The methodology is documented. What c
 
 *Status: Draft complete. All TBD markers resolved from flagship material.*
 *Last updated: 2026-02-10*
+
+<!-- SYSTEM-NAV-START -->
+
+---
+
+<sub>[Case Study](https://4444j99.github.io/portfolio/projects/public-process/) · [Portfolio](https://4444j99.github.io/portfolio/) · [System Directory](https://4444j99.github.io/portfolio/directory/) · [ORGAN V · Logos](https://organvm-v-logos.github.io/) · Part of the <a href="https://4444j99.github.io/portfolio/directory/">ORGANVM eight-organ system</a></sub>
+
+<!-- SYSTEM-NAV-END -->
