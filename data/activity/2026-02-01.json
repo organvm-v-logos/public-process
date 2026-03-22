@@ -1,0 +1,197 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2026-02-01",
+  "until": "2026-02-01",
+  "summary": {
+    "total_commits": 29,
+    "repos_active": 4,
+    "files_changed": 949,
+    "organs_touched": [
+      "I",
+      "II",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "meta-source--ledger-output": {
+          "commits": [
+            {
+              "hash": "e9520fc",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add monorepo infrastructure and complete app implementations    2 │    3 │ Phase α (Foundation Setup):    4 │ - pnpm workspaces with Turborepo build orchestration    5 │ - @meta-source/core: Shared types for all 5 phases (identity, cipher,    6 │   mythology, ledger) with encodeSeed/decodeSeed/deriveCipherConfig    7 │ - @meta-source/utils: Shared utilities (math, hash, color, validation)    8 │   with PHI constants and numerology calculations    9 │ - GitHub Actions CI workflow for build/typecheck/lint   10 │   11 │ App implementations:   12 │ - identity-playground: Complete Phase 1 app with numerology engines   13 │   (Pythagorean, Chaldean, Gematria), P5/Three.js renderers, export   14 │   system, identity persistence, and cross-app seed linking   15 │ - cipher-rendering: Complete Phase 2 app with Caesar, Atbash, Vigenère,   16 │   Enigma ciphers and Grid/Wheel/Cascade visual metaphors   17 │ - mythology-playground: Phase 3 app with 4444jPP token parser,   18 │   Four As governance framework, and decision matrix   19 │   20 │ All apps use shared packages and pass typecheck.   21 │   22 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 175
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "165633d",
+              "date": "2026-02-01",
+              "message": "feat: add main.js unit tests and CI quality jobs"
+            },
+            {
+              "hash": "e1a2302",
+              "date": "2026-02-01",
+              "message": "feat: implement repository standards and roadmap system"
+            }
+          ],
+          "files_changed": 31
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "meta-source--ledger-output": {
+          "commits": [
+            {
+              "hash": "e9520fc",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add monorepo infrastructure and complete app implementations    2 │    3 │ Phase α (Foundation Setup):    4 │ - pnpm workspaces with Turborepo build orchestration    5 │ - @meta-source/core: Shared types for all 5 phases (identity, cipher,    6 │   mythology, ledger) with encodeSeed/decodeSeed/deriveCipherConfig    7 │ - @meta-source/utils: Shared utilities (math, hash, color, validation)    8 │   with PHI constants and numerology calculations    9 │ - GitHub Actions CI workflow for build/typecheck/lint   10 │   11 │ App implementations:   12 │ - identity-playground: Complete Phase 1 app with numerology engines   13 │   (Pythagorean, Chaldean, Gematria), P5/Three.js renderers, export   14 │   system, identity persistence, and cross-app seed linking   15 │ - cipher-rendering: Complete Phase 2 app with Caesar, Atbash, Vigenère,   16 │   Enigma ciphers and Grid/Wheel/Cascade visual metaphors   17 │ - mythology-playground: Phase 3 app with 4444jPP token parser,   18 │   Four As governance framework, and decision matrix   19 │   20 │ All apps use shared packages and pass typecheck.   21 │   22 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "c506446",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add Cipher Alchemy Extension and Universal Pattern Foundation    2 │    3 │ Major additions:    4 │ - Universal Foundation (cross-phase patterns):    5 │   - Polycosm Reality Engine: Multiversal rendering framework with    6 │     IPolycosmoEngine<T>, RealityPrism<T>, and convergence detection    7 │   - Symbolic Reduction Grammar: 8-stage abstraction system with    8 │     extended φ-operators (φ¬, φ→, φ←, φ∥, φ⊙, φ⟳, φ◇)    9 │   10 │ - Cipher Alchemy Extension (Phase 2):   11 │   - Astrological Cipher Family: Zodiac12, Planetary (Agrippa),   12 │     Decan, Degree with ZodiacWheelRenderer   13 │   - Historical Code Compendium: Ancient through WWII taxonomy   14 │     with IHistoricalCipher interface and evolution chains   15 │   - Unsolved Cipher Framework: Voynich, Zodiac, Kryptos, Beale   16 │     with known facts, community theories, experimental attack hooks   17 │   - Cryptanalysis Engines: Frequency, IC, Kasiski, Known-Plaintext,   18 │     ML Pattern Detector with Polycosm prism integration   19 │   20 │ - Extended CipherFamily enum with ASTROLOGICAL, HISTORICAL_*, UNSOLVED   21 │ - Updated CLAUDE.md with universal patterns documentation   22 │ - Updated MANIFEST.md to v1.4 with UNI-001, UNI-002, EXT-205   23 │ - Added 97 implementation tasks (T094-T190) to Phase 2 tasks.md   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 95
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "a4589d9",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: ESM compatibility and dev tooling improvements    2 │    3 │ Database migrations:    4 │ - Fix EXTRACT(DAY FROM interval) to direct date subtraction in PostgreSQL    5 │ - Increase org_prefix VARCHAR size for deal number generation    6 │ - Simplify partial index conditions to avoid CURRENT_DATE/TIMESTAMP issues    7 │    8 │ Scripts:    9 │ - Add ESM __dirname compatibility to migrate.ts and seed-database.ts   10 │ - Filter out _down.sql files from migration runner   11 │ - Rewrite seed-database.ts to use database/seed.sql with CLI flags   12 │ - Remove require.main checks for ESM module execution   13 │   14 │ Dependencies:   15 │ - Add express, cors, compression, helmet for server   16 │ - Add concurrently for parallel dev processes   17 │   18 │ New scripts:   19 │ - dev:server, dev:worker, dev:full for full-stack development   20 │ - seed script for database seeding   21 │   22 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "92e25a8",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: resolve remaining 24 test failures    2 │    3 │ - Fix getByText matching multiple elements by using getAllByText    4 │ - Fix DealPipeline stage name assertions for 'Lead', 'Contacted', etc.    5 │ - Fix ContactDetail preferred contact method and phone icon assertions    6 │ - Fix ContactList batch export and sorting tests    7 │ - Fix AuditLogViewer dialog, filter, and export tests    8 │ - Use waitFor for async state updates in dialog tests    9 │ - Make assertions more flexible for elements appearing multiple times   10 │   11 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "d2a471c",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: resolve test failures in component tests    2 │    3 │ - Fix Select mock to use valid HTML (no divs inside select)    4 │ - Use empty option elements to avoid text conflicts    5 │ - Convert getByText to getAllByText for elements appearing multiple times    6 │ - Fix DealPipeline card click test to target correct element    7 │ - Update filter tests to handle Select items rendering    8 │    9 │ Test improvement: 1964 passing (was 1944), 24 failing (was 44)   10 │   11 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "f430ace",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: implement MCA Platform Phase 2 - Integration & Polish    2 │    3 │ Workstream G - Wiring & Routes:    4 │ - Wire contacts and deals routes in server/index.ts    5 │ - Add audit middleware to request pipeline    6 │ - Create frontend API clients (contacts.ts, deals.ts)    7 │ - Create React hooks (useContactActions, useDealActions)    8 │    9 │ Workstream H - Backend Tests:   10 │ - Add 14 service tests: Audit, Communications, Contacts, Deals,   11 │   Disclosure, DisclosureCalculator, Narrative, Qualification,   12 │   Scoring, StackAnalysis, Suppression, Underwriting, Consent,   13 │   ComplianceReport   14 │ - Add route tests for contacts and deals APIs   15 │   16 │ Workstream I - Frontend Tests:   17 │ - Add component tests: ContactList, ContactDetail, DealPipeline,   18 │   DealDetail, UnifiedInbox, AuditLogViewer   19 │ - Add hook tests: useContactActions, useDealActions   20 │   21 │ Workstream J - Webhooks & Documentation:   22 │ - Add webhook routes for Twilio (SMS/Voice), SendGrid, Plaid   23 │ - Add webhook signature verification middleware   24 │ - Add OpenAPI 3.0 spec (~2800 lines) at /api/docs   25 │ - Add AWS S3 integration stub   26 │   27 │ Workstream K - Capital Ops:   28 │ - Add migration 009: portfolio_health_history table   29 │ - Add AlertService for DEWS (Daily Early Warning System)   30 │ - Add ACH integration stub for payment processing   31 │   32 │ Test Results: 1944 passing / 44 failing (UI mock issues)   33 │   34 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "e045ae6",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: add appRoot to vite fs.allow for dev server    2 │    3 │ The dev server was returning 403 because index.html was outside    4 │ the allowed directories. Add appRoot and node_modules to fs.allow.    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "43ff1a3",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ test: update StateCollectorFactory tests for TX/FL collectors    2 │    3 │ Update test expectations now that TX and FL collectors are implemented:    4 │ - TX (bulk) and FL (vendor) are in implemented states list    5 │ - getAllCollectors only returns collectors that can be instantiated    6 │ - Add separate test for implemented states including those needing config    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "89562dd",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: implement MCA Super-Suite platform expansion    2 │    3 │ Workstream A - Database & Schema:    4 │ - Add migrations 002-008 for triggers, multitenancy, contacts, deals, communications, compliance    5 │ - Fix normalization triggers for ucc_filings    6 │ - Add organizations, users, contacts, deals, disclosures, audit_logs tables    7 │ - Consolidate database client to @public-records/core    8 │    9 │ Workstream B - Scrapers & Data Intelligence:   10 │ - Add CA SOS API collector with rate limiting   11 │ - Add TX SOSDirect bulk collector   12 │ - Add FL Image API vendor placeholder   13 │ - Enhance StateCollectorFactory with tiered fallback (API→Bulk→Vendor→Scrape)   14 │ - Add NarrativeService for broker-ready stories   15 │ - Add StackAnalysisService for position detection   16 │   17 │ Workstream C - Broker Services:   18 │ - Add contacts and deals API routes   19 │ - Add ContactsService with activity tracking   20 │ - Add DealsService with pipeline management   21 │ - Add CommunicationsService with unified email/SMS/call   22 │ - Add Twilio integration (SMS, voice, TwiML)   23 │ - Add SendGrid integration (transactional, templates)   24 │   25 │ Workstream C.4 - Underwriting:   26 │ - Add Plaid integration (link tokens, transactions)   27 │ - Add UnderwritingService (ADB, NSF, revenue trends)   28 │ - Add QualificationService (tier A/B/C/D/Decline rules)   29 │   30 │ Workstream D - Compliance & Audit:   31 │ - Add audit middleware for immutable logging   32 │ - Add AuditService for entity history and exports   33 │ - Add DisclosureService (CA SB 1235, NY CFDL)   34 │ - Add DisclosureCalculator (APR, total cost)   35 │ - Add SuppressionService (DNC list checking)   36 │ - Add ConsentService (TCPA consent tracking)   37 │ - Add ComplianceReportService (violation detection)   38 │   39 │ Workstream E - Frontend UI:   40 │ - Add ContactList, ContactDetail, ContactForm components   41 │ - Add DealPipeline (Kanban), DealDetail components   42 │ - Add UnifiedInbox, Composer, CallInterface components   43 │ - Add AuditLogViewer, DisclosureManager, ConsentDashboard   44 │ - Add shared ActivityTimeline component   45 │   46 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "e393da6",
+              "date": "2026-02-01",
+              "message": "refactor: extract shared packages and test db tooling"
+            },
+            {
+              "hash": "081d059",
+              "date": "2026-02-01",
+              "message": "Install Tauri build deps in CI"
+            },
+            {
+              "hash": "ff35e74",
+              "date": "2026-02-01",
+              "message": "Fix mobile workflow secret gating"
+            },
+            {
+              "hash": "22ca5c9",
+              "date": "2026-02-01",
+              "message": "Scaffold mobile/desktop apps and migrate web"
+            },
+            {
+              "hash": "5fb3818",
+              "date": "2026-02-01",
+              "message": "Update tiered integrations and plans"
+            },
+            {
+              "hash": "a4589d9",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: ESM compatibility and dev tooling improvements    2 │    3 │ Database migrations:    4 │ - Fix EXTRACT(DAY FROM interval) to direct date subtraction in PostgreSQL    5 │ - Increase org_prefix VARCHAR size for deal number generation    6 │ - Simplify partial index conditions to avoid CURRENT_DATE/TIMESTAMP issues    7 │    8 │ Scripts:    9 │ - Add ESM __dirname compatibility to migrate.ts and seed-database.ts   10 │ - Filter out _down.sql files from migration runner   11 │ - Rewrite seed-database.ts to use database/seed.sql with CLI flags   12 │ - Remove require.main checks for ESM module execution   13 │   14 │ Dependencies:   15 │ - Add express, cors, compression, helmet for server   16 │ - Add concurrently for parallel dev processes   17 │   18 │ New scripts:   19 │ - dev:server, dev:worker, dev:full for full-stack development   20 │ - seed script for database seeding   21 │   22 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "92e25a8",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: resolve remaining 24 test failures    2 │    3 │ - Fix getByText matching multiple elements by using getAllByText    4 │ - Fix DealPipeline stage name assertions for 'Lead', 'Contacted', etc.    5 │ - Fix ContactDetail preferred contact method and phone icon assertions    6 │ - Fix ContactList batch export and sorting tests    7 │ - Fix AuditLogViewer dialog, filter, and export tests    8 │ - Use waitFor for async state updates in dialog tests    9 │ - Make assertions more flexible for elements appearing multiple times   10 │   11 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "d2a471c",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: resolve test failures in component tests    2 │    3 │ - Fix Select mock to use valid HTML (no divs inside select)    4 │ - Use empty option elements to avoid text conflicts    5 │ - Convert getByText to getAllByText for elements appearing multiple times    6 │ - Fix DealPipeline card click test to target correct element    7 │ - Update filter tests to handle Select items rendering    8 │    9 │ Test improvement: 1964 passing (was 1944), 24 failing (was 44)   10 │   11 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "f430ace",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: implement MCA Platform Phase 2 - Integration & Polish    2 │    3 │ Workstream G - Wiring & Routes:    4 │ - Wire contacts and deals routes in server/index.ts    5 │ - Add audit middleware to request pipeline    6 │ - Create frontend API clients (contacts.ts, deals.ts)    7 │ - Create React hooks (useContactActions, useDealActions)    8 │    9 │ Workstream H - Backend Tests:   10 │ - Add 14 service tests: Audit, Communications, Contacts, Deals,   11 │   Disclosure, DisclosureCalculator, Narrative, Qualification,   12 │   Scoring, StackAnalysis, Suppression, Underwriting, Consent,   13 │   ComplianceReport   14 │ - Add route tests for contacts and deals APIs   15 │   16 │ Workstream I - Frontend Tests:   17 │ - Add component tests: ContactList, ContactDetail, DealPipeline,   18 │   DealDetail, UnifiedInbox, AuditLogViewer   19 │ - Add hook tests: useContactActions, useDealActions   20 │   21 │ Workstream J - Webhooks & Documentation:   22 │ - Add webhook routes for Twilio (SMS/Voice), SendGrid, Plaid   23 │ - Add webhook signature verification middleware   24 │ - Add OpenAPI 3.0 spec (~2800 lines) at /api/docs   25 │ - Add AWS S3 integration stub   26 │   27 │ Workstream K - Capital Ops:   28 │ - Add migration 009: portfolio_health_history table   29 │ - Add AlertService for DEWS (Daily Early Warning System)   30 │ - Add ACH integration stub for payment processing   31 │   32 │ Test Results: 1944 passing / 44 failing (UI mock issues)   33 │   34 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "e045ae6",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ fix: add appRoot to vite fs.allow for dev server    2 │    3 │ The dev server was returning 403 because index.html was outside    4 │ the allowed directories. Add appRoot and node_modules to fs.allow.    5 │    6 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "43ff1a3",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ test: update StateCollectorFactory tests for TX/FL collectors    2 │    3 │ Update test expectations now that TX and FL collectors are implemented:    4 │ - TX (bulk) and FL (vendor) are in implemented states list    5 │ - getAllCollectors only returns collectors that can be instantiated    6 │ - Add separate test for implemented states including those needing config    7 │    8 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "89562dd",
+              "date": "2026-02-01",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: implement MCA Super-Suite platform expansion    2 │    3 │ Workstream A - Database & Schema:    4 │ - Add migrations 002-008 for triggers, multitenancy, contacts, deals, communications, compliance    5 │ - Fix normalization triggers for ucc_filings    6 │ - Add organizations, users, contacts, deals, disclosures, audit_logs tables    7 │ - Consolidate database client to @public-records/core    8 │    9 │ Workstream B - Scrapers & Data Intelligence:   10 │ - Add CA SOS API collector with rate limiting   11 │ - Add TX SOSDirect bulk collector   12 │ - Add FL Image API vendor placeholder   13 │ - Enhance StateCollectorFactory with tiered fallback (API→Bulk→Vendor→Scrape)   14 │ - Add NarrativeService for broker-ready stories   15 │ - Add StackAnalysisService for position detection   16 │   17 │ Workstream C - Broker Services:   18 │ - Add contacts and deals API routes   19 │ - Add ContactsService with activity tracking   20 │ - Add DealsService with pipeline management   21 │ - Add CommunicationsService with unified email/SMS/call   22 │ - Add Twilio integration (SMS, voice, TwiML)   23 │ - Add SendGrid integration (transactional, templates)   24 │   25 │ Workstream C.4 - Underwriting:   26 │ - Add Plaid integration (link tokens, transactions)   27 │ - Add UnderwritingService (ADB, NSF, revenue trends)   28 │ - Add QualificationService (tier A/B/C/D/Decline rules)   29 │   30 │ Workstream D - Compliance & Audit:   31 │ - Add audit middleware for immutable logging   32 │ - Add AuditService for entity history and exports   33 │ - Add DisclosureService (CA SB 1235, NY CFDL)   34 │ - Add DisclosureCalculator (APR, total cost)   35 │ - Add SuppressionService (DNC list checking)   36 │ - Add ConsentService (TCPA consent tracking)   37 │ - Add ComplianceReportService (violation detection)   38 │   39 │ Workstream E - Frontend UI:   40 │ - Add ContactList, ContactDetail, ContactForm components   41 │ - Add DealPipeline (Kanban), DealDetail components   42 │ - Add UnifiedInbox, Composer, CallInterface components   43 │ - Add AuditLogViewer, DisclosureManager, ConsentDashboard   44 │ - Add shared ActivityTimeline component   45 │   46 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "e393da6",
+              "date": "2026-02-01",
+              "message": "refactor: extract shared packages and test db tooling"
+            },
+            {
+              "hash": "081d059",
+              "date": "2026-02-01",
+              "message": "Install Tauri build deps in CI"
+            },
+            {
+              "hash": "ff35e74",
+              "date": "2026-02-01",
+              "message": "Fix mobile workflow secret gating"
+            },
+            {
+              "hash": "22ca5c9",
+              "date": "2026-02-01",
+              "message": "Scaffold mobile/desktop apps and migrate web"
+            },
+            {
+              "hash": "5fb3818",
+              "date": "2026-02-01",
+              "message": "Update tiered integrations and plans"
+            }
+          ],
+          "files_changed": 648
+        }
+      }
+    }
+  }
+}

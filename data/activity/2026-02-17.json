@@ -1,0 +1,3183 @@
+{
+  "generated": "2026-03-06T00:39:28Z",
+  "since": "2026-02-17",
+  "until": "2026-02-17",
+  "summary": {
+    "total_commits": 515,
+    "repos_active": 108,
+    "files_changed": 2044,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "META",
+      "Personal",
+      "V",
+      "VI",
+      "VII"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "ce84b5c",
+              "date": "2026-02-17",
+              "message": "Implement repo-wide quality hardening and governance updates"
+            },
+            {
+              "hash": "b2f3847",
+              "date": "2026-02-17",
+              "message": "Extract GitHub Pages core package and add telemetry alert hardening"
+            },
+            {
+              "hash": "aede57a",
+              "date": "2026-02-17",
+              "message": "feat: SEO, accessibility & quality expansion"
+            },
+            {
+              "hash": "4befa81",
+              "date": "2026-02-17",
+              "message": "Harden GitHub Pages index program and reliability gates"
+            },
+            {
+              "hash": "54bf168",
+              "date": "2026-02-17",
+              "message": "fix: finalize architecture graph data wiring"
+            },
+            {
+              "hash": "2db487e",
+              "date": "2026-02-17",
+              "message": "chore: checkpoint local updates"
+            },
+            {
+              "hash": "d55ad10",
+              "date": "2026-02-17",
+              "message": "test: tighten quality metrics checkpoint assertions"
+            },
+            {
+              "hash": "9cb1d93",
+              "date": "2026-02-17",
+              "message": "chore: sync generated quality artifacts"
+            },
+            {
+              "hash": "22fc122",
+              "date": "2026-02-17",
+              "message": "chore: reconcile quality governance contracts"
+            },
+            {
+              "hash": "72e9cb2",
+              "date": "2026-02-17",
+              "message": "docs: refresh pr checklist for new quality gates"
+            },
+            {
+              "hash": "7e568d1",
+              "date": "2026-02-17",
+              "message": "docs: document expanded quality and security gates"
+            },
+            {
+              "hash": "bbf7bf3",
+              "date": "2026-02-17",
+              "message": "test: extend quality metrics schema assertions"
+            },
+            {
+              "hash": "df73fe5",
+              "date": "2026-02-17",
+              "message": "feat: complete github pages directory hardening"
+            },
+            {
+              "hash": "5fe0307",
+              "date": "2026-02-17",
+              "message": "feat: add GitHub Pages directory sync and listing page"
+            },
+            {
+              "hash": "ef8b8f4",
+              "date": "2026-02-17",
+              "message": "chore: implement 30-day security-to-zero hardening freeze"
+            },
+            {
+              "hash": "ee6afa7",
+              "date": "2026-02-17",
+              "message": "feat: add security-first quality gates and governance contracts"
+            },
+            {
+              "hash": "f95bc55",
+              "date": "2026-02-17",
+              "message": "chore: complete quality governance and strict typecheck gates"
+            },
+            {
+              "hash": "a376a1d",
+              "date": "2026-02-17",
+              "message": "feat: omega scorecard page — 17-criteria maturity dashboard"
+            },
+            {
+              "hash": "bd47cbd",
+              "date": "2026-02-17",
+              "message": "Implement reliability, metrics integrity, and typecheck hardening"
+            },
+            {
+              "hash": "0a1e202",
+              "date": "2026-02-17",
+              "message": "feat: harden CI, performance, and quality infrastructure"
+            },
+            {
+              "hash": "312ae2e",
+              "date": "2026-02-17",
+              "message": "chore: update generated data files"
+            },
+            {
+              "hash": "2e5ecd9",
+              "date": "2026-02-17",
+              "message": "fix: search modal never opens due to Vite module stall with View Transitions"
+            },
+            {
+              "hash": "eb347b9",
+              "date": "2026-02-17",
+              "message": "chore: update generated projects data"
+            },
+            {
+              "hash": "3068c3c",
+              "date": "2026-02-17",
+              "message": "chore: update generated data files"
+            },
+            {
+              "hash": "0c0f9b2",
+              "date": "2026-02-17",
+              "message": "feat: increase spectrum drift speed for visible color evolution"
+            },
+            {
+              "hash": "557463a",
+              "date": "2026-02-17",
+              "message": "feat: visual refresh — minimal footer, card sections, random complementary backgrounds"
+            },
+            {
+              "hash": "5fa5e38",
+              "date": "2026-02-17",
+              "message": "chore: regenerate quality badges after a11y remediation"
+            },
+            {
+              "hash": "0329e39",
+              "date": "2026-02-17",
+              "message": "fix: accessibility remediation — reduced motion guard, filter announcements, global sr-only"
+            },
+            {
+              "hash": "2830445",
+              "date": "2026-02-17",
+              "message": "refactor: remove S/B/E visual modes, bake extreme as default, decouple theme from canvas"
+            },
+            {
+              "hash": "e869173",
+              "date": "2026-02-17",
+              "message": "feat: visual refresh — gold palette, editorial typography, signature interactions"
+            },
+            {
+              "hash": "a481927",
+              "date": "2026-02-17",
+              "message": "refactor: full site modularization — Layout shell, ProjectLayout, section components"
+            },
+            {
+              "hash": "6723738",
+              "date": "2026-02-17",
+              "message": "refactor: decompose Layout.astro into single-responsibility components"
+            },
+            {
+              "hash": "8057c9e",
+              "date": "2026-02-17",
+              "message": "fix: enable hidden file upload for Lighthouse CI artifacts"
+            },
+            {
+              "hash": "4297904",
+              "date": "2026-02-17",
+              "message": "fix: use filesystem target for Lighthouse CI artifact upload"
+            },
+            {
+              "hash": "ad79493",
+              "date": "2026-02-17",
+              "message": "fix: commit favicon files for CI link checking"
+            },
+            {
+              "hash": "fd41a57",
+              "date": "2026-02-17",
+              "message": "fix: correct badge image base path in dashboard"
+            },
+            {
+              "hash": "fa2c940",
+              "date": "2026-02-17",
+              "message": "docs: add quality badges to README, update CLAUDE.md test strategy"
+            },
+            {
+              "hash": "be5b281",
+              "date": "2026-02-17",
+              "message": "feat: add quality dashboard section with generated badges"
+            },
+            {
+              "hash": "2e09072",
+              "date": "2026-02-17",
+              "message": "ci: add quality pipeline running all gates on push and PR"
+            },
+            {
+              "hash": "2a84d8e",
+              "date": "2026-02-17",
+              "message": "test: add HTML validation and internal link checking"
+            },
+            {
+              "hash": "81facd8",
+              "date": "2026-02-17",
+              "message": "test: add Lighthouse CI performance budgets"
+            },
+            {
+              "hash": "8c85026",
+              "date": "2026-02-17",
+              "message": "test: add axe-core accessibility audit for all 31 pages"
+            },
+            {
+              "hash": "c4220de",
+              "date": "2026-02-17",
+              "message": "test: add component logic and build output smoke tests"
+            },
+            {
+              "hash": "282dfe9",
+              "date": "2026-02-17",
+              "message": "test: add vitest infrastructure and 42 utility unit tests"
+            }
+          ],
+          "files_changed": 227
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "alchemia-ingestvm": {
+          "commits": [
+            {
+              "hash": "e1b4a4b",
+              "date": "2026-02-17",
+              "message": "fix: E2G hardening — env var fallback for corpus path"
+            },
+            {
+              "hash": "7058f60",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "49340ff",
+              "date": "2026-02-17",
+              "message": "style: apply ruff format to all source and test files"
+            },
+            {
+              "hash": "8b9e25b",
+              "date": "2026-02-17",
+              "message": "fix: resolve remaining ruff lint errors (F841, E501, I001)"
+            },
+            {
+              "hash": "ddc90fb",
+              "date": "2026-02-17",
+              "message": "fix: resolve ruff lint errors (F401, F841, F541, E501)"
+            },
+            {
+              "hash": "43894ae",
+              "date": "2026-02-17",
+              "message": "feat: add README, seed.yaml, CI workflow (FUNDAMEN Sprint)"
+            }
+          ],
+          "files_changed": 22
+        },
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "763e05f",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "0989d67",
+              "date": "2026-02-17",
+              "message": "feat: exhaustive funding research — 200+ opportunities, 41 targets, 54 TODO items"
+            },
+            {
+              "hash": "2215884",
+              "date": "2026-02-17",
+              "message": "feat: strategy rewrite — grant track, residencies, funding strategy, tracker refresh"
+            },
+            {
+              "hash": "a9d0c6e",
+              "date": "2026-02-17",
+              "message": "feat: PROPULSION sprint — strengthen applications, package stranger test"
+            },
+            {
+              "hash": "3ef07af",
+              "date": "2026-02-17",
+              "message": "refactor: persona repositioning — evidence-first, not identity-first"
+            },
+            {
+              "hash": "33763f4",
+              "date": "2026-02-17",
+              "message": "feat: update ORGAN-VII to PRODUCTION — EVANGELION Sprint"
+            },
+            {
+              "hash": "7568413",
+              "date": "2026-02-17",
+              "message": "feat: VERITAS II — ground truth, identity coherence, CLAUDE.md 100% coverage"
+            },
+            {
+              "hash": "22dceac",
+              "date": "2026-02-17",
+              "message": "fix: E2G registry reconciliation — 3 new repos, count to 100"
+            },
+            {
+              "hash": "cd48c4e",
+              "date": "2026-02-17",
+              "message": "feat: omega evidence refresh — 3 criteria advance to IN PROGRESS, 2 CI fixes, metrics propagated"
+            },
+            {
+              "hash": "66a3ac1",
+              "date": "2026-02-17",
+              "message": "chore: add deferred CI fix items M9-II + M10-II to rolling-todo"
+            },
+            {
+              "hash": "30241da",
+              "date": "2026-02-17",
+              "message": "feat: AMPLIFICATIO — system amplification during soak test window"
+            },
+            {
+              "hash": "8df36a2",
+              "date": "2026-02-17",
+              "message": "feat: pre-validation maturation — soak test fix, omega evidence map, metrics reconciliation"
+            },
+            {
+              "hash": "b563c4c",
+              "date": "2026-02-17",
+              "message": "chore: rolling-todo housekeeping — M7-II + M8-II completed, M3-II progress noted"
+            },
+            {
+              "hash": "8f85a54",
+              "date": "2026-02-17",
+              "message": "fix: propagate current metrics across all living documents (97 repos, 87 ACTIVE, 36 essays, ~404K+ words)"
+            },
+            {
+              "hash": "2551829",
+              "date": "2026-02-17",
+              "message": "feat: E3 submission script — Google Creative Fellowship (deadline March 18)"
+            },
+            {
+              "hash": "2a1052c",
+              "date": "2026-02-17",
+              "message": "fix: RENOVATIO — refresh external surfaces (registry, applications, cover letters)"
+            },
+            {
+              "hash": "1dd74ce",
+              "date": "2026-02-17",
+              "message": "feat: HERMETICUM — break the hermetic seal"
+            },
+            {
+              "hash": "c267ab5",
+              "date": "2026-02-17",
+              "message": "feat: OPERATIO batch — essay auto-deploy, CLI, health dashboard, TODO housekeeping"
+            },
+            {
+              "hash": "b26c65b",
+              "date": "2026-02-17",
+              "message": "feat: SENSORIA sprint — autonomous perception layer, 100% seed.yaml, stale-detection"
+            },
+            {
+              "hash": "b0eb5db",
+              "date": "2026-02-17",
+              "message": "feat: FUNDAMEN sprint spec + docs — sprint 31, catalog item 25"
+            },
+            {
+              "hash": "01c332e",
+              "date": "2026-02-17",
+              "message": "feat: DISTRIBUTIO sprint spec + docs — sprint 30, catalog item 24"
+            },
+            {
+              "hash": "ae5bb9d",
+              "date": "2026-02-17",
+              "message": "fix: update rolling-todo — E4 completed, G2 reclassified, X2 status, totals corrected"
+            },
+            {
+              "hash": "673aa34",
+              "date": "2026-02-17",
+              "message": "feat: governance invocation system — concordance, invoke.py, ID-aware CLAUDE.md"
+            },
+            {
+              "hash": "131b5ab",
+              "date": "2026-02-17",
+              "message": "feat: RECOGNITIO (#28) + AUTOMATA (#29) — E2G-II review + autonomous systems activation"
+            }
+          ],
+          "files_changed": 94
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "971f85b",
+              "date": "2026-02-17",
+              "message": "docs: add pull request template"
+            },
+            {
+              "hash": "b192513",
+              "date": "2026-02-17",
+              "message": "docs: add feature request issue template"
+            },
+            {
+              "hash": "e088cac",
+              "date": "2026-02-17",
+              "message": "docs: add bug report issue template"
+            },
+            {
+              "hash": "33b3ade",
+              "date": "2026-02-17",
+              "message": "docs: add MIT LICENSE"
+            },
+            {
+              "hash": "e97fb4d",
+              "date": "2026-02-17",
+              "message": "docs: add SECURITY.md with vulnerability reporting policy"
+            },
+            {
+              "hash": "d53885d",
+              "date": "2026-02-17",
+              "message": "docs: add CONTRIBUTING.md with Python development guide"
+            },
+            {
+              "hash": "0722b9d",
+              "date": "2026-02-17",
+              "message": "fix: E2G hardening — env fallbacks, type coercion, shared fixtures"
+            },
+            {
+              "hash": "39bc657",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "72cd021",
+              "date": "2026-02-17",
+              "message": "feat: initial organvm-engine package"
+            }
+          ],
+          "files_changed": 45
+        },
+        "schema-definitions": {
+          "commits": [
+            {
+              "hash": "de8333f",
+              "date": "2026-02-17",
+              "message": "fix: add scripts __init__.py to fix broken entry point"
+            },
+            {
+              "hash": "3baf82c",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "8e0fd85",
+              "date": "2026-02-17",
+              "message": "feat: initial schema-definitions package"
+            }
+          ],
+          "files_changed": 18
+        },
+        "system-dashboard": {
+          "commits": [
+            {
+              "hash": "6d350e6",
+              "date": "2026-02-17",
+              "message": "fix: E2G hardening — remove dead code, shared templates, nav cleanup"
+            },
+            {
+              "hash": "902290d",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "d07119b",
+              "date": "2026-02-17",
+              "message": "feat: initial system-dashboard FastAPI app"
+            }
+          ],
+          "files_changed": 27
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "4-ivi374-F0Rivi4": {
+          "commits": [
+            {
+              "hash": "84b9bdd",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "4234efd",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "call-function--ontological": {
+          "commits": [
+            {
+              "hash": "07179ea",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "cog-init-1-0-": {
+          "commits": [
+            {
+              "hash": "a346684",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "f3ee8e2",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "c487027",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "linguistic-atomization-framework": {
+          "commits": [
+            {
+              "hash": "e85e2ea",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "meta-source--ledger-output": {
+          "commits": [
+            {
+              "hash": "1299796",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "99a6c34",
+              "date": "2026-02-17",
+              "message": "fix: harden API routing contracts and stability checks"
+            },
+            {
+              "hash": "2d46aa8",
+              "date": "2026-02-17",
+              "message": "Package GitHub Pages core and enforce telemetry-based alert policy"
+            },
+            {
+              "hash": "5416d53",
+              "date": "2026-02-17",
+              "message": "docs: align unreleased head commit marker"
+            },
+            {
+              "hash": "80e396c",
+              "date": "2026-02-17",
+              "message": "docs: refresh unreleased head evidence row"
+            },
+            {
+              "hash": "4cfc526",
+              "date": "2026-02-17",
+              "message": "Harden GitHub Pages index pipeline, tests, and policy controls"
+            },
+            {
+              "hash": "1b494bd",
+              "date": "2026-02-17",
+              "message": "chore: add runtime probe preflight release checks"
+            },
+            {
+              "hash": "dd24b81",
+              "date": "2026-02-17",
+              "message": "test: align branches tab test imports"
+            },
+            {
+              "hash": "5900c9a",
+              "date": "2026-02-17",
+              "message": "feat: wire branches tab navigation"
+            },
+            {
+              "hash": "dd14d85",
+              "date": "2026-02-17",
+              "message": "feat: add branches exploration tab component"
+            },
+            {
+              "hash": "bb457b0",
+              "date": "2026-02-17",
+              "message": "feat: extend pages directory tab and sync validation"
+            },
+            {
+              "hash": "da46d9c",
+              "date": "2026-02-17",
+              "message": "feat: add GitHub Pages index sync and web tab"
+            },
+            {
+              "hash": "30ad0bf",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 63
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "99a6c34",
+              "date": "2026-02-17",
+              "message": "fix: harden API routing contracts and stability checks"
+            },
+            {
+              "hash": "2d46aa8",
+              "date": "2026-02-17",
+              "message": "Package GitHub Pages core and enforce telemetry-based alert policy"
+            },
+            {
+              "hash": "5416d53",
+              "date": "2026-02-17",
+              "message": "docs: align unreleased head commit marker"
+            },
+            {
+              "hash": "80e396c",
+              "date": "2026-02-17",
+              "message": "docs: refresh unreleased head evidence row"
+            },
+            {
+              "hash": "4cfc526",
+              "date": "2026-02-17",
+              "message": "Harden GitHub Pages index pipeline, tests, and policy controls"
+            },
+            {
+              "hash": "1b494bd",
+              "date": "2026-02-17",
+              "message": "chore: add runtime probe preflight release checks"
+            },
+            {
+              "hash": "dd24b81",
+              "date": "2026-02-17",
+              "message": "test: align branches tab test imports"
+            },
+            {
+              "hash": "5900c9a",
+              "date": "2026-02-17",
+              "message": "feat: wire branches tab navigation"
+            },
+            {
+              "hash": "dd14d85",
+              "date": "2026-02-17",
+              "message": "feat: add branches exploration tab component"
+            },
+            {
+              "hash": "bb457b0",
+              "date": "2026-02-17",
+              "message": "feat: extend pages directory tab and sync validation"
+            },
+            {
+              "hash": "da46d9c",
+              "date": "2026-02-17",
+              "message": "feat: add GitHub Pages index sync and web tab"
+            },
+            {
+              "hash": "30ad0bf",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 63
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "99a6c34",
+              "date": "2026-02-17",
+              "message": "fix: harden API routing contracts and stability checks"
+            },
+            {
+              "hash": "2d46aa8",
+              "date": "2026-02-17",
+              "message": "Package GitHub Pages core and enforce telemetry-based alert policy"
+            },
+            {
+              "hash": "5416d53",
+              "date": "2026-02-17",
+              "message": "docs: align unreleased head commit marker"
+            },
+            {
+              "hash": "80e396c",
+              "date": "2026-02-17",
+              "message": "docs: refresh unreleased head evidence row"
+            },
+            {
+              "hash": "4cfc526",
+              "date": "2026-02-17",
+              "message": "Harden GitHub Pages index pipeline, tests, and policy controls"
+            },
+            {
+              "hash": "1b494bd",
+              "date": "2026-02-17",
+              "message": "chore: add runtime probe preflight release checks"
+            },
+            {
+              "hash": "dd24b81",
+              "date": "2026-02-17",
+              "message": "test: align branches tab test imports"
+            },
+            {
+              "hash": "5900c9a",
+              "date": "2026-02-17",
+              "message": "feat: wire branches tab navigation"
+            },
+            {
+              "hash": "dd14d85",
+              "date": "2026-02-17",
+              "message": "feat: add branches exploration tab component"
+            },
+            {
+              "hash": "bb457b0",
+              "date": "2026-02-17",
+              "message": "feat: extend pages directory tab and sync validation"
+            },
+            {
+              "hash": "da46d9c",
+              "date": "2026-02-17",
+              "message": "feat: add GitHub Pages index sync and web tab"
+            },
+            {
+              "hash": "30ad0bf",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 63
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "99a6c34",
+              "date": "2026-02-17",
+              "message": "fix: harden API routing contracts and stability checks"
+            },
+            {
+              "hash": "2d46aa8",
+              "date": "2026-02-17",
+              "message": "Package GitHub Pages core and enforce telemetry-based alert policy"
+            },
+            {
+              "hash": "5416d53",
+              "date": "2026-02-17",
+              "message": "docs: align unreleased head commit marker"
+            },
+            {
+              "hash": "80e396c",
+              "date": "2026-02-17",
+              "message": "docs: refresh unreleased head evidence row"
+            },
+            {
+              "hash": "4cfc526",
+              "date": "2026-02-17",
+              "message": "Harden GitHub Pages index pipeline, tests, and policy controls"
+            },
+            {
+              "hash": "1b494bd",
+              "date": "2026-02-17",
+              "message": "chore: add runtime probe preflight release checks"
+            },
+            {
+              "hash": "dd24b81",
+              "date": "2026-02-17",
+              "message": "test: align branches tab test imports"
+            },
+            {
+              "hash": "5900c9a",
+              "date": "2026-02-17",
+              "message": "feat: wire branches tab navigation"
+            },
+            {
+              "hash": "dd14d85",
+              "date": "2026-02-17",
+              "message": "feat: add branches exploration tab component"
+            },
+            {
+              "hash": "bb457b0",
+              "date": "2026-02-17",
+              "message": "feat: extend pages directory tab and sync validation"
+            },
+            {
+              "hash": "da46d9c",
+              "date": "2026-02-17",
+              "message": "feat: add GitHub Pages index sync and web tab"
+            },
+            {
+              "hash": "30ad0bf",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            },
+            {
+              "hash": "99a6c34",
+              "date": "2026-02-17",
+              "message": "fix: harden API routing contracts and stability checks"
+            },
+            {
+              "hash": "2d46aa8",
+              "date": "2026-02-17",
+              "message": "Package GitHub Pages core and enforce telemetry-based alert policy"
+            },
+            {
+              "hash": "5416d53",
+              "date": "2026-02-17",
+              "message": "docs: align unreleased head commit marker"
+            },
+            {
+              "hash": "80e396c",
+              "date": "2026-02-17",
+              "message": "docs: refresh unreleased head evidence row"
+            },
+            {
+              "hash": "4cfc526",
+              "date": "2026-02-17",
+              "message": "Harden GitHub Pages index pipeline, tests, and policy controls"
+            },
+            {
+              "hash": "1b494bd",
+              "date": "2026-02-17",
+              "message": "chore: add runtime probe preflight release checks"
+            },
+            {
+              "hash": "dd24b81",
+              "date": "2026-02-17",
+              "message": "test: align branches tab test imports"
+            },
+            {
+              "hash": "5900c9a",
+              "date": "2026-02-17",
+              "message": "feat: wire branches tab navigation"
+            },
+            {
+              "hash": "dd14d85",
+              "date": "2026-02-17",
+              "message": "feat: add branches exploration tab component"
+            },
+            {
+              "hash": "bb457b0",
+              "date": "2026-02-17",
+              "message": "feat: extend pages directory tab and sync validation"
+            },
+            {
+              "hash": "da46d9c",
+              "date": "2026-02-17",
+              "message": "feat: add GitHub Pages index sync and web tab"
+            },
+            {
+              "hash": "30ad0bf",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 63
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "99a6c34",
+              "date": "2026-02-17",
+              "message": "fix: harden API routing contracts and stability checks"
+            },
+            {
+              "hash": "2d46aa8",
+              "date": "2026-02-17",
+              "message": "Package GitHub Pages core and enforce telemetry-based alert policy"
+            },
+            {
+              "hash": "5416d53",
+              "date": "2026-02-17",
+              "message": "docs: align unreleased head commit marker"
+            },
+            {
+              "hash": "80e396c",
+              "date": "2026-02-17",
+              "message": "docs: refresh unreleased head evidence row"
+            },
+            {
+              "hash": "4cfc526",
+              "date": "2026-02-17",
+              "message": "Harden GitHub Pages index pipeline, tests, and policy controls"
+            },
+            {
+              "hash": "1b494bd",
+              "date": "2026-02-17",
+              "message": "chore: add runtime probe preflight release checks"
+            },
+            {
+              "hash": "dd24b81",
+              "date": "2026-02-17",
+              "message": "test: align branches tab test imports"
+            },
+            {
+              "hash": "5900c9a",
+              "date": "2026-02-17",
+              "message": "feat: wire branches tab navigation"
+            },
+            {
+              "hash": "dd14d85",
+              "date": "2026-02-17",
+              "message": "feat: add branches exploration tab component"
+            },
+            {
+              "hash": "bb457b0",
+              "date": "2026-02-17",
+              "message": "feat: extend pages directory tab and sync validation"
+            },
+            {
+              "hash": "da46d9c",
+              "date": "2026-02-17",
+              "message": "feat: add GitHub Pages index sync and web tab"
+            },
+            {
+              "hash": "30ad0bf",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 63
+        },
+        "nexus--babel-alexandria": {
+          "commits": [
+            {
+              "hash": "9ad30fc",
+              "date": "2026-02-17",
+              "message": "Implement MVP hardening plan across security, correctness, and durability"
+            },
+            {
+              "hash": "a0c5b19",
+              "date": "2026-02-17",
+              "message": "feat: implement RLOS + ARC4N MVP scaffold"
+            },
+            {
+              "hash": "61de1b6",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 41
+        },
+        "organon-noumenon--ontogenetic-morphe": {
+          "commits": [
+            {
+              "hash": "c0db91a",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "recursive-engine--generative-entity": {
+          "commits": [
+            {
+              "hash": "69cc2fb",
+              "date": "2026-02-17",
+              "message": "docs: add pull request template"
+            },
+            {
+              "hash": "5ede658",
+              "date": "2026-02-17",
+              "message": "docs: add feature request issue template"
+            },
+            {
+              "hash": "6306aa6",
+              "date": "2026-02-17",
+              "message": "docs: add bug report issue template"
+            },
+            {
+              "hash": "df7da8f",
+              "date": "2026-02-17",
+              "message": "docs: add SECURITY.md with vulnerability reporting policy"
+            },
+            {
+              "hash": "1877fc1",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "reverse-engine-recursive-run": {
+          "commits": [
+            {
+              "hash": "3cf97d6",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "de404fe",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "scalable-lore-expert": {
+          "commits": [
+            {
+              "hash": "1764d30",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "sema-metra--alchemica-mundi": {
+          "commits": [
+            {
+              "hash": "757d462",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "521ff7b",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "032f7df",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "MET4": {
+          "commits": [
+            {
+              "hash": "c2f5200",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "e7ec1d5",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "763e05f",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "archive-past-works": {
+          "commits": [
+            {
+              "hash": "646394e",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "art-from--auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "09487e7",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "art-from--narratological-algorithmic-lenses": {
+          "commits": [
+            {
+              "hash": "8948810",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "audio-synthesis-bridge": {
+          "commits": [
+            {
+              "hash": "576f064",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "case-studies-methodology": {
+          "commits": [
+            {
+              "hash": "ace3a82",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "chthon-oneiros": {
+          "commits": [
+            {
+              "hash": "4867010",
+              "date": "2026-02-17",
+              "message": "feat: implement literary shadow research, Episode 08, and Museum strategy"
+            },
+            {
+              "hash": "fd0aecc",
+              "date": "2026-02-17",
+              "message": "feat: implement exhaustive Chthonic Genealogy research (Clusters 21-25) and update research plan"
+            },
+            {
+              "hash": "8526820",
+              "date": "2026-02-17",
+              "message": "docs: establish exhaustive multi-modal research plan for Phase IV"
+            },
+            {
+              "hash": "1daa507",
+              "date": "2026-02-17",
+              "message": "feat: implement Artistic Triforce Framework and Episode 07"
+            },
+            {
+              "hash": "97b0762",
+              "date": "2026-02-17",
+              "message": "feat: complete Season 2 Deep Time cycle and finalize Phase V expansion"
+            },
+            {
+              "hash": "31d328e",
+              "date": "2026-02-17",
+              "message": "feat: incorporate LingFrame and Narratological Lenses into Substrate Architecture"
+            },
+            {
+              "hash": "851bd6d",
+              "date": "2026-02-17",
+              "message": "feat: implement Phase V expansion (Cluster 11, Episode 05, and Recalibrated Word Count)"
+            },
+            {
+              "hash": "7561038",
+              "date": "2026-02-17",
+              "message": "feat: implement Phase IV expansion (Cluster 10, Episode 04, and Weeks 13-14 Release)"
+            },
+            {
+              "hash": "075f8ce",
+              "date": "2026-02-17",
+              "message": "feat: implement Phase III expansion (Museum of the Unrecorded, Cluster 9 Research, and Episode 03)"
+            },
+            {
+              "hash": "6601ced",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "15c76db",
+              "date": "2026-02-17",
+              "message": "feat: implement Shadow Instrument system v1.0 (Metabolism, Giallo Linter, and Trapdoor Navigation)"
+            },
+            {
+              "hash": "3159fa7",
+              "date": "2026-02-17",
+              "message": "docs: establish Shadow Instrument thesis and implementation plan"
+            },
+            {
+              "hash": "3325389",
+              "date": "2026-02-17",
+              "message": "feat: finalize CHTHON-ONEIROS Season 1 and Research V2 expansion"
+            },
+            {
+              "hash": "9bfac49",
+              "date": "2026-02-17",
+              "message": "chore: implement GitHub repository standards and root hygiene"
+            },
+            {
+              "hash": "b4097e6",
+              "date": "2026-02-17",
+              "message": "feat: add PHANTASMATA world research briefs, comparative director report, and production tooling"
+            },
+            {
+              "hash": "fecf682",
+              "date": "2026-02-17",
+              "message": "docs: update CATALOG.md with research reports and infrastructure files"
+            },
+            {
+              "hash": "a05771f",
+              "date": "2026-02-17",
+              "message": "feat: add drafts directory with Field II creative output scaffold"
+            },
+            {
+              "hash": "63ed2a1",
+              "date": "2026-02-17",
+              "message": "feat: add anchor director deep research reports (Argento, Lynch, Kon)"
+            },
+            {
+              "hash": "e7fb02f",
+              "date": "2026-02-17",
+              "message": "feat: populate seed.yaml agents (research-executor, catalog-updater, companion-sync)"
+            },
+            {
+              "hash": "9f59de8",
+              "date": "2026-02-17",
+              "message": "feat: add CLAUDE.md project context for AI sessions"
+            },
+            {
+              "hash": "2c81d7f",
+              "date": "2026-02-17",
+              "message": "feat: add structured document catalog for corpus ingestion"
+            },
+            {
+              "hash": "64cc302",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 142
+        },
+        "client-sdk": {
+          "commits": [
+            {
+              "hash": "f817c57",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "example-ai-collaboration": {
+          "commits": [
+            {
+              "hash": "9b4b39b",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "example-choreographic-interface": {
+          "commits": [
+            {
+              "hash": "c8f2968",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "example-generative-music": {
+          "commits": [
+            {
+              "hash": "afa2697",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "example-interactive-installation": {
+          "commits": [
+            {
+              "hash": "fe2ebf2",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "example-theatre-dialogue": {
+          "commits": [
+            {
+              "hash": "c8953a2",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "ivi374ivi027-05": {
+          "commits": [
+            {
+              "hash": "c2f5200",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "krypto-velamen": {
+          "commits": [
+            {
+              "hash": "a5c2c7f",
+              "date": "2026-02-17",
+              "message": "feat: implement Phase 13 — Multi-Modal Ingestion & The Sensory Archive"
+            },
+            {
+              "hash": "8075a88",
+              "date": "2026-02-17",
+              "message": "feat: implement Phase 12 — Artistic Triforce Alignment & Governance"
+            },
+            {
+              "hash": "d5318f1",
+              "date": "2026-02-17",
+              "message": "feat: implement Phase 11 — The Structural Lens (Dramaturgical Encoding)"
+            },
+            {
+              "hash": "2f06385",
+              "date": "2026-02-17",
+              "message": "feat: implement Phase 10 — The Semantic Particle (Atomic Encoding)"
+            },
+            {
+              "hash": "737b5d2",
+              "date": "2026-02-17",
+              "message": "feat: implement Phase 9 — The Metabolic Awakening (Entropy & Circulation)"
+            },
+            {
+              "hash": "f9b52ec",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "d086bbf",
+              "date": "2026-02-17",
+              "message": "feat: implement project evolution v1.1 — technical consolidation and persistent atlas"
+            },
+            {
+              "hash": "b9b14f9",
+              "date": "2026-02-17",
+              "message": "feat: install the Titan Governor (Phase 8: Governance Layer)"
+            },
+            {
+              "hash": "5565252",
+              "date": "2026-02-17",
+              "message": "feat: awaken the machine (Phase 7: Automated Animism)"
+            },
+            {
+              "hash": "eebc707",
+              "date": "2026-02-17",
+              "message": "feat: complete platform build-out (The Instrument v1.0)"
+            },
+            {
+              "hash": "2a13844",
+              "date": "2026-02-17",
+              "message": "feat: complete full platform implementation (The Instrument v1.0)"
+            },
+            {
+              "hash": "f52448f",
+              "date": "2026-02-17",
+              "message": "feat: build out full platform system"
+            },
+            {
+              "hash": "47d3fe3",
+              "date": "2026-02-17",
+              "message": "infra: scaffold core infrastructure pillars"
+            },
+            {
+              "hash": "c8c0b91",
+              "date": "2026-02-17",
+              "message": "feat: complete Phase 5 — transition to platform architecture and global research expansion"
+            },
+            {
+              "hash": "f589077",
+              "date": "2026-02-17",
+              "message": "feat: complete Phase 4 — synthesis instruments, encoding engine, second-wave authors"
+            },
+            {
+              "hash": "a8a8118",
+              "date": "2026-02-17",
+              "message": "feat: complete Phase 3 — creative scaffolding, world research, next-author deep research"
+            },
+            {
+              "hash": "b063cbe",
+              "date": "2026-02-17",
+              "message": "feat: add research pipeline, CLAUDE.md, seed agents, and creative groundwork"
+            },
+            {
+              "hash": "1262657",
+              "date": "2026-02-17",
+              "message": "feat: add structured document catalog for corpus ingestion"
+            },
+            {
+              "hash": "0da19e2",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 259
+        },
+        "learning-resources": {
+          "commits": [
+            {
+              "hash": "bb85c06",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "life-betterment-simulation": {
+          "commits": [
+            {
+              "hash": "d9fddcc",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "metasystem-master": {
+          "commits": [
+            {
+              "hash": "2a25523",
+              "date": "2026-02-17",
+              "message": "docs: add pull request template"
+            },
+            {
+              "hash": "5b1c8b1",
+              "date": "2026-02-17",
+              "message": "docs: add SECURITY.md with vulnerability reporting policy"
+            },
+            {
+              "hash": "4cbaab0",
+              "date": "2026-02-17",
+              "message": "docs: add CONTRIBUTING.md with JavaScript development guide"
+            },
+            {
+              "hash": "6a9a2be",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 4
+        },
+        "shared-remembrance-gateway": {
+          "commits": [
+            {
+              "hash": "6b7a2c9",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "d7efa31",
+              "date": "2026-02-17",
+              "message": "fix: remove npm cache from CI — no package-lock.json exists"
+            }
+          ],
+          "files_changed": 2
+        },
+        "showcase-portfolio": {
+          "commits": [
+            {
+              "hash": "a362a86",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "universal-waveform-explorer": {
+          "commits": [
+            {
+              "hash": "3765f31",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "3d8f1bd",
+              "date": "2026-02-17",
+              "message": "fix: remove npm cache from CI — no package-lock.json exists"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "c232dfb",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "b200387",
+              "date": "2026-02-17",
+              "message": "fix: add contents: write permission for release-please"
+            },
+            {
+              "hash": "c232dfb",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "b200387",
+              "date": "2026-02-17",
+              "message": "fix: add contents: write permission for release-please"
+            }
+          ],
+          "files_changed": 2
+        },
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "36ae885",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "9f61abc",
+              "date": "2026-02-17",
+              "message": "ci: remove mismatched Django/Pylint workflows from Kotlin project"
+            },
+            {
+              "hash": "e1c61ec",
+              "date": "2026-02-17",
+              "message": "test: add smoke tests for project structure"
+            },
+            {
+              "hash": "bf831fe",
+              "date": "2026-02-17",
+              "message": "fix: update Django CI to Python 3.11/3.12 (3.7-3.9 removed from runners)"
+            },
+            {
+              "hash": "ede97fa",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            },
+            {
+              "hash": "36ae885",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "9f61abc",
+              "date": "2026-02-17",
+              "message": "ci: remove mismatched Django/Pylint workflows from Kotlin project"
+            },
+            {
+              "hash": "e1c61ec",
+              "date": "2026-02-17",
+              "message": "test: add smoke tests for project structure"
+            },
+            {
+              "hash": "bf831fe",
+              "date": "2026-02-17",
+              "message": "fix: update Django CI to Python 3.11/3.12 (3.7-3.9 removed from runners)"
+            },
+            {
+              "hash": "ede97fa",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "card-trade-social": {
+          "commits": [
+            {
+              "hash": "91c7574",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "495bead",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            },
+            {
+              "hash": "495bead",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "commerce--meta": {
+          "commits": [
+            {
+              "hash": "c2acb26",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "alchemia-ingestvm": {
+          "commits": [
+            {
+              "hash": "e1b4a4b",
+              "date": "2026-02-17",
+              "message": "fix: E2G hardening — env var fallback for corpus path"
+            },
+            {
+              "hash": "7058f60",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "49340ff",
+              "date": "2026-02-17",
+              "message": "style: apply ruff format to all source and test files"
+            },
+            {
+              "hash": "8b9e25b",
+              "date": "2026-02-17",
+              "message": "fix: resolve remaining ruff lint errors (F841, E501, I001)"
+            },
+            {
+              "hash": "ddc90fb",
+              "date": "2026-02-17",
+              "message": "fix: resolve ruff lint errors (F401, F841, F541, E501)"
+            },
+            {
+              "hash": "43894ae",
+              "date": "2026-02-17",
+              "message": "feat: add README, seed.yaml, CI workflow (FUNDAMEN Sprint)"
+            }
+          ],
+          "files_changed": 22
+        },
+        "analytics-engine": {
+          "commits": [
+            {
+              "hash": "fd92a6c",
+              "date": "2026-02-17",
+              "message": "chore: add Python .gitignore"
+            },
+            {
+              "hash": "8cc11e8",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (LOGOS Sprint)"
+            },
+            {
+              "hash": "56dbf79",
+              "date": "2026-02-17",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 8
+        },
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "4234efd",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "community-hub": {
+          "commits": [
+            {
+              "hash": "6a55267",
+              "date": "2026-02-17",
+              "message": "feat(aqua-communis): v0.4.0 — WebSocket live salons, Atom feeds, pagination, contributors, rate limiting"
+            },
+            {
+              "hash": "80da862",
+              "date": "2026-02-17",
+              "message": "feat: IGNIS KOINOS — production deployment, dark theme, search, syllabus"
+            },
+            {
+              "hash": "cd12609",
+              "date": "2026-02-17",
+              "message": "fix: E2G remediation — deployment config, CI, route fixes, README"
+            },
+            {
+              "hash": "ac56210",
+              "date": "2026-02-17",
+              "message": "feat: create community-hub flagship — FastAPI portal for ORGAN-VI"
+            }
+          ],
+          "files_changed": 50
+        },
+        "essay-pipeline": {
+          "commits": [
+            {
+              "hash": "23964be",
+              "date": "2026-02-17",
+              "message": "feat: add validator, indexer, and tests (SKELETON → PROTOTYPE)"
+            },
+            {
+              "hash": "141917b",
+              "date": "2026-02-17",
+              "message": "chore: add Python .gitignore"
+            },
+            {
+              "hash": "c401e7c",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (LOGOS Sprint)"
+            },
+            {
+              "hash": "e0d9839",
+              "date": "2026-02-17",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 21
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "54f93c5",
+              "date": "2026-02-17",
+              "message": "fix: align @types/react-dom to v18 to match runtime React 18.2.0"
+            },
+            {
+              "hash": "62284a9",
+              "date": "2026-02-17",
+              "message": "fix: restrict TruffleHog scan to pull requests only"
+            },
+            {
+              "hash": "e14e231",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            },
+            {
+              "hash": "54f93c5",
+              "date": "2026-02-17",
+              "message": "fix: align @types/react-dom to v18 to match runtime React 18.2.0"
+            },
+            {
+              "hash": "62284a9",
+              "date": "2026-02-17",
+              "message": "fix: restrict TruffleHog scan to pull requests only"
+            },
+            {
+              "hash": "e14e231",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 4
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "b99ca2e",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "98cd1a0",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            },
+            {
+              "hash": "b99ca2e",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "98cd1a0",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "kerygma-dotgithub": {
+          "commits": [
+            {
+              "hash": "6590a62",
+              "date": "2026-02-17",
+              "message": "chore: sync example config with Ghost section, add tests __init__.py"
+            },
+            {
+              "hash": "5583edd",
+              "date": "2026-02-17",
+              "message": "feat: wire Ghost into pipeline, dispatch-receiver, and default channels"
+            },
+            {
+              "hash": "2386752",
+              "date": "2026-02-17",
+              "message": "feat: add weekly report generation to pipeline CLI"
+            },
+            {
+              "hash": "ed50981",
+              "date": "2026-02-17",
+              "message": "feat: cross-organ event loop — full taxonomy, subscriptions, reusable dispatch"
+            },
+            {
+              "hash": "d0c88c5",
+              "date": "2026-02-17",
+              "message": "feat: fix dispatch-receiver install paths, add status/preview CLI, add CI"
+            },
+            {
+              "hash": "8acee87",
+              "date": "2026-02-17",
+              "message": "feat: add kerygma_pipeline orchestrator and integration tests"
+            },
+            {
+              "hash": "91b333a",
+              "date": "2026-02-17",
+              "message": "feat: update dispatch-receiver for MATERIALIZATION pipeline"
+            }
+          ],
+          "files_changed": 10
+        },
+        "koinonia-db": {
+          "commits": [
+            {
+              "hash": "7a00a5a",
+              "date": "2026-02-17",
+              "message": "feat(aqua-communis): add syllabus_service shared module + ADR"
+            },
+            {
+              "hash": "7e44e6b",
+              "date": "2026-02-17",
+              "message": "feat: IGNIS KOINOS — full-text search + syllabus schema"
+            },
+            {
+              "hash": "da45f3c",
+              "date": "2026-02-17",
+              "message": "fix: E2G remediation — CI workflow, README"
+            },
+            {
+              "hash": "b4de560",
+              "date": "2026-02-17",
+              "message": "feat: create koinonia-db shared database package"
+            }
+          ],
+          "files_changed": 30
+        },
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "3e6483e",
+              "date": "2026-02-17",
+              "message": "docs: add SECURITY.md with vulnerability reporting policy"
+            },
+            {
+              "hash": "056952b",
+              "date": "2026-02-17",
+              "message": "docs: add CONTRIBUTING.md with TypeScript development guide"
+            },
+            {
+              "hash": "5e6b867",
+              "date": "2026-02-17",
+              "message": "fix(ci): downgrade ESLint to 9.x and lower design-system coverage"
+            },
+            {
+              "hash": "7efce7b",
+              "date": "2026-02-17",
+              "message": "feat: add auto-deploy workflow with test gate (AUTOMATA sprint)"
+            },
+            {
+              "hash": "3e6483e",
+              "date": "2026-02-17",
+              "message": "docs: add SECURITY.md with vulnerability reporting policy"
+            },
+            {
+              "hash": "056952b",
+              "date": "2026-02-17",
+              "message": "docs: add CONTRIBUTING.md with TypeScript development guide"
+            },
+            {
+              "hash": "5e6b867",
+              "date": "2026-02-17",
+              "message": "fix(ci): downgrade ESLint to 9.x and lower design-system coverage"
+            },
+            {
+              "hash": "7efce7b",
+              "date": "2026-02-17",
+              "message": "feat: add auto-deploy workflow with test gate (AUTOMATA sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "meta-source--ledger-output": {
+          "commits": [
+            {
+              "hash": "1299796",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "mirror-mirror": {
+          "commits": [
+            {
+              "hash": "3abcd48",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "ad4a29a",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            },
+            {
+              "hash": "3abcd48",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "ad4a29a",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "99a6c34",
+              "date": "2026-02-17",
+              "message": "fix: harden API routing contracts and stability checks"
+            },
+            {
+              "hash": "2d46aa8",
+              "date": "2026-02-17",
+              "message": "Package GitHub Pages core and enforce telemetry-based alert policy"
+            },
+            {
+              "hash": "5416d53",
+              "date": "2026-02-17",
+              "message": "docs: align unreleased head commit marker"
+            },
+            {
+              "hash": "80e396c",
+              "date": "2026-02-17",
+              "message": "docs: refresh unreleased head evidence row"
+            },
+            {
+              "hash": "4cfc526",
+              "date": "2026-02-17",
+              "message": "Harden GitHub Pages index pipeline, tests, and policy controls"
+            },
+            {
+              "hash": "1b494bd",
+              "date": "2026-02-17",
+              "message": "chore: add runtime probe preflight release checks"
+            },
+            {
+              "hash": "dd24b81",
+              "date": "2026-02-17",
+              "message": "test: align branches tab test imports"
+            },
+            {
+              "hash": "5900c9a",
+              "date": "2026-02-17",
+              "message": "feat: wire branches tab navigation"
+            },
+            {
+              "hash": "dd14d85",
+              "date": "2026-02-17",
+              "message": "feat: add branches exploration tab component"
+            },
+            {
+              "hash": "bb457b0",
+              "date": "2026-02-17",
+              "message": "feat: extend pages directory tab and sync validation"
+            },
+            {
+              "hash": "da46d9c",
+              "date": "2026-02-17",
+              "message": "feat: add GitHub Pages index sync and web tab"
+            },
+            {
+              "hash": "30ad0bf",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 63
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "0ea6b2f",
+              "date": "2026-02-17",
+              "message": "feat: add Bluesky to distribute-content.yml POSSE pipeline"
+            },
+            {
+              "hash": "31f527a",
+              "date": "2026-02-17",
+              "message": "docs: add pull request template"
+            },
+            {
+              "hash": "12df6ea",
+              "date": "2026-02-17",
+              "message": "docs: add feature request issue template"
+            },
+            {
+              "hash": "eeb265c",
+              "date": "2026-02-17",
+              "message": "docs: add bug report issue template"
+            },
+            {
+              "hash": "c1f6eb9",
+              "date": "2026-02-17",
+              "message": "docs: add SECURITY.md with vulnerability reporting policy"
+            },
+            {
+              "hash": "bedb082",
+              "date": "2026-02-17",
+              "message": "docs: add CONTRIBUTING.md with Python development guide"
+            },
+            {
+              "hash": "a3a65a7",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "8bed1ca",
+              "date": "2026-02-17",
+              "message": "feat: add 4 new ORGAN-V repos to registry (LOGOS Sprint)"
+            },
+            {
+              "hash": "63d1ab4",
+              "date": "2026-02-17",
+              "message": "feat: DISTRIBUTIO sprint — autonomous essay distribution pipeline"
+            },
+            {
+              "hash": "6786099",
+              "date": "2026-02-17",
+              "message": "feat: close distribution pipeline gap + auto-close issues (AUTOMATA sprint)"
+            }
+          ],
+          "files_changed": 10
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "0989d67",
+              "date": "2026-02-17",
+              "message": "feat: exhaustive funding research — 200+ opportunities, 41 targets, 54 TODO items"
+            },
+            {
+              "hash": "2215884",
+              "date": "2026-02-17",
+              "message": "feat: strategy rewrite — grant track, residencies, funding strategy, tracker refresh"
+            },
+            {
+              "hash": "a9d0c6e",
+              "date": "2026-02-17",
+              "message": "feat: PROPULSION sprint — strengthen applications, package stranger test"
+            },
+            {
+              "hash": "3ef07af",
+              "date": "2026-02-17",
+              "message": "refactor: persona repositioning — evidence-first, not identity-first"
+            },
+            {
+              "hash": "33763f4",
+              "date": "2026-02-17",
+              "message": "feat: update ORGAN-VII to PRODUCTION — EVANGELION Sprint"
+            },
+            {
+              "hash": "7568413",
+              "date": "2026-02-17",
+              "message": "feat: VERITAS II — ground truth, identity coherence, CLAUDE.md 100% coverage"
+            },
+            {
+              "hash": "22dceac",
+              "date": "2026-02-17",
+              "message": "fix: E2G registry reconciliation — 3 new repos, count to 100"
+            },
+            {
+              "hash": "cd48c4e",
+              "date": "2026-02-17",
+              "message": "feat: omega evidence refresh — 3 criteria advance to IN PROGRESS, 2 CI fixes, metrics propagated"
+            },
+            {
+              "hash": "66a3ac1",
+              "date": "2026-02-17",
+              "message": "chore: add deferred CI fix items M9-II + M10-II to rolling-todo"
+            },
+            {
+              "hash": "30241da",
+              "date": "2026-02-17",
+              "message": "feat: AMPLIFICATIO — system amplification during soak test window"
+            },
+            {
+              "hash": "8df36a2",
+              "date": "2026-02-17",
+              "message": "feat: pre-validation maturation — soak test fix, omega evidence map, metrics reconciliation"
+            },
+            {
+              "hash": "b563c4c",
+              "date": "2026-02-17",
+              "message": "chore: rolling-todo housekeeping — M7-II + M8-II completed, M3-II progress noted"
+            },
+            {
+              "hash": "8f85a54",
+              "date": "2026-02-17",
+              "message": "fix: propagate current metrics across all living documents (97 repos, 87 ACTIVE, 36 essays, ~404K+ words)"
+            },
+            {
+              "hash": "2551829",
+              "date": "2026-02-17",
+              "message": "feat: E3 submission script — Google Creative Fellowship (deadline March 18)"
+            },
+            {
+              "hash": "2a1052c",
+              "date": "2026-02-17",
+              "message": "fix: RENOVATIO — refresh external surfaces (registry, applications, cover letters)"
+            },
+            {
+              "hash": "1dd74ce",
+              "date": "2026-02-17",
+              "message": "feat: HERMETICUM — break the hermetic seal"
+            },
+            {
+              "hash": "c267ab5",
+              "date": "2026-02-17",
+              "message": "feat: OPERATIO batch — essay auto-deploy, CLI, health dashboard, TODO housekeeping"
+            },
+            {
+              "hash": "b26c65b",
+              "date": "2026-02-17",
+              "message": "feat: SENSORIA sprint — autonomous perception layer, 100% seed.yaml, stale-detection"
+            },
+            {
+              "hash": "b0eb5db",
+              "date": "2026-02-17",
+              "message": "feat: FUNDAMEN sprint spec + docs — sprint 31, catalog item 25"
+            },
+            {
+              "hash": "01c332e",
+              "date": "2026-02-17",
+              "message": "feat: DISTRIBUTIO sprint spec + docs — sprint 30, catalog item 24"
+            },
+            {
+              "hash": "ae5bb9d",
+              "date": "2026-02-17",
+              "message": "fix: update rolling-todo — E4 completed, G2 reclassified, X2 status, totals corrected"
+            },
+            {
+              "hash": "673aa34",
+              "date": "2026-02-17",
+              "message": "feat: governance invocation system — concordance, invoke.py, ID-aware CLAUDE.md"
+            },
+            {
+              "hash": "131b5ab",
+              "date": "2026-02-17",
+              "message": "feat: RECOGNITIO (#28) + AUTOMATA (#29) — E2G-II review + autonomous systems activation"
+            }
+          ],
+          "files_changed": 94
+        },
+        "organvm-engine": {
+          "commits": [
+            {
+              "hash": "971f85b",
+              "date": "2026-02-17",
+              "message": "docs: add pull request template"
+            },
+            {
+              "hash": "b192513",
+              "date": "2026-02-17",
+              "message": "docs: add feature request issue template"
+            },
+            {
+              "hash": "e088cac",
+              "date": "2026-02-17",
+              "message": "docs: add bug report issue template"
+            },
+            {
+              "hash": "33b3ade",
+              "date": "2026-02-17",
+              "message": "docs: add MIT LICENSE"
+            },
+            {
+              "hash": "e97fb4d",
+              "date": "2026-02-17",
+              "message": "docs: add SECURITY.md with vulnerability reporting policy"
+            },
+            {
+              "hash": "d53885d",
+              "date": "2026-02-17",
+              "message": "docs: add CONTRIBUTING.md with Python development guide"
+            },
+            {
+              "hash": "0722b9d",
+              "date": "2026-02-17",
+              "message": "fix: E2G hardening — env fallbacks, type coercion, shared fixtures"
+            },
+            {
+              "hash": "39bc657",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "72cd021",
+              "date": "2026-02-17",
+              "message": "feat: initial organvm-engine package"
+            }
+          ],
+          "files_changed": 45
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "69f4d68",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "5c1fa31",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "reading-group-curriculum": {
+          "commits": [
+            {
+              "hash": "5b204a4",
+              "date": "2026-02-17",
+              "message": "feat(aqua-communis): repository tests + CI Python 3.11 normalization"
+            },
+            {
+              "hash": "5a87437",
+              "date": "2026-02-17",
+              "message": "feat: IGNIS KOINOS — changelog v0.3.0 for fulltext search"
+            },
+            {
+              "hash": "0344700",
+              "date": "2026-02-17",
+              "message": "fix: E2G remediation — config standardization, repository fixes"
+            },
+            {
+              "hash": "1217159",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "09c8cf0",
+              "date": "2026-02-17",
+              "message": "feat: elevate to production with DB persistence, 3 curricula, and CLI"
+            },
+            {
+              "hash": "bff759f",
+              "date": "2026-02-17",
+              "message": "test: add guide generator test coverage"
+            }
+          ],
+          "files_changed": 16
+        },
+        "reading-observatory": {
+          "commits": [
+            {
+              "hash": "9c19d70",
+              "date": "2026-02-17",
+              "message": "chore: add Python .gitignore"
+            },
+            {
+              "hash": "06b3109",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (LOGOS Sprint)"
+            },
+            {
+              "hash": "9e60c58",
+              "date": "2026-02-17",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 8
+        },
+        "scalable-lore-expert": {
+          "commits": [
+            {
+              "hash": "1764d30",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "ce13336",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "4ecb3d0",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            },
+            {
+              "hash": "ce13336",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "4ecb3d0",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "sovereign-ecosystem--real-estate-luxury": {
+          "commits": [
+            {
+              "hash": "9ea8c21",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "3b37b8d",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            },
+            {
+              "hash": "9ea8c21",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "3b37b8d",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "system-dashboard": {
+          "commits": [
+            {
+              "hash": "6d350e6",
+              "date": "2026-02-17",
+              "message": "fix: E2G hardening — remove dead code, shared templates, nav cleanup"
+            },
+            {
+              "hash": "902290d",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "d07119b",
+              "date": "2026-02-17",
+              "message": "feat: initial system-dashboard FastAPI app"
+            }
+          ],
+          "files_changed": 27
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "521ff7b",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "032f7df",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "tab-bookmark-manager": {
+          "commits": [
+            {
+              "hash": "368751c",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "368751c",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "the-actual-news": {
+          "commits": [
+            {
+              "hash": "4f92670",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "8a77f78",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            },
+            {
+              "hash": "4f92670",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "8a77f78",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "the-invisible-ledger": {
+          "commits": [
+            {
+              "hash": "90bb785",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "c2775e3",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            },
+            {
+              "hash": "90bb785",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "c2775e3",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "bb06a96",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "bb06a96",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 1
+        },
+        "hokage-chess": {
+          "commits": [
+            {
+              "hash": "0d17a4d",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "91600d5",
+              "date": "2026-02-17",
+              "message": "fix: remove npm cache from CI — no package-lock.json exists"
+            }
+          ],
+          "files_changed": 2
+        },
+        "multi-camera--livestream--framework": {
+          "commits": [
+            {
+              "hash": "e7ce1d1",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "my-block-warfare": {
+          "commits": [
+            {
+              "hash": "b4056ab",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "search-local--happy-hour": {
+          "commits": [
+            {
+              "hash": "285bd70",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "your-fit-tailored": {
+          "commits": [
+            {
+              "hash": "f666bac",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "a-i--skills": {
+          "commits": [
+            {
+              "hash": "71401ba",
+              "date": "2026-02-17",
+              "message": "fix: remove pip cache from CI (no Python deps in skills repo)"
+            },
+            {
+              "hash": "46f4f3a",
+              "date": "2026-02-17",
+              "message": "Add plugin.json manifest for Claude Code registration"
+            }
+          ],
+          "files_changed": 2
+        },
+        "agent--claude-smith": {
+          "commits": [
+            {
+              "hash": "f772c54",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 1
+        },
+        "agentic-titan": {
+          "commits": [
+            {
+              "hash": "e6aa4fe",
+              "date": "2026-02-17",
+              "message": "docs: add pull request template"
+            },
+            {
+              "hash": "c37828b",
+              "date": "2026-02-17",
+              "message": "docs: add feature request issue template"
+            },
+            {
+              "hash": "e05b0f5",
+              "date": "2026-02-17",
+              "message": "docs: add bug report issue template"
+            },
+            {
+              "hash": "0f22fc4",
+              "date": "2026-02-17",
+              "message": "docs: add SECURITY.md with vulnerability reporting policy"
+            },
+            {
+              "hash": "59a4957",
+              "date": "2026-02-17",
+              "message": "docs: add CONTRIBUTING.md with Python development guide"
+            },
+            {
+              "hash": "3ea4e74",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            }
+          ],
+          "files_changed": 6
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "0ea6b2f",
+              "date": "2026-02-17",
+              "message": "feat: add Bluesky to distribute-content.yml POSSE pipeline"
+            },
+            {
+              "hash": "31f527a",
+              "date": "2026-02-17",
+              "message": "docs: add pull request template"
+            },
+            {
+              "hash": "12df6ea",
+              "date": "2026-02-17",
+              "message": "docs: add feature request issue template"
+            },
+            {
+              "hash": "eeb265c",
+              "date": "2026-02-17",
+              "message": "docs: add bug report issue template"
+            },
+            {
+              "hash": "c1f6eb9",
+              "date": "2026-02-17",
+              "message": "docs: add SECURITY.md with vulnerability reporting policy"
+            },
+            {
+              "hash": "bedb082",
+              "date": "2026-02-17",
+              "message": "docs: add CONTRIBUTING.md with Python development guide"
+            },
+            {
+              "hash": "a3a65a7",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "8bed1ca",
+              "date": "2026-02-17",
+              "message": "feat: add 4 new ORGAN-V repos to registry (LOGOS Sprint)"
+            },
+            {
+              "hash": "63d1ab4",
+              "date": "2026-02-17",
+              "message": "feat: DISTRIBUTIO sprint — autonomous essay distribution pipeline"
+            },
+            {
+              "hash": "6786099",
+              "date": "2026-02-17",
+              "message": "feat: close distribution pipeline gap + auto-close issues (AUTOMATA sprint)"
+            }
+          ],
+          "files_changed": 10
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "69f4d68",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "5c1fa31",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        },
+        "universal-node-network": {
+          "commits": [
+            {
+              "hash": "ae0b49b",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "8197c95",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (SENSORIA sprint)"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        ".github": {
+          "commits": [
+            {
+              "hash": "0ea228b",
+              "date": "2026-02-17",
+              "message": "feat: update org profile — 6 repos, 40 essays, ~130K words"
+            }
+          ],
+          "files_changed": 1
+        },
+        "analytics-engine": {
+          "commits": [
+            {
+              "hash": "fd92a6c",
+              "date": "2026-02-17",
+              "message": "chore: add Python .gitignore"
+            },
+            {
+              "hash": "8cc11e8",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (LOGOS Sprint)"
+            },
+            {
+              "hash": "56dbf79",
+              "date": "2026-02-17",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 8
+        },
+        "editorial-standards": {
+          "commits": [
+            {
+              "hash": "c2e427a",
+              "date": "2026-02-17",
+              "message": "feat: add governance artifacts — schemas, templates, quality rubric (SKELETON → PROTOTYPE)"
+            },
+            {
+              "hash": "5fa2f52",
+              "date": "2026-02-17",
+              "message": "chore: add Python .gitignore"
+            },
+            {
+              "hash": "b306634",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (LOGOS Sprint)"
+            },
+            {
+              "hash": "32207f7",
+              "date": "2026-02-17",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 17
+        },
+        "essay-pipeline": {
+          "commits": [
+            {
+              "hash": "23964be",
+              "date": "2026-02-17",
+              "message": "feat: add validator, indexer, and tests (SKELETON → PROTOTYPE)"
+            },
+            {
+              "hash": "141917b",
+              "date": "2026-02-17",
+              "message": "chore: add Python .gitignore"
+            },
+            {
+              "hash": "c401e7c",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (LOGOS Sprint)"
+            },
+            {
+              "hash": "e0d9839",
+              "date": "2026-02-17",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 21
+        },
+        "public-process": {
+          "commits": [
+            {
+              "hash": "63f37af",
+              "date": "2026-02-17",
+              "message": "essay: add identity thesis, deepen solo-auteur-method, rewrite about page"
+            },
+            {
+              "hash": "39669f4",
+              "date": "2026-02-17",
+              "message": "chore: regenerate data files to include essay #41"
+            },
+            {
+              "hash": "e9317c4",
+              "date": "2026-02-17",
+              "message": "feat: normalize categories, add category pages, wire validator CI"
+            },
+            {
+              "hash": "97cec3c",
+              "date": "2026-02-17",
+              "message": "docs: add pull request template"
+            },
+            {
+              "hash": "df45977",
+              "date": "2026-02-17",
+              "message": "docs: add feature request issue template"
+            },
+            {
+              "hash": "1c59bfb",
+              "date": "2026-02-17",
+              "message": "docs: add bug report issue template"
+            },
+            {
+              "hash": "85cdab6",
+              "date": "2026-02-17",
+              "message": "docs: add SECURITY.md with vulnerability reporting policy"
+            },
+            {
+              "hash": "7c3b88d",
+              "date": "2026-02-17",
+              "message": "docs: add CONTRIBUTING.md with Ruby development guide"
+            },
+            {
+              "hash": "db7a733",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "ab47773",
+              "date": "2026-02-17",
+              "message": "fix: complete frontmatter for 10 essays, add produces to seed.yaml, regenerate data"
+            },
+            {
+              "hash": "0fa880a",
+              "date": "2026-02-17",
+              "message": "feat: reconcile all essay data — 40 essays, 129K words"
+            },
+            {
+              "hash": "cf45733",
+              "date": "2026-02-17",
+              "message": "feat: essays #39-40 — performance-platform methodology + twelve decisions"
+            },
+            {
+              "hash": "147a945",
+              "date": "2026-02-17",
+              "message": "essay: #37 Constraint Alchemy — how limitations become creative fuel"
+            },
+            {
+              "hash": "724a1c6",
+              "date": "2026-02-17",
+              "message": "essay: deploy 2026-02-17-construction-addiction.md"
+            },
+            {
+              "hash": "30e9518",
+              "date": "2026-02-17",
+              "message": "essay: deploy 2026-02-14-promotion-pipeline.md"
+            }
+          ],
+          "files_changed": 43
+        },
+        "reading-observatory": {
+          "commits": [
+            {
+              "hash": "9c19d70",
+              "date": "2026-02-17",
+              "message": "chore: add Python .gitignore"
+            },
+            {
+              "hash": "06b3109",
+              "date": "2026-02-17",
+              "message": "feat: add seed.yaml (LOGOS Sprint)"
+            },
+            {
+              "hash": "9e60c58",
+              "date": "2026-02-17",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 8
+        }
+      }
+    },
+    "VI": {
+      "name": "Koinonia",
+      "repos": {
+        "adaptive-personal-syllabus": {
+          "commits": [
+            {
+              "hash": "9e1706d",
+              "date": "2026-02-17",
+              "message": "Implement snapshot-safe corpus ingest and deterministic planning"
+            },
+            {
+              "hash": "3817264",
+              "date": "2026-02-17",
+              "message": "Implement phased hybrid local-first syllabus core"
+            },
+            {
+              "hash": "795e533",
+              "date": "2026-02-17",
+              "message": "feat(aqua-communis): CLI + db_generator test coverage"
+            },
+            {
+              "hash": "08d2f4b",
+              "date": "2026-02-17",
+              "message": "feat: IGNIS KOINOS — database-backed syllabus generator"
+            },
+            {
+              "hash": "9b34b73",
+              "date": "2026-02-17",
+              "message": "fix: E2G remediation — CLI entry point, model fixes, test coverage"
+            },
+            {
+              "hash": "660c0cd",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "a4b9fcc",
+              "date": "2026-02-17",
+              "message": "feat: add syllabus engine with organ-aware learning path generation"
+            }
+          ],
+          "files_changed": 24
+        },
+        "community-hub": {
+          "commits": [
+            {
+              "hash": "6a55267",
+              "date": "2026-02-17",
+              "message": "feat(aqua-communis): v0.4.0 — WebSocket live salons, Atom feeds, pagination, contributors, rate limiting"
+            },
+            {
+              "hash": "80da862",
+              "date": "2026-02-17",
+              "message": "feat: IGNIS KOINOS — production deployment, dark theme, search, syllabus"
+            },
+            {
+              "hash": "cd12609",
+              "date": "2026-02-17",
+              "message": "fix: E2G remediation — deployment config, CI, route fixes, README"
+            },
+            {
+              "hash": "ac56210",
+              "date": "2026-02-17",
+              "message": "feat: create community-hub flagship — FastAPI portal for ORGAN-VI"
+            }
+          ],
+          "files_changed": 50
+        },
+        "koinonia-db": {
+          "commits": [
+            {
+              "hash": "7a00a5a",
+              "date": "2026-02-17",
+              "message": "feat(aqua-communis): add syllabus_service shared module + ADR"
+            },
+            {
+              "hash": "7e44e6b",
+              "date": "2026-02-17",
+              "message": "feat: IGNIS KOINOS — full-text search + syllabus schema"
+            },
+            {
+              "hash": "da45f3c",
+              "date": "2026-02-17",
+              "message": "fix: E2G remediation — CI workflow, README"
+            },
+            {
+              "hash": "b4de560",
+              "date": "2026-02-17",
+              "message": "feat: create koinonia-db shared database package"
+            }
+          ],
+          "files_changed": 30
+        },
+        "reading-group-curriculum": {
+          "commits": [
+            {
+              "hash": "5b204a4",
+              "date": "2026-02-17",
+              "message": "feat(aqua-communis): repository tests + CI Python 3.11 normalization"
+            },
+            {
+              "hash": "5a87437",
+              "date": "2026-02-17",
+              "message": "feat: IGNIS KOINOS — changelog v0.3.0 for fulltext search"
+            },
+            {
+              "hash": "0344700",
+              "date": "2026-02-17",
+              "message": "fix: E2G remediation — config standardization, repository fixes"
+            },
+            {
+              "hash": "1217159",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "09c8cf0",
+              "date": "2026-02-17",
+              "message": "feat: elevate to production with DB persistence, 3 curricula, and CLI"
+            },
+            {
+              "hash": "bff759f",
+              "date": "2026-02-17",
+              "message": "test: add guide generator test coverage"
+            }
+          ],
+          "files_changed": 16
+        },
+        "salon-archive": {
+          "commits": [
+            {
+              "hash": "57aff07",
+              "date": "2026-02-17",
+              "message": "docs(aqua-communis): v0.4.0 CHANGELOG entry"
+            },
+            {
+              "hash": "41791a1",
+              "date": "2026-02-17",
+              "message": "feat: IGNIS KOINOS — changelog v0.3.0 for fulltext search"
+            },
+            {
+              "hash": "522751a",
+              "date": "2026-02-17",
+              "message": "fix: E2G remediation — config standardization, search fixes, CI updates"
+            },
+            {
+              "hash": "d97c5ab",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "cae4468",
+              "date": "2026-02-17",
+              "message": "feat: elevate to production with DB persistence, export, and expanded CLI"
+            },
+            {
+              "hash": "12fb126",
+              "date": "2026-02-17",
+              "message": "feat: add date range search, session updates, multi-segment transcription"
+            }
+          ],
+          "files_changed": 18
+        }
+      }
+    },
+    "VII": {
+      "name": "Kerygma",
+      "repos": {
+        ".github": {
+          "commits": [
+            {
+              "hash": "6590a62",
+              "date": "2026-02-17",
+              "message": "chore: sync example config with Ghost section, add tests __init__.py"
+            },
+            {
+              "hash": "5583edd",
+              "date": "2026-02-17",
+              "message": "feat: wire Ghost into pipeline, dispatch-receiver, and default channels"
+            },
+            {
+              "hash": "2386752",
+              "date": "2026-02-17",
+              "message": "feat: add weekly report generation to pipeline CLI"
+            },
+            {
+              "hash": "ed50981",
+              "date": "2026-02-17",
+              "message": "feat: cross-organ event loop — full taxonomy, subscriptions, reusable dispatch"
+            },
+            {
+              "hash": "d0c88c5",
+              "date": "2026-02-17",
+              "message": "feat: fix dispatch-receiver install paths, add status/preview CLI, add CI"
+            },
+            {
+              "hash": "8acee87",
+              "date": "2026-02-17",
+              "message": "feat: add kerygma_pipeline orchestrator and integration tests"
+            },
+            {
+              "hash": "91b333a",
+              "date": "2026-02-17",
+              "message": "feat: update dispatch-receiver for MATERIALIZATION pipeline"
+            }
+          ],
+          "files_changed": 10
+        },
+        "announcement-templates": {
+          "commits": [
+            {
+              "hash": "452e7a5",
+              "date": "2026-02-17",
+              "message": "feat: add Ghost channel blocks to all 15 templates"
+            },
+            {
+              "hash": "6e0b921",
+              "date": "2026-02-17",
+              "message": "feat: add Bluesky channel blocks to 3 institutional templates"
+            },
+            {
+              "hash": "3b011c8",
+              "date": "2026-02-17",
+              "message": "feat: MATERIALIZATION + E2G — kerygma_templates package, 15 templates, 83 tests"
+            }
+          ],
+          "files_changed": 31
+        },
+        "distribution-strategy": {
+          "commits": [
+            {
+              "hash": "222afdf",
+              "date": "2026-02-17",
+              "message": "feat: MATERIALIZATION + E2G — kerygma_strategy package, analytics+scheduling+reporting, 58 tests"
+            },
+            {
+              "hash": "444ba84",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "a8312ed",
+              "date": "2026-02-17",
+              "message": "test: add analytics module test coverage"
+            }
+          ],
+          "files_changed": 23
+        },
+        "social-automation": {
+          "commits": [
+            {
+              "hash": "59e2430",
+              "date": "2026-02-17",
+              "message": "feat: add Ghost newsletter adapter — GhostClient, JWT auth, POSSE integration"
+            },
+            {
+              "hash": "2515deb",
+              "date": "2026-02-17",
+              "message": "feat: MATERIALIZATION + E2G — kerygma_social package, 6 platform adapters, 66 tests"
+            },
+            {
+              "hash": "d59247d",
+              "date": "2026-02-17",
+              "message": "docs: add CLAUDE.md for AI-augmented workflow context"
+            },
+            {
+              "hash": "21f4ba1",
+              "date": "2026-02-17",
+              "message": "feat: add real HTTP POST logic for Mastodon and Discord"
+            }
+          ],
+          "files_changed": 33
+        }
+      }
+    }
+  }
+}

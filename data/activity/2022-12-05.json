@@ -1,0 +1,90 @@
+{
+  "generated": "2026-03-06T00:39:39Z",
+  "since": "2022-12-05",
+  "until": "2022-12-05",
+  "summary": {
+    "total_commits": 13,
+    "repos_active": 1,
+    "files_changed": 29,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "acfbd77",
+              "date": "2022-12-05",
+              "message": "CI build"
+            },
+            {
+              "hash": "2d51c8b",
+              "date": "2022-12-05",
+              "message": "chore: release userscript 1.1.0"
+            },
+            {
+              "hash": "fe22fbf",
+              "date": "2022-12-05",
+              "message": "docs: update README.md"
+            },
+            {
+              "hash": "7aa7c0f",
+              "date": "2022-12-05",
+              "message": "feat: support export png (screenshot)"
+            },
+            {
+              "hash": "fdc0109",
+              "date": "2022-12-05",
+              "message": "feat: show copied status"
+            },
+            {
+              "hash": "df81199",
+              "date": "2022-12-05",
+              "message": "chore: remove sentinel"
+            },
+            {
+              "hash": "27f0639",
+              "date": "2022-12-05",
+              "message": "CI build"
+            },
+            {
+              "hash": "a3357e8",
+              "date": "2022-12-05",
+              "message": "chore: release userscript 1.0.0"
+            },
+            {
+              "hash": "771c435",
+              "date": "2022-12-05",
+              "message": "ci: fix release"
+            },
+            {
+              "hash": "e42aa95",
+              "date": "2022-12-05",
+              "message": "fix: remove base64ed chatgpt icon"
+            },
+            {
+              "hash": "a8aa1ed",
+              "date": "2022-12-05",
+              "message": "fix: clean up the code"
+            },
+            {
+              "hash": "0fda8ee",
+              "date": "2022-12-05",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "c75b0f2",
+              "date": "2022-12-05",
+              "message": "init"
+            }
+          ],
+          "files_changed": 29
+        }
+      }
+    }
+  }
+}

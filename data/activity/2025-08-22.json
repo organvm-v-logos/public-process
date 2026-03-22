@@ -1,0 +1,30 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2025-08-22",
+  "until": "2025-08-22",
+  "summary": {
+    "total_commits": 1,
+    "repos_active": 1,
+    "files_changed": 1,
+    "organs_touched": [
+      "I"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "collective-persona-operations": {
+          "commits": [
+            {
+              "hash": "a8a6903",
+              "date": "2025-08-22",
+              "message": "Initial commit: root allowlist .gitignore"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2026-01-13",
+  "until": "2026-01-13",
+  "summary": {
+    "total_commits": 39,
+    "repos_active": 7,
+    "files_changed": 513,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "973e54c",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics spell checker"
+            },
+            {
+              "hash": "d49bab2",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics schema and auth helpers"
+            },
+            {
+              "hash": "ad975a1",
+              "date": "2026-01-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8e227e1",
+              "date": "2026-01-13",
+              "message": "feat: stabilize search, caching, and docs"
+            },
+            {
+              "hash": "3ad5ab3",
+              "date": "2026-01-13",
+              "message": "build(deps): bump esbuild in the npm_and_yarn group across 1 directory"
+            }
+          ],
+          "files_changed": 79
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "973e54c",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics spell checker"
+            },
+            {
+              "hash": "d49bab2",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics schema and auth helpers"
+            },
+            {
+              "hash": "ad975a1",
+              "date": "2026-01-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8e227e1",
+              "date": "2026-01-13",
+              "message": "feat: stabilize search, caching, and docs"
+            },
+            {
+              "hash": "3ad5ab3",
+              "date": "2026-01-13",
+              "message": "build(deps): bump esbuild in the npm_and_yarn group across 1 directory"
+            }
+          ],
+          "files_changed": 79
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "973e54c",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics spell checker"
+            },
+            {
+              "hash": "d49bab2",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics schema and auth helpers"
+            },
+            {
+              "hash": "ad975a1",
+              "date": "2026-01-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8e227e1",
+              "date": "2026-01-13",
+              "message": "feat: stabilize search, caching, and docs"
+            },
+            {
+              "hash": "3ad5ab3",
+              "date": "2026-01-13",
+              "message": "build(deps): bump esbuild in the npm_and_yarn group across 1 directory"
+            }
+          ],
+          "files_changed": 79
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "973e54c",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics spell checker"
+            },
+            {
+              "hash": "d49bab2",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics schema and auth helpers"
+            },
+            {
+              "hash": "ad975a1",
+              "date": "2026-01-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8e227e1",
+              "date": "2026-01-13",
+              "message": "feat: stabilize search, caching, and docs"
+            },
+            {
+              "hash": "3ad5ab3",
+              "date": "2026-01-13",
+              "message": "build(deps): bump esbuild in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "973e54c",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics spell checker"
+            },
+            {
+              "hash": "d49bab2",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics schema and auth helpers"
+            },
+            {
+              "hash": "ad975a1",
+              "date": "2026-01-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8e227e1",
+              "date": "2026-01-13",
+              "message": "feat: stabilize search, caching, and docs"
+            },
+            {
+              "hash": "3ad5ab3",
+              "date": "2026-01-13",
+              "message": "build(deps): bump esbuild in the npm_and_yarn group across 1 directory"
+            }
+          ],
+          "files_changed": 79
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "973e54c",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics spell checker"
+            },
+            {
+              "hash": "d49bab2",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics schema and auth helpers"
+            },
+            {
+              "hash": "ad975a1",
+              "date": "2026-01-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8e227e1",
+              "date": "2026-01-13",
+              "message": "feat: stabilize search, caching, and docs"
+            },
+            {
+              "hash": "3ad5ab3",
+              "date": "2026-01-13",
+              "message": "build(deps): bump esbuild in the npm_and_yarn group across 1 directory"
+            }
+          ],
+          "files_changed": 79
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "a740249",
+              "date": "2026-01-13",
+              "message": "feat(hunter): implement autonomous job search protocol (backend + frontend)"
+            },
+            {
+              "hash": "e35b6cb",
+              "date": "2026-01-13",
+              "message": "build(deps): Bump the npm_and_yarn group across 2 directories with 1 update"
+            },
+            {
+              "hash": "a740249",
+              "date": "2026-01-13",
+              "message": "feat(hunter): implement autonomous job search protocol (backend + frontend)"
+            },
+            {
+              "hash": "e35b6cb",
+              "date": "2026-01-13",
+              "message": "build(deps): Bump the npm_and_yarn group across 2 directories with 1 update"
+            }
+          ],
+          "files_changed": 39
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "973e54c",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics spell checker"
+            },
+            {
+              "hash": "d49bab2",
+              "date": "2026-01-13",
+              "message": "fix: stabilize analytics schema and auth helpers"
+            },
+            {
+              "hash": "ad975a1",
+              "date": "2026-01-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8e227e1",
+              "date": "2026-01-13",
+              "message": "feat: stabilize search, caching, and docs"
+            },
+            {
+              "hash": "3ad5ab3",
+              "date": "2026-01-13",
+              "message": "build(deps): bump esbuild in the npm_and_yarn group across 1 directory"
+            }
+          ],
+          "files_changed": 79
+        }
+      }
+    }
+  }
+}

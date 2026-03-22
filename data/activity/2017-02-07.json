@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:34Z",
+  "since": "2017-02-07",
+  "until": "2017-02-07",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 5,
+    "organs_touched": [
+      "II"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "7b43ef0",
+              "date": "2017-02-07",
+              "message": "added video section and added blog poest"
+            },
+            {
+              "hash": "3f7be08",
+              "date": "2017-02-07",
+              "message": "added center-ns for blog"
+            }
+          ],
+          "files_changed": 5
+        }
+      }
+    }
+  }
+}

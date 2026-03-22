@@ -1,0 +1,131 @@
+{
+  "generated": "2026-03-06T00:39:33Z",
+  "since": "2025-12-13",
+  "until": "2025-12-13",
+  "summary": {
+    "total_commits": 19,
+    "repos_active": 2,
+    "files_changed": 3,
+    "organs_touched": [
+      "II",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "4135aa6",
+              "date": "2025-12-13",
+              "message": "Initialize Ethereum Web3 connection"
+            },
+            {
+              "hash": "3d86bf9",
+              "date": "2025-12-13",
+              "message": "feat: Implement topic classification in NLPProcessor"
+            },
+            {
+              "hash": "c313a18",
+              "date": "2025-12-13",
+              "message": "Implement distribute_rewards in SolanaContractManager"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "6e404c5",
+              "date": "2025-12-13",
+              "message": "feat: extract researcher affiliations from paper data"
+            },
+            {
+              "hash": "4ad897a",
+              "date": "2025-12-13",
+              "message": "Fix workspace file path after moving to .vscode subdirectory"
+            },
+            {
+              "hash": "bf604d7",
+              "date": "2025-12-13",
+              "message": "Organize root directory files into logical subdirectories"
+            },
+            {
+              "hash": "d82d909",
+              "date": "2025-12-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8dde5c2",
+              "date": "2025-12-13",
+              "message": "Add comprehensive consolidation documentation and execution plans"
+            },
+            {
+              "hash": "32d577d",
+              "date": "2025-12-13",
+              "message": "Update documentation to reflect new repository structure"
+            },
+            {
+              "hash": "6484917",
+              "date": "2025-12-13",
+              "message": "Organize repository structure - move docs, scripts, and archive files"
+            },
+            {
+              "hash": "1fcbf6f",
+              "date": "2025-12-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "6e404c5",
+              "date": "2025-12-13",
+              "message": "feat: extract researcher affiliations from paper data"
+            },
+            {
+              "hash": "4ad897a",
+              "date": "2025-12-13",
+              "message": "Fix workspace file path after moving to .vscode subdirectory"
+            },
+            {
+              "hash": "bf604d7",
+              "date": "2025-12-13",
+              "message": "Organize root directory files into logical subdirectories"
+            },
+            {
+              "hash": "d82d909",
+              "date": "2025-12-13",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8dde5c2",
+              "date": "2025-12-13",
+              "message": "Add comprehensive consolidation documentation and execution plans"
+            },
+            {
+              "hash": "32d577d",
+              "date": "2025-12-13",
+              "message": "Update documentation to reflect new repository structure"
+            },
+            {
+              "hash": "6484917",
+              "date": "2025-12-13",
+              "message": "Organize repository structure - move docs, scripts, and archive files"
+            },
+            {
+              "hash": "1fcbf6f",
+              "date": "2025-12-13",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

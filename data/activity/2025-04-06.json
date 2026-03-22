@@ -1,0 +1,120 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-04-06",
+  "until": "2025-04-06",
+  "summary": {
+    "total_commits": 19,
+    "repos_active": 1,
+    "files_changed": 122,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "30150d7",
+              "date": "2025-04-06",
+              "message": "Manager: Fix Fetch2 instance killing itself"
+            },
+            {
+              "hash": "2b1d5b8",
+              "date": "2025-04-06",
+              "message": "Update manifest.json"
+            },
+            {
+              "hash": "f8e491a",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Minor bugfix"
+            },
+            {
+              "hash": "871faee",
+              "date": "2025-04-06",
+              "message": "Manager: LSPatch guide #2"
+            },
+            {
+              "hash": "965ac5e",
+              "date": "2025-04-06",
+              "message": "Manager: Update LSPatch guide"
+            },
+            {
+              "hash": "3a31277",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Prepare for release"
+            },
+            {
+              "hash": "27cc756",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Fetch latest version"
+            },
+            {
+              "hash": "91b356a",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Add manager's version manifest"
+            },
+            {
+              "hash": "81eb6e6",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Logs screen"
+            },
+            {
+              "hash": "e18b4c8",
+              "date": "2025-04-06",
+              "message": "Manager: Debug logs explorer"
+            },
+            {
+              "hash": "3969e5f",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Add loading disclaimer"
+            },
+            {
+              "hash": "98b0f86",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Fix package name for block notifs"
+            },
+            {
+              "hash": "8851896",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Bump module version"
+            },
+            {
+              "hash": "2d18a64",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: More fixes"
+            },
+            {
+              "hash": "d2fa352",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Final adjustments"
+            },
+            {
+              "hash": "c78acd2",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Kill the bottom ad banner with fire"
+            },
+            {
+              "hash": "4e1d445",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Use unique notification ids"
+            },
+            {
+              "hash": "6d2728b",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Better notification system"
+            },
+            {
+              "hash": "3280301",
+              "date": "2025-04-06",
+              "message": "GrindrPlus: Updates for 25.5.0"
+            }
+          ],
+          "files_changed": 122
+        }
+      }
+    }
+  }
+}

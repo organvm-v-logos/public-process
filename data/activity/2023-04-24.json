@@ -1,0 +1,65 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-04-24",
+  "until": "2023-04-24",
+  "summary": {
+    "total_commits": 8,
+    "repos_active": 1,
+    "files_changed": 6,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "a61ce12",
+              "date": "2023-04-24",
+              "message": "CI build"
+            },
+            {
+              "hash": "5b157dd",
+              "date": "2023-04-24",
+              "message": "chore: release userscript 2.9.1 (#139)"
+            },
+            {
+              "hash": "ba41b79",
+              "date": "2023-04-24",
+              "message": "fix: remove revison and buttons from screenshot"
+            },
+            {
+              "hash": "42a1d75",
+              "date": "2023-04-24",
+              "message": "fix: reduce the blurriness of screenshot export"
+            },
+            {
+              "hash": "b7941b7",
+              "date": "2023-04-24",
+              "message": "chore: release userscript 2.9.0 (#138)"
+            },
+            {
+              "hash": "9e2b748",
+              "date": "2023-04-24",
+              "message": "fix(i18n): fix Malaysia should use `ZH_Hans`"
+            },
+            {
+              "hash": "2b2f75c",
+              "date": "2023-04-24",
+              "message": "feat(i18n): add spanish to lanaguage list"
+            },
+            {
+              "hash": "c45fdbe",
+              "date": "2023-04-24",
+              "message": "feat: basic support for response from plugin"
+            }
+          ],
+          "files_changed": 6
+        }
+      }
+    }
+  }
+}

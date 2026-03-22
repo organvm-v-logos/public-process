@@ -1,0 +1,160 @@
+{
+  "generated": "2026-03-06T00:39:42Z",
+  "since": "2025-11-11",
+  "until": "2025-11-11",
+  "summary": {
+    "total_commits": 26,
+    "repos_active": 2,
+    "files_changed": 32,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "d169c7b",
+              "date": "2025-11-11",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "d169c7b",
+              "date": "2025-11-11",
+              "message": "Add files via upload"
+            }
+          ],
+          "files_changed": 9
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "c190e6a",
+              "date": "2025-11-11",
+              "message": "Add custom color theme for VS Code workspace"
+            },
+            {
+              "hash": "e0bc24b",
+              "date": "2025-11-11",
+              "message": "docs: add branch resolution and pull request consolidation strategy"
+            },
+            {
+              "hash": "d35b28d",
+              "date": "2025-11-11",
+              "message": "feat: add Competitor Analysis feature and CompetitorAgent"
+            },
+            {
+              "hash": "c4345bc",
+              "date": "2025-11-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "f6f4ca8",
+              "date": "2025-11-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3f65612",
+              "date": "2025-11-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "2fb4789",
+              "date": "2025-11-11",
+              "message": "refactor: Remove duplicate code and simplify styles"
+            },
+            {
+              "hash": "028207a",
+              "date": "2025-11-11",
+              "message": "chore: Update .gitignore to exclude local configuration"
+            },
+            {
+              "hash": "45fb78a",
+              "date": "2025-11-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "11c3dcb",
+              "date": "2025-11-11",
+              "message": "Bump @radix-ui/react-slider from 1.2.3 to 1.3.6"
+            },
+            {
+              "hash": "c165e48",
+              "date": "2025-11-11",
+              "message": "Bump @radix-ui/react-progress from 1.1.2 to 1.1.8"
+            },
+            {
+              "hash": "71aaed0",
+              "date": "2025-11-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "c190e6a",
+              "date": "2025-11-11",
+              "message": "Add custom color theme for VS Code workspace"
+            },
+            {
+              "hash": "e0bc24b",
+              "date": "2025-11-11",
+              "message": "docs: add branch resolution and pull request consolidation strategy"
+            },
+            {
+              "hash": "d35b28d",
+              "date": "2025-11-11",
+              "message": "feat: add Competitor Analysis feature and CompetitorAgent"
+            },
+            {
+              "hash": "c4345bc",
+              "date": "2025-11-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "f6f4ca8",
+              "date": "2025-11-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3f65612",
+              "date": "2025-11-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "2fb4789",
+              "date": "2025-11-11",
+              "message": "refactor: Remove duplicate code and simplify styles"
+            },
+            {
+              "hash": "028207a",
+              "date": "2025-11-11",
+              "message": "chore: Update .gitignore to exclude local configuration"
+            },
+            {
+              "hash": "45fb78a",
+              "date": "2025-11-11",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "11c3dcb",
+              "date": "2025-11-11",
+              "message": "Bump @radix-ui/react-slider from 1.2.3 to 1.3.6"
+            },
+            {
+              "hash": "c165e48",
+              "date": "2025-11-11",
+              "message": "Bump @radix-ui/react-progress from 1.1.2 to 1.1.8"
+            },
+            {
+              "hash": "71aaed0",
+              "date": "2025-11-11",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 23
+        }
+      }
+    }
+  }
+}

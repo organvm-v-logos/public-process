@@ -1,0 +1,100 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-04-21",
+  "until": "2025-04-21",
+  "summary": {
+    "total_commits": 15,
+    "repos_active": 1,
+    "files_changed": 9,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "29a9b8c",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Make Maps API Key a global setting"
+            },
+            {
+              "hash": "87a4832",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Update README"
+            },
+            {
+              "hash": "62e5f3f",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Update Telegram badge"
+            },
+            {
+              "hash": "7437433",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: More improvements to issue template"
+            },
+            {
+              "hash": "9d903af",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Add missing versions to issue template"
+            },
+            {
+              "hash": "3c8c691",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Add DNS/Adblock entry to issue template"
+            },
+            {
+              "hash": "619c425",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Nasty workaround for Expiring Pictures"
+            },
+            {
+              "hash": "b118a5f",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Publish latest version"
+            },
+            {
+              "hash": "1d48eba",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Remove broken hook"
+            },
+            {
+              "hash": "00437fa",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Improvements for ban hook"
+            },
+            {
+              "hash": "3d7736e",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Rename ban hook"
+            },
+            {
+              "hash": "d3d98fb",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Bump module to 4.1.2"
+            },
+            {
+              "hash": "6fab7b1",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Classify `first_launch` as global setting"
+            },
+            {
+              "hash": "efbb9ea",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Take down latest version"
+            },
+            {
+              "hash": "da45eaa",
+              "date": "2025-04-21",
+              "message": "GrindrPlus: Add new ban details hook"
+            }
+          ],
+          "files_changed": 9
+        }
+      }
+    }
+  }
+}

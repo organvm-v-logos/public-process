@@ -1,0 +1,45 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-11-23",
+  "until": "2023-11-23",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 1,
+    "files_changed": 0,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "38c65b9",
+              "date": "2023-11-23",
+              "message": "feat: support image in execution output"
+            },
+            {
+              "hash": "a54b20c",
+              "date": "2023-11-23",
+              "message": "refactor: clean up postProcess"
+            },
+            {
+              "hash": "9f777c2",
+              "date": "2023-11-23",
+              "message": "chore: update dalle meta type"
+            },
+            {
+              "hash": "5478d65",
+              "date": "2023-11-23",
+              "message": "fix: should not output \\[image]"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

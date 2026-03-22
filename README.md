@@ -314,6 +314,13 @@ The system is live. The process is public. The methodology is documented. What c
 - [meta-organvm](https://github.com/meta-organvm) — Umbrella organization
 - [organvm-v-logos](https://github.com/organvm-v-logos) — This organ's home
 
+### Operational Documents
+
+- [Quality Policy](docs/quality-policy.md)
+- [Contributor Runway](docs/contributor-runway.md)
+- [Distribution Instrumentation Standard](docs/distribution-instrumentation.md)
+- [Surfaced Items Data Contract](docs/data-contract-surfaced-items.md)
+
 ---
 
 **Organization:** [organvm-v-logos](https://github.com/organvm-v-logos)
@@ -322,3 +329,11 @@ The system is live. The process is public. The methodology is documented. What c
 
 *Status: Draft complete. All TBD markers resolved from flagship material.*
 *Last updated: 2026-02-10*
+
+<!-- SYSTEM-NAV-START -->
+
+---
+
+<sub>[Case Study](https://4444j99.github.io/portfolio/projects/public-process/) · [Portfolio](https://4444j99.github.io/portfolio/) · [System Directory](https://4444j99.github.io/portfolio/directory/) · [ORGAN V · Logos](https://organvm-v-logos.github.io/) · Part of the <a href="https://4444j99.github.io/portfolio/directory/">ORGANVM eight-organ system</a></sub>
+
+<!-- SYSTEM-NAV-END -->

@@ -1,0 +1,616 @@
+{
+  "generated": "2026-03-06T00:39:41Z",
+  "since": "2025-10-30",
+  "until": "2025-10-30",
+  "summary": {
+    "total_commits": 112,
+    "repos_active": 6,
+    "files_changed": 106,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "b7e66b8",
+              "date": "2025-10-30",
+              "message": "Address code review: enable relaxed CSP for development with production hardening guidance"
+            },
+            {
+              "hash": "8af25a0",
+              "date": "2025-10-30",
+              "message": "Remove unused dependencies and add security documentation"
+            },
+            {
+              "hash": "f6f28dd",
+              "date": "2025-10-30",
+              "message": "Add permissions to CI workflow for security compliance"
+            },
+            {
+              "hash": "831b5f2",
+              "date": "2025-10-30",
+              "message": "Add comprehensive synthesis document"
+            },
+            {
+              "hash": "c5c558f",
+              "date": "2025-10-30",
+              "message": "Update PROJECT.md with distilled document references"
+            },
+            {
+              "hash": "8ad5e10",
+              "date": "2025-10-30",
+              "message": "Add distilled versions of all archive documents"
+            },
+            {
+              "hash": "c932155",
+              "date": "2025-10-30",
+              "message": "Add ESLint config, fix lint errors, and create CI workflow"
+            },
+            {
+              "hash": "d341c3a",
+              "date": "2025-10-30",
+              "message": "Add comprehensive improvements: error handling, accessibility, components, and documentation"
+            },
+            {
+              "hash": "5908231",
+              "date": "2025-10-30",
+              "message": "Remove hardcoded username from documentation"
+            },
+            {
+              "hash": "8c64673",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "2a3af30",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "f19b83d",
+              "date": "2025-10-30",
+              "message": "Add comprehensive PR conflict status documentation"
+            },
+            {
+              "hash": "7791034",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "4367221",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3b52866",
+              "date": "2025-10-30",
+              "message": "Apply all review feedback: fix DOC_INDEX placeholders, uncheck ROADMAP items, fix typo, reduce JSON bloat"
+            },
+            {
+              "hash": "840d45a",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "a1a3b38",
+              "date": "2025-10-30",
+              "message": "Update ChatPRD/Compiler-Design-Principles-and-Components.md"
+            },
+            {
+              "hash": "ab88ac4",
+              "date": "2025-10-30",
+              "message": "Update docs/technical/README.md"
+            },
+            {
+              "hash": "aa2a2e1",
+              "date": "2025-10-30",
+              "message": "Update docs/technical/Compiler-Design-Principles-and-Components.md"
+            },
+            {
+              "hash": "bd26403",
+              "date": "2025-10-30",
+              "message": "Add merge resolution documentation"
+            },
+            {
+              "hash": "97c3ce3",
+              "date": "2025-10-30",
+              "message": "Add closing notes to DogTale Daily documentation"
+            },
+            {
+              "hash": "acaf28a",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "be488f2",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "1c4e598",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "b7e66b8",
+              "date": "2025-10-30",
+              "message": "Address code review: enable relaxed CSP for development with production hardening guidance"
+            },
+            {
+              "hash": "8af25a0",
+              "date": "2025-10-30",
+              "message": "Remove unused dependencies and add security documentation"
+            },
+            {
+              "hash": "f6f28dd",
+              "date": "2025-10-30",
+              "message": "Add permissions to CI workflow for security compliance"
+            },
+            {
+              "hash": "831b5f2",
+              "date": "2025-10-30",
+              "message": "Add comprehensive synthesis document"
+            },
+            {
+              "hash": "c5c558f",
+              "date": "2025-10-30",
+              "message": "Update PROJECT.md with distilled document references"
+            },
+            {
+              "hash": "8ad5e10",
+              "date": "2025-10-30",
+              "message": "Add distilled versions of all archive documents"
+            },
+            {
+              "hash": "c932155",
+              "date": "2025-10-30",
+              "message": "Add ESLint config, fix lint errors, and create CI workflow"
+            },
+            {
+              "hash": "d341c3a",
+              "date": "2025-10-30",
+              "message": "Add comprehensive improvements: error handling, accessibility, components, and documentation"
+            },
+            {
+              "hash": "5908231",
+              "date": "2025-10-30",
+              "message": "Remove hardcoded username from documentation"
+            },
+            {
+              "hash": "8c64673",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "2a3af30",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "f19b83d",
+              "date": "2025-10-30",
+              "message": "Add comprehensive PR conflict status documentation"
+            },
+            {
+              "hash": "7791034",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "4367221",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3b52866",
+              "date": "2025-10-30",
+              "message": "Apply all review feedback: fix DOC_INDEX placeholders, uncheck ROADMAP items, fix typo, reduce JSON bloat"
+            },
+            {
+              "hash": "840d45a",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "a1a3b38",
+              "date": "2025-10-30",
+              "message": "Update ChatPRD/Compiler-Design-Principles-and-Components.md"
+            },
+            {
+              "hash": "ab88ac4",
+              "date": "2025-10-30",
+              "message": "Update docs/technical/README.md"
+            },
+            {
+              "hash": "aa2a2e1",
+              "date": "2025-10-30",
+              "message": "Update docs/technical/Compiler-Design-Principles-and-Components.md"
+            },
+            {
+              "hash": "bd26403",
+              "date": "2025-10-30",
+              "message": "Add merge resolution documentation"
+            },
+            {
+              "hash": "97c3ce3",
+              "date": "2025-10-30",
+              "message": "Add closing notes to DogTale Daily documentation"
+            },
+            {
+              "hash": "acaf28a",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "be488f2",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "1c4e598",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 33
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "b9c5c39",
+              "date": "2025-10-30",
+              "message": "Add COMMANDMENTS references to SETUP and CONTRIBUTING files"
+            },
+            {
+              "hash": "6920b4b",
+              "date": "2025-10-30",
+              "message": "Incorporate organization commandments from Semgrep, TensorFlow, and Schema.org"
+            },
+            {
+              "hash": "a64f69d",
+              "date": "2025-10-30",
+              "message": "Fix review feedback: correct file paths, add CODEOWNERS note, fix discussion template syntax, add await keyword"
+            },
+            {
+              "hash": "d8175e4",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "2a6a104",
+              "date": "2025-10-30",
+              "message": "Address code review feedback on CHANGELOG"
+            },
+            {
+              "hash": "5a647ed",
+              "date": "2025-10-30",
+              "message": "Add changelog documenting all implementation details"
+            },
+            {
+              "hash": "52bbb5b",
+              "date": "2025-10-30",
+              "message": "Add structure documentation, license, and gitignore"
+            },
+            {
+              "hash": "e68a765",
+              "date": "2025-10-30",
+              "message": "Add comprehensive documentation and examples"
+            },
+            {
+              "hash": "2225c79",
+              "date": "2025-10-30",
+              "message": "Implement org-wide issue tracking infrastructure with templates and workflows"
+            },
+            {
+              "hash": "67d21c8",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 9
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "7692552",
+              "date": "2025-10-30",
+              "message": "Remove non-existent favicon reference from index.html"
+            },
+            {
+              "hash": "0e66c34",
+              "date": "2025-10-30",
+              "message": "Fix index.html to properly load React application with metadata"
+            },
+            {
+              "hash": "373df37",
+              "date": "2025-10-30",
+              "message": "Update repository metadata, README, and add contributing guidelines"
+            },
+            {
+              "hash": "6cd20fa",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "01cbedd",
+              "date": "2025-10-30",
+              "message": "Update eslint config to include JS files"
+            },
+            {
+              "hash": "ccebfe9",
+              "date": "2025-10-30",
+              "message": "Update all dependencies and add ESLint 9 flat config"
+            },
+            {
+              "hash": "fdfe309",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "7692552",
+              "date": "2025-10-30",
+              "message": "Remove non-existent favicon reference from index.html"
+            },
+            {
+              "hash": "0e66c34",
+              "date": "2025-10-30",
+              "message": "Fix index.html to properly load React application with metadata"
+            },
+            {
+              "hash": "373df37",
+              "date": "2025-10-30",
+              "message": "Update repository metadata, README, and add contributing guidelines"
+            },
+            {
+              "hash": "6cd20fa",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "01cbedd",
+              "date": "2025-10-30",
+              "message": "Update eslint config to include JS files"
+            },
+            {
+              "hash": "ccebfe9",
+              "date": "2025-10-30",
+              "message": "Update all dependencies and add ESLint 9 flat config"
+            },
+            {
+              "hash": "fdfe309",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        },
+        "tab-bookmark-manager": {
+          "commits": [
+            {
+              "hash": "f510fcf",
+              "date": "2025-10-30",
+              "message": "Create copilot-brainstorm-3"
+            },
+            {
+              "hash": "1d3ac08",
+              "date": "2025-10-30",
+              "message": "Add comprehensive implementation checklist"
+            },
+            {
+              "hash": "d3d5113",
+              "date": "2025-10-30",
+              "message": "Add project overview and system diagram documentation"
+            },
+            {
+              "hash": "8e09308",
+              "date": "2025-10-30",
+              "message": "Create copilot-brainstorm-2"
+            },
+            {
+              "hash": "81e95f7",
+              "date": "2025-10-30",
+              "message": "Create new"
+            },
+            {
+              "hash": "dd00c80",
+              "date": "2025-10-30",
+              "message": "Implement intelligent tab & bookmark manager system"
+            },
+            {
+              "hash": "d7270ce",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "94f79c8",
+              "date": "2025-10-30",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 55
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "9ee0df5",
+              "date": "2025-10-30",
+              "message": "Add PROJECT_SUMMARY and comprehensive testing CHECKLIST"
+            },
+            {
+              "hash": "81926b9",
+              "date": "2025-10-30",
+              "message": "Add comprehensive project documentation: QUICKSTART, ARCHITECTURE guides"
+            },
+            {
+              "hash": "85027d7",
+              "date": "2025-10-30",
+              "message": "Address code review feedback: improve comments and file formatting"
+            },
+            {
+              "hash": "d98361c",
+              "date": "2025-10-30",
+              "message": "Add comprehensive documentation, deployment guides, and finalize project setup"
+            },
+            {
+              "hash": "d2dfaa8",
+              "date": "2025-10-30",
+              "message": "Initialize Bang Perp Exchange with React, Vite, Solana, and Drift Protocol"
+            },
+            {
+              "hash": "33a1ff1",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "dd90084",
+              "date": "2025-10-30",
+              "message": "Update README with comprehensive project documentation"
+            },
+            {
+              "hash": "80fbe81",
+              "date": "2025-10-30",
+              "message": "Fix code review issues: improve ts-expect-error comment and use precise lamports conversion"
+            },
+            {
+              "hash": "68d2bb8",
+              "date": "2025-10-30",
+              "message": "Complete Bang Perp Exchange with Solana wallet integration and Drift trading"
+            },
+            {
+              "hash": "9a119f3",
+              "date": "2025-10-30",
+              "message": "Initialize React + Vite + TypeScript project with Solana dependencies"
+            },
+            {
+              "hash": "dcbd8bc",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "9ee0df5",
+              "date": "2025-10-30",
+              "message": "Add PROJECT_SUMMARY and comprehensive testing CHECKLIST"
+            },
+            {
+              "hash": "81926b9",
+              "date": "2025-10-30",
+              "message": "Add comprehensive project documentation: QUICKSTART, ARCHITECTURE guides"
+            },
+            {
+              "hash": "85027d7",
+              "date": "2025-10-30",
+              "message": "Address code review feedback: improve comments and file formatting"
+            },
+            {
+              "hash": "d98361c",
+              "date": "2025-10-30",
+              "message": "Add comprehensive documentation, deployment guides, and finalize project setup"
+            },
+            {
+              "hash": "d2dfaa8",
+              "date": "2025-10-30",
+              "message": "Initialize Bang Perp Exchange with React, Vite, Solana, and Drift Protocol"
+            },
+            {
+              "hash": "33a1ff1",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "dd90084",
+              "date": "2025-10-30",
+              "message": "Update README with comprehensive project documentation"
+            },
+            {
+              "hash": "80fbe81",
+              "date": "2025-10-30",
+              "message": "Fix code review issues: improve ts-expect-error comment and use precise lamports conversion"
+            },
+            {
+              "hash": "68d2bb8",
+              "date": "2025-10-30",
+              "message": "Complete Bang Perp Exchange with Solana wallet integration and Drift trading"
+            },
+            {
+              "hash": "9a119f3",
+              "date": "2025-10-30",
+              "message": "Initialize React + Vite + TypeScript project with Solana dependencies"
+            },
+            {
+              "hash": "dcbd8bc",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "b9c5c39",
+              "date": "2025-10-30",
+              "message": "Add COMMANDMENTS references to SETUP and CONTRIBUTING files"
+            },
+            {
+              "hash": "6920b4b",
+              "date": "2025-10-30",
+              "message": "Incorporate organization commandments from Semgrep, TensorFlow, and Schema.org"
+            },
+            {
+              "hash": "a64f69d",
+              "date": "2025-10-30",
+              "message": "Fix review feedback: correct file paths, add CODEOWNERS note, fix discussion template syntax, add await keyword"
+            },
+            {
+              "hash": "d8175e4",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "2a6a104",
+              "date": "2025-10-30",
+              "message": "Address code review feedback on CHANGELOG"
+            },
+            {
+              "hash": "5a647ed",
+              "date": "2025-10-30",
+              "message": "Add changelog documenting all implementation details"
+            },
+            {
+              "hash": "52bbb5b",
+              "date": "2025-10-30",
+              "message": "Add structure documentation, license, and gitignore"
+            },
+            {
+              "hash": "e68a765",
+              "date": "2025-10-30",
+              "message": "Add comprehensive documentation and examples"
+            },
+            {
+              "hash": "2225c79",
+              "date": "2025-10-30",
+              "message": "Implement org-wide issue tracking infrastructure with templates and workflows"
+            },
+            {
+              "hash": "67d21c8",
+              "date": "2025-10-30",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 9
+        }
+      }
+    }
+  }
+}

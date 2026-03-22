@@ -1,0 +1,95 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-04-20",
+  "until": "2025-04-20",
+  "summary": {
+    "total_commits": 14,
+    "repos_active": 1,
+    "files_changed": 53,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "8019e3b",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Move debug mode toggle"
+            },
+            {
+              "hash": "b7b4074",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Use zip-android with AAR specification"
+            },
+            {
+              "hash": "6d8a9f8",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Fix @Rattlyy username"
+            },
+            {
+              "hash": "e6d1779",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Record version name"
+            },
+            {
+              "hash": "618a35a",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Bump module version"
+            },
+            {
+              "hash": "2650c75",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Create separate hook for SSL unpinning"
+            },
+            {
+              "hash": "62ec28b",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Use the same database for everything"
+            },
+            {
+              "hash": "7008756",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Hook blockedProfilesObserver"
+            },
+            {
+              "hash": "856fd6d",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: More cleanup"
+            },
+            {
+              "hash": "5344a30",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Improve logs screen"
+            },
+            {
+              "hash": "1070c23",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Add option to reset settings"
+            },
+            {
+              "hash": "99d8f73",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Refactor Text based settings"
+            },
+            {
+              "hash": "348409b",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Ability to use custom manifest"
+            },
+            {
+              "hash": "a331711",
+              "date": "2025-04-20",
+              "message": "GrindrPlus: Big Unlimited Albums hook refactor"
+            }
+          ],
+          "files_changed": 53
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "generated": "2026-03-06T00:39:29Z",
+  "since": "2026-01-20",
+  "until": "2026-01-20",
+  "summary": {
+    "total_commits": 59,
+    "repos_active": 6,
+    "files_changed": 336,
+    "organs_touched": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "call-function--ontological": {
+          "commits": [
+            {
+              "hash": "c90896e",
+              "date": "2026-01-20",
+              "message": "[tools:templates] add FUNCTIONcalled headers — compliance"
+            },
+            {
+              "hash": "dbb7ad3",
+              "date": "2026-01-20",
+              "message": "Initial commit with validation tooling fixes"
+            }
+          ],
+          "files_changed": 39
+        },
+        "linguistic-atomization-framework": {
+          "commits": [
+            {
+              "hash": "f243c1b",
+              "date": "2026-01-20",
+              "message": "Add corpus with documentation (D4)"
+            },
+            {
+              "hash": "4fabfb9",
+              "date": "2026-01-20",
+              "message": "Add progressive tutorials with sample corpus (D4)"
+            },
+            {
+              "hash": "09d8b53",
+              "date": "2026-01-20",
+              "message": "Add architecture documentation (E4)"
+            },
+            {
+              "hash": "3505a85",
+              "date": "2026-01-20",
+              "message": "Add revision comparison (B4) and reproducibility tracking (C4)"
+            },
+            {
+              "hash": "5ea52f0",
+              "date": "2026-01-20",
+              "message": "Add scholarly export formats - LaTeX, TEI-XML, CONLL (C3)"
+            },
+            {
+              "hash": "4229873",
+              "date": "2026-01-20",
+              "message": "Add GitHub Actions CI/CD workflow (E2)"
+            },
+            {
+              "hash": "4f6751b",
+              "date": "2026-01-20",
+              "message": "Add explainability layer for score transparency (D1)"
+            },
+            {
+              "hash": "23d33ca",
+              "date": "2026-01-20",
+              "message": "Add generation layer, recursion tracking, tests, and scholarly documentation"
+            },
+            {
+              "hash": "98d3d0a",
+              "date": "2026-01-20",
+              "message": "Revise README with clearer problem → approach → outcome narrative"
+            },
+            {
+              "hash": "c6183ae",
+              "date": "2026-01-20",
+              "message": "Add Streamlit web interface for browser-based analysis"
+            },
+            {
+              "hash": "5041676",
+              "date": "2026-01-20",
+              "message": "Add simple CLI and narrative report generator for non-technical users"
+            },
+            {
+              "hash": "aa2d080",
+              "date": "2026-01-20",
+              "message": "Add AI Prompt Chain System for 9-step rhetorical evaluation"
+            },
+            {
+              "hash": "908713f",
+              "date": "2026-01-20",
+              "message": "Add 9-step rhetorical evaluation analysis module"
+            },
+            {
+              "hash": "c5d4d1a",
+              "date": "2026-01-20",
+              "message": "Remove large atomized JSON files from tracking"
+            },
+            {
+              "hash": "d997b55",
+              "date": "2026-01-20",
+              "message": "Initial commit: LingFrame linguistic atomization framework"
+            }
+          ],
+          "files_changed": 171
+        },
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "2c1c359",
+              "date": "2026-01-20",
+              "message": "perf: Optimize sanitize_for_terminal with str.translate"
+            },
+            {
+              "hash": "4b69ff1",
+              "date": "2026-01-20",
+              "message": "Add Spinner for CLI feedback in blocking operations"
+            },
+            {
+              "hash": "b02fa2e",
+              "date": "2026-01-20",
+              "message": "feat: Validate habitat name in ExperimentalHabitat.__init__"
+            },
+            {
+              "hash": "0877066",
+              "date": "2026-01-20",
+              "message": "chore: add github-pat MCP server option"
+            },
+            {
+              "hash": "dc6fe3e",
+              "date": "2026-01-20",
+              "message": "chore: add VS Code MCP server config"
+            },
+            {
+              "hash": "0370608",
+              "date": "2026-01-20",
+              "message": "docs: document GitHub MCP token"
+            },
+            {
+              "hash": "d2b20bf",
+              "date": "2026-01-20",
+              "message": "chore: normalize README frontmatter"
+            }
+          ],
+          "files_changed": 5
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "universal-mail--automation": {
+          "commits": [
+            {
+              "hash": "461a4ce",
+              "date": "2026-01-20",
+              "message": "Add README with Problem-Approach-Outcome narrative"
+            },
+            {
+              "hash": "0e36027",
+              "date": "2026-01-20",
+              "message": "Fix Outlook archive to use well-known folder ID"
+            },
+            {
+              "hash": "f0bb5cf",
+              "date": "2026-01-20",
+              "message": "Add MailboxSettings.ReadWrite scope for Outlook categories"
+            },
+            {
+              "hash": "2297e0a",
+              "date": "2026-01-20",
+              "message": "Fix star() method signature for IMAP and Gmail providers"
+            },
+            {
+              "hash": "8a2c02d",
+              "date": "2026-01-20",
+              "message": "Add categorization rules for common email senders"
+            },
+            {
+              "hash": "de1c6b0",
+              "date": "2026-01-20",
+              "message": "Update CLAUDE.md with new triage system commands"
+            },
+            {
+              "hash": "317502f",
+              "date": "2026-01-20",
+              "message": "Implement Inbox Triage System with Eisenhower matrix prioritization"
+            },
+            {
+              "hash": "4bcbe7a",
+              "date": "2026-01-20",
+              "message": "Update automation for multi-provider support"
+            },
+            {
+              "hash": "ee3440f",
+              "date": "2026-01-20",
+              "message": "Add categorization rules for common email senders"
+            },
+            {
+              "hash": "1f83ae6",
+              "date": "2026-01-20",
+              "message": "Refactor to multi-provider email automation architecture"
+            },
+            {
+              "hash": "3d2df69",
+              "date": "2026-01-20",
+              "message": "Initial commit: Gmail automation system"
+            },
+            {
+              "hash": "461a4ce",
+              "date": "2026-01-20",
+              "message": "Add README with Problem-Approach-Outcome narrative"
+            },
+            {
+              "hash": "0e36027",
+              "date": "2026-01-20",
+              "message": "Fix Outlook archive to use well-known folder ID"
+            },
+            {
+              "hash": "f0bb5cf",
+              "date": "2026-01-20",
+              "message": "Add MailboxSettings.ReadWrite scope for Outlook categories"
+            },
+            {
+              "hash": "2297e0a",
+              "date": "2026-01-20",
+              "message": "Fix star() method signature for IMAP and Gmail providers"
+            },
+            {
+              "hash": "8a2c02d",
+              "date": "2026-01-20",
+              "message": "Add categorization rules for common email senders"
+            },
+            {
+              "hash": "de1c6b0",
+              "date": "2026-01-20",
+              "message": "Update CLAUDE.md with new triage system commands"
+            },
+            {
+              "hash": "317502f",
+              "date": "2026-01-20",
+              "message": "Implement Inbox Triage System with Eisenhower matrix prioritization"
+            },
+            {
+              "hash": "4bcbe7a",
+              "date": "2026-01-20",
+              "message": "Update automation for multi-provider support"
+            },
+            {
+              "hash": "ee3440f",
+              "date": "2026-01-20",
+              "message": "Add categorization rules for common email senders"
+            },
+            {
+              "hash": "1f83ae6",
+              "date": "2026-01-20",
+              "message": "Refactor to multi-provider email automation architecture"
+            },
+            {
+              "hash": "3d2df69",
+              "date": "2026-01-20",
+              "message": "Initial commit: Gmail automation system"
+            }
+          ],
+          "files_changed": 50
+        },
+        "multi-camera--livestream--framework": {
+          "commits": [
+            {
+              "hash": "cd1861c",
+              "date": "2026-01-20",
+              "message": "docs: Add strategic positioning documents and rewrite README"
+            },
+            {
+              "hash": "a3586fd",
+              "date": "2026-01-20",
+              "message": "docs: Comprehensive codebase evaluation and improvement implementation"
+            },
+            {
+              "hash": "4c9b5d7",
+              "date": "2026-01-20",
+              "message": "refactor: Implement production-centric ontological configuration system"
+            },
+            {
+              "hash": "ac3ea6a",
+              "date": "2026-01-20",
+              "message": "chore: Add generated config and docs for studio profile"
+            },
+            {
+              "hash": "5917dc7",
+              "date": "2026-01-20",
+              "message": "refactor: Rename to multi-camera--livestream--framework"
+            },
+            {
+              "hash": "317afc0",
+              "date": "2026-01-20",
+              "message": "feat: Add profile-based configuration system with category ontology"
+            }
+          ],
+          "files_changed": 58
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "fb5099d",
+              "date": "2026-01-20",
+              "message": "Fix install script to skip already-installed casks"
+            },
+            {
+              "hash": "94c6248",
+              "date": "2026-01-20",
+              "message": "Fix AWS credentials template to be opt-in"
+            },
+            {
+              "hash": "0999ac6",
+              "date": "2026-01-20",
+              "message": "Fix pip alias to be version-agnostic"
+            },
+            {
+              "hash": "f21a407",
+              "date": "2026-01-20",
+              "message": "Update README with self-healing daemon documentation"
+            },
+            {
+              "hash": "deda680",
+              "date": "2026-01-20",
+              "message": "Add chezmoi self-healing daemon with health check and recovery tools"
+            },
+            {
+              "hash": "812d355",
+              "date": "2026-01-20",
+              "message": "Add comprehensive system maintenance automation"
+            },
+            {
+              "hash": "092afa2",
+              "date": "2026-01-20",
+              "message": "Add docker-cleanup alias"
+            }
+          ],
+          "files_changed": 13
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-11-09",
+  "until": "2023-11-09",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 1,
+    "files_changed": 0,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "f698de8",
+              "date": "2023-11-09",
+              "message": "ci: try fix release-please"
+            },
+            {
+              "hash": "0bf3115",
+              "date": "2023-11-09",
+              "message": "fix: support extract id from gizmo path"
+            },
+            {
+              "hash": "f78cc47",
+              "date": "2023-11-09",
+              "message": "chore: migrate to eslitn flat configuration"
+            },
+            {
+              "hash": "d278210",
+              "date": "2023-11-09",
+              "message": "feat: support running on gizmo page (#182)"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

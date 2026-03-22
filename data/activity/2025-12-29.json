@@ -1,0 +1,282 @@
+{
+  "generated": "2026-03-06T00:39:33Z",
+  "since": "2025-12-29",
+  "until": "2025-12-29",
+  "summary": {
+    "total_commits": 45,
+    "repos_active": 5,
+    "files_changed": 40,
+    "organs_touched": [
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "13e0648",
+              "date": "2025-12-29",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 0
+        },
+        "metasystem-master": {
+          "commits": [
+            {
+              "hash": "b625b15",
+              "date": "2025-12-29",
+              "message": "feat(sovereign): activated ask-origin CLI with gemini-2.5-flash"
+            }
+          ],
+          "files_changed": 4
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "dc652a0",
+              "date": "2025-12-29",
+              "message": "docs: add comprehensive implementation summary"
+            },
+            {
+              "hash": "8898c5f",
+              "date": "2025-12-29",
+              "message": "fix: address additional code review feedback"
+            },
+            {
+              "hash": "a067a1d",
+              "date": "2025-12-29",
+              "message": "fix: address code review feedback"
+            },
+            {
+              "hash": "0df6882",
+              "date": "2025-12-29",
+              "message": "feat: add error monitoring and performance tracking"
+            },
+            {
+              "hash": "f26ee52",
+              "date": "2025-12-29",
+              "message": "feat: add comprehensive testing infrastructure"
+            },
+            {
+              "hash": "1414de6",
+              "date": "2025-12-29",
+              "message": "feat: implement XSS mitigation and AI failure handling"
+            },
+            {
+              "hash": "e8c7f50",
+              "date": "2025-12-29",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3cf16d7",
+              "date": "2025-12-29",
+              "message": "chore(deps)(deps-dev): bump tailwindcss from 4.1.11 to 4.1.18"
+            },
+            {
+              "hash": "0bcd656",
+              "date": "2025-12-29",
+              "message": "chore(deps)(deps-dev): bump @vitejs/plugin-react-swc"
+            },
+            {
+              "hash": "2c48389",
+              "date": "2025-12-29",
+              "message": "chore(deps)(deps): bump actions/setup-node from 4 to 6"
+            },
+            {
+              "hash": "60ec2be",
+              "date": "2025-12-29",
+              "message": "chore(deps)(deps): bump actions/checkout from 4 to 6"
+            },
+            {
+              "hash": "dc652a0",
+              "date": "2025-12-29",
+              "message": "docs: add comprehensive implementation summary"
+            },
+            {
+              "hash": "8898c5f",
+              "date": "2025-12-29",
+              "message": "fix: address additional code review feedback"
+            },
+            {
+              "hash": "a067a1d",
+              "date": "2025-12-29",
+              "message": "fix: address code review feedback"
+            },
+            {
+              "hash": "0df6882",
+              "date": "2025-12-29",
+              "message": "feat: add error monitoring and performance tracking"
+            },
+            {
+              "hash": "f26ee52",
+              "date": "2025-12-29",
+              "message": "feat: add comprehensive testing infrastructure"
+            },
+            {
+              "hash": "1414de6",
+              "date": "2025-12-29",
+              "message": "feat: implement XSS mitigation and AI failure handling"
+            },
+            {
+              "hash": "e8c7f50",
+              "date": "2025-12-29",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3cf16d7",
+              "date": "2025-12-29",
+              "message": "chore(deps)(deps-dev): bump tailwindcss from 4.1.11 to 4.1.18"
+            },
+            {
+              "hash": "0bcd656",
+              "date": "2025-12-29",
+              "message": "chore(deps)(deps-dev): bump @vitejs/plugin-react-swc"
+            },
+            {
+              "hash": "2c48389",
+              "date": "2025-12-29",
+              "message": "chore(deps)(deps): bump actions/setup-node from 4 to 6"
+            },
+            {
+              "hash": "60ec2be",
+              "date": "2025-12-29",
+              "message": "chore(deps)(deps): bump actions/checkout from 4 to 6"
+            }
+          ],
+          "files_changed": 17
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "5051588",
+              "date": "2025-12-29",
+              "message": "Add deployment readiness summary"
+            },
+            {
+              "hash": "78fd416",
+              "date": "2025-12-29",
+              "message": "Add actual video file and prominent access buttons"
+            },
+            {
+              "hash": "3b04a8b",
+              "date": "2025-12-29",
+              "message": "Bump @tanstack/react-query from 5.90.12 to 5.90.14"
+            },
+            {
+              "hash": "b57e8f4",
+              "date": "2025-12-29",
+              "message": "Add quick reference and status report for video generation"
+            },
+            {
+              "hash": "9b87927",
+              "date": "2025-12-29",
+              "message": "Complete video generation with comprehensive documentation"
+            },
+            {
+              "hash": "bdb121d",
+              "date": "2025-12-29",
+              "message": "Add video generation guide and complete video production"
+            },
+            {
+              "hash": "67cca1e",
+              "date": "2025-12-29",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "5051588",
+              "date": "2025-12-29",
+              "message": "Add deployment readiness summary"
+            },
+            {
+              "hash": "78fd416",
+              "date": "2025-12-29",
+              "message": "Add actual video file and prominent access buttons"
+            },
+            {
+              "hash": "3b04a8b",
+              "date": "2025-12-29",
+              "message": "Bump @tanstack/react-query from 5.90.12 to 5.90.14"
+            },
+            {
+              "hash": "b57e8f4",
+              "date": "2025-12-29",
+              "message": "Add quick reference and status report for video generation"
+            },
+            {
+              "hash": "9b87927",
+              "date": "2025-12-29",
+              "message": "Complete video generation with comprehensive documentation"
+            },
+            {
+              "hash": "bdb121d",
+              "date": "2025-12-29",
+              "message": "Add video generation guide and complete video production"
+            },
+            {
+              "hash": "67cca1e",
+              "date": "2025-12-29",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 8
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "7b5eae8",
+              "date": "2025-12-29",
+              "message": "Add bootstrap automation for new machine setup"
+            },
+            {
+              "hash": "c04e429",
+              "date": "2025-12-29",
+              "message": "Create comprehensive README with documentation index"
+            },
+            {
+              "hash": "98ed811",
+              "date": "2025-12-29",
+              "message": "Add chezmoi aliases and enhanced XDG documentation"
+            },
+            {
+              "hash": "3b36ed1",
+              "date": "2025-12-29",
+              "message": "Enhance SSH config with multi-OS support and performance"
+            },
+            {
+              "hash": "859ee69",
+              "date": "2025-12-29",
+              "message": "Update AWS credentials template with onepasswordRead"
+            },
+            {
+              "hash": "bb1a7c7",
+              "date": "2025-12-29",
+              "message": "Add .config/git/ignore Change attributes of .config/git/config"
+            },
+            {
+              "hash": "63b5741",
+              "date": "2025-12-29",
+              "message": "Activate 1Password GitHub token integration"
+            }
+          ],
+          "files_changed": 11
+        }
+      }
+    }
+  }
+}

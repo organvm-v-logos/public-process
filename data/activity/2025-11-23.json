@@ -1,0 +1,71 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2025-11-23",
+  "until": "2025-11-23",
+  "summary": {
+    "total_commits": 7,
+    "repos_active": 2,
+    "files_changed": 46,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "53f1699",
+              "date": "2025-11-23",
+              "message": "Update agent description in nervous-archaeologist"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "4950d4c",
+              "date": "2025-11-23",
+              "message": "Add VS Code extension management system"
+            },
+            {
+              "hash": "1323a52",
+              "date": "2025-11-23",
+              "message": "scripts: make MAX_BACKUPS configurable, harden rotate_backups, add rotation test"
+            },
+            {
+              "hash": "ecdcbf9",
+              "date": "2025-11-23",
+              "message": "scripts: harden manage_vscode_extensions.sh (dry-run, logging, macOS portability, exit codes) and add tests"
+            },
+            {
+              "hash": "4950d4c",
+              "date": "2025-11-23",
+              "message": "Add VS Code extension management system"
+            },
+            {
+              "hash": "1323a52",
+              "date": "2025-11-23",
+              "message": "scripts: make MAX_BACKUPS configurable, harden rotate_backups, add rotation test"
+            },
+            {
+              "hash": "ecdcbf9",
+              "date": "2025-11-23",
+              "message": "scripts: harden manage_vscode_extensions.sh (dry-run, logging, macOS portability, exit codes) and add tests"
+            }
+          ],
+          "files_changed": 45
+        }
+      }
+    }
+  }
+}

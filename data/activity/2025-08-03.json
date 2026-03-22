@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:45Z",
+  "since": "2025-08-03",
+  "until": "2025-08-03",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 2,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "7be5247",
+              "date": "2025-08-03",
+              "message": "Update endorsements.html"
+            },
+            {
+              "hash": "7869050",
+              "date": "2025-08-03",
+              "message": "Add files via upload"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}

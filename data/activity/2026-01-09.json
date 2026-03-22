@@ -1,0 +1,276 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2026-01-09",
+  "until": "2026-01-09",
+  "summary": {
+    "total_commits": 43,
+    "repos_active": 7,
+    "files_changed": 480,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "647e5bb",
+              "date": "2026-01-09",
+              "message": "build(deps): bump qs in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "1748213",
+              "date": "2026-01-09",
+              "message": "feat: Phase 3 Complete - Claude Intelligence System (24/24 tasks)"
+            },
+            {
+              "hash": "cd38196",
+              "date": "2026-01-09",
+              "message": "Begin Phase 3 implementation: Add intelligence API endpoints"
+            },
+            {
+              "hash": "1a7044d",
+              "date": "2026-01-09",
+              "message": "Update DEVELOPMENT_ROADMAP.md - Phase 2 now 100% complete"
+            },
+            {
+              "hash": "85ef9bf",
+              "date": "2026-01-09",
+              "message": "Complete Phase 2: Add comprehensive test suite and finalize search infrastructure"
+            }
+          ],
+          "files_changed": 26
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "647e5bb",
+              "date": "2026-01-09",
+              "message": "build(deps): bump qs in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "1748213",
+              "date": "2026-01-09",
+              "message": "feat: Phase 3 Complete - Claude Intelligence System (24/24 tasks)"
+            },
+            {
+              "hash": "cd38196",
+              "date": "2026-01-09",
+              "message": "Begin Phase 3 implementation: Add intelligence API endpoints"
+            },
+            {
+              "hash": "1a7044d",
+              "date": "2026-01-09",
+              "message": "Update DEVELOPMENT_ROADMAP.md - Phase 2 now 100% complete"
+            },
+            {
+              "hash": "85ef9bf",
+              "date": "2026-01-09",
+              "message": "Complete Phase 2: Add comprehensive test suite and finalize search infrastructure"
+            }
+          ],
+          "files_changed": 26
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "647e5bb",
+              "date": "2026-01-09",
+              "message": "build(deps): bump qs in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "1748213",
+              "date": "2026-01-09",
+              "message": "feat: Phase 3 Complete - Claude Intelligence System (24/24 tasks)"
+            },
+            {
+              "hash": "cd38196",
+              "date": "2026-01-09",
+              "message": "Begin Phase 3 implementation: Add intelligence API endpoints"
+            },
+            {
+              "hash": "1a7044d",
+              "date": "2026-01-09",
+              "message": "Update DEVELOPMENT_ROADMAP.md - Phase 2 now 100% complete"
+            },
+            {
+              "hash": "85ef9bf",
+              "date": "2026-01-09",
+              "message": "Complete Phase 2: Add comprehensive test suite and finalize search infrastructure"
+            }
+          ],
+          "files_changed": 26
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "647e5bb",
+              "date": "2026-01-09",
+              "message": "build(deps): bump qs in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "1748213",
+              "date": "2026-01-09",
+              "message": "feat: Phase 3 Complete - Claude Intelligence System (24/24 tasks)"
+            },
+            {
+              "hash": "cd38196",
+              "date": "2026-01-09",
+              "message": "Begin Phase 3 implementation: Add intelligence API endpoints"
+            },
+            {
+              "hash": "1a7044d",
+              "date": "2026-01-09",
+              "message": "Update DEVELOPMENT_ROADMAP.md - Phase 2 now 100% complete"
+            },
+            {
+              "hash": "85ef9bf",
+              "date": "2026-01-09",
+              "message": "Complete Phase 2: Add comprehensive test suite and finalize search infrastructure"
+            },
+            {
+              "hash": "647e5bb",
+              "date": "2026-01-09",
+              "message": "build(deps): bump qs in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "1748213",
+              "date": "2026-01-09",
+              "message": "feat: Phase 3 Complete - Claude Intelligence System (24/24 tasks)"
+            },
+            {
+              "hash": "cd38196",
+              "date": "2026-01-09",
+              "message": "Begin Phase 3 implementation: Add intelligence API endpoints"
+            },
+            {
+              "hash": "1a7044d",
+              "date": "2026-01-09",
+              "message": "Update DEVELOPMENT_ROADMAP.md - Phase 2 now 100% complete"
+            },
+            {
+              "hash": "85ef9bf",
+              "date": "2026-01-09",
+              "message": "Complete Phase 2: Add comprehensive test suite and finalize search infrastructure"
+            }
+          ],
+          "files_changed": 26
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "647e5bb",
+              "date": "2026-01-09",
+              "message": "build(deps): bump qs in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "1748213",
+              "date": "2026-01-09",
+              "message": "feat: Phase 3 Complete - Claude Intelligence System (24/24 tasks)"
+            },
+            {
+              "hash": "cd38196",
+              "date": "2026-01-09",
+              "message": "Begin Phase 3 implementation: Add intelligence API endpoints"
+            },
+            {
+              "hash": "1a7044d",
+              "date": "2026-01-09",
+              "message": "Update DEVELOPMENT_ROADMAP.md - Phase 2 now 100% complete"
+            },
+            {
+              "hash": "85ef9bf",
+              "date": "2026-01-09",
+              "message": "Complete Phase 2: Add comprehensive test suite and finalize search infrastructure"
+            }
+          ],
+          "files_changed": 26
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "dd6c234",
+              "date": "2026-01-09",
+              "message": "feat: Add complete API (Fastify) and Orchestrator (Node.js) applications"
+            },
+            {
+              "hash": "42b1206",
+              "date": "2026-01-09",
+              "message": "feat: Add schemas, documentation, CI/CD, and development utilities"
+            },
+            {
+              "hash": "07e354e",
+              "date": "2026-01-09",
+              "message": "feat: Move secrets to environment variables (comprehensive .env.example)"
+            },
+            {
+              "hash": "f3beaf4",
+              "date": "2026-01-09",
+              "message": "feat: Complete in–midst–my–life theatrical CV system (Phases 1-9)"
+            },
+            {
+              "hash": "dd6c234",
+              "date": "2026-01-09",
+              "message": "feat: Add complete API (Fastify) and Orchestrator (Node.js) applications"
+            },
+            {
+              "hash": "42b1206",
+              "date": "2026-01-09",
+              "message": "feat: Add schemas, documentation, CI/CD, and development utilities"
+            },
+            {
+              "hash": "07e354e",
+              "date": "2026-01-09",
+              "message": "feat: Move secrets to environment variables (comprehensive .env.example)"
+            },
+            {
+              "hash": "f3beaf4",
+              "date": "2026-01-09",
+              "message": "feat: Complete in–midst–my–life theatrical CV system (Phases 1-9)"
+            }
+          ],
+          "files_changed": 324
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "647e5bb",
+              "date": "2026-01-09",
+              "message": "build(deps): bump qs in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "1748213",
+              "date": "2026-01-09",
+              "message": "feat: Phase 3 Complete - Claude Intelligence System (24/24 tasks)"
+            },
+            {
+              "hash": "cd38196",
+              "date": "2026-01-09",
+              "message": "Begin Phase 3 implementation: Add intelligence API endpoints"
+            },
+            {
+              "hash": "1a7044d",
+              "date": "2026-01-09",
+              "message": "Update DEVELOPMENT_ROADMAP.md - Phase 2 now 100% complete"
+            },
+            {
+              "hash": "85ef9bf",
+              "date": "2026-01-09",
+              "message": "Complete Phase 2: Add comprehensive test suite and finalize search infrastructure"
+            }
+          ],
+          "files_changed": 26
+        }
+      }
+    }
+  }
+}

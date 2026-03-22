@@ -1,0 +1,225 @@
+{
+  "generated": "2026-03-06T00:39:37Z",
+  "since": "2025-12-22",
+  "until": "2025-12-22",
+  "summary": {
+    "total_commits": 36,
+    "repos_active": 5,
+    "files_changed": 29,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "cc5454d",
+              "date": "2025-12-22",
+              "message": "Bump @radix-ui/react-checkbox from 1.1.4 to 1.3.3"
+            },
+            {
+              "hash": "6207a6d",
+              "date": "2025-12-22",
+              "message": "Bump vite from 6.4.1 to 7.3.0"
+            },
+            {
+              "hash": "09914ff",
+              "date": "2025-12-22",
+              "message": "Bump @radix-ui/react-select from 2.1.6 to 2.2.6"
+            },
+            {
+              "hash": "b9066e5",
+              "date": "2025-12-22",
+              "message": "Bump @github/spark from 0.39.144 to 0.44.15"
+            },
+            {
+              "hash": "6a67d12",
+              "date": "2025-12-22",
+              "message": "Bump @radix-ui/react-scroll-area from 1.2.9 to 1.2.10"
+            },
+            {
+              "hash": "cc5454d",
+              "date": "2025-12-22",
+              "message": "Bump @radix-ui/react-checkbox from 1.1.4 to 1.3.3"
+            },
+            {
+              "hash": "6207a6d",
+              "date": "2025-12-22",
+              "message": "Bump vite from 6.4.1 to 7.3.0"
+            },
+            {
+              "hash": "09914ff",
+              "date": "2025-12-22",
+              "message": "Bump @radix-ui/react-select from 2.1.6 to 2.2.6"
+            },
+            {
+              "hash": "b9066e5",
+              "date": "2025-12-22",
+              "message": "Bump @github/spark from 0.39.144 to 0.44.15"
+            },
+            {
+              "hash": "6a67d12",
+              "date": "2025-12-22",
+              "message": "Bump @radix-ui/react-scroll-area from 1.2.9 to 1.2.10"
+            }
+          ],
+          "files_changed": 9
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "2be9c50",
+              "date": "2025-12-22",
+              "message": "chore(deps-dev): bump @testing-library/react from 16.3.0 to 16.3.1"
+            },
+            {
+              "hash": "20d443d",
+              "date": "2025-12-22",
+              "message": "chore(deps-dev): bump vite from 7.2.2 to 7.3.0"
+            },
+            {
+              "hash": "96611fe",
+              "date": "2025-12-22",
+              "message": "chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.24 to 0.4.26"
+            },
+            {
+              "hash": "2be9c50",
+              "date": "2025-12-22",
+              "message": "chore(deps-dev): bump @testing-library/react from 16.3.0 to 16.3.1"
+            },
+            {
+              "hash": "20d443d",
+              "date": "2025-12-22",
+              "message": "chore(deps-dev): bump vite from 7.2.2 to 7.3.0"
+            },
+            {
+              "hash": "96611fe",
+              "date": "2025-12-22",
+              "message": "chore(deps-dev): bump eslint-plugin-react-refresh from 0.4.24 to 0.4.26"
+            }
+          ],
+          "files_changed": 2
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "20ddf9b",
+              "date": "2025-12-22",
+              "message": "feat: Add database indexes to User model"
+            },
+            {
+              "hash": "ac7788c",
+              "date": "2025-12-22",
+              "message": "fix(security): prevent unauthorized guild broadcasts in socket handler"
+            },
+            {
+              "hash": "20ddf9b",
+              "date": "2025-12-22",
+              "message": "feat: Add database indexes to User model"
+            },
+            {
+              "hash": "ac7788c",
+              "date": "2025-12-22",
+              "message": "fix(security): prevent unauthorized guild broadcasts in socket handler"
+            }
+          ],
+          "files_changed": 4
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "2a7b176",
+              "date": "2025-12-22",
+              "message": "Bump react-hook-form from 7.68.0 to 7.69.0"
+            },
+            {
+              "hash": "a875773",
+              "date": "2025-12-22",
+              "message": "Bump @tailwindcss/postcss from 4.1.17 to 4.1.18"
+            },
+            {
+              "hash": "fdff004",
+              "date": "2025-12-22",
+              "message": "Bump @types/pg from 8.15.6 to 8.16.0"
+            },
+            {
+              "hash": "0fe6c5a",
+              "date": "2025-12-22",
+              "message": "Bump tsx from 4.20.6 to 4.21.0"
+            },
+            {
+              "hash": "2f6ee49",
+              "date": "2025-12-22",
+              "message": "Bump vitest from 4.0.10 to 4.0.16"
+            },
+            {
+              "hash": "2a7b176",
+              "date": "2025-12-22",
+              "message": "Bump react-hook-form from 7.68.0 to 7.69.0"
+            },
+            {
+              "hash": "a875773",
+              "date": "2025-12-22",
+              "message": "Bump @tailwindcss/postcss from 4.1.17 to 4.1.18"
+            },
+            {
+              "hash": "fdff004",
+              "date": "2025-12-22",
+              "message": "Bump @types/pg from 8.15.6 to 8.16.0"
+            },
+            {
+              "hash": "0fe6c5a",
+              "date": "2025-12-22",
+              "message": "Bump tsx from 4.20.6 to 4.21.0"
+            },
+            {
+              "hash": "2f6ee49",
+              "date": "2025-12-22",
+              "message": "Bump vitest from 4.0.10 to 4.0.16"
+            }
+          ],
+          "files_changed": 11
+        },
+        "sovereign-ecosystem--real-estate-luxury": {
+          "commits": [
+            {
+              "hash": "104ae8d",
+              "date": "2025-12-22",
+              "message": "Bump react-resizable-panels from 2.1.9 to 4.0.14"
+            },
+            {
+              "hash": "327304e",
+              "date": "2025-12-22",
+              "message": "Bump vite from 7.2.6 to 7.3.0"
+            },
+            {
+              "hash": "d5bbc8f",
+              "date": "2025-12-22",
+              "message": "Bump @tanstack/react-query from 5.90.11 to 5.90.12"
+            },
+            {
+              "hash": "104ae8d",
+              "date": "2025-12-22",
+              "message": "Bump react-resizable-panels from 2.1.9 to 4.0.14"
+            },
+            {
+              "hash": "327304e",
+              "date": "2025-12-22",
+              "message": "Bump vite from 7.2.6 to 7.3.0"
+            },
+            {
+              "hash": "d5bbc8f",
+              "date": "2025-12-22",
+              "message": "Bump @tanstack/react-query from 5.90.11 to 5.90.12"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

@@ -11,8 +11,8 @@ related_repos:
   - organvm-iii-ergon/life-my--midst--in
   - organvm-iii-ergon/public-record-data-scrapper
   - organvm-iii-ergon/fetch-familiar-friends
-reading_time: "9 min"
-word_count: 2150
+reading_time: "8 min"
+word_count: 2045
 references: []
 ---
 

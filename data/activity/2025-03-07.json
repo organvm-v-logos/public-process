@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-03-07",
+  "until": "2025-03-07",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 14,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "2efcd9c",
+              "date": "2025-03-07",
+              "message": "connection established! it gets data properly now"
+            },
+            {
+              "hash": "4372edf",
+              "date": "2025-03-07",
+              "message": "connecting but request timeout in the socket"
+            }
+          ],
+          "files_changed": 14
+        }
+      }
+    }
+  }
+}

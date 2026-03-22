@@ -1,0 +1,76 @@
+{
+  "generated": "2026-03-06T00:39:45Z",
+  "since": "2025-08-01",
+  "until": "2025-08-01",
+  "summary": {
+    "total_commits": 8,
+    "repos_active": 2,
+    "files_changed": 7,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "3894f2c",
+              "date": "2025-08-01",
+              "message": "Rename Notsrs.jpg to notsrs.jpg"
+            },
+            {
+              "hash": "fe75ea5",
+              "date": "2025-08-01",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "b410150",
+              "date": "2025-08-01",
+              "message": "Create attorneygeneral.html"
+            },
+            {
+              "hash": "e7b47a3",
+              "date": "2025-08-01",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "241464f",
+              "date": "2025-08-01",
+              "message": "Update endorsements.html"
+            },
+            {
+              "hash": "4f34c6e",
+              "date": "2025-08-01",
+              "message": "Update endorsements.html"
+            },
+            {
+              "hash": "33e4961",
+              "date": "2025-08-01",
+              "message": "Add files via upload"
+            }
+          ],
+          "files_changed": 6
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "583badc",
+              "date": "2025-08-01",
+              "message": "bugfix: remove description in FastMCP"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

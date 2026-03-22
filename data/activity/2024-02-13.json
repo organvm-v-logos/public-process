@@ -1,0 +1,60 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2024-02-13",
+  "until": "2024-02-13",
+  "summary": {
+    "total_commits": 7,
+    "repos_active": 1,
+    "files_changed": 13,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "115687d",
+              "date": "2024-02-13",
+              "message": "feat: remove pandora"
+            },
+            {
+              "hash": "41739ec",
+              "date": "2024-02-13",
+              "message": "CI build"
+            },
+            {
+              "hash": "a0ba22d",
+              "date": "2024-02-13",
+              "message": "chore: release userscript 2.20.0"
+            },
+            {
+              "hash": "fdcf86d",
+              "date": "2024-02-13",
+              "message": "fix: remove weird white rect from the bottom of screenshot export"
+            },
+            {
+              "hash": "3bb0f6d",
+              "date": "2024-02-13",
+              "message": "chore: remove unused deps"
+            },
+            {
+              "hash": "efbd662",
+              "date": "2024-02-13",
+              "message": "feat: support /gpts paths"
+            },
+            {
+              "hash": "ab246ac",
+              "date": "2024-02-13",
+              "message": "fix: fix broken style becasue of the updates and improve light style"
+            }
+          ],
+          "files_changed": 13
+        }
+      }
+    }
+  }
+}

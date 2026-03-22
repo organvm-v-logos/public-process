@@ -1,0 +1,45 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-09-26",
+  "until": "2023-09-26",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 1,
+    "files_changed": 0,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "0aafea4",
+              "date": "2023-09-26",
+              "message": "docs: remove language info in chrome ext URL in other langs"
+            },
+            {
+              "hash": "49cfd6e",
+              "date": "2023-09-26",
+              "message": "fix: further improve the code and execution result's output format"
+            },
+            {
+              "hash": "78e4ecf",
+              "date": "2023-09-26",
+              "message": "fix: support message content type `execution_output` from plugin"
+            },
+            {
+              "hash": "75b5f9d",
+              "date": "2023-09-26",
+              "message": "fix: handle frozen page props"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

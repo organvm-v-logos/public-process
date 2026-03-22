@@ -1,0 +1,50 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-04-21",
+  "until": "2023-04-21",
+  "summary": {
+    "total_commits": 5,
+    "repos_active": 1,
+    "files_changed": 11,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "e88aba4",
+              "date": "2023-04-21",
+              "message": "CI build"
+            },
+            {
+              "hash": "441042f",
+              "date": "2023-04-21",
+              "message": "chore: release userscript 2.8.0 (#135)"
+            },
+            {
+              "hash": "38c6be3",
+              "date": "2023-04-21",
+              "message": "fix: fix export twice"
+            },
+            {
+              "hash": "705afe5",
+              "date": "2023-04-21",
+              "message": "fix: layout overlap with menu on mobile"
+            },
+            {
+              "hash": "66dbaa6",
+              "date": "2023-04-21",
+              "message": "feat: remove copy button in chat in favor of the built-in copy button"
+            }
+          ],
+          "files_changed": 11
+        }
+      }
+    }
+  }
+}

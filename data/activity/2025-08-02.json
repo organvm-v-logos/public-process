@@ -1,0 +1,146 @@
+{
+  "generated": "2026-03-06T00:39:45Z",
+  "since": "2025-08-02",
+  "until": "2025-08-02",
+  "summary": {
+    "total_commits": 22,
+    "repos_active": 2,
+    "files_changed": 16,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "0ca6bd6",
+              "date": "2025-08-02",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "342c8e0",
+              "date": "2025-08-02",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "78e6417",
+              "date": "2025-08-02",
+              "message": "Delete images/image-9.jpg"
+            },
+            {
+              "hash": "b07c038",
+              "date": "2025-08-02",
+              "message": "Delete images/image-4.jpg"
+            },
+            {
+              "hash": "6e01b04",
+              "date": "2025-08-02",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "90f83dd",
+              "date": "2025-08-02",
+              "message": "Delete images/image-9.jpg"
+            },
+            {
+              "hash": "057025e",
+              "date": "2025-08-02",
+              "message": "Delete images/image-8.jpg"
+            },
+            {
+              "hash": "b51b85c",
+              "date": "2025-08-02",
+              "message": "Delete images/image-7.jpg"
+            },
+            {
+              "hash": "872cb87",
+              "date": "2025-08-02",
+              "message": "Delete images/image-6.jpg"
+            },
+            {
+              "hash": "2d5c20b",
+              "date": "2025-08-02",
+              "message": "Delete images/image-5.jpg"
+            },
+            {
+              "hash": "b8b4f90",
+              "date": "2025-08-02",
+              "message": "Delete images/image-4.jpg"
+            },
+            {
+              "hash": "f1c92e2",
+              "date": "2025-08-02",
+              "message": "Delete images/image-3.jpg"
+            },
+            {
+              "hash": "58810b4",
+              "date": "2025-08-02",
+              "message": "Delete images/image-2.jpg"
+            },
+            {
+              "hash": "3b592d6",
+              "date": "2025-08-02",
+              "message": "Delete images/image-10.jpg"
+            },
+            {
+              "hash": "d7924ee",
+              "date": "2025-08-02",
+              "message": "Delete images/image-1.jpg"
+            },
+            {
+              "hash": "ab720d9",
+              "date": "2025-08-02",
+              "message": "Update rex.html"
+            },
+            {
+              "hash": "c5307eb",
+              "date": "2025-08-02",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "65b57d0",
+              "date": "2025-08-02",
+              "message": "Create rex.html"
+            },
+            {
+              "hash": "8024424",
+              "date": "2025-08-02",
+              "message": "Add files via upload"
+            }
+          ],
+          "files_changed": 13
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "9b9a14f",
+              "date": "2025-08-02",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "0bc7655",
+              "date": "2025-08-02",
+              "message": "Revert \"removed description from server\""
+            },
+            {
+              "hash": "a2a28b9",
+              "date": "2025-08-02",
+              "message": "removed description from server"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

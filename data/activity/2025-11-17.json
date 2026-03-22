@@ -1,0 +1,266 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2025-11-17",
+  "until": "2025-11-17",
+  "summary": {
+    "total_commits": 45,
+    "repos_active": 3,
+    "files_changed": 194,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "3069195",
+              "date": "2025-11-17",
+              "message": "Clean up repository structure: remove duplicate and organize files"
+            },
+            {
+              "hash": "1bfe272",
+              "date": "2025-11-17",
+              "message": "Repository reorganization + contextual relay system"
+            },
+            {
+              "hash": "3613b0f",
+              "date": "2025-11-17",
+              "message": "CRITICAL REFRAME: Personal repos are integration queue, not clutter"
+            },
+            {
+              "hash": "88bb45a",
+              "date": "2025-11-17",
+              "message": "Complete Phase 2: Repository Analysis (85 repos audited)"
+            },
+            {
+              "hash": "7162095",
+              "date": "2025-11-17",
+              "message": "Add GitHub token setup guide and complete Phase 1 execution"
+            }
+          ],
+          "files_changed": 44
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "f8559c5",
+              "date": "2025-11-17",
+              "message": "docs: acknowledge missing features from analysis"
+            },
+            {
+              "hash": "b5556bc",
+              "date": "2025-11-17",
+              "message": "docs: comprehensive repository analysis and master plan"
+            },
+            {
+              "hash": "d24f3bd",
+              "date": "2025-11-17",
+              "message": "docs: add realistic feature and improvement plan"
+            },
+            {
+              "hash": "71fcd22",
+              "date": "2025-11-17",
+              "message": "feat: implement comprehensive data ingestion pipeline"
+            },
+            {
+              "hash": "f8559c5",
+              "date": "2025-11-17",
+              "message": "docs: acknowledge missing features from analysis"
+            },
+            {
+              "hash": "b5556bc",
+              "date": "2025-11-17",
+              "message": "docs: comprehensive repository analysis and master plan"
+            },
+            {
+              "hash": "d24f3bd",
+              "date": "2025-11-17",
+              "message": "docs: add realistic feature and improvement plan"
+            },
+            {
+              "hash": "71fcd22",
+              "date": "2025-11-17",
+              "message": "feat: implement comprehensive data ingestion pipeline"
+            }
+          ],
+          "files_changed": 15
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "01598ac",
+              "date": "2025-11-17",
+              "message": "Fix failing AgentOrchestrator tests: achieve 100% test pass rate (512/512)"
+            },
+            {
+              "hash": "96831ff",
+              "date": "2025-11-17",
+              "message": "Add session summary and update TODO with latest progress"
+            },
+            {
+              "hash": "2fa8061",
+              "date": "2025-11-17",
+              "message": "Complete Phase 1: Additional service and API tests"
+            },
+            {
+              "hash": "ab68f9e",
+              "date": "2025-11-17",
+              "message": "Add comprehensive unit tests for core data pipeline services"
+            },
+            {
+              "hash": "5989caa",
+              "date": "2025-11-17",
+              "message": "Implement Phase 1: Testing Infrastructure"
+            },
+            {
+              "hash": "1453e16",
+              "date": "2025-11-17",
+              "message": "Complete Phase 3: Job Queue System with BullMQ and Redis"
+            },
+            {
+              "hash": "3502a24",
+              "date": "2025-11-17",
+              "message": "Fix security vulnerability: update js-yaml to patch prototype pollution"
+            },
+            {
+              "hash": "06a1ad9",
+              "date": "2025-11-17",
+              "message": "Achieve 100% test pass rate: fix AgentOrchestrator test suite"
+            },
+            {
+              "hash": "b78f184",
+              "date": "2025-11-17",
+              "message": "Implement Phase 3: Database migrations and complete API infrastructure"
+            },
+            {
+              "hash": "febd536",
+              "date": "2025-11-17",
+              "message": "Add complete Express backend server infrastructure"
+            },
+            {
+              "hash": "0880f0a",
+              "date": "2025-11-17",
+              "message": "Add comprehensive 5-phase implementation task breakdown"
+            },
+            {
+              "hash": "f19c605",
+              "date": "2025-11-17",
+              "message": "Bump @radix-ui/react-separator from 1.1.7 to 1.1.8"
+            },
+            {
+              "hash": "4a35128",
+              "date": "2025-11-17",
+              "message": "Bump js-yaml in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "6c129c7",
+              "date": "2025-11-17",
+              "message": "Bump recharts from 3.3.0 to 3.4.1"
+            },
+            {
+              "hash": "569a4b1",
+              "date": "2025-11-17",
+              "message": "Bump @radix-ui/react-progress from 1.1.7 to 1.1.8"
+            },
+            {
+              "hash": "f5d9e7e",
+              "date": "2025-11-17",
+              "message": "Fix failing test suite: improve test coverage to 508/512 passing"
+            },
+            {
+              "hash": "01598ac",
+              "date": "2025-11-17",
+              "message": "Fix failing AgentOrchestrator tests: achieve 100% test pass rate (512/512)"
+            },
+            {
+              "hash": "96831ff",
+              "date": "2025-11-17",
+              "message": "Add session summary and update TODO with latest progress"
+            },
+            {
+              "hash": "2fa8061",
+              "date": "2025-11-17",
+              "message": "Complete Phase 1: Additional service and API tests"
+            },
+            {
+              "hash": "ab68f9e",
+              "date": "2025-11-17",
+              "message": "Add comprehensive unit tests for core data pipeline services"
+            },
+            {
+              "hash": "5989caa",
+              "date": "2025-11-17",
+              "message": "Implement Phase 1: Testing Infrastructure"
+            },
+            {
+              "hash": "1453e16",
+              "date": "2025-11-17",
+              "message": "Complete Phase 3: Job Queue System with BullMQ and Redis"
+            },
+            {
+              "hash": "3502a24",
+              "date": "2025-11-17",
+              "message": "Fix security vulnerability: update js-yaml to patch prototype pollution"
+            },
+            {
+              "hash": "06a1ad9",
+              "date": "2025-11-17",
+              "message": "Achieve 100% test pass rate: fix AgentOrchestrator test suite"
+            },
+            {
+              "hash": "b78f184",
+              "date": "2025-11-17",
+              "message": "Implement Phase 3: Database migrations and complete API infrastructure"
+            },
+            {
+              "hash": "febd536",
+              "date": "2025-11-17",
+              "message": "Add complete Express backend server infrastructure"
+            },
+            {
+              "hash": "0880f0a",
+              "date": "2025-11-17",
+              "message": "Add comprehensive 5-phase implementation task breakdown"
+            },
+            {
+              "hash": "f19c605",
+              "date": "2025-11-17",
+              "message": "Bump @radix-ui/react-separator from 1.1.7 to 1.1.8"
+            },
+            {
+              "hash": "4a35128",
+              "date": "2025-11-17",
+              "message": "Bump js-yaml in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "6c129c7",
+              "date": "2025-11-17",
+              "message": "Bump recharts from 3.3.0 to 3.4.1"
+            },
+            {
+              "hash": "569a4b1",
+              "date": "2025-11-17",
+              "message": "Bump @radix-ui/react-progress from 1.1.7 to 1.1.8"
+            },
+            {
+              "hash": "f5d9e7e",
+              "date": "2025-11-17",
+              "message": "Fix failing test suite: improve test coverage to 508/512 passing"
+            }
+          ],
+          "files_changed": 135
+        }
+      }
+    }
+  }
+}

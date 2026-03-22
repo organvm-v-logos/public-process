@@ -1,0 +1,125 @@
+{
+  "generated": "2026-03-06T00:39:47Z",
+  "since": "2026-01-30",
+  "until": "2026-01-30",
+  "summary": {
+    "total_commits": 20,
+    "repos_active": 1,
+    "files_changed": 4511,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "a-i--skills": {
+          "commits": [
+            {
+              "hash": "e9a094e",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Enhance dotfile-systems-architect with comprehensive references    2 │    3 │ New reference documents (8):    4 │ - xdg-specification.md: XDG variables, compliance landscape, shim strategies    5 │ - bare-git-setup.md: Bare repo implementation, comparison with Stow/Chezmoi    6 │ - shell-bootstrap.md: ~/.zshenv template, ZDOTDIR, Bash compatibility    7 │ - app-configurations.md: VS Code, Claude, AWS, Kube, SSH, GnuPG configs    8 │ - secrets-management.md: git-crypt, SOPS, 1Password+direnv patterns    9 │ - cross-platform.md: macOS, Linux, Windows strategies   10 │ - migration-guide.md: Phase-by-phase transition plan   11 │ - chezmoi-integration.md: Chezmoi setup with XDG philosophy   12 │   13 │ Updated files:   14 │ - SKILL.md: Added complexity, time_to_learn, tags; reference links   15 │ - dotfile-patterns.md: Rewritten to align with XDG (removed Stow-centric)   16 │   17 │ Extracted from staging/Dotfile Management via GitHub.md (now deleted)   18 │   19 │ Regenerated all bundles (.build/)   20 │   21 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "a5b50ae",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add skill-chain-prompts for multi-skill workflow orchestration    2 │    3 │ New skill in tools/:    4 │ - skill-chain-prompts: Orchestrate multi-skill workflows with YAML chain definitions    5 │ - Prompt-based execution through Claude's sequential processing    6 │ - State tracking with markdown tables, ASCII bars, and Mermaid diagrams    7 │ - Checkpoints for human review at critical steps    8 │ - Optional steps and failure handling modes    9 │   10 │ Pre-built chains (assets/chains/):   11 │ - api-development: API design → TDD → implementation → verification → deploy   12 │ - fullstack-feature: Requirements → API → backend/frontend → testing → verify   13 │ - mcp-development: MCP builder → testing → verification → orchestration   14 │ - career-preparation: Resume → portfolio → interview prep → networking   15 │ - custom-chain.yaml: Blank template with documentation   16 │   17 │ References:   18 │ - chain-format.md: Complete YAML specification   19 │ - execution-model.md: How Claude processes chains   20 │ - state-tracking.md: Progress visualization formats   21 │ - built-in-chains.md: All pre-built chains documented   22 │   23 │ Regenerated all bundles (.build/)   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "aaacba1",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add three new skills for project documentation and agent coordination    2 │    3 │ New skills:    4 │    5 │ claude-project-manifest (knowledge/):    6 │ - Annotated bibliography-style manifests for Claude projects    7 │ - Tracks files, conversation threads, and relationships with unique IDs    8 │ - YAML/JSON schema, templates, and annotation guidelines    9 │ - References: manifest-schema, annotation-guidelines, id-systems, workflow-integration   10 │   11 │ multi-agent-workforce-planner (tools/):   12 │ - Design parallel agent workstreams for large feature implementations   13 │ - Dependency analysis and parallelization strategies   14 │ - Agent type catalog (Explore, Plan, Bash, Edit)   15 │ - Failure recovery patterns and progress tracking   16 │ - Templates: workstream-plan, dependency-graph   17 │   18 │ ontological-renamer (tools/):   19 │ - Rename projects with dense, meaningful ontological titles   20 │ - Separator conventions (- for compounds, -- for conceptual distance)   21 │ - Latin and Greek translation support   22 │ - Word roots reference with 100+ entries   23 │ - Includes 10 naming options for this repository   24 │   25 │ Documentation updates:   26 │ - README.md: Updated skill count 95 → 98   27 │ - docs/CATEGORIES.md: Added new skills to categories   28 │   29 │ Regenerated all bundles (.build/)   30 │   31 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "1d4f0b5",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add asset templates and missing references for priority skills    2 │    3 │ cv-resume-builder enhancements:    4 │ - references/industry-keywords.md: Keywords by field (tech, finance, etc.)    5 │ - references/formats.md: Visual format examples and guidelines    6 │ - assets/templates/: 4 resume templates (chronological, hybrid, functional, academic CV)    7 │    8 │ portfolio-presentation enhancements:    9 │ - references/pdf-portfolio.md: PDF portfolio best practices   10 │ - references/deck-structure.md: Presentation deck guidelines and templates   11 │   12 │ canvas-design enhancements:   13 │ - assets/templates/: 5 design philosophy templates   14 │   (minimal-geometric, organic-systems, brutalist-poetry,   15 │    chromatic-data, analog-meditation)   16 │   17 │ Updated SKILL.md files to reference new assets.   18 │ Regenerated all bundles (.build/)   19 │   20 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "f9bb15a",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add troubleshooting guide and link checking to validation    2 │    3 │ New documentation:    4 │ - docs/guides/troubleshooting.md: Common issues and solutions for skill    5 │   discovery, validation errors, content issues, agent-specific problems,    6 │   and debugging tips    7 │    8 │ Validation enhancements (scripts/validate_skills.py):    9 │ - Add --check-links flag for optional broken link detection   10 │ - Check internal markdown links [text](path)   11 │ - Check backtick references `references/file.md`   12 │ - Report missing reference files   13 │   14 │ Link checking is optional (--check-links) since many skills reference   15 │ documents that are documented but not yet created.   16 │   17 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "2a076b5",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add reference documents to all document skills    2 │    3 │ New references directories for each document skill:    4 │    5 │ pdf/references/    6 │ - common-use-cases.md: Text extraction, merging, splitting, metadata,    7 │   rotation, table extraction, PDF creation    8 │ - troubleshooting.md: Encoding issues, form handling, memory problems,    9 │   poppler setup, common errors   10 │   11 │ docx/references/   12 │ - common-use-cases.md: Document creation, text extraction, tables,   13 │   images, headers/footers, find/replace, styles, merge   14 │ - troubleshooting.md: File opening, formatting, tables, images,   15 │   headers, memory issues   16 │   17 │ xlsx/references/   18 │ - common-use-cases.md: Reading, creating, formulas, charts, data   19 │   validation, conditional formatting, filtering, pivot tables   20 │ - troubleshooting.md: File types, formula issues, data types, memory,   21 │   styling, pandas integration   22 │   23 │ pptx/references/   24 │ - common-use-cases.md: Presentations, text, images, tables, charts,   25 │   shapes, slide operations, speaker notes, merging   26 │ - troubleshooting.md: File opening, layouts, text formatting, images,   27 │   charts, tables, memory issues   28 │   29 │ Regenerated all bundles (.build/)   30 │   31 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "00579cc",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add optional frontmatter fields and enhanced validation    2 │    3 │ Skill specification updates (docs/api/skill-spec.md):    4 │ - Add complexity field: beginner, intermediate, advanced    5 │ - Add time_to_learn field: 5min, 30min, 1hour, multi-hour    6 │ - Add prerequisites field: list of skill names    7 │ - Add tags field: searchable keywords    8 │ - Document description length constraint (20-600 chars)    9 │   10 │ Validation enhancements (scripts/validate_skills.py):   11 │ - Validate complexity values against allowed set   12 │ - Validate time_to_learn values against allowed set   13 │ - Enforce description length (20-600 characters)   14 │   15 │ Example skills with new fields (5 skills):   16 │ - testing-patterns: beginner, 30min, tags for testing tools   17 │ - mcp-builder: intermediate, 1hour, prerequisite backend-implementation-patterns   18 │ - tdd-workflow: intermediate, 30min, prerequisite testing-patterns   19 │ - cv-resume-builder: beginner, 30min, career-focused tags   20 │ - algorithmic-art: intermediate, 1hour, creative coding tags   21 │   22 │ Regenerated all bundles (.build/)   23 │   24 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "9441ff8",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add Related Skills sections and ecosystem guides for discoverability    2 │    3 │ Related Skills sections added to 10 key skills:    4 │ - mcp-builder: links to mcp-server-orchestrator, mcp-integration-patterns    5 │ - testing-patterns: links to tdd-workflow, verification-loop    6 │ - api-design-patterns: links to backend-implementation-patterns    7 │ - algorithmic-art: links to generative-art-algorithms, canvas-design    8 │ - cv-resume-builder: links to portfolio-presentation, interview-preparation    9 │ - tdd-workflow: links to testing-patterns, verification-loop   10 │ - verification-loop: links to testing-patterns, deployment-cicd   11 │ - backend-implementation-patterns: links to api-design-patterns   12 │ - generative-art-algorithms: links to algorithmic-art, canvas-design   13 │ - portfolio-presentation: links to cv-resume-builder, interview-preparation   14 │   15 │ New ecosystem guides (docs/guides/):   16 │ - development-patterns-ecosystem.md: 15 development skills with workflow scenarios   17 │ - security-compliance-ecosystem.md: 5 security skills with control mappings   18 │ - project-workflow-ecosystem.md: 4 project management skills with handoff patterns   19 │   20 │ Each guide includes Mermaid flowcharts, sequence diagrams, decision trees,   21 │ cross-reference matrices, and integration checklists.   22 │   23 │ Regenerated all bundles (.build/)   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "aa03dbd",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fix documentation inconsistencies and add scope clarifications    2 │    3 │ - Update ROADMAP.md: 85 skills → 95 skills, 11 → 12 categories    4 │ - Update getting-started.md: fix skill counts (80 → 95), remove    5 │   references to non-existent by-purpose/by-complexity directories,    6 │   update repository structure diagram to include document-skills    7 │ - Add staging/README.md explaining promotion workflow for draft skills    8 │ - Add document-skills/README.md clarifying they are Claude Code    9 │   reference implementations with proprietary license   10 │   11 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "7dcc436",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add 6 skill ecosystem documentation guides with workflow integrations    2 │    3 │ New ecosystem guides (docs/guides/):    4 │ - integration-auth-skills-ecosystem.md: MCP, OAuth, webhooks (5 skills)    5 │ - web-frontend-skills-ecosystem.md: Design systems, a11y, Next.js (5 skills)    6 │ - data-science-skills-ecosystem.md: Pipelines, ML, analytics (6 skills)    7 │ - creative-coding-skills-ecosystem.md: Generative art, music, 3D (7 skills)    8 │ - career-development-skills-ecosystem.md: Resume, interview, brand (5 skills)    9 │ - knowledge-management-skills-ecosystem.md: Graphs, research, PKM (5 skills)   10 │   11 │ Each guide includes:   12 │ - Mermaid flowcharts showing skill relationships   13 │ - Sequence diagrams for 3 workflow scenarios   14 │ - Decision tree for skill selection   15 │ - Cross-reference matrix and handoff patterns   16 │   17 │ Workflow integration files (33 new):   18 │ - Added workflow-integration.md to all 33 skills in the 6 ecosystems   19 │ - Documents prerequisites, handoff patterns, and integration checklists   20 │ - Links skills to their ecosystem guides   21 │   22 │ Regenerated all bundles (.build/)   23 │   24 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "594ae70",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add GitHub skills ecosystem documentation and cross-references    2 │    3 │ New files:    4 │ - docs/guides/github-skills-ecosystem.md: Ecosystem map with Mermaid diagrams,    5 │   workflow scenarios, decision tree, and cross-reference matrix    6 │ - workflow-integration.md: Added to all 4 GitHub skills documenting handoff    7 │   patterns, prerequisites, and integration checklists    8 │    9 │ Research absorption (from staging/):   10 │ - github-profile-architect: gamification-mechanics.md (achievements, stats cards)   11 │ - github-repository-standards: config-migration-recipes.md (.config/ strategies)   12 │ - github-roadmap-strategist: case-studies.md (VS Code, React Native examples)   13 │   14 │ Skills enhanced:   15 │ - github-profile-architect (2 new references)   16 │ - github-repo-curator (1 new reference)   17 │ - github-repository-standards (2 new references)   18 │ - github-roadmap-strategist (2 new references)   19 │   20 │ Regenerated all bundles (.build/)   21 │   22 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "a7c5bbc",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add 15 new skills to balance category distribution    2 │    3 │ New skills by category:    4 │ - creative (3): generative-music-composer, interactive-theatre-designer,    5 │   movement-notation-systems    6 │ - data (3): data-pipeline-architect, ml-experiment-tracker, time-series-analyst    7 │ - knowledge (3): knowledge-graph-builder, recursive-systems-architect,    8 │   research-synthesis-workflow    9 │ - specialized (2): defi-trading-systems, location-ar-experience   10 │ - integrations (3): mcp-integration-patterns, oauth-flow-architect,   11 │   webhook-integration-patterns   12 │ - tools (1): agent-swarm-orchestrator   13 │   14 │ Each skill includes SKILL.md with frontmatter and 2-3 reference documents.   15 │ Total skills increased from 80 to 95.   16 │   17 │ Documentation updates:   18 │ - README.md: Update skill count to 95   19 │ - CLAUDE.md: Update category counts   20 │ - docs/CATEGORIES.md: Add new skills and update counts   21 │ - Regenerate all bundles (.build/)   22 │   23 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "b46eb40",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Fill documentation and repository gaps    2 │    3 │ - Add LICENSE file (Apache 2.0) at repository root    4 │ - Create docs/api/skill-spec.md with YAML frontmatter specification    5 │ - Create docs/guides/creating-skills.md with step-by-step skill creation guide    6 │ - Fix getting-started.md: update paths from collections/ to .build/collections/,    7 │   fix skill count from 85 to 80, update repository structure diagram    8 │ - Fix CONTRIBUTING.md: update skill creation path to skills/{category}/,    9 │   add license requirement, fix generated directory paths   10 │ - Fix CATEGORIES.md: update skill count from 85 to 80   11 │   12 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "72dac03",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add references folders to all 63 skills that were missing them    2 │    3 │ - Create references/ folders with 1-3 practical reference documents per skill    4 │ - Documents include templates, guides, checklists, and domain reference material    5 │ - All 80 skills now have references/ folders with supporting documentation    6 │ - Categories covered: creative (5), data (3), development (23), documentation (3),    7 │   education (2), integrations (6), knowledge (1), professional (9),    8 │   project-management (3), security (5), specialized (2), tools (1)    9 │ - Update SKILL.md files to reference new documents where appropriate   10 │   11 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "2f1a6fa",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Organize skills into category subdirectories    2 │    3 │ - Create 12 category directories: creative, data, development, documentation,    4 │   education, integrations, knowledge, professional, project-management,    5 │   security, specialized, tools    6 │ - Move 80 skills into appropriate categories    7 │ - Remove duplicate document skills (docx, pdf, pptx, xlsx) from skills/    8 │   (they exist in document-skills/)    9 │ - Add new integrations category for specstory-* skills   10 │ - Update scripts to use recursive discovery (rglob)   11 │ - Update CI to validate category structure   12 │ - Update CLAUDE.md and README.md with new structure   13 │ - Regenerate all bundles with category paths   14 │   15 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "b5788c0",
+              "date": "2026-01-30",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Reorganize repository structure and standardize skills    2 │    3 │ - Move 84 skills from root to skills/ directory    4 │ - Move generated bundles to .build/ (collections, claude, codex, extensions)    5 │ - Move documentation files to docs/    6 │ - Rename absorb-alchemize to staging    7 │ - Delete template-skill placeholder    8 │ - Add license: MIT to 52 skills missing it    9 │ - Update all scripts for new directory paths   10 │ - Add directory structure validation to CI workflow   11 │ - Update README.md and CLAUDE.md for new structure   12 │   13 │ Root directory reduced from 103 items to 7 visible items.   14 │   15 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "84c91c7",
+              "date": "2026-01-30",
+              "message": "Organize repository following GitHub and skill repo best practices"
+            },
+            {
+              "hash": "49d4902",
+              "date": "2026-01-30",
+              "message": "Import 6 SpecStory skills from specstoryai/agent-skills"
+            },
+            {
+              "hash": "96bcd76",
+              "date": "2026-01-30",
+              "message": "Add 12 new skills to fill development workflow gaps"
+            },
+            {
+              "hash": "67ff768",
+              "date": "2026-01-30",
+              "message": "Add new skills and update collections"
+            }
+          ],
+          "files_changed": 4511
+        }
+      }
+    }
+  }
+}

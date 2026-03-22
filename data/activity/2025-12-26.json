@@ -1,0 +1,132 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2025-12-26",
+  "until": "2025-12-26",
+  "summary": {
+    "total_commits": 17,
+    "repos_active": 3,
+    "files_changed": 31,
+    "organs_touched": [
+      "I",
+      "II",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "d774720",
+              "date": "2025-12-26",
+              "message": "Fix remaining references in ecosystem registry file"
+            },
+            {
+              "hash": "4ca786f",
+              "date": "2025-12-26",
+              "message": "Generalize system: rename TemplateConive to Ecosystem Governance, AI to Entity, and fix incomplete version history"
+            },
+            {
+              "hash": "596dfba",
+              "date": "2025-12-26",
+              "message": "Fix date and file count inconsistencies in comprehensive logic audit"
+            },
+            {
+              "hash": "a5b5041",
+              "date": "2025-12-26",
+              "message": "Complete comprehensive logic audit with 7 blindspots and 4 shatterpoints analysis"
+            },
+            {
+              "hash": "c44e669",
+              "date": "2025-12-26",
+              "message": "Implement code review suggestions - clarify variant spelling and module count notation"
+            },
+            {
+              "hash": "d38bac4",
+              "date": "2025-12-26",
+              "message": "docs: replace placeholder dates with actual dates in documentation"
+            },
+            {
+              "hash": "460dcf3",
+              "date": "2025-12-26",
+              "message": "Update SUGGESTED_AGENTS_FOR_REGEOS.md"
+            }
+          ],
+          "files_changed": 31
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "6435663",
+              "date": "2025-12-26",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8406451",
+              "date": "2025-12-26",
+              "message": "fix: Address code review feedback - CSS transitions, CORS whitespace, query filtering, commit refs"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "9c9babf",
+              "date": "2025-12-26",
+              "message": "Bump eslint-plugin-react-hooks from 5.2.0 to 7.0.1"
+            },
+            {
+              "hash": "69ef23a",
+              "date": "2025-12-26",
+              "message": "Bump typescript from 5.7.3 to 5.9.3"
+            },
+            {
+              "hash": "1a3187b",
+              "date": "2025-12-26",
+              "message": "Bump uuid from 11.1.0 to 13.0.0"
+            },
+            {
+              "hash": "662c4d9",
+              "date": "2025-12-26",
+              "message": "Bump @types/dompurify from 3.0.5 to 3.2.0"
+            },
+            {
+              "hash": "9c9babf",
+              "date": "2025-12-26",
+              "message": "Bump eslint-plugin-react-hooks from 5.2.0 to 7.0.1"
+            },
+            {
+              "hash": "69ef23a",
+              "date": "2025-12-26",
+              "message": "Bump typescript from 5.7.3 to 5.9.3"
+            },
+            {
+              "hash": "1a3187b",
+              "date": "2025-12-26",
+              "message": "Bump uuid from 11.1.0 to 13.0.0"
+            },
+            {
+              "hash": "662c4d9",
+              "date": "2025-12-26",
+              "message": "Bump @types/dompurify from 3.0.5 to 3.2.0"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

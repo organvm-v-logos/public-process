@@ -1,0 +1,45 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-03-15",
+  "until": "2025-03-15",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 1,
+    "files_changed": 1,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "ec8b61a",
+              "date": "2025-03-15",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "5d4cd1d",
+              "date": "2025-03-15",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "2520cec",
+              "date": "2025-03-15",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "2c0989d",
+              "date": "2025-03-15",
+              "message": "docs: update README.md"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

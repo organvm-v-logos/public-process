@@ -1,0 +1,90 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-04-27",
+  "until": "2025-04-27",
+  "summary": {
+    "total_commits": 13,
+    "repos_active": 1,
+    "files_changed": 15,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "d696062",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Bump module version"
+            },
+            {
+              "hash": "e168e8f",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Get rid of more side drawer upsells"
+            },
+            {
+              "hash": "a7bf798",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Fully migrate to Timber"
+            },
+            {
+              "hash": "796a929",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Add toggle to control LSPatch when cloning"
+            },
+            {
+              "hash": "9a40658",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Dump version codes too"
+            },
+            {
+              "hash": "7c26107",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Simplify location GUI check"
+            },
+            {
+              "hash": "c7cd74d",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Fix broken cloning feature"
+            },
+            {
+              "hash": "4f18e8d",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Let the user know about uncached pictures"
+            },
+            {
+              "hash": "b4969f9",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Make all kind of albums viewable"
+            },
+            {
+              "hash": "f68edfe",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Fix invalid integer cast"
+            },
+            {
+              "hash": "d9dccae",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Kill more upsells with fire"
+            },
+            {
+              "hash": "df6ae88",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Add config entry for favorites grid columns"
+            },
+            {
+              "hash": "8912a08",
+              "date": "2025-04-27",
+              "message": "GrindrPlus: Add toggle to control Albums experiment"
+            }
+          ],
+          "files_changed": 15
+        }
+      }
+    }
+  }
+}

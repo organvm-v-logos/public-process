@@ -1,0 +1,724 @@
+{
+  "generated": "2026-03-06T00:39:28Z",
+  "since": "2026-02-15",
+  "until": "2026-02-15",
+  "summary": {
+    "total_commits": 128,
+    "repos_active": 8,
+    "files_changed": 593,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "META",
+      "Personal"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "884d3ab",
+              "date": "2026-02-15",
+              "message": "fix: p5 v2 background rendering — replace pixel buffer with drawing primitives"
+            },
+            {
+              "hash": "908e4ab",
+              "date": "2026-02-15",
+              "message": "fix: override lodash-es to 4.17.23 to resolve prototype pollution vulnerability"
+            },
+            {
+              "hash": "bbfa4e0",
+              "date": "2026-02-15",
+              "message": "feat: portfolio UI/UX overhaul for job applications"
+            },
+            {
+              "hash": "be58ee0",
+              "date": "2026-02-15",
+              "message": "feat: replace CSS spiral background with dynamic p5.js spectrum sketch"
+            },
+            {
+              "hash": "fbee740",
+              "date": "2026-02-15",
+              "message": "feat: replace CSS spiral background with dynamic p5.js spectrum sketch"
+            },
+            {
+              "hash": "a04ef54",
+              "date": "2026-02-15",
+              "message": "feat: replace CSS spiral background with dynamic p5.js spectrum sketch"
+            },
+            {
+              "hash": "862a40c",
+              "date": "2026-02-15",
+              "message": "feat: replace CSS spiral background with dynamic p5.js spectrum sketch"
+            },
+            {
+              "hash": "0bf451d",
+              "date": "2026-02-15",
+              "message": "feat: lo-fi pixelated spiral color fan background with slow rotation"
+            },
+            {
+              "hash": "e258049",
+              "date": "2026-02-15",
+              "message": "fix: restore conic-gradient color fan (Jamie XX In Colour) with slow rotation"
+            },
+            {
+              "hash": "bdd7ab2",
+              "date": "2026-02-15",
+              "message": "revert: restore original Jamie XX drifting gradient background"
+            },
+            {
+              "hash": "2f29bdd",
+              "date": "2026-02-15",
+              "message": "fix: deep zoom swatch grid (600%×1000%) + blur(40px) gradient edges + repeat tiling"
+            },
+            {
+              "hash": "f3c2ea1",
+              "date": "2026-02-15",
+              "message": "fix: zoom into swatch grid (300%×500%) with wandering camera animation"
+            },
+            {
+              "hash": "8a91784",
+              "date": "2026-02-15",
+              "message": "fix: remove image-rendering pixelated — SVG needs no rasterization hint"
+            },
+            {
+              "hash": "55c0f8c",
+              "date": "2026-02-15",
+              "message": "fix: backdrop blur header, transparent logo with white halo"
+            },
+            {
+              "hash": "80bd047",
+              "date": "2026-02-15",
+              "message": "fix: swatch grid bg, revert h1, strengthen text-shadows"
+            },
+            {
+              "hash": "1a92c4a",
+              "date": "2026-02-15",
+              "message": "feat: transparent header — remove frosted glass background"
+            },
+            {
+              "hash": "cf270df",
+              "date": "2026-02-15",
+              "message": "feat: rectangular gradient drift, transparent h1 with white halo"
+            },
+            {
+              "hash": "08ad68b",
+              "date": "2026-02-15",
+              "message": "fix: terrain-sketch — use 2D renderer instead of WEBGL"
+            },
+            {
+              "hash": "1580bd9",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to your-fit-tailored.astro"
+            },
+            {
+              "hash": "161517f",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to the-actual-news.astro"
+            },
+            {
+              "hash": "31bbce7",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to public-process.astro"
+            },
+            {
+              "hash": "e0689d8",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to org-architecture.astro"
+            },
+            {
+              "hash": "5d3b769",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to orchestration-hub.astro"
+            },
+            {
+              "hash": "070c581",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to narratological-lenses.astro"
+            },
+            {
+              "hash": "eb440c3",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to metasystem-master.astro"
+            },
+            {
+              "hash": "483850f",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to linguistic-atomization.astro"
+            },
+            {
+              "hash": "4bfd31c",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to life-my-midst-in.astro"
+            },
+            {
+              "hash": "3f79e7d",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to knowledge-base.astro"
+            },
+            {
+              "hash": "456b632",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to distribution-strategy.astro"
+            },
+            {
+              "hash": "cdec634",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to community-infrastructure.astro"
+            },
+            {
+              "hash": "6793aa0",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to block-warfare.astro"
+            },
+            {
+              "hash": "2816a0a",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to ai-council.astro"
+            },
+            {
+              "hash": "524eb24",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to agentic-titan.astro"
+            },
+            {
+              "hash": "a78999e",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to eight-organ-system.astro"
+            },
+            {
+              "hash": "ef7d6c3",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to generative-music.astro"
+            },
+            {
+              "hash": "3b347f0",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to ai-conductor.astro"
+            },
+            {
+              "hash": "042f41a",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — assign sketch to aetheria-rpg.astro"
+            },
+            {
+              "hash": "b88adc8",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add weave-sketch.ts"
+            },
+            {
+              "hash": "a80276e",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add ticker-sketch.ts"
+            },
+            {
+              "hash": "14efb8a",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add typewriter-sketch.ts"
+            },
+            {
+              "hash": "0d8a654",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add hierarchy-sketch.ts"
+            },
+            {
+              "hash": "830972d",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add routing-sketch.ts"
+            },
+            {
+              "hash": "25a896a",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add lenses-sketch.ts"
+            },
+            {
+              "hash": "a140125",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add kaleidoscope-sketch.ts"
+            },
+            {
+              "hash": "444983e",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add atoms-sketch.ts"
+            },
+            {
+              "hash": "2a526de",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add orbits-sketch.ts"
+            },
+            {
+              "hash": "cee1320",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add spiral-sketch.ts"
+            },
+            {
+              "hash": "b36b058",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add scatter-sketch.ts"
+            },
+            {
+              "hash": "82f4d54",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add constellation-sketch.ts"
+            },
+            {
+              "hash": "1dae9a8",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add blocks-sketch.ts"
+            },
+            {
+              "hash": "7ba4d63",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add deliberation-sketch.ts"
+            },
+            {
+              "hash": "76f8596",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add swarm-sketch.ts"
+            },
+            {
+              "hash": "c595917",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add waveform-sketch.ts"
+            },
+            {
+              "hash": "23f58bb",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add octagon-sketch.ts"
+            },
+            {
+              "hash": "d2c7ed3",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add conductor-sketch.ts"
+            },
+            {
+              "hash": "027fbd2",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — add terrain-sketch.ts"
+            },
+            {
+              "hash": "ccb4904",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — transparent canvas for particle-field-sketch.ts"
+            },
+            {
+              "hash": "44386d2",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — transparent canvas for data-bars-sketch.ts"
+            },
+            {
+              "hash": "c05ead3",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — transparent canvas for flow-diagram-sketch.ts"
+            },
+            {
+              "hash": "8296764",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — transparent canvas for network-graph-sketch.ts"
+            },
+            {
+              "hash": "29b15d4",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — transparent canvas for token-stream-sketch.ts"
+            },
+            {
+              "hash": "ae4e56f",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — transparent canvas for pipeline-sketch.ts"
+            },
+            {
+              "hash": "9e35afd",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — transparent canvas for counterpoint-sketch.ts"
+            },
+            {
+              "hash": "33d59fa",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — transparent canvas for recursive-tree-sketch.ts"
+            },
+            {
+              "hash": "0c71c4b",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — transparent canvas for organ-system-sketch.ts"
+            },
+            {
+              "hash": "9cc542d",
+              "date": "2026-02-15",
+              "message": "feat: In Colour — transparent canvas for hero-sketch.ts"
+            },
+            {
+              "hash": "6583d9e",
+              "date": "2026-02-15",
+              "message": "feat: In Colour overhaul — update sketch-loader.ts"
+            },
+            {
+              "hash": "e1a733d",
+              "date": "2026-02-15",
+              "message": "feat: In Colour overhaul — update Footer.astro"
+            },
+            {
+              "hash": "b22cee6",
+              "date": "2026-02-15",
+              "message": "feat: In Colour overhaul — update palette.ts"
+            },
+            {
+              "hash": "098b3c6",
+              "date": "2026-02-15",
+              "message": "feat: In Colour overhaul — update global.css"
+            },
+            {
+              "hash": "0c837f4",
+              "date": "2026-02-15",
+              "message": "fix: update Puter.js model name to claude-sonnet-4-5"
+            },
+            {
+              "hash": "b1d6905",
+              "date": "2026-02-15",
+              "message": "fix: cap gradient peaks + text-shadow for WCAG AA contrast in bold/extreme modes"
+            },
+            {
+              "hash": "bd0efce",
+              "date": "2026-02-15",
+              "message": "feat(cmyk): update palette.ts — CMYK color overhaul"
+            },
+            {
+              "hash": "f3b8168",
+              "date": "2026-02-15",
+              "message": "feat(cmyk): update Layout.astro — CMYK color overhaul"
+            },
+            {
+              "hash": "72f4936",
+              "date": "2026-02-15",
+              "message": "feat(cmyk): update Footer.astro — CMYK color overhaul"
+            },
+            {
+              "hash": "26f4a8e",
+              "date": "2026-02-15",
+              "message": "feat(cmyk): update Header.astro — CMYK color overhaul"
+            },
+            {
+              "hash": "e75abc5",
+              "date": "2026-02-15",
+              "message": "feat(cmyk): update global.css — CMYK color overhaul"
+            },
+            {
+              "hash": "a7f2cba",
+              "date": "2026-02-15",
+              "message": "fix: correct essay URLs from date-based to /essays/slug/ permalink format"
+            }
+          ],
+          "files_changed": 72
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "61abfc6",
+              "date": "2026-02-15",
+              "message": "feat: implement Phase 3B CANVAS — Pd-native visual patching via GOP abstractions"
+            },
+            {
+              "hash": "d93eafb",
+              "date": "2026-02-15",
+              "message": "feat: implement Phase 3 CANVAS — Max/MSP-style visual patching GUI"
+            },
+            {
+              "hash": "4e6ad81",
+              "date": "2026-02-15",
+              "message": "fix: resolve all SC compile and runtime errors for clean boot"
+            },
+            {
+              "hash": "2256cbf",
+              "date": "2026-02-15",
+              "message": "fix: hoist var declarations to top of function scopes in 5 SC files"
+            },
+            {
+              "hash": "a464220",
+              "date": "2026-02-15",
+              "message": "fix: add Cortex UI and Visual Cortex files missed by global gitignore"
+            },
+            {
+              "hash": "5942a9f",
+              "date": "2026-02-15",
+              "message": "feat: implement Phase 2 VIVIFICATION — module registry, voice manager, Cortex UI, DAEMON-CHRONOS bridge"
+            }
+          ],
+          "files_changed": 84
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "40dc239",
+              "date": "2026-02-15",
+              "message": "chore: update Serena project config schema"
+            },
+            {
+              "hash": "4e21689",
+              "date": "2026-02-15",
+              "message": "fix: final registry cleanup — promote DESIGN_ONLY repos, fix stale launch metrics"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "narratological-algorithmic-lenses": {
+          "commits": [
+            {
+              "hash": "2fe1849",
+              "date": "2026-02-15",
+              "message": "docs: add there+back-again roadmap and refresh README"
+            },
+            {
+              "hash": "2e1029f",
+              "date": "2026-02-15",
+              "message": "feat: complete Claude Desktop project intake (52 files, 27 threads)"
+            },
+            {
+              "hash": "5aacbb7",
+              "date": "2026-02-15",
+              "message": "docs: finalize Omega Release documentation"
+            },
+            {
+              "hash": "115fbdc",
+              "date": "2026-02-15",
+              "message": "feat: complete Phase 6 - Omega Synthesis"
+            },
+            {
+              "hash": "fdc3156",
+              "date": "2026-02-15",
+              "message": "docs: finalize phase 5 and transition to phase 6 synthesis"
+            },
+            {
+              "hash": "0c3a781",
+              "date": "2026-02-15",
+              "message": "feat: implement Phase 5 - Interface layer"
+            },
+            {
+              "hash": "9dd2e3f",
+              "date": "2026-02-15",
+              "message": "feat: implement Phase 4 - Multi-Agent Debate Mode"
+            },
+            {
+              "hash": "1e71dd8",
+              "date": "2026-02-15",
+              "message": "docs: finalize phase 3 and update roadmap milestones"
+            },
+            {
+              "hash": "69a7dd4",
+              "date": "2026-02-15",
+              "message": "feat: complete Phase 3 - promotion of all remaining secondary sources to core studies"
+            },
+            {
+              "hash": "b3455f7",
+              "date": "2026-02-15",
+              "message": "feat: promote Kubrick study and harden reorderability diagnostic"
+            },
+            {
+              "hash": "1dacf9f",
+              "date": "2026-02-15",
+              "message": "docs: add omega roadmap and update readme with new capabilities"
+            },
+            {
+              "hash": "e868bf1",
+              "date": "2026-02-15",
+              "message": "feat: implement chunked diagnostics and promote Larry David study"
+            },
+            {
+              "hash": "a4820e9",
+              "date": "2026-02-15",
+              "message": "feat: Fountain parser, Causal Binding thresholds, and Waller-Bridge study"
+            },
+            {
+              "hash": "a44a9e1",
+              "date": "2026-02-15",
+              "message": "feat: promote Aristotle to core study and refactor loader for stability"
+            },
+            {
+              "hash": "ff93834",
+              "date": "2026-02-15",
+              "message": "feat: promote Bharata Muni to first-class study and unify research files"
+            },
+            {
+              "hash": "4edf385",
+              "date": "2026-02-15",
+              "message": "feat: implement Script Doctor layer and robust JSON cleaning"
+            },
+            {
+              "hash": "85b16f5",
+              "date": "2026-02-15",
+              "message": "feat: implement narratological-validate and sync commands"
+            }
+          ],
+          "files_changed": 194
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "97e32f9",
+              "date": "2026-02-15",
+              "message": "feat: implement generative visuals with AI-generated agent portraits"
+            },
+            {
+              "hash": "e5f4fde",
+              "date": "2026-02-15",
+              "message": "chore: seal 'Omega' state with autonomous loops and persistence"
+            },
+            {
+              "hash": "253b69a",
+              "date": "2026-02-15",
+              "message": "docs: generate master plan and update readme for Omega release"
+            },
+            {
+              "hash": "6ebb059",
+              "date": "2026-02-15",
+              "message": "feat: complete 'Omega' phase with on-chain Rust contracts and governance"
+            },
+            {
+              "hash": "b1b296e",
+              "date": "2026-02-15",
+              "message": "feat: implement persistent arena, AI combat engine, and Solana integration"
+            }
+          ],
+          "files_changed": 38
+        },
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "9e9d202",
+              "date": "2026-02-15",
+              "message": "fix: prevent requestAnimationFrame leak in tests and strip corrupted markdown"
+            },
+            {
+              "hash": "ed6b8f0",
+              "date": "2026-02-15",
+              "message": "fix: pin marked to ^17.0.0 and grant deploy job write permissions"
+            },
+            {
+              "hash": "f068e74",
+              "date": "2026-02-15",
+              "message": "fix: resolve HTML validation errors, CI browser install, and marked vulnerability"
+            },
+            {
+              "hash": "76657eb",
+              "date": "2026-02-15",
+              "message": "fix: resolve CI failures — ESLint error, Prettier config, E2E test selectors"
+            },
+            {
+              "hash": "2c8fd59",
+              "date": "2026-02-15",
+              "message": "feat: modernize legacy code — fix corrupted configs, ES6 sketches, ES module naming system"
+            },
+            {
+              "hash": "4ce4fe1",
+              "date": "2026-02-15",
+              "message": "feat: close all open issues — CSP hardening, README hero, project automation"
+            }
+          ],
+          "files_changed": 143
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "40dc239",
+              "date": "2026-02-15",
+              "message": "chore: update Serena project config schema"
+            },
+            {
+              "hash": "4e21689",
+              "date": "2026-02-15",
+              "message": "fix: final registry cleanup — promote DESIGN_ONLY repos, fix stale launch metrics"
+            }
+          ],
+          "files_changed": 3
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "a882d03",
+              "date": "2026-02-15",
+              "message": "chore: gitignore tsc build artifacts (vite.config.js, vite.config.d.ts)"
+            },
+            {
+              "hash": "1b3efef",
+              "date": "2026-02-15",
+              "message": "fix(ci): move secrets check from job-level to step-level if"
+            },
+            {
+              "hash": "070e126",
+              "date": "2026-02-15",
+              "message": "fix(ci): fix lint script for flat config, skip deploy without secrets"
+            },
+            {
+              "hash": "277e42f",
+              "date": "2026-02-15",
+              "message": "fix(ci): resolve deploy and audit workflow failures"
+            },
+            {
+              "hash": "a383377",
+              "date": "2026-02-15",
+              "message": "docs: add alpha-to-omega roadmap, rewrite README for v3.0.0"
+            },
+            {
+              "hash": "07a7681",
+              "date": "2026-02-15",
+              "message": "feat: v3.0.0 production readiness — tests, code splitting, API layer, on-chain gaming, mobile"
+            },
+            {
+              "hash": "a882d03",
+              "date": "2026-02-15",
+              "message": "chore: gitignore tsc build artifacts (vite.config.js, vite.config.d.ts)"
+            },
+            {
+              "hash": "1b3efef",
+              "date": "2026-02-15",
+              "message": "fix(ci): move secrets check from job-level to step-level if"
+            },
+            {
+              "hash": "070e126",
+              "date": "2026-02-15",
+              "message": "fix(ci): fix lint script for flat config, skip deploy without secrets"
+            },
+            {
+              "hash": "277e42f",
+              "date": "2026-02-15",
+              "message": "fix(ci): resolve deploy and audit workflow failures"
+            },
+            {
+              "hash": "a383377",
+              "date": "2026-02-15",
+              "message": "docs: add alpha-to-omega roadmap, rewrite README for v3.0.0"
+            },
+            {
+              "hash": "07a7681",
+              "date": "2026-02-15",
+              "message": "feat: v3.0.0 production readiness — tests, code splitting, API layer, on-chain gaming, mobile"
+            }
+          ],
+          "files_changed": 56
+        }
+      }
+    }
+  }
+}

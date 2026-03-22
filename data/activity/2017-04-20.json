@@ -1,0 +1,35 @@
+{
+  "generated": "2026-03-06T00:39:34Z",
+  "since": "2017-04-20",
+  "until": "2017-04-20",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 1,
+    "files_changed": 188,
+    "organs_touched": [
+      "II"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "b831f4c",
+              "date": "2017-04-20",
+              "message": ""
+            },
+            {
+              "hash": "04d41e2",
+              "date": "2017-04-20",
+              "message": "yes"
+            }
+          ],
+          "files_changed": 188
+        }
+      }
+    }
+  }
+}

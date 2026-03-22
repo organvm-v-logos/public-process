@@ -11,7 +11,8 @@ Public Process is the essay publication platform for the organvm system. It is a
 ## Prerequisites
 
 - Git
-- Ruby 3.2+ and Bundler
+- Ruby 3.3.x (see `.ruby-version`)
+- Bundler 4.0.3 (see `Gemfile.lock`)
 - A GitHub account
 
 ## Development Setup
@@ -21,7 +22,11 @@ Public Process is the essay publication platform for the organvm system. It is a
 git clone https://github.com/YOUR_USERNAME/public-process.git
 cd public-process
 
+# Ensure Homebrew Ruby/Bundler are first on PATH (macOS/Homebrew)
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+
 # Install Ruby dependencies
+gem install bundler:4.0.3
 bundle install
 
 # Serve locally

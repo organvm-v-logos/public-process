@@ -1,0 +1,827 @@
+{
+  "generated": "2026-03-06T00:39:36Z",
+  "since": "2026-02-07",
+  "until": "2026-02-07",
+  "summary": {
+    "total_commits": 155,
+    "repos_active": 4,
+    "files_changed": 714,
+    "organs_touched": [
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "metasystem-master": {
+          "commits": [
+            {
+              "hash": "f042059",
+              "date": "2026-02-07",
+              "message": "chore: fix verification issues"
+            },
+            {
+              "hash": "920f0cd",
+              "date": "2026-02-07",
+              "message": "docs: rewrite README, CLAUDE.md, AGENTS.md for monorepo"
+            },
+            {
+              "hash": "ce07b92",
+              "date": "2026-02-07",
+              "message": "feat: configure pnpm workspace and normalize packages"
+            },
+            {
+              "hash": "be978f0",
+              "date": "2026-02-07",
+              "message": "chore: delete obsolete files, archives, and old sub-repo directories"
+            },
+            {
+              "hash": "38aa154",
+              "date": "2026-02-07",
+              "message": "feat: integrate omni-orchestrate as packages/orchestrate"
+            },
+            {
+              "hash": "b031b3f",
+              "date": "2026-02-07",
+              "message": "refactor: relocate files to monorepo target structure"
+            },
+            {
+              "hash": "9bf0bdb",
+              "date": "2026-02-07",
+              "message": "chore: update .gitignore for monorepo structure, force-add docs"
+            }
+          ],
+          "files_changed": 300
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "43fdd33",
+              "date": "2026-02-07",
+              "message": "feat(content-model): role-family mapping for curated masks"
+            },
+            {
+              "hash": "44ebc86",
+              "date": "2026-02-07",
+              "message": "docs: reframe project around inverted interview paradigm"
+            },
+            {
+              "hash": "c51d65a",
+              "date": "2026-02-07",
+              "message": "chore: declutter root — move docs and configs"
+            },
+            {
+              "hash": "67b3606",
+              "date": "2026-02-07",
+              "message": "docs: add problem, approach, and outcome to README"
+            },
+            {
+              "hash": "f6ad596",
+              "date": "2026-02-07",
+              "message": "chore(deps): merge Dependabot updates, clean up branches"
+            },
+            {
+              "hash": "867e5af",
+              "date": "2026-02-07",
+              "message": "build(deps-dev): Bump the eslint group with 4 updates (#55)"
+            },
+            {
+              "hash": "d176023",
+              "date": "2026-02-07",
+              "message": "build(deps-dev): Bump @testing-library/react from 16.3.1 to 16.3.2 (#63)"
+            },
+            {
+              "hash": "3d56847",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump lucide-react from 0.562.0 to 0.563.0 (#62)"
+            },
+            {
+              "hash": "f7efbb4",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump @opentelemetry/auto-instrumentations-node (#57)"
+            },
+            {
+              "hash": "104394e",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump prometheuscommunity/postgres-exporter in /infra (#53)"
+            },
+            {
+              "hash": "229270c",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump prom/prometheus from v2.48.0 to v3.9.1 in /infra (#50)"
+            },
+            {
+              "hash": "1590ab1",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump redis from 7-alpine to 8-alpine in /infra (#49)"
+            },
+            {
+              "hash": "63e8499",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump actions/upload-artifact from 4 to 6 (#54)"
+            },
+            {
+              "hash": "ae934cc",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump codecov/codecov-action from 4 to 5 (#52)"
+            },
+            {
+              "hash": "1e66b7e",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump actions/checkout from 4 to 6 (#51)"
+            },
+            {
+              "hash": "35dd034",
+              "date": "2026-02-07",
+              "message": "fix(web,ci): resolve React hooks lint errors and workflow issues"
+            },
+            {
+              "hash": "6538c0d",
+              "date": "2026-02-07",
+              "message": "docs: fix broken references, add package metadata"
+            },
+            {
+              "hash": "db784ae",
+              "date": "2026-02-07",
+              "message": "docs: rewrite README for feature-complete status"
+            },
+            {
+              "hash": "a4ae6af",
+              "date": "2026-02-07",
+              "message": "docs(github): add community health files and issue templates"
+            },
+            {
+              "hash": "f8212ef",
+              "date": "2026-02-07",
+              "message": "chore: declutter root — move docs and infra configs"
+            },
+            {
+              "hash": "686dfb9",
+              "date": "2026-02-07",
+              "message": "feat(deps): upgrade ESLint 9, Vitest 4, Next.js 16, tw-merge 3"
+            },
+            {
+              "hash": "e7cca16",
+              "date": "2026-02-07",
+              "message": "fix(core,api): replace ts-ignore with proper types, add WS auth"
+            },
+            {
+              "hash": "4e3e76b",
+              "date": "2026-02-07",
+              "message": "chore(deps): safe dependency updates and debug cleanup"
+            },
+            {
+              "hash": "bf018ce",
+              "date": "2026-02-07",
+              "message": "docs: update FEATURE-AUDIT with final phase, close all issues"
+            },
+            {
+              "hash": "b23a438",
+              "date": "2026-02-07",
+              "message": "feat(api,web): add interactive demo mode and share polish"
+            },
+            {
+              "hash": "fe8622f",
+              "date": "2026-02-07",
+              "message": "feat(infra): production hardening with PDB, NetworkPolicy, backups"
+            },
+            {
+              "hash": "c4cd713",
+              "date": "2026-02-07",
+              "message": "fix(core,docs): close issues #37, #44, #48"
+            },
+            {
+              "hash": "a3689b8",
+              "date": "2026-02-07",
+              "message": "fix(web,orchestrator): resolve all TODOs, migrate next lint"
+            },
+            {
+              "hash": "bbbb59c",
+              "date": "2026-02-07",
+              "message": "fix(infra): wire Redis password auth into prod compose URLs"
+            },
+            {
+              "hash": "8ec31ae",
+              "date": "2026-02-07",
+              "message": "fix(api,core): resolve remaining TODOs with SHA256 hash impl"
+            },
+            {
+              "hash": "b6d53b9",
+              "date": "2026-02-07",
+              "message": "test(api): add require-admin and feature-gate middleware tests"
+            },
+            {
+              "hash": "dff171a",
+              "date": "2026-02-07",
+              "message": "test(api): update test to match new stub error message"
+            },
+            {
+              "hash": "283e098",
+              "date": "2026-02-07",
+              "message": "fix(api): rename duplicate 009 migration to 009b"
+            },
+            {
+              "hash": "3141c1f",
+              "date": "2026-02-07",
+              "message": "fix(api): guard mock storage and production mock data"
+            },
+            {
+              "hash": "d11bdbe",
+              "date": "2026-02-07",
+              "message": "fix(web): replace UUID fallbacks with empty-state UI"
+            },
+            {
+              "hash": "0ba6d9c",
+              "date": "2026-02-07",
+              "message": "fix(api,content-model): replace self-fetch, wire settings"
+            },
+            {
+              "hash": "09312ae",
+              "date": "2026-02-07",
+              "message": "feat(api,web,content-model): user + admin settings panels"
+            },
+            {
+              "hash": "00a6e5b",
+              "date": "2026-02-07",
+              "message": "fix(web,content-model,docs): polish sprint — lint, tests, audit"
+            },
+            {
+              "hash": "c986d38",
+              "date": "2026-02-07",
+              "message": "feat(content-model,api): contextual follow-up generation"
+            },
+            {
+              "hash": "bb1ea73",
+              "date": "2026-02-07",
+              "message": "feat(api,web): dynamic mask recommendation during interview"
+            },
+            {
+              "hash": "39c5326",
+              "date": "2026-02-07",
+              "message": "docs: correct stale audit marks for tone, scoring, dashboard"
+            },
+            {
+              "hash": "bbb5549",
+              "date": "2026-02-07",
+              "message": "docs: update audit with G1-G25 resolution status"
+            },
+            {
+              "hash": "d1e1102",
+              "date": "2026-02-07",
+              "message": "ci: add lighthouse CI performance and a11y budgets (ADR-006)"
+            },
+            {
+              "hash": "cc09323",
+              "date": "2026-02-07",
+              "message": "feat(core,content-model): compensation market-rate analysis"
+            },
+            {
+              "hash": "5e53493",
+              "date": "2026-02-07",
+              "message": "feat(api): jwt revocation blocklist via Redis (ADR-010)"
+            },
+            {
+              "hash": "96ba580",
+              "date": "2026-02-07",
+              "message": "feat(schema,api,web): minimum viable marketplace (G16)"
+            },
+            {
+              "hash": "82ae464",
+              "date": "2026-02-07",
+              "message": "feat(schema,core,api,web): blockchain SBT integration (G10)"
+            },
+            {
+              "hash": "c91b315",
+              "date": "2026-02-07",
+              "message": "feat(orchestrator): per-role LLM executors with tool restrictions (G15)"
+            },
+            {
+              "hash": "42775f4",
+              "date": "2026-02-07",
+              "message": "feat(api,web): live interview scoring with WebSocket subs (G11)"
+            },
+            {
+              "hash": "8e9d638",
+              "date": "2026-02-07",
+              "message": "feat(design-system,web): a11y critical path for wcag 2.1 AA (G18)"
+            },
+            {
+              "hash": "6fb2927",
+              "date": "2026-02-07",
+              "message": "feat(web): custom mask creation UI and admin nav (G13)"
+            },
+            {
+              "hash": "9b4d388",
+              "date": "2026-02-07",
+              "message": "feat(api): dynamic interview questions and mask suggest (G9, G12)"
+            },
+            {
+              "hash": "0ad7311",
+              "date": "2026-02-07",
+              "message": "docs(core): expand README and artifact system status (G23, G25)"
+            },
+            {
+              "hash": "c2a5ceb",
+              "date": "2026-02-07",
+              "message": "feat(api): add @fastify/helmet security headers (G19)"
+            },
+            {
+              "hash": "202dcee",
+              "date": "2026-02-07",
+              "message": "feat(api,web): identity_core persistence and COVENANT (G3, G6, G7)"
+            },
+            {
+              "hash": "c9bf5b2",
+              "date": "2026-02-07",
+              "message": "feat(web,core): dynamic masks and mask matching (G4, G5, G8)"
+            },
+            {
+              "hash": "7ce514e",
+              "date": "2026-02-07",
+              "message": "feat(schema): enrich PersonalitySchema and SettingSchema (G1, G2)"
+            },
+            {
+              "hash": "cf1c14b",
+              "date": "2026-02-07",
+              "message": "docs: add staleness banners to 13 archived files (G21)"
+            },
+            {
+              "hash": "dfd3197",
+              "date": "2026-02-07",
+              "message": "docs: resolve G17/G22/G24 quick fixes and G18 aspirational banner"
+            },
+            {
+              "hash": "c8416c8",
+              "date": "2026-02-07",
+              "message": "docs: reorganize into logical subdirectories"
+            },
+            {
+              "hash": "8164197",
+              "date": "2026-02-07",
+              "message": "docs: expand seed alignment audit to full 129-document coverage"
+            },
+            {
+              "hash": "6b24568",
+              "date": "2026-02-07",
+              "message": "docs: expand seed alignment audit with full document coverage"
+            },
+            {
+              "hash": "213d1f8",
+              "date": "2026-02-07",
+              "message": "docs: add seed document alignment audit"
+            },
+            {
+              "hash": "e16a674",
+              "date": "2026-02-07",
+              "message": "docs: add staleness banners to drifted archived documents"
+            },
+            {
+              "hash": "43fdd33",
+              "date": "2026-02-07",
+              "message": "feat(content-model): role-family mapping for curated masks"
+            },
+            {
+              "hash": "44ebc86",
+              "date": "2026-02-07",
+              "message": "docs: reframe project around inverted interview paradigm"
+            },
+            {
+              "hash": "c51d65a",
+              "date": "2026-02-07",
+              "message": "chore: declutter root — move docs and configs"
+            },
+            {
+              "hash": "67b3606",
+              "date": "2026-02-07",
+              "message": "docs: add problem, approach, and outcome to README"
+            },
+            {
+              "hash": "f6ad596",
+              "date": "2026-02-07",
+              "message": "chore(deps): merge Dependabot updates, clean up branches"
+            },
+            {
+              "hash": "867e5af",
+              "date": "2026-02-07",
+              "message": "build(deps-dev): Bump the eslint group with 4 updates (#55)"
+            },
+            {
+              "hash": "d176023",
+              "date": "2026-02-07",
+              "message": "build(deps-dev): Bump @testing-library/react from 16.3.1 to 16.3.2 (#63)"
+            },
+            {
+              "hash": "3d56847",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump lucide-react from 0.562.0 to 0.563.0 (#62)"
+            },
+            {
+              "hash": "f7efbb4",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump @opentelemetry/auto-instrumentations-node (#57)"
+            },
+            {
+              "hash": "104394e",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump prometheuscommunity/postgres-exporter in /infra (#53)"
+            },
+            {
+              "hash": "229270c",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump prom/prometheus from v2.48.0 to v3.9.1 in /infra (#50)"
+            },
+            {
+              "hash": "1590ab1",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump redis from 7-alpine to 8-alpine in /infra (#49)"
+            },
+            {
+              "hash": "63e8499",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump actions/upload-artifact from 4 to 6 (#54)"
+            },
+            {
+              "hash": "ae934cc",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump codecov/codecov-action from 4 to 5 (#52)"
+            },
+            {
+              "hash": "1e66b7e",
+              "date": "2026-02-07",
+              "message": "build(deps): Bump actions/checkout from 4 to 6 (#51)"
+            },
+            {
+              "hash": "35dd034",
+              "date": "2026-02-07",
+              "message": "fix(web,ci): resolve React hooks lint errors and workflow issues"
+            },
+            {
+              "hash": "6538c0d",
+              "date": "2026-02-07",
+              "message": "docs: fix broken references, add package metadata"
+            },
+            {
+              "hash": "db784ae",
+              "date": "2026-02-07",
+              "message": "docs: rewrite README for feature-complete status"
+            },
+            {
+              "hash": "a4ae6af",
+              "date": "2026-02-07",
+              "message": "docs(github): add community health files and issue templates"
+            },
+            {
+              "hash": "f8212ef",
+              "date": "2026-02-07",
+              "message": "chore: declutter root — move docs and infra configs"
+            },
+            {
+              "hash": "686dfb9",
+              "date": "2026-02-07",
+              "message": "feat(deps): upgrade ESLint 9, Vitest 4, Next.js 16, tw-merge 3"
+            },
+            {
+              "hash": "e7cca16",
+              "date": "2026-02-07",
+              "message": "fix(core,api): replace ts-ignore with proper types, add WS auth"
+            },
+            {
+              "hash": "4e3e76b",
+              "date": "2026-02-07",
+              "message": "chore(deps): safe dependency updates and debug cleanup"
+            },
+            {
+              "hash": "bf018ce",
+              "date": "2026-02-07",
+              "message": "docs: update FEATURE-AUDIT with final phase, close all issues"
+            },
+            {
+              "hash": "b23a438",
+              "date": "2026-02-07",
+              "message": "feat(api,web): add interactive demo mode and share polish"
+            },
+            {
+              "hash": "fe8622f",
+              "date": "2026-02-07",
+              "message": "feat(infra): production hardening with PDB, NetworkPolicy, backups"
+            },
+            {
+              "hash": "c4cd713",
+              "date": "2026-02-07",
+              "message": "fix(core,docs): close issues #37, #44, #48"
+            },
+            {
+              "hash": "a3689b8",
+              "date": "2026-02-07",
+              "message": "fix(web,orchestrator): resolve all TODOs, migrate next lint"
+            },
+            {
+              "hash": "bbbb59c",
+              "date": "2026-02-07",
+              "message": "fix(infra): wire Redis password auth into prod compose URLs"
+            },
+            {
+              "hash": "8ec31ae",
+              "date": "2026-02-07",
+              "message": "fix(api,core): resolve remaining TODOs with SHA256 hash impl"
+            },
+            {
+              "hash": "b6d53b9",
+              "date": "2026-02-07",
+              "message": "test(api): add require-admin and feature-gate middleware tests"
+            },
+            {
+              "hash": "dff171a",
+              "date": "2026-02-07",
+              "message": "test(api): update test to match new stub error message"
+            },
+            {
+              "hash": "283e098",
+              "date": "2026-02-07",
+              "message": "fix(api): rename duplicate 009 migration to 009b"
+            },
+            {
+              "hash": "3141c1f",
+              "date": "2026-02-07",
+              "message": "fix(api): guard mock storage and production mock data"
+            },
+            {
+              "hash": "d11bdbe",
+              "date": "2026-02-07",
+              "message": "fix(web): replace UUID fallbacks with empty-state UI"
+            },
+            {
+              "hash": "0ba6d9c",
+              "date": "2026-02-07",
+              "message": "fix(api,content-model): replace self-fetch, wire settings"
+            },
+            {
+              "hash": "09312ae",
+              "date": "2026-02-07",
+              "message": "feat(api,web,content-model): user + admin settings panels"
+            },
+            {
+              "hash": "00a6e5b",
+              "date": "2026-02-07",
+              "message": "fix(web,content-model,docs): polish sprint — lint, tests, audit"
+            },
+            {
+              "hash": "c986d38",
+              "date": "2026-02-07",
+              "message": "feat(content-model,api): contextual follow-up generation"
+            },
+            {
+              "hash": "bb1ea73",
+              "date": "2026-02-07",
+              "message": "feat(api,web): dynamic mask recommendation during interview"
+            },
+            {
+              "hash": "39c5326",
+              "date": "2026-02-07",
+              "message": "docs: correct stale audit marks for tone, scoring, dashboard"
+            },
+            {
+              "hash": "bbb5549",
+              "date": "2026-02-07",
+              "message": "docs: update audit with G1-G25 resolution status"
+            },
+            {
+              "hash": "d1e1102",
+              "date": "2026-02-07",
+              "message": "ci: add lighthouse CI performance and a11y budgets (ADR-006)"
+            },
+            {
+              "hash": "cc09323",
+              "date": "2026-02-07",
+              "message": "feat(core,content-model): compensation market-rate analysis"
+            },
+            {
+              "hash": "5e53493",
+              "date": "2026-02-07",
+              "message": "feat(api): jwt revocation blocklist via Redis (ADR-010)"
+            },
+            {
+              "hash": "96ba580",
+              "date": "2026-02-07",
+              "message": "feat(schema,api,web): minimum viable marketplace (G16)"
+            },
+            {
+              "hash": "82ae464",
+              "date": "2026-02-07",
+              "message": "feat(schema,core,api,web): blockchain SBT integration (G10)"
+            },
+            {
+              "hash": "c91b315",
+              "date": "2026-02-07",
+              "message": "feat(orchestrator): per-role LLM executors with tool restrictions (G15)"
+            },
+            {
+              "hash": "42775f4",
+              "date": "2026-02-07",
+              "message": "feat(api,web): live interview scoring with WebSocket subs (G11)"
+            },
+            {
+              "hash": "8e9d638",
+              "date": "2026-02-07",
+              "message": "feat(design-system,web): a11y critical path for wcag 2.1 AA (G18)"
+            },
+            {
+              "hash": "6fb2927",
+              "date": "2026-02-07",
+              "message": "feat(web): custom mask creation UI and admin nav (G13)"
+            },
+            {
+              "hash": "9b4d388",
+              "date": "2026-02-07",
+              "message": "feat(api): dynamic interview questions and mask suggest (G9, G12)"
+            },
+            {
+              "hash": "0ad7311",
+              "date": "2026-02-07",
+              "message": "docs(core): expand README and artifact system status (G23, G25)"
+            },
+            {
+              "hash": "c2a5ceb",
+              "date": "2026-02-07",
+              "message": "feat(api): add @fastify/helmet security headers (G19)"
+            },
+            {
+              "hash": "202dcee",
+              "date": "2026-02-07",
+              "message": "feat(api,web): identity_core persistence and COVENANT (G3, G6, G7)"
+            },
+            {
+              "hash": "c9bf5b2",
+              "date": "2026-02-07",
+              "message": "feat(web,core): dynamic masks and mask matching (G4, G5, G8)"
+            },
+            {
+              "hash": "7ce514e",
+              "date": "2026-02-07",
+              "message": "feat(schema): enrich PersonalitySchema and SettingSchema (G1, G2)"
+            },
+            {
+              "hash": "cf1c14b",
+              "date": "2026-02-07",
+              "message": "docs: add staleness banners to 13 archived files (G21)"
+            },
+            {
+              "hash": "dfd3197",
+              "date": "2026-02-07",
+              "message": "docs: resolve G17/G22/G24 quick fixes and G18 aspirational banner"
+            },
+            {
+              "hash": "c8416c8",
+              "date": "2026-02-07",
+              "message": "docs: reorganize into logical subdirectories"
+            },
+            {
+              "hash": "8164197",
+              "date": "2026-02-07",
+              "message": "docs: expand seed alignment audit to full 129-document coverage"
+            },
+            {
+              "hash": "6b24568",
+              "date": "2026-02-07",
+              "message": "docs: expand seed alignment audit with full document coverage"
+            },
+            {
+              "hash": "213d1f8",
+              "date": "2026-02-07",
+              "message": "docs: add seed document alignment audit"
+            },
+            {
+              "hash": "e16a674",
+              "date": "2026-02-07",
+              "message": "docs: add staleness banners to drifted archived documents"
+            }
+          ],
+          "files_changed": 320
+        },
+        "the-actual-news": {
+          "commits": [
+            {
+              "hash": "46cbd2d",
+              "date": "2026-02-07",
+              "message": "chore: add original design document to repo root"
+            },
+            {
+              "hash": "2a67a2b",
+              "date": "2026-02-07",
+              "message": "feat: configure monorepo workspaces and CI pipeline"
+            },
+            {
+              "hash": "b73e4ed",
+              "date": "2026-02-07",
+              "message": "feat: add Next.js reader and verifier UI skeleton"
+            },
+            {
+              "hash": "25e9f78",
+              "date": "2026-02-07",
+              "message": "feat: extract gateway service with feed, story, and publish endpoints"
+            },
+            {
+              "hash": "7415f10",
+              "date": "2026-02-07",
+              "message": "feat: add infrastructure, conformance harness, and build tooling"
+            },
+            {
+              "hash": "3360a7d",
+              "date": "2026-02-07",
+              "message": "feat: extract contracts, migrations, and protocol specification"
+            },
+            {
+              "hash": "902c83d",
+              "date": "2026-02-07",
+              "message": "feat: add SDD specification, plan, and task artifacts"
+            },
+            {
+              "hash": "022ec87",
+              "date": "2026-02-07",
+              "message": "feat: initialize repo with standards, community health, and license"
+            },
+            {
+              "hash": "46cbd2d",
+              "date": "2026-02-07",
+              "message": "chore: add original design document to repo root"
+            },
+            {
+              "hash": "2a67a2b",
+              "date": "2026-02-07",
+              "message": "feat: configure monorepo workspaces and CI pipeline"
+            },
+            {
+              "hash": "b73e4ed",
+              "date": "2026-02-07",
+              "message": "feat: add Next.js reader and verifier UI skeleton"
+            },
+            {
+              "hash": "25e9f78",
+              "date": "2026-02-07",
+              "message": "feat: extract gateway service with feed, story, and publish endpoints"
+            },
+            {
+              "hash": "7415f10",
+              "date": "2026-02-07",
+              "message": "feat: add infrastructure, conformance harness, and build tooling"
+            },
+            {
+              "hash": "3360a7d",
+              "date": "2026-02-07",
+              "message": "feat: extract contracts, migrations, and protocol specification"
+            },
+            {
+              "hash": "902c83d",
+              "date": "2026-02-07",
+              "message": "feat: add SDD specification, plan, and task artifacts"
+            },
+            {
+              "hash": "022ec87",
+              "date": "2026-02-07",
+              "message": "feat: initialize repo with standards, community health, and license"
+            }
+          ],
+          "files_changed": 82
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "901d0a2",
+              "date": "2026-02-07",
+              "message": "Add Docker XDG bridge script for chezmoi"
+            },
+            {
+              "hash": "d9b5476",
+              "date": "2026-02-07",
+              "message": "Update skill-index to use workspace source with full category listing"
+            },
+            {
+              "hash": "5997953",
+              "date": "2026-02-07",
+              "message": "Add SSH commit signing, credential helper, and gh extensions"
+            },
+            {
+              "hash": "77eeb17",
+              "date": "2026-02-07",
+              "message": "Fix dark ANSI color contrast in Tokyo Night terminal theme"
+            }
+          ],
+          "files_changed": 12
+        }
+      }
+    }
+  }
+}
