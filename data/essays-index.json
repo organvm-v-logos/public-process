@@ -1,18 +1,18 @@
 {
   "version": "1.1",
-  "updated": "2026-03-17",
+  "updated": "2026-03-21",
   "generated_by": "essay-pipeline indexer v0.3.0",
-  "total_essays": 49,
-  "total_words": 145687,
+  "total_essays": 50,
+  "total_words": 146450,
   "categories": {
     "meta-system": 21,
-    "case-study": 8,
+    "case-study": 9,
     "methodology": 8,
     "guide": 7,
     "retrospective": 5
   },
   "tag_frequency": {
-    "governance": 12,
+    "governance": 13,
     "methodology": 10,
     "creative-practice": 9,
     "infrastructure": 8,
@@ -34,6 +34,7 @@
     "automation": 3,
     "systems-engineering": 3,
     "transparency": 2,
+    "open-source": 2,
     "community": 2,
     "autonomous-systems": 2,
     "platinum-sprint": 2,
@@ -49,7 +50,9 @@
     "devops": 2,
     "quality-engineering": 2,
     "state-machines": 2,
+    "multi-agent": 2,
     "systems-thinking": 2,
+    "state-machine": 2,
     "sprints": 2,
     "beta": 2,
     "shipping": 2,
@@ -58,7 +61,6 @@
     "solo-production": 2,
     "organ-v": 2,
     "writing": 2,
-    "open-source": 1,
     "lessons-learned": 1,
     "artistic-methodology": 1,
     "grants": 1,
@@ -144,8 +146,6 @@
     "peirce": 1,
     "artists": 1,
     "frameworks": 1,
-    "multi-agent": 1,
-    "state-machine": 1,
     "promotions": 1,
     "archives": 1,
     "product-development": 1,
@@ -189,7 +189,11 @@
     "organ-chain": 1,
     "styx": 1,
     "behavioral-economics": 1,
-    "reset": 1
+    "reset": 1,
+    "contribution": 1,
+    "versioning": 1,
+    "adenhq": 1,
+    "hive": 1
   },
   "essays": [
     {
@@ -1071,6 +1075,26 @@
       "word_count": 891,
       "readability_score": 66.4,
       "reading_time": "4 min",
+      "portfolio_relevance": "HIGH"
+    },
+    {
+      "filename": "2026-03-21-how-governance-taught-agents-to-version.md",
+      "title": "How a Governance System Taught an Agent Framework to Version Itself",
+      "date": "2026-03-21",
+      "category": "case-study",
+      "tags": [
+        "governance",
+        "open-source",
+        "contribution",
+        "versioning",
+        "state-machine",
+        "multi-agent",
+        "adenhq",
+        "hive"
+      ],
+      "word_count": 763,
+      "readability_score": 66.1,
+      "reading_time": "3 min",
       "portfolio_relevance": "HIGH"
     }
   ]
