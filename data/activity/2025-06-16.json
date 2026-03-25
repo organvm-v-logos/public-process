@@ -1,0 +1,30 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-06-16",
+  "until": "2025-06-16",
+  "summary": {
+    "total_commits": 1,
+    "repos_active": 1,
+    "files_changed": 0,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "7c29421",
+              "date": "2025-06-16",
+              "message": "add environment variables configuration for Blender connection host and port"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    }
+  }
+}

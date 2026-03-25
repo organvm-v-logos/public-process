@@ -1,0 +1,40 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-11-12",
+  "until": "2023-11-12",
+  "summary": {
+    "total_commits": 3,
+    "repos_active": 1,
+    "files_changed": 7,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "d3ebf36",
+              "date": "2023-11-12",
+              "message": "CI build"
+            },
+            {
+              "hash": "6ae635b",
+              "date": "2023-11-12",
+              "message": "chore: release userscript 2.17.1"
+            },
+            {
+              "hash": "6e72297",
+              "date": "2023-11-12",
+              "message": "fix: replace latex annotation `\\[ \\] \\( \\)` with $ for better compatibility"
+            }
+          ],
+          "files_changed": 7
+        }
+      }
+    }
+  }
+}

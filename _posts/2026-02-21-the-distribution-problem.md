@@ -12,8 +12,8 @@ related_repos:
   - organvm-vii-kerygma/social-automation
   - organvm-vii-kerygma/distribution-strategy
   - organvm-vii-kerygma/announcement-templates
-reading_time: "9 min"
-word_count: 2200
+reading_time: "7 min"
+word_count: 1873
 references:
   - "[1] IndieWeb Community, \"[POSSE](https://indieweb.org/POSSE) — Publish (on your) Own Site, Syndicate Elsewhere,\" indieweb.org, accessed 2026."
   - "[2] Tantek Çelik, \"Why IndieWeb,\" [tantek.com](https://tantek.com/), 2014."

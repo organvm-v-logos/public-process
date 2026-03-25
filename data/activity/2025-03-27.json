@@ -1,0 +1,45 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-03-27",
+  "until": "2025-03-27",
+  "summary": {
+    "total_commits": 4,
+    "repos_active": 1,
+    "files_changed": 1,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "3bbb6f0",
+              "date": "2025-03-27",
+              "message": "Revert \"Revert \"Fix for create_object(type=\"PLANE\") when scale given.\"\""
+            },
+            {
+              "hash": "6e0a202",
+              "date": "2025-03-27",
+              "message": "Revert \"Fix for create_object(type=\"PLANE\") when scale given.\""
+            },
+            {
+              "hash": "44f33ac",
+              "date": "2025-03-27",
+              "message": "Make scale applying more specific"
+            },
+            {
+              "hash": "4472d6f",
+              "date": "2025-03-27",
+              "message": "Fix for create_object(type=\"PLANE\") when scale given."
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

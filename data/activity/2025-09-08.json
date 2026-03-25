@@ -1,0 +1,40 @@
+{
+  "generated": "2026-03-06T00:39:31Z",
+  "since": "2025-09-08",
+  "until": "2025-09-08",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 2,
+    "files_changed": 3,
+    "organs_touched": [
+      "I"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "4c9b4de",
+              "date": "2025-09-08",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 1
+        },
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "769189f",
+              "date": "2025-09-08",
+              "message": "Expand PR test debugger with latest run helper"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}

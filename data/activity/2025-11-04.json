@@ -1,0 +1,357 @@
+{
+  "generated": "2026-03-06T00:39:29Z",
+  "since": "2025-11-04",
+  "until": "2025-11-04",
+  "summary": {
+    "total_commits": 58,
+    "repos_active": 7,
+    "files_changed": 98,
+    "organs_touched": [
+      "I",
+      "II",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "a-recursive-root": {
+          "commits": [
+            {
+              "hash": "c5ce4d0",
+              "date": "2025-11-04",
+              "message": "Improve import error handling in suggest_sub_issues script"
+            },
+            {
+              "hash": "d5947f9",
+              "date": "2025-11-04",
+              "message": "Enable proper test validation in CI workflow"
+            },
+            {
+              "hash": "51a8b6d",
+              "date": "2025-11-04",
+              "message": "Add integration tests and update test infrastructure"
+            },
+            {
+              "hash": "83c4eeb",
+              "date": "2025-11-04",
+              "message": "Add sub-issue suggester tool with task decomposer fixes"
+            },
+            {
+              "hash": "9615448",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 9
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "fec6e52",
+              "date": "2025-11-04",
+              "message": "Add comprehensive task completion summary and final analysis"
+            },
+            {
+              "hash": "eed3fd8",
+              "date": "2025-11-04",
+              "message": "Add comprehensive branch cleanup analysis and PR #9 conflict resolution guide"
+            },
+            {
+              "hash": "88e6658",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "0ca35ea",
+              "date": "2025-11-04",
+              "message": "Fix etymology and directory name in README"
+            },
+            {
+              "hash": "7c07a1d",
+              "date": "2025-11-04",
+              "message": "Update README to reflect complete Pantheon architecture and repository context"
+            },
+            {
+              "hash": "aa91f4a",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "7d78d66",
+              "date": "2025-11-04",
+              "message": "Add PR resolution guide for closing integrated pull requests"
+            },
+            {
+              "hash": "d7b60bd",
+              "date": "2025-11-04",
+              "message": "Add comprehensive merge summary documentation"
+            },
+            {
+              "hash": "438b1d2",
+              "date": "2025-11-04",
+              "message": "Merge all branches: Complete implementation with datetime fixes and governance"
+            },
+            {
+              "hash": "386a302",
+              "date": "2025-11-04",
+              "message": "Initial analysis and plan for merging disparate branches"
+            },
+            {
+              "hash": "0f79efd",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 38
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "43c9d24",
+              "date": "2025-11-04",
+              "message": "Complete branch merge documentation with validation results"
+            },
+            {
+              "hash": "c3cf5ca",
+              "date": "2025-11-04",
+              "message": "Add security warnings to legacy application documentation"
+            },
+            {
+              "hash": "1b24e5b",
+              "date": "2025-11-04",
+              "message": "Preserve unique data from feature-secure-api-key branch and document merge"
+            },
+            {
+              "hash": "5f1f30d",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "43c9d24",
+              "date": "2025-11-04",
+              "message": "Complete branch merge documentation with validation results"
+            },
+            {
+              "hash": "c3cf5ca",
+              "date": "2025-11-04",
+              "message": "Add security warnings to legacy application documentation"
+            },
+            {
+              "hash": "1b24e5b",
+              "date": "2025-11-04",
+              "message": "Preserve unique data from feature-secure-api-key branch and document merge"
+            },
+            {
+              "hash": "5f1f30d",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 5
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "5d494b4",
+              "date": "2025-11-04",
+              "message": "Replace uuid library with native crypto.randomUUID for smaller bundle"
+            },
+            {
+              "hash": "7413905",
+              "date": "2025-11-04",
+              "message": "Fix linter issues in email templates"
+            },
+            {
+              "hash": "3632dbc",
+              "date": "2025-11-04",
+              "message": "Add comprehensive analytics dashboard with custom date ranges"
+            },
+            {
+              "hash": "bb3788a",
+              "date": "2025-11-04",
+              "message": "Add email templates for automated outreach to high-priority leads"
+            },
+            {
+              "hash": "1fe080e",
+              "date": "2025-11-04",
+              "message": "Add company notes and follow-up reminders to track engagement"
+            },
+            {
+              "hash": "8a0011e",
+              "date": "2025-11-04",
+              "message": "Add ML confidence scores and recovery likelihood predictions"
+            },
+            {
+              "hash": "ccc7370",
+              "date": "2025-11-04",
+              "message": "Add dark/light theme toggle with smooth transitions"
+            },
+            {
+              "hash": "acc0bcc",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "df20c12",
+              "date": "2025-11-04",
+              "message": "Add comprehensive maintenance guide for repository cleanup"
+            },
+            {
+              "hash": "d803da3",
+              "date": "2025-11-04",
+              "message": "Consolidate dependency updates and document branch cleanup strategy"
+            },
+            {
+              "hash": "3d43650",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "5d494b4",
+              "date": "2025-11-04",
+              "message": "Replace uuid library with native crypto.randomUUID for smaller bundle"
+            },
+            {
+              "hash": "7413905",
+              "date": "2025-11-04",
+              "message": "Fix linter issues in email templates"
+            },
+            {
+              "hash": "3632dbc",
+              "date": "2025-11-04",
+              "message": "Add comprehensive analytics dashboard with custom date ranges"
+            },
+            {
+              "hash": "bb3788a",
+              "date": "2025-11-04",
+              "message": "Add email templates for automated outreach to high-priority leads"
+            },
+            {
+              "hash": "1fe080e",
+              "date": "2025-11-04",
+              "message": "Add company notes and follow-up reminders to track engagement"
+            },
+            {
+              "hash": "8a0011e",
+              "date": "2025-11-04",
+              "message": "Add ML confidence scores and recovery likelihood predictions"
+            },
+            {
+              "hash": "ccc7370",
+              "date": "2025-11-04",
+              "message": "Add dark/light theme toggle with smooth transitions"
+            },
+            {
+              "hash": "acc0bcc",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "df20c12",
+              "date": "2025-11-04",
+              "message": "Add comprehensive maintenance guide for repository cleanup"
+            },
+            {
+              "hash": "d803da3",
+              "date": "2025-11-04",
+              "message": "Consolidate dependency updates and document branch cleanup strategy"
+            },
+            {
+              "hash": "3d43650",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 20
+        },
+        "tab-bookmark-manager": {
+          "commits": [
+            {
+              "hash": "3bfb4f8",
+              "date": "2025-11-04",
+              "message": "I have successfully updated the database schema to include the `users` and `revoked_tokens` tables, as well as foreign key relationships in the `tabs` and `bookmarks` tables."
+            },
+            {
+              "hash": "d1c2da5",
+              "date": "2025-11-04",
+              "message": "I have successfully updated the database schema to include the `users` and `revoked_tokens` tables, as well as foreign key relationships in the `tabs` and `bookmarks` tables."
+            }
+          ],
+          "files_changed": 19
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "ce11e09",
+              "date": "2025-11-04",
+              "message": "Remove duplicate ecmaVersion configuration in eslint.config.js"
+            },
+            {
+              "hash": "ee77744",
+              "date": "2025-11-04",
+              "message": "Fix ESLint flat config by removing incorrect eslint/config import"
+            },
+            {
+              "hash": "3e9acfd",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "92dfbf5",
+              "date": "2025-11-04",
+              "message": "Update eslint.config.js"
+            },
+            {
+              "hash": "b8a45fa",
+              "date": "2025-11-04",
+              "message": "Update TradingPanel.tsx"
+            },
+            {
+              "hash": "ce11e09",
+              "date": "2025-11-04",
+              "message": "Remove duplicate ecmaVersion configuration in eslint.config.js"
+            },
+            {
+              "hash": "ee77744",
+              "date": "2025-11-04",
+              "message": "Fix ESLint flat config by removing incorrect eslint/config import"
+            },
+            {
+              "hash": "3e9acfd",
+              "date": "2025-11-04",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "92dfbf5",
+              "date": "2025-11-04",
+              "message": "Update eslint.config.js"
+            },
+            {
+              "hash": "b8a45fa",
+              "date": "2025-11-04",
+              "message": "Update TradingPanel.tsx"
+            }
+          ],
+          "files_changed": 4
+        }
+      }
+    }
+  }
+}

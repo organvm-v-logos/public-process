@@ -1,0 +1,610 @@
+{
+  "generated": "2026-03-06T00:39:37Z",
+  "since": "2025-12-19",
+  "until": "2025-12-19",
+  "summary": {
+    "total_commits": 109,
+    "repos_active": 9,
+    "files_changed": 185,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "1bf1d66",
+              "date": "2025-12-19",
+              "message": "Add comprehensive README for complete analysis package"
+            },
+            {
+              "hash": "e6c1a6c",
+              "date": "2025-12-19",
+              "message": "Add visual summary diagram for complete analysis package"
+            },
+            {
+              "hash": "cec5b07",
+              "date": "2025-12-19",
+              "message": "Add analysis index and navigation guide"
+            },
+            {
+              "hash": "201fa30",
+              "date": "2025-12-19",
+              "message": "Complete comprehensive 9-dimensional analysis of Aetheria platform"
+            },
+            {
+              "hash": "6f68e2d",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "5693505",
+              "date": "2025-12-19",
+              "message": "Bump @radix-ui/react-menubar from 1.1.6 to 1.1.16"
+            },
+            {
+              "hash": "0a479b6",
+              "date": "2025-12-19",
+              "message": "Bump react-dom and @types/react-dom"
+            },
+            {
+              "hash": "debec72",
+              "date": "2025-12-19",
+              "message": "Bump js-yaml in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "1bf1d66",
+              "date": "2025-12-19",
+              "message": "Add comprehensive README for complete analysis package"
+            },
+            {
+              "hash": "e6c1a6c",
+              "date": "2025-12-19",
+              "message": "Add visual summary diagram for complete analysis package"
+            },
+            {
+              "hash": "cec5b07",
+              "date": "2025-12-19",
+              "message": "Add analysis index and navigation guide"
+            },
+            {
+              "hash": "201fa30",
+              "date": "2025-12-19",
+              "message": "Complete comprehensive 9-dimensional analysis of Aetheria platform"
+            },
+            {
+              "hash": "6f68e2d",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "5693505",
+              "date": "2025-12-19",
+              "message": "Bump @radix-ui/react-menubar from 1.1.6 to 1.1.16"
+            },
+            {
+              "hash": "0a479b6",
+              "date": "2025-12-19",
+              "message": "Bump react-dom and @types/react-dom"
+            },
+            {
+              "hash": "debec72",
+              "date": "2025-12-19",
+              "message": "Bump js-yaml in the npm_and_yarn group across 1 directory"
+            }
+          ],
+          "files_changed": 14
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "4ff560e",
+              "date": "2025-12-19",
+              "message": "Add final summary - comprehensive analysis complete and ready for review"
+            },
+            {
+              "hash": "52993b5",
+              "date": "2025-12-19",
+              "message": "Update README with links to comprehensive analysis documents"
+            },
+            {
+              "hash": "6627bd5",
+              "date": "2025-12-19",
+              "message": "Add Implementation Roadmap - complete actionable plan from critique to production"
+            },
+            {
+              "hash": "8496528",
+              "date": "2025-12-19",
+              "message": "Update comprehensive critique - identified testing setup issues and dependency conflicts"
+            },
+            {
+              "hash": "f23be02",
+              "date": "2025-12-19",
+              "message": "Add comprehensive critique framework documents: Complete analysis, privacy policy, accessibility statement, and blindspots analysis"
+            },
+            {
+              "hash": "f14fc14",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "e9a7f63",
+              "date": "2025-12-19",
+              "message": "chore(deps): bump actions/checkout from 4 to 6"
+            },
+            {
+              "hash": "4ff560e",
+              "date": "2025-12-19",
+              "message": "Add final summary - comprehensive analysis complete and ready for review"
+            },
+            {
+              "hash": "52993b5",
+              "date": "2025-12-19",
+              "message": "Update README with links to comprehensive analysis documents"
+            },
+            {
+              "hash": "6627bd5",
+              "date": "2025-12-19",
+              "message": "Add Implementation Roadmap - complete actionable plan from critique to production"
+            },
+            {
+              "hash": "8496528",
+              "date": "2025-12-19",
+              "message": "Update comprehensive critique - identified testing setup issues and dependency conflicts"
+            },
+            {
+              "hash": "f23be02",
+              "date": "2025-12-19",
+              "message": "Add comprehensive critique framework documents: Complete analysis, privacy policy, accessibility statement, and blindspots analysis"
+            },
+            {
+              "hash": "f14fc14",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "e9a7f63",
+              "date": "2025-12-19",
+              "message": "chore(deps): bump actions/checkout from 4 to 6"
+            }
+          ],
+          "files_changed": 15
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "8b23266",
+              "date": "2025-12-19",
+              "message": "Improve documentation index readability and add executive summary to navigation"
+            },
+            {
+              "hash": "5416691",
+              "date": "2025-12-19",
+              "message": "Add executive summary for quick reference of critical analysis findings"
+            },
+            {
+              "hash": "0498ff7",
+              "date": "2025-12-19",
+              "message": "Update documentation index and README to reference comprehensive analysis"
+            },
+            {
+              "hash": "7eae1e6",
+              "date": "2025-12-19",
+              "message": "Add comprehensive critical analysis document covering 9 analytical dimensions"
+            },
+            {
+              "hash": "4d947d2",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8777cfe",
+              "date": "2025-12-19",
+              "message": "⚡ Bolt: Throttle Three.js raycasting to reduce CPU load"
+            },
+            {
+              "hash": "1bf8eba",
+              "date": "2025-12-19",
+              "message": "docs: validate links and update status tracking documents"
+            },
+            {
+              "hash": "ccbab05",
+              "date": "2025-12-19",
+              "message": "docs: add architecture, templates, index, and update README"
+            },
+            {
+              "hash": "0dfad6d",
+              "date": "2025-12-19",
+              "message": "feat: add governance files and reorganize documentation structure"
+            },
+            {
+              "hash": "a330662",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8b23266",
+              "date": "2025-12-19",
+              "message": "Improve documentation index readability and add executive summary to navigation"
+            },
+            {
+              "hash": "5416691",
+              "date": "2025-12-19",
+              "message": "Add executive summary for quick reference of critical analysis findings"
+            },
+            {
+              "hash": "0498ff7",
+              "date": "2025-12-19",
+              "message": "Update documentation index and README to reference comprehensive analysis"
+            },
+            {
+              "hash": "7eae1e6",
+              "date": "2025-12-19",
+              "message": "Add comprehensive critical analysis document covering 9 analytical dimensions"
+            },
+            {
+              "hash": "4d947d2",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "8777cfe",
+              "date": "2025-12-19",
+              "message": "⚡ Bolt: Throttle Three.js raycasting to reduce CPU load"
+            },
+            {
+              "hash": "1bf8eba",
+              "date": "2025-12-19",
+              "message": "docs: validate links and update status tracking documents"
+            },
+            {
+              "hash": "ccbab05",
+              "date": "2025-12-19",
+              "message": "docs: add architecture, templates, index, and update README"
+            },
+            {
+              "hash": "0dfad6d",
+              "date": "2025-12-19",
+              "message": "feat: add governance files and reorganize documentation structure"
+            },
+            {
+              "hash": "a330662",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 15
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "e8c03c4",
+              "date": "2025-12-19",
+              "message": "Add comprehensive review completion summary"
+            },
+            {
+              "hash": "eb2a301",
+              "date": "2025-12-19",
+              "message": "Implement comprehensive input sanitization and security documentation"
+            },
+            {
+              "hash": "5defa69",
+              "date": "2025-12-19",
+              "message": "Add comprehensive critique and evolution roadmap documents"
+            },
+            {
+              "hash": "6e301c0",
+              "date": "2025-12-19",
+              "message": "Initial comprehensive review plan for expansive critique and evolution"
+            },
+            {
+              "hash": "6971659",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "b1a7d91",
+              "date": "2025-12-19",
+              "message": "Bump tailwindcss from 4.1.16 to 4.1.18"
+            },
+            {
+              "hash": "305b5ca",
+              "date": "2025-12-19",
+              "message": "Bump @octokit/core from 6.1.6 to 7.0.6"
+            },
+            {
+              "hash": "9aa658d",
+              "date": "2025-12-19",
+              "message": "Bump recharts from 3.4.1 to 3.6.0"
+            },
+            {
+              "hash": "9ae1a32",
+              "date": "2025-12-19",
+              "message": "Bump zod from 4.1.13 to 4.2.1"
+            },
+            {
+              "hash": "e8c03c4",
+              "date": "2025-12-19",
+              "message": "Add comprehensive review completion summary"
+            },
+            {
+              "hash": "eb2a301",
+              "date": "2025-12-19",
+              "message": "Implement comprehensive input sanitization and security documentation"
+            },
+            {
+              "hash": "5defa69",
+              "date": "2025-12-19",
+              "message": "Add comprehensive critique and evolution roadmap documents"
+            },
+            {
+              "hash": "6e301c0",
+              "date": "2025-12-19",
+              "message": "Initial comprehensive review plan for expansive critique and evolution"
+            },
+            {
+              "hash": "6971659",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "b1a7d91",
+              "date": "2025-12-19",
+              "message": "Bump tailwindcss from 4.1.16 to 4.1.18"
+            },
+            {
+              "hash": "305b5ca",
+              "date": "2025-12-19",
+              "message": "Bump @octokit/core from 6.1.6 to 7.0.6"
+            },
+            {
+              "hash": "9aa658d",
+              "date": "2025-12-19",
+              "message": "Bump recharts from 3.4.1 to 3.6.0"
+            },
+            {
+              "hash": "9ae1a32",
+              "date": "2025-12-19",
+              "message": "Bump zod from 4.1.13 to 4.2.1"
+            }
+          ],
+          "files_changed": 19
+        },
+        "sovereign-ecosystem--real-estate-luxury": {
+          "commits": [
+            {
+              "hash": "7d972cc",
+              "date": "2025-12-19",
+              "message": "fix: standardize status emoji formatting in scorecard table"
+            },
+            {
+              "hash": "44ba583",
+              "date": "2025-12-19",
+              "message": "Update SYSTEM_ANALYSIS.md"
+            },
+            {
+              "hash": "330adc7",
+              "date": "2025-12-19",
+              "message": "Update SYSTEM_ANALYSIS.md"
+            },
+            {
+              "hash": "72dfc16",
+              "date": "2025-12-19",
+              "message": "Update ANALYSIS_COMPLETE.md"
+            },
+            {
+              "hash": "478aead",
+              "date": "2025-12-19",
+              "message": "docs: add task completion summary with all deliverables"
+            },
+            {
+              "hash": "5a9f021",
+              "date": "2025-12-19",
+              "message": "docs: add executive summary for system analysis"
+            },
+            {
+              "hash": "65641e4",
+              "date": "2025-12-19",
+              "message": "feat: add comprehensive system analysis covering 9 dimensions"
+            },
+            {
+              "hash": "1f035d6",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3f44c78",
+              "date": "2025-12-19",
+              "message": "Bump typescript from 5.7.3 to 5.9.3"
+            },
+            {
+              "hash": "1f335f9",
+              "date": "2025-12-19",
+              "message": "⚡ Bolt: Optimize MarketOverview re-renders & fix crashes"
+            },
+            {
+              "hash": "13e5be3",
+              "date": "2025-12-19",
+              "message": "Bump three from 0.175.0 to 0.182.0"
+            },
+            {
+              "hash": "cfd22b7",
+              "date": "2025-12-19",
+              "message": "Bump typescript-eslint from 8.48.0 to 8.50.0"
+            },
+            {
+              "hash": "a589a78",
+              "date": "2025-12-19",
+              "message": "Bump uuid from 11.1.0 to 13.0.0"
+            },
+            {
+              "hash": "8e3a21e",
+              "date": "2025-12-19",
+              "message": "Bump @tailwindcss/postcss from 4.1.17 to 4.1.18"
+            },
+            {
+              "hash": "7d972cc",
+              "date": "2025-12-19",
+              "message": "fix: standardize status emoji formatting in scorecard table"
+            },
+            {
+              "hash": "44ba583",
+              "date": "2025-12-19",
+              "message": "Update SYSTEM_ANALYSIS.md"
+            },
+            {
+              "hash": "330adc7",
+              "date": "2025-12-19",
+              "message": "Update SYSTEM_ANALYSIS.md"
+            },
+            {
+              "hash": "72dfc16",
+              "date": "2025-12-19",
+              "message": "Update ANALYSIS_COMPLETE.md"
+            },
+            {
+              "hash": "478aead",
+              "date": "2025-12-19",
+              "message": "docs: add task completion summary with all deliverables"
+            },
+            {
+              "hash": "5a9f021",
+              "date": "2025-12-19",
+              "message": "docs: add executive summary for system analysis"
+            },
+            {
+              "hash": "65641e4",
+              "date": "2025-12-19",
+              "message": "feat: add comprehensive system analysis covering 9 dimensions"
+            },
+            {
+              "hash": "1f035d6",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3f44c78",
+              "date": "2025-12-19",
+              "message": "Bump typescript from 5.7.3 to 5.9.3"
+            },
+            {
+              "hash": "1f335f9",
+              "date": "2025-12-19",
+              "message": "⚡ Bolt: Optimize MarketOverview re-renders & fix crashes"
+            },
+            {
+              "hash": "13e5be3",
+              "date": "2025-12-19",
+              "message": "Bump three from 0.175.0 to 0.182.0"
+            },
+            {
+              "hash": "cfd22b7",
+              "date": "2025-12-19",
+              "message": "Bump typescript-eslint from 8.48.0 to 8.50.0"
+            },
+            {
+              "hash": "a589a78",
+              "date": "2025-12-19",
+              "message": "Bump uuid from 11.1.0 to 13.0.0"
+            },
+            {
+              "hash": "8e3a21e",
+              "date": "2025-12-19",
+              "message": "Bump @tailwindcss/postcss from 4.1.17 to 4.1.18"
+            }
+          ],
+          "files_changed": 23
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "abb47e6",
+              "date": "2025-12-19",
+              "message": "Complete comprehensive critique and review analysis"
+            },
+            {
+              "hash": "21956d3",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "abb47e6",
+              "date": "2025-12-19",
+              "message": "Complete comprehensive critique and review analysis"
+            },
+            {
+              "hash": "21956d3",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 12
+        },
+        "virgil-training-overlay": {
+          "commits": [
+            {
+              "hash": "fe81e19",
+              "date": "2025-12-19",
+              "message": "Update main.swift"
+            },
+            {
+              "hash": "34ef164",
+              "date": "2025-12-19",
+              "message": "Refactor mac-tooltip for performance, security, and stability"
+            },
+            {
+              "hash": "fe81e19",
+              "date": "2025-12-19",
+              "message": "Update main.swift"
+            },
+            {
+              "hash": "34ef164",
+              "date": "2025-12-19",
+              "message": "Refactor mac-tooltip for performance, security, and stability"
+            }
+          ],
+          "files_changed": 4
+        },
+        "search-local--happy-hour": {
+          "commits": [
+            {
+              "hash": "185b226",
+              "date": "2025-12-19",
+              "message": "Add README_ANALYSIS.md as comprehensive navigation guide for all analysis documents"
+            },
+            {
+              "hash": "a0d500a",
+              "date": "2025-12-19",
+              "message": "Add ANALYSIS_SUMMARY.md and update CRITIQUE.md with cross-references"
+            },
+            {
+              "hash": "2c96915",
+              "date": "2025-12-19",
+              "message": "Add comprehensive analysis: critique, logic check, logos/pathos/ethos, blindspots, shatter-points, bloom, and evolution strategy"
+            },
+            {
+              "hash": "19fb5c3",
+              "date": "2025-12-19",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 6
+        },
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "f16a554",
+              "date": "2025-12-19",
+              "message": "Merge pull request #1 from ivviiviivvi/claude/social-affiliation-bubbles-01PyL2BMg7ini3UvQCvGWVdZ"
+            }
+          ],
+          "files_changed": 77
+        }
+      }
+    }
+  }
+}

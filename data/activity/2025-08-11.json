@@ -1,0 +1,181 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2025-08-11",
+  "until": "2025-08-11",
+  "summary": {
+    "total_commits": 29,
+    "repos_active": 2,
+    "files_changed": 14,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "d3ca1f8",
+              "date": "2025-08-11",
+              "message": "Add comprehensive generalization summary documentation"
+            },
+            {
+              "hash": "21463bc",
+              "date": "2025-08-11",
+              "message": "Create comprehensive set of generalized templates and naming conventions"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "08e96f9",
+              "date": "2025-08-11",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "b6418ee",
+              "date": "2025-08-11",
+              "message": "Delete images/parabolic.jpg"
+            },
+            {
+              "hash": "8561fd4",
+              "date": "2025-08-11",
+              "message": "Rename images:parabolic.jpg to parabolic.jpg"
+            },
+            {
+              "hash": "52ec009",
+              "date": "2025-08-11",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "f550d69",
+              "date": "2025-08-11",
+              "message": "Delete images/parabolic.jpg"
+            },
+            {
+              "hash": "a37f0fa",
+              "date": "2025-08-11",
+              "message": "Rename images:parabolic.jpg to parabolic.jpg"
+            },
+            {
+              "hash": "45759ae",
+              "date": "2025-08-11",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "db59da4",
+              "date": "2025-08-11",
+              "message": "Delete images/parabolic.jpg"
+            },
+            {
+              "hash": "7152698",
+              "date": "2025-08-11",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "2f6ff27",
+              "date": "2025-08-11",
+              "message": "Delete images/endorsement9.jpg"
+            },
+            {
+              "hash": "c9cccee",
+              "date": "2025-08-11",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "17b7219",
+              "date": "2025-08-11",
+              "message": "Delete images/endorsement6.jpg"
+            },
+            {
+              "hash": "6dccc19",
+              "date": "2025-08-11",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "bda4b30",
+              "date": "2025-08-11",
+              "message": "Delete images/endorsement3.jpg"
+            },
+            {
+              "hash": "16fd8d4",
+              "date": "2025-08-11",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "6d08208",
+              "date": "2025-08-11",
+              "message": "Delete images/rex.jpg"
+            },
+            {
+              "hash": "3bf34ee",
+              "date": "2025-08-11",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "3a9d841",
+              "date": "2025-08-11",
+              "message": "Delete images/vp.jpg"
+            },
+            {
+              "hash": "f2e1f36",
+              "date": "2025-08-11",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "d357e9a",
+              "date": "2025-08-11",
+              "message": "Delete images/image-2.jpg"
+            },
+            {
+              "hash": "034e734",
+              "date": "2025-08-11",
+              "message": "Add files via upload"
+            },
+            {
+              "hash": "22b26b0",
+              "date": "2025-08-11",
+              "message": "Delete images/notsrs.jpg"
+            },
+            {
+              "hash": "3d94646",
+              "date": "2025-08-11",
+              "message": "Delete images/nixon-health.jpg"
+            },
+            {
+              "hash": "ee3eef8",
+              "date": "2025-08-11",
+              "message": "Delete images/image-4.jpg"
+            },
+            {
+              "hash": "e445da3",
+              "date": "2025-08-11",
+              "message": "Delete images/firstlady.jpg"
+            },
+            {
+              "hash": "727f408",
+              "date": "2025-08-11",
+              "message": "Delete images/endorsement2.jpg"
+            },
+            {
+              "hash": "04f1f28",
+              "date": "2025-08-11",
+              "message": "Delete images/cofstaff.jpg"
+            }
+          ],
+          "files_changed": 14
+        }
+      }
+    }
+  }
+}

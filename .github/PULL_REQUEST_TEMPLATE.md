@@ -16,7 +16,8 @@
 
 <!-- How did you test these changes? -->
 
-- [ ] Existing tests pass
+- [ ] `../validate.sh` passes from workspace root
+- [ ] `bundle exec jekyll build --strict_front_matter --future` passes
 - [ ] New tests added (if applicable)
 - [ ] Manual testing performed
 
@@ -26,3 +27,5 @@
 - [ ] Self-review completed
 - [ ] Documentation updated (if applicable)
 - [ ] No secrets or credentials included
+- [ ] Data artifacts regenerated and committed when `_posts/` or `_logs/` changed
+- [ ] Related issue linked with explicit success criteria

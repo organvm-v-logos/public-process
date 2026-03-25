@@ -1,7 +1,7 @@
 {
   "version": "1.1",
-  "updated": "2026-03-03",
-  "total": 46,
+  "updated": "2026-03-21",
+  "total": 50,
   "entries": {
     "2026-02-10-building-in-public.md": {
       "title": "Building in Public: Radical Transparency as Creative Methodology",
@@ -784,6 +784,79 @@
         "honesty"
       ],
       "category": "retrospective"
+    },
+    "2026-03-04-precision-over-volume-doctoral-thesis.md": {
+      "title": "Precision Over Volume: A Doctoral Thesis on Career Pipeline Optimization",
+      "related_repos": [
+        "organvm-v-logos/public-process"
+      ],
+      "tags": [
+        "dissertation",
+        "mcda",
+        "career-pipeline",
+        "network-theory",
+        "portfolio-optimization",
+        "precision-hiring",
+        "mathematical-proofs"
+      ],
+      "category": "methodology"
+    },
+    "2026-03-05-the-autonomous-sprint.md": {
+      "title": "The Autonomous Sprint: When the System Maintains Itself",
+      "related_repos": [
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "meta-organvm/organvm-engine",
+        "organvm-v-logos/public-process"
+      ],
+      "tags": [
+        "autonomy",
+        "sprints",
+        "ai-conductor",
+        "security",
+        "accessibility",
+        "governance",
+        "operations"
+      ],
+      "category": "methodology"
+    },
+    "2026-03-11-the-organ-chain-reset.md": {
+      "title": "The Organ Chain Reset: When the Pipeline Is the Product",
+      "related_repos": [
+        "organvm-iii-ergon/peer-audited--behavioral-blockchain",
+        "organvm-i-theoria/styx-behavioral-economics-theory",
+        "organvm-ii-poiesis/styx-behavioral-art",
+        "meta-organvm/organvm-engine",
+        "meta-organvm/materia-collider"
+      ],
+      "tags": [
+        "governance",
+        "pipeline",
+        "organ-chain",
+        "styx",
+        "behavioral-economics",
+        "reset",
+        "building-in-public"
+      ],
+      "category": "methodology"
+    },
+    "2026-03-21-how-governance-taught-agents-to-version.md": {
+      "title": "How a Governance System Taught an Agent Framework to Version Itself",
+      "related_repos": [
+        "organvm-iv-taxis/contrib--adenhq-hive",
+        "organvm-iv-taxis/agentic-titan",
+        "organvm-i-theoria/sema-metra--alchemica-mundi"
+      ],
+      "tags": [
+        "governance",
+        "open-source",
+        "contribution",
+        "versioning",
+        "state-machine",
+        "multi-agent",
+        "adenhq",
+        "hive"
+      ],
+      "category": "case-study"
     }
   }
 }

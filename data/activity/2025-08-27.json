@@ -1,0 +1,76 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2025-08-27",
+  "until": "2025-08-27",
+  "summary": {
+    "total_commits": 7,
+    "repos_active": 3,
+    "files_changed": 2,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "98951d2",
+              "date": "2025-08-27",
+              "message": "Add timeout to askpass script"
+            },
+            {
+              "hash": "40e73ae",
+              "date": "2025-08-27",
+              "message": "Add timeout to askpass script"
+            },
+            {
+              "hash": "bcc612c",
+              "date": "2025-08-27",
+              "message": "Add timeout to askpass script"
+            }
+          ],
+          "files_changed": 0
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "e584d1d",
+              "date": "2025-08-27",
+              "message": "GrindrPlus: Fetch latest Grindr version"
+            }
+          ],
+          "files_changed": 0
+        },
+        "select-or-left-or-right-or": {
+          "commits": [
+            {
+              "hash": "1e437ce",
+              "date": "2025-08-27",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "d7d7530",
+              "date": "2025-08-27",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "4ee3363",
+              "date": "2025-08-27",
+              "message": "Delete images/rekt.jpg"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}

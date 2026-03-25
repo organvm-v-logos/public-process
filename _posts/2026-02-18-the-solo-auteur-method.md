@@ -12,8 +12,8 @@ related_repos:
   - organvm-iv-taxis/orchestration-start-here
   - organvm-v-logos/public-process
   - organvm-iv-taxis/agentic-titan
-reading_time: "12 min"
-word_count: 2700
+reading_time: "8 min"
+word_count: 1987
 references: []
 ---
 

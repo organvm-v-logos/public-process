@@ -1,0 +1,91 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2025-11-22",
+  "until": "2025-11-22",
+  "summary": {
+    "total_commits": 11,
+    "repos_active": 2,
+    "files_changed": 12,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "d36da4f",
+              "date": "2025-11-22",
+              "message": "Add preservation checklist and update documentation"
+            }
+          ],
+          "files_changed": 9
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "1a6329f",
+              "date": "2025-11-22",
+              "message": "Update .gitignore"
+            },
+            {
+              "hash": "6ab0738",
+              "date": "2025-11-22",
+              "message": "Bump puppeteer from 23.11.1 to 24.31.0"
+            },
+            {
+              "hash": "8dc19a5",
+              "date": "2025-11-22",
+              "message": "Bump three from 0.175.0 to 0.181.2"
+            },
+            {
+              "hash": "708fba2",
+              "date": "2025-11-22",
+              "message": "Bump date-fns from 3.6.0 to 4.1.0"
+            },
+            {
+              "hash": "2796443",
+              "date": "2025-11-22",
+              "message": "Bump @tailwindcss/postcss from 4.1.16 to 4.1.17"
+            },
+            {
+              "hash": "1a6329f",
+              "date": "2025-11-22",
+              "message": "Update .gitignore"
+            },
+            {
+              "hash": "6ab0738",
+              "date": "2025-11-22",
+              "message": "Bump puppeteer from 23.11.1 to 24.31.0"
+            },
+            {
+              "hash": "8dc19a5",
+              "date": "2025-11-22",
+              "message": "Bump three from 0.175.0 to 0.181.2"
+            },
+            {
+              "hash": "708fba2",
+              "date": "2025-11-22",
+              "message": "Bump date-fns from 3.6.0 to 4.1.0"
+            },
+            {
+              "hash": "2796443",
+              "date": "2025-11-22",
+              "message": "Bump @tailwindcss/postcss from 4.1.16 to 4.1.17"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

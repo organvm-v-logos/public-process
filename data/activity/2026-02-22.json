@@ -1,0 +1,257 @@
+{
+  "generated": "2026-03-06T00:39:27Z",
+  "since": "2026-02-22",
+  "until": "2026-02-22",
+  "summary": {
+    "total_commits": 39,
+    "repos_active": 6,
+    "files_changed": 327,
+    "organs_touched": [
+      "III",
+      "META",
+      "Personal"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "1b29d65",
+              "date": "2026-02-22",
+              "message": "chore: refresh trust vitals timestamps"
+            },
+            {
+              "hash": "c795a20",
+              "date": "2026-02-22",
+              "message": "fix(quality): tighten budgets, nav indicator, heading hierarchy, observer cleanup"
+            },
+            {
+              "hash": "8d521a0",
+              "date": "2026-02-22",
+              "message": "fix(a11y): use inert on flip card back faces and collapsed organ panels"
+            },
+            {
+              "hash": "514d8f3",
+              "date": "2026-02-22",
+              "message": "fix(ux): boost flip card pattern and watermark contrast"
+            },
+            {
+              "hash": "5295a54",
+              "date": "2026-02-22",
+              "message": "feat(ux): add 3D card flip with organ-colored CSS patterns"
+            },
+            {
+              "hash": "ba4d6c2",
+              "date": "2026-02-22",
+              "message": "feat(ux): add progressive disclosure and multi-dropdown header navigation"
+            },
+            {
+              "hash": "a19ac82",
+              "date": "2026-02-22",
+              "message": "chore: refresh trust vitals timestamps"
+            },
+            {
+              "hash": "2020e61",
+              "date": "2026-02-22",
+              "message": "fix(quality): resolve typecheck, a11y, data, and validation pipeline failures"
+            },
+            {
+              "hash": "7bbbea1",
+              "date": "2026-02-22",
+              "message": "fix(quality): remediate ~40 issues across security, a11y, CSS, data integrity, and CI/CD"
+            },
+            {
+              "hash": "2ef46d9",
+              "date": "2026-02-22",
+              "message": "feat(evolution): finalize growth phase refinements with artifact taxonomy and mobile hardening"
+            },
+            {
+              "hash": "86cfe18",
+              "date": "2026-02-22",
+              "message": "feat(evolution): achieve staff-plus state with unified vitals, categorized essays, and institutional chrome visual refinements"
+            },
+            {
+              "hash": "1fae609",
+              "date": "2026-02-22",
+              "message": "fix(consult): repair AI integration logic and enable local testing"
+            },
+            {
+              "hash": "934e85b",
+              "date": "2026-02-22",
+              "message": "fix(ui): normalize typography, improve sketch contrast, and harden table layouts"
+            },
+            {
+              "hash": "04626b5",
+              "date": "2026-02-22",
+              "message": "feat(essays): add subtitles and high-impact summaries to essay list"
+            },
+            {
+              "hash": "e87617e",
+              "date": "2026-02-22",
+              "message": "docs(accessibility): add labels, captions, and data sources to all visualizations"
+            },
+            {
+              "hash": "ba8556a",
+              "date": "2026-02-22",
+              "message": "fix(ui): resolve layout and contrast issues across hero, about, and header"
+            },
+            {
+              "hash": "f18392d",
+              "date": "2026-02-22",
+              "message": "feat(content): refine system-wide branding and technical project documentation"
+            }
+          ],
+          "files_changed": 111
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "ce0a36f",
+              "date": "2026-02-22",
+              "message": "chore: system pulse report 2026-02-22"
+            },
+            {
+              "hash": "4af2be5",
+              "date": "2026-02-22",
+              "message": "chore: soak test snapshot 2026-02-22"
+            }
+          ],
+          "files_changed": 4
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "organvm-iii-ergon": {
+          "commits": [
+            {
+              "hash": "cf8ecf2",
+              "date": "2026-02-22",
+              "message": "docs: add peer-audited--behavioral-blockchain to organ catalog"
+            }
+          ],
+          "files_changed": 1
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "ce0a36f",
+              "date": "2026-02-22",
+              "message": "chore: system pulse report 2026-02-22"
+            },
+            {
+              "hash": "4af2be5",
+              "date": "2026-02-22",
+              "message": "chore: soak test snapshot 2026-02-22"
+            }
+          ],
+          "files_changed": 4
+        },
+        "organvm-iii-ergon--superproject": {
+          "commits": [
+            {
+              "hash": "cf8ecf2",
+              "date": "2026-02-22",
+              "message": "docs: add peer-audited--behavioral-blockchain to organ catalog"
+            }
+          ],
+          "files_changed": 1
+        },
+        "peer-audited--behavioral-blockchain": {
+          "commits": [
+            {
+              "hash": "50c2242",
+              "date": "2026-02-22",
+              "message": "feat: close consensus→resolution bridge + full-stack demo infrastructure"
+            },
+            {
+              "hash": "4b664d0",
+              "date": "2026-02-22",
+              "message": "fix: resolve docker-compose boot failures for end-to-end operation"
+            },
+            {
+              "hash": "3f200fd",
+              "date": "2026-02-22",
+              "message": "feat: wire web UI to live API + fix infrastructure for docker boot"
+            },
+            {
+              "hash": "b88e005",
+              "date": "2026-02-22",
+              "message": "test: add 73 unit tests for all new NestJS modules"
+            },
+            {
+              "hash": "7b168b2",
+              "date": "2026-02-22",
+              "message": "feat: build NestJS application spine + contract lifecycle engine"
+            },
+            {
+              "hash": "fe01a4f",
+              "date": "2026-02-22",
+              "message": "fix: upgrade deps to resolve Dependabot vulnerabilities"
+            },
+            {
+              "hash": "14876cd",
+              "date": "2026-02-22",
+              "message": "chore: add seed.yaml automation contract"
+            },
+            {
+              "hash": "dbed84f",
+              "date": "2026-02-22",
+              "message": "feat: scaffold Styx monorepo with core services, shared logic, and docs"
+            },
+            {
+              "hash": "50c2242",
+              "date": "2026-02-22",
+              "message": "feat: close consensus→resolution bridge + full-stack demo infrastructure"
+            },
+            {
+              "hash": "4b664d0",
+              "date": "2026-02-22",
+              "message": "fix: resolve docker-compose boot failures for end-to-end operation"
+            },
+            {
+              "hash": "3f200fd",
+              "date": "2026-02-22",
+              "message": "feat: wire web UI to live API + fix infrastructure for docker boot"
+            },
+            {
+              "hash": "b88e005",
+              "date": "2026-02-22",
+              "message": "test: add 73 unit tests for all new NestJS modules"
+            },
+            {
+              "hash": "7b168b2",
+              "date": "2026-02-22",
+              "message": "feat: build NestJS application spine + contract lifecycle engine"
+            },
+            {
+              "hash": "fe01a4f",
+              "date": "2026-02-22",
+              "message": "fix: upgrade deps to resolve Dependabot vulnerabilities"
+            },
+            {
+              "hash": "14876cd",
+              "date": "2026-02-22",
+              "message": "chore: add seed.yaml automation contract"
+            },
+            {
+              "hash": "dbed84f",
+              "date": "2026-02-22",
+              "message": "feat: scaffold Styx monorepo with core services, shared logic, and docs"
+            }
+          ],
+          "files_changed": 206
+        }
+      }
+    }
+  }
+}

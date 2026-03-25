@@ -1,0 +1,656 @@
+{
+  "generated": "2026-03-06T00:39:28Z",
+  "since": "2026-02-14",
+  "until": "2026-02-14",
+  "summary": {
+    "total_commits": 101,
+    "repos_active": 19,
+    "files_changed": 443,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "META",
+      "Personal",
+      "V"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "c0ed0b4",
+              "date": "2026-02-14",
+              "message": "feat: data-driven p5.js sketches — feed real system data into all visualizations"
+            },
+            {
+              "hash": "81eaacd",
+              "date": "2026-02-14",
+              "message": "feat: stack timeline headers on mobile"
+            },
+            {
+              "hash": "da63ddc",
+              "date": "2026-02-14",
+              "message": "feat: add mobile padding to project detail view"
+            },
+            {
+              "hash": "0d076cc",
+              "date": "2026-02-14",
+              "message": "feat: stack organ group headings on mobile"
+            },
+            {
+              "hash": "6798e4a",
+              "date": "2026-02-14",
+              "message": "feat: reduce spacing variables on mobile viewports"
+            },
+            {
+              "hash": "0b510c3",
+              "date": "2026-02-14",
+              "message": "feat: add footer column stacking on mobile"
+            },
+            {
+              "hash": "2135d57",
+              "date": "2026-02-14",
+              "message": "feat: add hamburger mobile navigation with ARIA support"
+            },
+            {
+              "hash": "846202b",
+              "date": "2026-02-14",
+              "message": "fix: move import before const in ProjectDetail.astro frontmatter"
+            },
+            {
+              "hash": "97f1447",
+              "date": "2026-02-14",
+              "message": "chore: update system-metrics with ILLUSTRATIO portfolio status"
+            },
+            {
+              "hash": "10d65e9",
+              "date": "2026-02-14",
+              "message": "feat: add Consult link to header navigation"
+            },
+            {
+              "hash": "a16a05b",
+              "date": "2026-02-14",
+              "message": "feat: add interactive LLM consultation page with Puter.js"
+            },
+            {
+              "hash": "5a0995a",
+              "date": "2026-02-14",
+              "message": "feat: add recursive-tree p5.js sketch to all project detail pages"
+            },
+            {
+              "hash": "aff72cd",
+              "date": "2026-02-14",
+              "message": "feat: add flow-diagram p5.js sketch to resume page"
+            },
+            {
+              "hash": "441f5fc",
+              "date": "2026-02-14",
+              "message": "feat: add counterpoint p5.js sketch to community page"
+            },
+            {
+              "hash": "7619361",
+              "date": "2026-02-14",
+              "message": "feat: add pipeline p5.js sketch to products page"
+            },
+            {
+              "hash": "19a7ad6",
+              "date": "2026-02-14",
+              "message": "feat: add network-graph p5.js sketch to architecture page"
+            },
+            {
+              "hash": "be94537",
+              "date": "2026-02-14",
+              "message": "feat: add data-bars p5.js sketch to dashboard page"
+            },
+            {
+              "hash": "7993e5e",
+              "date": "2026-02-14",
+              "message": "feat: add token-stream p5.js sketch to essays page"
+            },
+            {
+              "hash": "1d8ce42",
+              "date": "2026-02-14",
+              "message": "feat: add particle-field p5.js sketch to about page"
+            },
+            {
+              "hash": "a094517",
+              "date": "2026-02-14",
+              "message": "feat: add global sketch-loader to Layout for all pages"
+            },
+            {
+              "hash": "03d9c48",
+              "date": "2026-02-14",
+              "message": "refactor: CMYK color scheme + Jost font in global.css"
+            },
+            {
+              "hash": "40c5534",
+              "date": "2026-02-14",
+              "message": "refactor: CMYK palette — cyan/magenta/yellow accent colors"
+            },
+            {
+              "hash": "f97301b",
+              "date": "2026-02-14",
+              "message": "refactor: replace Inter with Jost font in Layout.astro"
+            },
+            {
+              "hash": "f72f613",
+              "date": "2026-02-14",
+              "message": "fix: split revenue into revenue_model + revenue_status (ILLUSTRATIO sprint)"
+            },
+            {
+              "hash": "df98c07",
+              "date": "2026-02-14",
+              "message": "fix: rename PRODUCTION to ACTIVE in dashboard (ILLUSTRATIO sprint)"
+            },
+            {
+              "hash": "f5399de",
+              "date": "2026-02-14",
+              "message": "fix: update stale counts in about (ILLUSTRATIO sprint)"
+            },
+            {
+              "hash": "c88c57e",
+              "date": "2026-02-14",
+              "message": "fix: update stale counts in index (ILLUSTRATIO sprint)"
+            },
+            {
+              "hash": "934472a",
+              "date": "2026-02-14",
+              "message": "chore: update system-metrics.json (ILLUSTRATIO sprint)"
+            },
+            {
+              "hash": "7ec33b8",
+              "date": "2026-02-14",
+              "message": "chore: regenerate rss-meta.json (ILLUSTRATIO sprint)"
+            },
+            {
+              "hash": "1ac521d",
+              "date": "2026-02-14",
+              "message": "chore: regenerate about.json (ILLUSTRATIO sprint)"
+            },
+            {
+              "hash": "2868887",
+              "date": "2026-02-14",
+              "message": "chore: regenerate graph.json (ILLUSTRATIO sprint)"
+            },
+            {
+              "hash": "f479adf",
+              "date": "2026-02-14",
+              "message": "chore: regenerate essays.json (ILLUSTRATIO sprint)"
+            },
+            {
+              "hash": "59e99fd",
+              "date": "2026-02-14",
+              "message": "chore: regenerate projects.json (ILLUSTRATIO sprint)"
+            },
+            {
+              "hash": "969bf1f",
+              "date": "2026-02-14",
+              "message": "chore: regenerate landing.json (ILLUSTRATIO sprint)"
+            }
+          ],
+          "files_changed": 30
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "alchemical-synthesizer": {
+          "commits": [
+            {
+              "hash": "64ee6d2",
+              "date": "2026-02-14",
+              "message": "fix: resolve 19 critical, structural, and integration issues across Brahma Meta-Rack"
+            },
+            {
+              "hash": "b1b7042",
+              "date": "2026-02-14",
+              "message": "feat: close all drift gaps — patch bay integration, granular engine, Morphagene, MIDI output, chaos attractors, FX additions"
+            },
+            {
+              "hash": "4a8b957",
+              "date": "2026-02-14",
+              "message": "feat: implement complete Brahma Meta-Rack expansion and update loader"
+            },
+            {
+              "hash": "3749118",
+              "date": "2026-02-14",
+              "message": "feat: implement Golem alchemical percussion organism"
+            },
+            {
+              "hash": "ed50821",
+              "date": "2026-02-14",
+              "message": "feat: complete implementation of agent smith, ditto, visual cortex, and metrics suite"
+            },
+            {
+              "hash": "c2d6e88",
+              "date": "2026-02-14",
+              "message": "chore: Implement GitHub Repository Standards, Curation, and Roadmap Strategy"
+            },
+            {
+              "hash": "119eb6c",
+              "date": "2026-02-14",
+              "message": "docs: Generate comprehensive GEMINI.md instructional context"
+            }
+          ],
+          "files_changed": 106
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "a9c7628",
+              "date": "2026-02-14",
+              "message": "feat: ILLUSTRATIO Sprint — portfolio polish, p5.js animations, LLM consultation page"
+            },
+            {
+              "hash": "c5b84e5",
+              "date": "2026-02-14",
+              "message": "feat: MANIFESTATIO Sprint — re-audit, CI fixes, workflow validation, outward-facing prep"
+            }
+          ],
+          "files_changed": 28
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "29cb2d8",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in release workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "042be18",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in pages workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "5b8af20",
+              "date": "2026-02-14",
+              "message": "fix: use npm install (no lockfile) to resolve vitest peer conflict (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "e89bc53",
+              "date": "2026-02-14",
+              "message": "fix: remove stale package-lock.json for CI regeneration (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "45c5037",
+              "date": "2026-02-14",
+              "message": "fix: align vitest peer dependency to ^4.0.18 (MANIFESTATIO Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "29cb2d8",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in release workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "042be18",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in pages workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "5b8af20",
+              "date": "2026-02-14",
+              "message": "fix: use npm install (no lockfile) to resolve vitest peer conflict (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "e89bc53",
+              "date": "2026-02-14",
+              "message": "fix: remove stale package-lock.json for CI regeneration (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "45c5037",
+              "date": "2026-02-14",
+              "message": "fix: align vitest peer dependency to ^4.0.18 (MANIFESTATIO Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "29cb2d8",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in release workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "042be18",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in pages workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "5b8af20",
+              "date": "2026-02-14",
+              "message": "fix: use npm install (no lockfile) to resolve vitest peer conflict (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "e89bc53",
+              "date": "2026-02-14",
+              "message": "fix: remove stale package-lock.json for CI regeneration (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "45c5037",
+              "date": "2026-02-14",
+              "message": "fix: align vitest peer dependency to ^4.0.18 (MANIFESTATIO Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "29cb2d8",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in release workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "042be18",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in pages workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "5b8af20",
+              "date": "2026-02-14",
+              "message": "fix: use npm install (no lockfile) to resolve vitest peer conflict (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "e89bc53",
+              "date": "2026-02-14",
+              "message": "fix: remove stale package-lock.json for CI regeneration (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "45c5037",
+              "date": "2026-02-14",
+              "message": "fix: align vitest peer dependency to ^4.0.18 (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "29cb2d8",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in release workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "042be18",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in pages workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "5b8af20",
+              "date": "2026-02-14",
+              "message": "fix: use npm install (no lockfile) to resolve vitest peer conflict (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "e89bc53",
+              "date": "2026-02-14",
+              "message": "fix: remove stale package-lock.json for CI regeneration (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "45c5037",
+              "date": "2026-02-14",
+              "message": "fix: align vitest peer dependency to ^4.0.18 (MANIFESTATIO Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "29cb2d8",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in release workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "042be18",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in pages workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "5b8af20",
+              "date": "2026-02-14",
+              "message": "fix: use npm install (no lockfile) to resolve vitest peer conflict (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "e89bc53",
+              "date": "2026-02-14",
+              "message": "fix: remove stale package-lock.json for CI regeneration (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "45c5037",
+              "date": "2026-02-14",
+              "message": "fix: align vitest peer dependency to ^4.0.18 (MANIFESTATIO Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "recursive-engine--generative-entity": {
+          "commits": [
+            {
+              "hash": "086aa51",
+              "date": "2026-02-14",
+              "message": "fix: pin CodeQL actions to SHA (MANIFESTATIO Sprint)"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "fa44928",
+              "date": "2026-02-14",
+              "message": "feat: modularize site into lazy-loaded chamber system (Phase E)"
+            }
+          ],
+          "files_changed": 70
+        },
+        "chthon-oneiros": {
+          "commits": [
+            {
+              "hash": "6fb5c6f",
+              "date": "2026-02-14",
+              "message": "fix: Correct document manifest descriptions and add missing provenance context"
+            },
+            {
+              "hash": "67aaace",
+              "date": "2026-02-14",
+              "message": "feat: Add theory documents and source material"
+            },
+            {
+              "hash": "fe6585f",
+              "date": "2026-02-14",
+              "message": "feat: Initialize repo with README and gitignore"
+            }
+          ],
+          "files_changed": 20
+        },
+        "krypto-velamen": {
+          "commits": [
+            {
+              "hash": "fa0c4c3",
+              "date": "2026-02-14",
+              "message": "fix: Correct document manifest descriptions and add missing provenance context"
+            },
+            {
+              "hash": "0e2ec42",
+              "date": "2026-02-14",
+              "message": "feat: Add theory documents and source material"
+            },
+            {
+              "hash": "313bb06",
+              "date": "2026-02-14",
+              "message": "feat: Initialize repo with README and gitignore"
+            }
+          ],
+          "files_changed": 19
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "29cb2d8",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in release workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "042be18",
+              "date": "2026-02-14",
+              "message": "fix: use npm install in pages workflow (no lockfile) (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "5b8af20",
+              "date": "2026-02-14",
+              "message": "fix: use npm install (no lockfile) to resolve vitest peer conflict (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "e89bc53",
+              "date": "2026-02-14",
+              "message": "fix: remove stale package-lock.json for CI regeneration (MANIFESTATIO Sprint)"
+            },
+            {
+              "hash": "45c5037",
+              "date": "2026-02-14",
+              "message": "fix: align vitest peer dependency to ^4.0.18 (MANIFESTATIO Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "a9c7628",
+              "date": "2026-02-14",
+              "message": "feat: ILLUSTRATIO Sprint — portfolio polish, p5.js animations, LLM consultation page"
+            },
+            {
+              "hash": "c5b84e5",
+              "date": "2026-02-14",
+              "message": "feat: MANIFESTATIO Sprint — re-audit, CI fixes, workflow validation, outward-facing prep"
+            }
+          ],
+          "files_changed": 28
+        },
+        "tab-bookmark-manager": {
+          "commits": [
+            {
+              "hash": "f904ca9",
+              "date": "2026-02-14",
+              "message": "fix: remove ORGAN-III→ORGAN-I back-edge dependency on my-knowledge-base"
+            },
+            {
+              "hash": "f904ca9",
+              "date": "2026-02-14",
+              "message": "fix: remove ORGAN-III→ORGAN-I back-edge dependency on my-knowledge-base"
+            }
+          ],
+          "files_changed": 1
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "bf97a57",
+              "date": "2026-02-14",
+              "message": "feat: merge perpetual-future reference architecture into production"
+            },
+            {
+              "hash": "bf97a57",
+              "date": "2026-02-14",
+              "message": "feat: merge perpetual-future reference architecture into production"
+            }
+          ],
+          "files_changed": 47
+        },
+        "my--father-mother": {
+          "commits": [
+            {
+              "hash": "460fb73",
+              "date": "2026-02-14",
+              "message": "fix: populate seed.yaml placeholders, confirm no back-edge dependencies"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "domus-semper-palingenesis": {
+          "commits": [
+            {
+              "hash": "31ad386",
+              "date": "2026-02-14",
+              "message": "Fix pre-commit issues, add __pycache__ to chezmoiignore"
+            },
+            {
+              "hash": "810d114",
+              "date": "2026-02-14",
+              "message": "Alpha to Omega: unified unique_dest, fish parity, tmpl tests, CHANGELOG"
+            },
+            {
+              "hash": "1ff7247",
+              "date": "2026-02-14",
+              "message": "Evaluation-to-Growth: 18-task system-wide improvement pass"
+            },
+            {
+              "hash": "5598de0",
+              "date": "2026-02-14",
+              "message": "Fix CLI bugs, extract shared library, clean manifest, add CI linting"
+            }
+          ],
+          "files_changed": 59
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        "public-process": {
+          "commits": [
+            {
+              "hash": "199bccd",
+              "date": "2026-02-14",
+              "message": "feat: activate GoatCounter analytics"
+            },
+            {
+              "hash": "b6d5b23",
+              "date": "2026-02-14",
+              "message": "docs: add commented GoatCounter config for future activation"
+            },
+            {
+              "hash": "e052dd2",
+              "date": "2026-02-14",
+              "message": "feat: include analytics snippet before closing body tag"
+            },
+            {
+              "hash": "df6d400",
+              "date": "2026-02-14",
+              "message": "feat: add conditional GoatCounter analytics include"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

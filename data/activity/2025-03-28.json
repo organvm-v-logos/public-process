@@ -1,0 +1,116 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-03-28",
+  "until": "2025-03-28",
+  "summary": {
+    "total_commits": 16,
+    "repos_active": 2,
+    "files_changed": 3,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "043898e",
+              "date": "2025-03-28",
+              "message": "GrindrPlus: Auto select latest version"
+            },
+            {
+              "hash": "8379568",
+              "date": "2025-03-28",
+              "message": "GrindrPlus: Show open button if successful"
+            },
+            {
+              "hash": "a31e262",
+              "date": "2025-03-28",
+              "message": "Manager: Fix installer cancelling itself after requesting user confirmation"
+            },
+            {
+              "hash": "01d145d",
+              "date": "2025-03-28",
+              "message": "Manager: Final nits before beta"
+            },
+            {
+              "hash": "3cb26f5",
+              "date": "2025-03-28",
+              "message": "GrindrPlus: Fix Settings bottom padding"
+            },
+            {
+              "hash": "69b664f",
+              "date": "2025-03-28",
+              "message": "GrindrPlus: Fix ugly status/nav bar(s)"
+            },
+            {
+              "hash": "7658a76",
+              "date": "2025-03-28",
+              "message": "GrindrPlus: Swap `Install` with `Settings`"
+            },
+            {
+              "hash": "9684e2a",
+              "date": "2025-03-28",
+              "message": "GrindrPlus: Refactor Settings screen"
+            },
+            {
+              "hash": "e43ce0c",
+              "date": "2025-03-28",
+              "message": "GrindrPlus: Add proper version selector"
+            },
+            {
+              "hash": "f984714",
+              "date": "2025-03-28",
+              "message": "GrindrPlus: Drop WIP sections for now"
+            },
+            {
+              "hash": "533dbef",
+              "date": "2025-03-28",
+              "message": "GrindrPlus: Refactor warning message"
+            },
+            {
+              "hash": "92f6648",
+              "date": "2025-03-28",
+              "message": "GrindrPlus: Improve the console header"
+            },
+            {
+              "hash": "14d4a54",
+              "date": "2025-03-28",
+              "message": "GrindrPlus: Implement the manager"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "bdf2c17",
+              "date": "2025-03-28",
+              "message": "Correcting error message."
+            },
+            {
+              "hash": "8c56f10",
+              "date": "2025-03-28",
+              "message": "Specify error: no glb download link when trying to import."
+            },
+            {
+              "hash": "d5bcaaf",
+              "date": "2025-03-28",
+              "message": "Bugfix: not finding parent_obj correctly"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

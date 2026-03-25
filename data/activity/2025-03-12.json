@@ -1,0 +1,75 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-03-12",
+  "until": "2025-03-12",
+  "summary": {
+    "total_commits": 10,
+    "repos_active": 1,
+    "files_changed": 2,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "d9b2a6e",
+              "date": "2025-03-12",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "694dcc4",
+              "date": "2025-03-12",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "2ae2aa0",
+              "date": "2025-03-12",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "3060ad3",
+              "date": "2025-03-12",
+              "message": "Update README.md with the installation demo video link"
+            },
+            {
+              "hash": "a372528",
+              "date": "2025-03-12",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "3bc5520",
+              "date": "2025-03-12",
+              "message": "updated README"
+            },
+            {
+              "hash": "b9f51bb",
+              "date": "2025-03-12",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "2e4cdab",
+              "date": "2025-03-12",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "edc2ac1",
+              "date": "2025-03-12",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "2c8b2f2",
+              "date": "2025-03-12",
+              "message": "Update README.md"
+            }
+          ],
+          "files_changed": 2
+        }
+      }
+    }
+  }
+}

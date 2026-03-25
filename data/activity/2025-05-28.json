@@ -1,0 +1,30 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-05-28",
+  "until": "2025-05-28",
+  "summary": {
+    "total_commits": 1,
+    "repos_active": 1,
+    "files_changed": 26,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "37eb74a",
+              "date": "2025-05-28",
+              "message": "GrindrPlus: Add support for `25.8.0`"
+            }
+          ],
+          "files_changed": 26
+        }
+      }
+    }
+  }
+}

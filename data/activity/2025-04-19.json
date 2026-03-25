@@ -1,0 +1,70 @@
+{
+  "generated": "2026-03-06T00:39:40Z",
+  "since": "2025-04-19",
+  "until": "2025-04-19",
+  "summary": {
+    "total_commits": 9,
+    "repos_active": 1,
+    "files_changed": 12,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "708831b",
+              "date": "2025-04-19",
+              "message": "GrindrPlus: Show profile IDs in block list"
+            },
+            {
+              "hash": "3d6c1e9",
+              "date": "2025-04-19",
+              "message": "GrindrPlus: Kill fake unblock notifications"
+            },
+            {
+              "hash": "4de621f",
+              "date": "2025-04-19",
+              "message": "GrindrPlus: Add toggle to shut up permission checks"
+            },
+            {
+              "hash": "9d81f79",
+              "date": "2025-04-19",
+              "message": "GrindrPlus: Update manifest"
+            },
+            {
+              "hash": "2a7fd19",
+              "date": "2025-04-19",
+              "message": "GrindrPlus: Fix coroutine race condition in BridgeClient"
+            },
+            {
+              "hash": "14ab0db",
+              "date": "2025-04-19",
+              "message": "GrindrPlus: Fix QuickBlock not working"
+            },
+            {
+              "hash": "163f2e5",
+              "date": "2025-04-19",
+              "message": "GrindrPlus: Don't hook profile repository"
+            },
+            {
+              "hash": "c67e2df",
+              "date": "2025-04-19",
+              "message": "GrindrPlus: Enable and simplify albums hook"
+            },
+            {
+              "hash": "c93460f",
+              "date": "2025-04-19",
+              "message": "GrindrPlus: More bridge client improvements"
+            }
+          ],
+          "files_changed": 12
+        }
+      }
+    }
+  }
+}

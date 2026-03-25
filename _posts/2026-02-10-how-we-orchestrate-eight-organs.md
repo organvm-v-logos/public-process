@@ -14,7 +14,7 @@ related_repos:
   - organvm-ii-poiesis/metasystem-master
   - organvm-iii-ergon/public-record-data-scrapper
 reading_time: "20 min"
-word_count: 5000
+word_count: 5080
 references: []
 ---
 

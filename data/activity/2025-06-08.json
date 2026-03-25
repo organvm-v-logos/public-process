@@ -1,0 +1,76 @@
+{
+  "generated": "2026-03-06T00:39:37Z",
+  "since": "2025-06-08",
+  "until": "2025-06-08",
+  "summary": {
+    "total_commits": 7,
+    "repos_active": 3,
+    "files_changed": 9,
+    "organs_touched": [
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "7e57605",
+              "date": "2025-06-08",
+              "message": "chore: ci build"
+            },
+            {
+              "hash": "32f1971",
+              "date": "2025-06-08",
+              "message": "chore: release userscript 2.28.1"
+            }
+          ],
+          "files_changed": 5
+        },
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "840f48a",
+              "date": "2025-06-08",
+              "message": "GrindrPlus: Kill `drawer_profile_offer_card` with fire"
+            },
+            {
+              "hash": "fb511fb",
+              "date": "2025-06-08",
+              "message": "GrindrPlus: Ability to set forced location"
+            },
+            {
+              "hash": "762a11d",
+              "date": "2025-06-08",
+              "message": "GrindrPlus: Fetch latest Grindr version"
+            },
+            {
+              "hash": "247e253",
+              "date": "2025-06-08",
+              "message": "GrindrPlus: Ability to force Android ID generation"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "0ffb311",
+              "date": "2025-06-08",
+              "message": "screenshots of viewport now possible, along with sketchfab integration"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

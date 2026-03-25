@@ -1,0 +1,75 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-08-20",
+  "until": "2023-08-20",
+  "summary": {
+    "total_commits": 10,
+    "repos_active": 1,
+    "files_changed": 29,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "23b7e65",
+              "date": "2023-08-20",
+              "message": "CI build"
+            },
+            {
+              "hash": "3aff70f",
+              "date": "2023-08-20",
+              "message": "chore: release userscript 2.14.1"
+            },
+            {
+              "hash": "b152f44",
+              "date": "2023-08-20",
+              "message": "fix: toggle should not shrink on small screen"
+            },
+            {
+              "hash": "ec9a266",
+              "date": "2023-08-20",
+              "message": "CI build"
+            },
+            {
+              "hash": "37bf29e",
+              "date": "2023-08-20",
+              "message": "chore: release userscript 2.14.0"
+            },
+            {
+              "hash": "66d8f90",
+              "date": "2023-08-20",
+              "message": "feat: support OpenAI official JSON format"
+            },
+            {
+              "hash": "7558c36",
+              "date": "2023-08-20",
+              "message": "docs: drop last commit tag"
+            },
+            {
+              "hash": "2f7264d",
+              "date": "2023-08-20",
+              "message": "chore: bump deps"
+            },
+            {
+              "hash": "0ecaafa",
+              "date": "2023-08-20",
+              "message": "chore: ignore dist lint"
+            },
+            {
+              "hash": "631332d",
+              "date": "2023-08-20",
+              "message": "fix: adopt latest sentinel-js, no more patch"
+            }
+          ],
+          "files_changed": 29
+        }
+      }
+    }
+  }
+}

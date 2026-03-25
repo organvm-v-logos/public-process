@@ -1,0 +1,55 @@
+{
+  "generated": "2026-03-06T00:39:48Z",
+  "since": "2025-03-16",
+  "until": "2025-03-16",
+  "summary": {
+    "total_commits": 6,
+    "repos_active": 1,
+    "files_changed": 3,
+    "organs_touched": [
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "blender-mcp": {
+          "commits": [
+            {
+              "hash": "a3b862d",
+              "date": "2025-03-16",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "9c29930",
+              "date": "2025-03-16",
+              "message": "fixed the create_object nonetype error"
+            },
+            {
+              "hash": "5e0f87c",
+              "date": "2025-03-16",
+              "message": "Update README.md"
+            },
+            {
+              "hash": "cb2b825",
+              "date": "2025-03-16",
+              "message": "Feat add: Added Hyper3D support."
+            },
+            {
+              "hash": "4308213",
+              "date": "2025-03-16",
+              "message": "Fix: wrong active object after creation/before deletion"
+            },
+            {
+              "hash": "db03c57",
+              "date": "2025-03-16",
+              "message": "Add axis-aligned bounding-box for detailed location information"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

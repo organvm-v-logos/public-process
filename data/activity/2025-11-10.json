@@ -1,0 +1,106 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2025-11-10",
+  "until": "2025-11-10",
+  "summary": {
+    "total_commits": 14,
+    "repos_active": 2,
+    "files_changed": 6,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "cog-init-1-0-": {
+          "commits": [
+            {
+              "hash": "190b54a",
+              "date": "2025-11-10",
+              "message": "Create 4_ivi374_F0Rivi4_  CognitiveOperatingSystem.pdf"
+            },
+            {
+              "hash": "f28fbb7",
+              "date": "2025-11-10",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "0d22015",
+              "date": "2025-11-10",
+              "message": "Adds configuration for hinting in development"
+            },
+            {
+              "hash": "cd2d83d",
+              "date": "2025-11-10",
+              "message": "Bump typescript-eslint from 8.46.2 to 8.46.3"
+            },
+            {
+              "hash": "43dbdcd",
+              "date": "2025-11-10",
+              "message": "Bump @vitejs/plugin-react-swc from 3.11.0 to 4.2.1"
+            },
+            {
+              "hash": "e5e28e9",
+              "date": "2025-11-10",
+              "message": "Bump @radix-ui/react-aspect-ratio from 1.1.7 to 1.1.8"
+            },
+            {
+              "hash": "5121fc4",
+              "date": "2025-11-10",
+              "message": "Bump @radix-ui/react-slot from 1.2.3 to 1.2.4"
+            },
+            {
+              "hash": "a41fdc1",
+              "date": "2025-11-10",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "0d22015",
+              "date": "2025-11-10",
+              "message": "Adds configuration for hinting in development"
+            },
+            {
+              "hash": "cd2d83d",
+              "date": "2025-11-10",
+              "message": "Bump typescript-eslint from 8.46.2 to 8.46.3"
+            },
+            {
+              "hash": "43dbdcd",
+              "date": "2025-11-10",
+              "message": "Bump @vitejs/plugin-react-swc from 3.11.0 to 4.2.1"
+            },
+            {
+              "hash": "e5e28e9",
+              "date": "2025-11-10",
+              "message": "Bump @radix-ui/react-aspect-ratio from 1.1.7 to 1.1.8"
+            },
+            {
+              "hash": "5121fc4",
+              "date": "2025-11-10",
+              "message": "Bump @radix-ui/react-slot from 1.2.3 to 1.2.4"
+            },
+            {
+              "hash": "a41fdc1",
+              "date": "2025-11-10",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

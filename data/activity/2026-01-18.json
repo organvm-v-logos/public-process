@@ -1,0 +1,192 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2026-01-18",
+  "until": "2026-01-18",
+  "summary": {
+    "total_commits": 29,
+    "repos_active": 3,
+    "files_changed": 222,
+    "organs_touched": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "de252f3",
+              "date": "2026-01-18",
+              "message": "chore: remove redundant/strict copilot test in favor of verify_fix.py"
+            },
+            {
+              "hash": "221f5d1",
+              "date": "2026-01-18",
+              "message": "feat: standardizing genetic identity with seed.yaml (Golden Standard v1)"
+            },
+            {
+              "hash": "307cdda",
+              "date": "2026-01-18",
+              "message": "⚡ Bolt: Optimize habitat status by lazily loading boundaries"
+            },
+            {
+              "hash": "a8a0948",
+              "date": "2026-01-18",
+              "message": "Refactor habitat_ux to centralize Colors and enable semantic card styling"
+            },
+            {
+              "hash": "1aeeea9",
+              "date": "2026-01-18",
+              "message": "Refine experiment path validation to support nested paths"
+            }
+          ],
+          "files_changed": 8
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "23eb5a8",
+              "date": "2026-01-18",
+              "message": "security: Fix esbuild vulnerability CVE-2025-29927"
+            },
+            {
+              "hash": "bd7b7ad",
+              "date": "2026-01-18",
+              "message": "docs: Add zero-cost deployment guide for immediate action"
+            },
+            {
+              "hash": "66fc5ec",
+              "date": "2026-01-18",
+              "message": "docs: Add implementation completion summaries"
+            },
+            {
+              "hash": "533b582",
+              "date": "2026-01-18",
+              "message": "feat: Add performance tooling and embeddings infrastructure"
+            },
+            {
+              "hash": "7608ed9",
+              "date": "2026-01-18",
+              "message": "docs: Add comprehensive documentation suite"
+            },
+            {
+              "hash": "3880529",
+              "date": "2026-01-18",
+              "message": "ci: Add GitHub Actions workflows and templates"
+            },
+            {
+              "hash": "9de2d89",
+              "date": "2026-01-18",
+              "message": "feat: Add open source deployment infrastructure"
+            },
+            {
+              "hash": "4371eb0",
+              "date": "2026-01-18",
+              "message": "fix: Resolve web build errors and database migration issues"
+            },
+            {
+              "hash": "1c3cdfa",
+              "date": "2026-01-18",
+              "message": "fix: Stabilize production deployment readiness across all applications"
+            },
+            {
+              "hash": "23eb5a8",
+              "date": "2026-01-18",
+              "message": "security: Fix esbuild vulnerability CVE-2025-29927"
+            },
+            {
+              "hash": "bd7b7ad",
+              "date": "2026-01-18",
+              "message": "docs: Add zero-cost deployment guide for immediate action"
+            },
+            {
+              "hash": "66fc5ec",
+              "date": "2026-01-18",
+              "message": "docs: Add implementation completion summaries"
+            },
+            {
+              "hash": "533b582",
+              "date": "2026-01-18",
+              "message": "feat: Add performance tooling and embeddings infrastructure"
+            },
+            {
+              "hash": "7608ed9",
+              "date": "2026-01-18",
+              "message": "docs: Add comprehensive documentation suite"
+            },
+            {
+              "hash": "3880529",
+              "date": "2026-01-18",
+              "message": "ci: Add GitHub Actions workflows and templates"
+            },
+            {
+              "hash": "9de2d89",
+              "date": "2026-01-18",
+              "message": "feat: Add open source deployment infrastructure"
+            },
+            {
+              "hash": "4371eb0",
+              "date": "2026-01-18",
+              "message": "fix: Resolve web build errors and database migration issues"
+            },
+            {
+              "hash": "1c3cdfa",
+              "date": "2026-01-18",
+              "message": "fix: Stabilize production deployment readiness across all applications"
+            }
+          ],
+          "files_changed": 172
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "agent--claude-smith": {
+          "commits": [
+            {
+              "hash": "c5686ce",
+              "date": "2026-01-18",
+              "message": "test: Add comprehensive tests for OnePasswordClient"
+            },
+            {
+              "hash": "c5f2ea5",
+              "date": "2026-01-18",
+              "message": "test: Add retry-handler and singleton tests, upgrade vitest to 4.x"
+            },
+            {
+              "hash": "2ef3204",
+              "date": "2026-01-18",
+              "message": "test: Add comprehensive tests for safe-json utilities"
+            },
+            {
+              "hash": "af79e60",
+              "date": "2026-01-18",
+              "message": "feat: Implement comprehensive security, testing, and reliability improvements"
+            },
+            {
+              "hash": "e8fee18",
+              "date": "2026-01-18",
+              "message": "chore: Rename project to agent--claude-smith"
+            },
+            {
+              "hash": "a3c9f57",
+              "date": "2026-01-18",
+              "message": "feat: Initial implementation of Claude Agent Orchestrator"
+            }
+          ],
+          "files_changed": 42
+        }
+      }
+    }
+  }
+}

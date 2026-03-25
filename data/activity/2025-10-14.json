@@ -1,0 +1,46 @@
+{
+  "generated": "2026-03-06T00:39:33Z",
+  "since": "2025-10-14",
+  "until": "2025-10-14",
+  "summary": {
+    "total_commits": 2,
+    "repos_active": 2,
+    "files_changed": 2,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "d449a02",
+              "date": "2025-10-14",
+              "message": "Evolve framework to v2.0: Address all blindspots with 8 major sections, 5 enhanced templates, enterprise-grade depth"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "d449a02",
+              "date": "2025-10-14",
+              "message": "Evolve framework to v2.0: Address all blindspots with 8 major sections, 5 enhanced templates, enterprise-grade depth"
+            }
+          ],
+          "files_changed": 1
+        }
+      }
+    }
+  }
+}

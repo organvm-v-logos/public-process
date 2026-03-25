@@ -1,0 +1,3683 @@
+{
+  "generated": "2026-03-06T00:39:28Z",
+  "since": "2026-02-11",
+  "until": "2026-02-11",
+  "summary": {
+    "total_commits": 653,
+    "repos_active": 70,
+    "files_changed": 1465,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV",
+      "META",
+      "Personal",
+      "V",
+      "VI",
+      "VII"
+    ]
+  },
+  "by_organ": {
+    "Personal": {
+      "name": "Personal",
+      "repos": {
+        "portfolio": {
+          "commits": [
+            {
+              "hash": "1830e15",
+              "date": "2026-02-11",
+              "message": "Update header name from '4444j' to '4444j99'"
+            },
+            {
+              "hash": "5b525e7",
+              "date": "2026-02-11",
+              "message": "feat: add 14 portfolio centerpiece repos with organ-grouped homepage"
+            },
+            {
+              "hash": "d61783a",
+              "date": "2026-02-11",
+              "message": "chore: gitignore intake files except README"
+            },
+            {
+              "hash": "234a3bc",
+              "date": "2026-02-11",
+              "message": "feat: add resume page with full employment history and print CSS"
+            },
+            {
+              "hash": "f1aa489",
+              "date": "2026-02-11",
+              "message": "fix: polish sketches, accessibility, and Lighthouse performance"
+            },
+            {
+              "hash": "1232d23",
+              "date": "2026-02-11",
+              "message": "feat: add interactive p5.js visuals to all project pages"
+            },
+            {
+              "hash": "7a08a7b",
+              "date": "2026-02-11",
+              "message": "feat: portfolio site — Astro + dark theme, 5 project pages"
+            }
+          ],
+          "files_changed": 44
+        }
+      }
+    },
+    "META": {
+      "name": "Meta",
+      "repos": {
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "71d88bb",
+              "date": "2026-02-11",
+              "message": "feat: Consolidation Sprint — close 8 open gaps across all workstreams"
+            },
+            {
+              "hash": "3732660",
+              "date": "2026-02-11",
+              "message": "docs: add AI engineering role research, 7 cover letters, update tracker"
+            },
+            {
+              "hash": "c2183aa",
+              "date": "2026-02-11",
+              "message": "docs: correct Google deadline to March 18, update materials status"
+            },
+            {
+              "hash": "199fdc1",
+              "date": "2026-02-11",
+              "message": "docs: draft Google Creative Lab Five short-answer responses"
+            },
+            {
+              "hash": "9161863",
+              "date": "2026-02-11",
+              "message": "feat: Phase 4 state machine exercise — 4 promotions, 3 archives"
+            },
+            {
+              "hash": "790da9e",
+              "date": "2026-02-11",
+              "message": "docs: add Phase 3 essays and implementation sprint specs"
+            },
+            {
+              "hash": "667636b",
+              "date": "2026-02-11",
+              "message": "docs: update tracker with researched deadlines and eligibility"
+            },
+            {
+              "hash": "06efba6",
+              "date": "2026-02-11",
+              "message": "docs: add Phase 2 application framework across 3 tracks"
+            },
+            {
+              "hash": "9ac81ac",
+              "date": "2026-02-11",
+              "message": "feat: deploy 5 governance workflows + organ-audit script (Phase 1)"
+            },
+            {
+              "hash": "7a46802",
+              "date": "2026-02-11",
+              "message": "Upgrade platinum-validation.py to full sweep (no sampling)"
+            },
+            {
+              "hash": "0a2e39f",
+              "date": "2026-02-11",
+              "message": "Platinum Sprint: CI/CD, badges, CHANGELOGs, ADRs across 65 repos"
+            },
+            {
+              "hash": "535ba8a",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "aa9d2cb",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "4949467",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "4f064c7",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "81d09ae",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "4a92aa8",
+              "date": "2026-02-11",
+              "message": "Housekeeping: add corpvs-testamentvm to registry, update stale docs"
+            },
+            {
+              "hash": "5a68271",
+              "date": "2026-02-11",
+              "message": "Initial commit: organvm-corpvs-testamentvm"
+            }
+          ],
+          "files_changed": 181
+        }
+      }
+    },
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "4-ivi374-F0Rivi4": {
+          "commits": [
+            {
+              "hash": "eef6122",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "549191b",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "ab7c4fa",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "c3d9638",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "6821549",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "e897af7",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "37fcb60",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "4466d96",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 7
+        },
+        "a-recursive-root": {
+          "commits": [
+            {
+              "hash": "5188cdf",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to full canonical name"
+            },
+            {
+              "hash": "0008f15",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "13a2fa3",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "0195f03",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "70c343c",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "5953fb2",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "620b2c9",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "call-function--ontological": {
+          "commits": [
+            {
+              "hash": "2e85ce8",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to recursive-engine--generative-entity"
+            },
+            {
+              "hash": "5a85882",
+              "date": "2026-02-11",
+              "message": "feat: add pyproject.toml with pytest configuration"
+            },
+            {
+              "hash": "c5bb16c",
+              "date": "2026-02-11",
+              "message": "test: add CLI command tests"
+            },
+            {
+              "hash": "2991400",
+              "date": "2026-02-11",
+              "message": "test: add integration tests for full OntologicalAnalyzer pipeline"
+            },
+            {
+              "hash": "0e8db0e",
+              "date": "2026-02-11",
+              "message": "test: add Peircean semiotic analysis tests"
+            },
+            {
+              "hash": "57d4239",
+              "date": "2026-02-11",
+              "message": "test: add Heideggerian phenomenological analysis tests"
+            },
+            {
+              "hash": "d0af12a",
+              "date": "2026-02-11",
+              "message": "test: add Aristotelian four-causes analysis tests"
+            },
+            {
+              "hash": "f5f88da",
+              "date": "2026-02-11",
+              "message": "test: add grounding module tests with schema coverage verification"
+            },
+            {
+              "hash": "95fe3e8",
+              "date": "2026-02-11",
+              "message": "test: add comprehensive tests for 12 ontological concepts"
+            },
+            {
+              "hash": "1f575fb",
+              "date": "2026-02-11",
+              "message": "feat: add tests package init"
+            },
+            {
+              "hash": "08b1916",
+              "date": "2026-02-11",
+              "message": "feat: add sample analysis demo script"
+            },
+            {
+              "hash": "2fa0a2e",
+              "date": "2026-02-11",
+              "message": "feat: add sample OpenAI function-calling schema"
+            },
+            {
+              "hash": "9e08215",
+              "date": "2026-02-11",
+              "message": "feat: add CLI entry point with analyze, report, concepts commands"
+            },
+            {
+              "hash": "2b7bcc1",
+              "date": "2026-02-11",
+              "message": "feat: add tools package init"
+            },
+            {
+              "hash": "a65bbec",
+              "date": "2026-02-11",
+              "message": "feat: add report formatter — text, JSON, and summary output"
+            },
+            {
+              "hash": "64da66a",
+              "date": "2026-02-11",
+              "message": "feat: add OntologicalAnalyzer — unified analysis pipeline"
+            },
+            {
+              "hash": "400ee1c",
+              "date": "2026-02-11",
+              "message": "feat: add application package init"
+            },
+            {
+              "hash": "a4e935b",
+              "date": "2026-02-11",
+              "message": "feat: add grounding module — maps signatures to ontological categories"
+            },
+            {
+              "hash": "eec068b",
+              "date": "2026-02-11",
+              "message": "feat: add Peircean semiotic analysis module"
+            },
+            {
+              "hash": "3070ec4",
+              "date": "2026-02-11",
+              "message": "feat: add Heideggerian phenomenological analysis module"
+            },
+            {
+              "hash": "a9c8e0e",
+              "date": "2026-02-11",
+              "message": "feat: add Aristotelian four-causes analysis module"
+            },
+            {
+              "hash": "44c1196",
+              "date": "2026-02-11",
+              "message": "feat: add 12 ontological concepts as dataclasses"
+            },
+            {
+              "hash": "b7f9275",
+              "date": "2026-02-11",
+              "message": "feat: add core package init"
+            },
+            {
+              "hash": "22296b3",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "cf70c1d",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "f83aaec",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "051ccd6",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "3277f54",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "44c2f98",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 28
+        },
+        "cog-init-1-0-": {
+          "commits": [
+            {
+              "hash": "ef00f45",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "47d70ed",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "ca2a819",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "bdc47d3",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "77638f8",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "c354e9a",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "ebb8534",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 7
+        },
+        "cognitive-archaelogy-tribunal": {
+          "commits": [
+            {
+              "hash": "6bff077",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to full canonical name"
+            },
+            {
+              "hash": "4fbbc67",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "5dd476b",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "4892faf",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "5f79919",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "164661d",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "linguistic-atomization-framework": {
+          "commits": [
+            {
+              "hash": "c1ab158",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "77f1311",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "25732cf",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "d6eec31",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "5f06c43",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "eaf0e1e",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "88db758",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "9a83ae9",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to organon-noumenon--ontogenetic-morphe"
+            },
+            {
+              "hash": "7420c83",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "27687c4",
+              "date": "2026-02-11",
+              "message": "feat: enforce alert and reindex evidence in closure gates"
+            },
+            {
+              "hash": "d22d3dc",
+              "date": "2026-02-11",
+              "message": "feat: verify reindex evidence refs in release gating"
+            },
+            {
+              "hash": "4474291",
+              "date": "2026-02-11",
+              "message": "feat: add strict reindex evidence capture and closure gating"
+            },
+            {
+              "hash": "dd4b09e",
+              "date": "2026-02-11",
+              "message": "feat: implement universe platform hardening and release evidence automation"
+            },
+            {
+              "hash": "b78dce4",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "50e1a46",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "cf85e33",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "5c7ca7f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "345d004",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "778cf96",
+              "date": "2026-02-11",
+              "message": "feat: add github pages frontend deployment wiring"
+            }
+          ],
+          "files_changed": 103
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "88db758",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "9a83ae9",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to organon-noumenon--ontogenetic-morphe"
+            },
+            {
+              "hash": "7420c83",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "27687c4",
+              "date": "2026-02-11",
+              "message": "feat: enforce alert and reindex evidence in closure gates"
+            },
+            {
+              "hash": "d22d3dc",
+              "date": "2026-02-11",
+              "message": "feat: verify reindex evidence refs in release gating"
+            },
+            {
+              "hash": "4474291",
+              "date": "2026-02-11",
+              "message": "feat: add strict reindex evidence capture and closure gating"
+            },
+            {
+              "hash": "dd4b09e",
+              "date": "2026-02-11",
+              "message": "feat: implement universe platform hardening and release evidence automation"
+            },
+            {
+              "hash": "b78dce4",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "50e1a46",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "cf85e33",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "5c7ca7f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "345d004",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "778cf96",
+              "date": "2026-02-11",
+              "message": "feat: add github pages frontend deployment wiring"
+            }
+          ],
+          "files_changed": 103
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "88db758",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "9a83ae9",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to organon-noumenon--ontogenetic-morphe"
+            },
+            {
+              "hash": "7420c83",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "27687c4",
+              "date": "2026-02-11",
+              "message": "feat: enforce alert and reindex evidence in closure gates"
+            },
+            {
+              "hash": "d22d3dc",
+              "date": "2026-02-11",
+              "message": "feat: verify reindex evidence refs in release gating"
+            },
+            {
+              "hash": "4474291",
+              "date": "2026-02-11",
+              "message": "feat: add strict reindex evidence capture and closure gating"
+            },
+            {
+              "hash": "dd4b09e",
+              "date": "2026-02-11",
+              "message": "feat: implement universe platform hardening and release evidence automation"
+            },
+            {
+              "hash": "b78dce4",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "50e1a46",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "cf85e33",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "5c7ca7f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "345d004",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "778cf96",
+              "date": "2026-02-11",
+              "message": "feat: add github pages frontend deployment wiring"
+            }
+          ],
+          "files_changed": 103
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "88db758",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "9a83ae9",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to organon-noumenon--ontogenetic-morphe"
+            },
+            {
+              "hash": "7420c83",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "27687c4",
+              "date": "2026-02-11",
+              "message": "feat: enforce alert and reindex evidence in closure gates"
+            },
+            {
+              "hash": "d22d3dc",
+              "date": "2026-02-11",
+              "message": "feat: verify reindex evidence refs in release gating"
+            },
+            {
+              "hash": "4474291",
+              "date": "2026-02-11",
+              "message": "feat: add strict reindex evidence capture and closure gating"
+            },
+            {
+              "hash": "dd4b09e",
+              "date": "2026-02-11",
+              "message": "feat: implement universe platform hardening and release evidence automation"
+            },
+            {
+              "hash": "b78dce4",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "50e1a46",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "cf85e33",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "5c7ca7f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "345d004",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "778cf96",
+              "date": "2026-02-11",
+              "message": "feat: add github pages frontend deployment wiring"
+            },
+            {
+              "hash": "88db758",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "9a83ae9",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to organon-noumenon--ontogenetic-morphe"
+            },
+            {
+              "hash": "7420c83",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "27687c4",
+              "date": "2026-02-11",
+              "message": "feat: enforce alert and reindex evidence in closure gates"
+            },
+            {
+              "hash": "d22d3dc",
+              "date": "2026-02-11",
+              "message": "feat: verify reindex evidence refs in release gating"
+            },
+            {
+              "hash": "4474291",
+              "date": "2026-02-11",
+              "message": "feat: add strict reindex evidence capture and closure gating"
+            },
+            {
+              "hash": "dd4b09e",
+              "date": "2026-02-11",
+              "message": "feat: implement universe platform hardening and release evidence automation"
+            },
+            {
+              "hash": "b78dce4",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "50e1a46",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "cf85e33",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "5c7ca7f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "345d004",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "778cf96",
+              "date": "2026-02-11",
+              "message": "feat: add github pages frontend deployment wiring"
+            }
+          ],
+          "files_changed": 103
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "88db758",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "9a83ae9",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to organon-noumenon--ontogenetic-morphe"
+            },
+            {
+              "hash": "7420c83",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "27687c4",
+              "date": "2026-02-11",
+              "message": "feat: enforce alert and reindex evidence in closure gates"
+            },
+            {
+              "hash": "d22d3dc",
+              "date": "2026-02-11",
+              "message": "feat: verify reindex evidence refs in release gating"
+            },
+            {
+              "hash": "4474291",
+              "date": "2026-02-11",
+              "message": "feat: add strict reindex evidence capture and closure gating"
+            },
+            {
+              "hash": "dd4b09e",
+              "date": "2026-02-11",
+              "message": "feat: implement universe platform hardening and release evidence automation"
+            },
+            {
+              "hash": "b78dce4",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "50e1a46",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "cf85e33",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "5c7ca7f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "345d004",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "778cf96",
+              "date": "2026-02-11",
+              "message": "feat: add github pages frontend deployment wiring"
+            }
+          ],
+          "files_changed": 103
+        },
+        "narratological-algorithmic-lenses": {
+          "commits": [
+            {
+              "hash": "21c276d",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "1c6df56",
+              "date": "2026-02-11",
+              "message": "Stabilize routes, diagnostics, packaging, and CI gates"
+            },
+            {
+              "hash": "4c2df46",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "5192dce",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "d0b5477",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "ad25a69",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "7bc9982",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 21
+        },
+        "nexus--babel-alexandria": {
+          "commits": [
+            {
+              "hash": "a6f1291",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "a4b38de",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            }
+          ],
+          "files_changed": 2
+        },
+        "organon-noumenon--ontogenetic-morphe": {
+          "commits": [
+            {
+              "hash": "86906de",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "b50b0f9",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "f3f75e2",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "2aae8a9",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "bbb0d4f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "3313cd6",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "radix-recursiva-solve-coagula-redi": {
+          "commits": [
+            {
+              "hash": "ff03aa2",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "2fa741e",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "03ab3b4",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "a301e92",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "f1aa799",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "e11b8ae",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "recursive-engine--generative-entity": {
+          "commits": [
+            {
+              "hash": "5a2fcc5",
+              "date": "2026-02-11",
+              "message": "feat: add .meta/dependencies.json"
+            },
+            {
+              "hash": "d213ae6",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "6e8fb2e",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "90ffd38",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "c91f17f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "4a15ada",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "117ae87",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "c3705c9",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "aef0360",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "7869b5e",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "fcb0fac",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "reverse-engine-recursive-run": {
+          "commits": [
+            {
+              "hash": "493bc76",
+              "date": "2026-02-11",
+              "message": "fix: restore README + expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "ea5893b",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to full canonical name"
+            },
+            {
+              "hash": "2b6cd99",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "4116f93",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "2689cd3",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "cd8767f",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "53d4c28",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "0693057",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "sema-metra--alchemica-mundi": {
+          "commits": [
+            {
+              "hash": "218e0b1",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to full canonical name"
+            },
+            {
+              "hash": "ea2e1b2",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "cf70f26",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "7fe2add",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "5a23fc6",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "e5f6778",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "20b7187",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "9f3cbe6",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "23ea034",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "d4813c4",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "6d00ee7",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "6510722",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-i-council--coliseum": {
+          "commits": [
+            {
+              "hash": "5aa72af",
+              "date": "2026-02-11",
+              "message": "stabilize MVP runtime, contracts, tests, CI, and docs"
+            },
+            {
+              "hash": "e417cd0",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "efb810b",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "b62dbd0",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "bc2afa4",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "715f157",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 38
+        },
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "8c985a1",
+              "date": "2026-02-11",
+              "message": "feat: add .meta/dependencies.json"
+            },
+            {
+              "hash": "b67c6a7",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "b655fb0",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "6f5d146",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "41ae84c",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "9dd85d8",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "audio-synthesis-bridge": {
+          "commits": [
+            {
+              "hash": "c5be7ec",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine URL to canonical name"
+            },
+            {
+              "hash": "dcae63d",
+              "date": "2026-02-11",
+              "message": "fix: expand organon-noumenon to full canonical name"
+            },
+            {
+              "hash": "40891a7",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "589c88a",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "476575d",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "9d7908a",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "8e523d4",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "e47b3cc",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "client-sdk": {
+          "commits": [
+            {
+              "hash": "f30f6b3",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine URL to canonical name"
+            },
+            {
+              "hash": "0cc3a70",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "4f8b2c9",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "5f3df35",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "e7caeb6",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "b54f0e0",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "69b4185",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "dfe1f06",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 7
+        },
+        "example-choreographic-interface": {
+          "commits": [
+            {
+              "hash": "95a29e2",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine URL to canonical name"
+            },
+            {
+              "hash": "9788b6a",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "ec5f780",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "2efcfb2",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "c47c498",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "ea2334d",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "0952c8e",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "example-generative-music": {
+          "commits": [
+            {
+              "hash": "b1ba631",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "e862eb2",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to organon-noumenon--ontogenetic-morphe"
+            },
+            {
+              "hash": "a12c2a1",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "54f7bdb",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "54d39bb",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "cae5bac",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "d65c39e",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "ba5988e",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "example-theatre-dialogue": {
+          "commits": [
+            {
+              "hash": "30a4e08",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine URL to canonical name"
+            },
+            {
+              "hash": "a39e11e",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "cf452ce",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "8ea85a9",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "b8795ee",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "cc81494",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "063e77b",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "metasystem-master": {
+          "commits": [
+            {
+              "hash": "23db69f",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine URL to canonical name"
+            },
+            {
+              "hash": "1a49bb7",
+              "date": "2026-02-11",
+              "message": "fix: expand organon-noumenon to full canonical name"
+            },
+            {
+              "hash": "417d7b7",
+              "date": "2026-02-11",
+              "message": "feat: add .meta/dependencies.json"
+            },
+            {
+              "hash": "5ba143f",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "39b3a1a",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "e251d24",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "2b5609b",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "a764957",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "classroom-rpg-aetheria": {
+          "commits": [
+            {
+              "hash": "025ccea",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "ec0776f",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "5abb109",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "29a326e",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "c670075",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "025ccea",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "ec0776f",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "5abb109",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "29a326e",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "c670075",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        ".github": {
+          "commits": [
+            {
+              "hash": "dd7fcbb",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "11e9414",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            }
+          ],
+          "files_changed": 2
+        },
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "034b72d",
+              "date": "2026-02-11",
+              "message": "fix: replace 2 broken external links in README (sentinel-js removed, vite-plugin-monkey updated)"
+            },
+            {
+              "hash": "03a5eb7",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "71e8b78",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "b1dc49e",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "11c53cd",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "e59a53c",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "auto-revision-epistemic-engine": {
+          "commits": [
+            {
+              "hash": "0a9a00d",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to recursive-engine--generative-entity"
+            },
+            {
+              "hash": "9e60821",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "e30f18b",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "a8b659f",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "f149265",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "3b30e36",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "enterprise-plugin": {
+          "commits": [
+            {
+              "hash": "4ebd95e",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to recursive-engine--generative-entity"
+            },
+            {
+              "hash": "c09dca3",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "f993c91",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "8f14ad3",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "14b0632",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "68beedd",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "b8691c9",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "7021aab",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "4ebd95e",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to recursive-engine--generative-entity"
+            },
+            {
+              "hash": "c09dca3",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "f993c91",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "8f14ad3",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "14b0632",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "68beedd",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "b8691c9",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "7021aab",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 7
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "0703305",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "bc202e1",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "cdaa96a",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "9e157ad",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "cb3e155",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "a94b1f4",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "0703305",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "bc202e1",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "cdaa96a",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "9e157ad",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "cb3e155",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "a94b1f4",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "gamified-coach-interface": {
+          "commits": [
+            {
+              "hash": "0d94763",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "c85966e",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "f8404cc",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "d3c9ae7",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "4e149eb",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "0d94763",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "c85966e",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "f8404cc",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "d3c9ae7",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "4e149eb",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "kerygma-dotgithub": {
+          "commits": [
+            {
+              "hash": "84e40d6",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "0d3dea7",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            }
+          ],
+          "files_changed": 2
+        },
+        "life-my--midst--in": {
+          "commits": [
+            {
+              "hash": "dfba6b4",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "56f9236",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "837b4ea",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "a993ba3",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "664929f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "c6af0be",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "dfba6b4",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "56f9236",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "837b4ea",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "a993ba3",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "664929f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "c6af0be",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "mirror-mirror": {
+          "commits": [
+            {
+              "hash": "d561669",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "916e84a",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "b045ddd",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "b91ca0a",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "b875f50",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "d561669",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "916e84a",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "b045ddd",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "b91ca0a",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "b875f50",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "88db758",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "9a83ae9",
+              "date": "2026-02-11",
+              "message": "fix: correct broken link to organon-noumenon--ontogenetic-morphe"
+            },
+            {
+              "hash": "7420c83",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "27687c4",
+              "date": "2026-02-11",
+              "message": "feat: enforce alert and reindex evidence in closure gates"
+            },
+            {
+              "hash": "d22d3dc",
+              "date": "2026-02-11",
+              "message": "feat: verify reindex evidence refs in release gating"
+            },
+            {
+              "hash": "4474291",
+              "date": "2026-02-11",
+              "message": "feat: add strict reindex evidence capture and closure gating"
+            },
+            {
+              "hash": "dd4b09e",
+              "date": "2026-02-11",
+              "message": "feat: implement universe platform hardening and release evidence automation"
+            },
+            {
+              "hash": "b78dce4",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "50e1a46",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "cf85e33",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "5c7ca7f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "345d004",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "778cf96",
+              "date": "2026-02-11",
+              "message": "feat: add github pages frontend deployment wiring"
+            }
+          ],
+          "files_changed": 103
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "68cf4af",
+              "date": "2026-02-11",
+              "message": "feat: add .meta/dependencies.json"
+            },
+            {
+              "hash": "eb541d6",
+              "date": "2026-02-11",
+              "message": "feat: add LinkedIn POSSE + Ghost newsletter to distribute-content workflow"
+            },
+            {
+              "hash": "ea9595f",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "47abb5e",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "e352a17",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "c6e9a6b",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "3571640",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "4dec3f2",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "2182909",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "7ec45e7",
+              "date": "2026-02-11",
+              "message": "Flagship README upgrade — central orchestration hub (4,496 words)"
+            },
+            {
+              "hash": "e198fb7",
+              "date": "2026-02-11",
+              "message": "Monthly audit metrics — 2026-02-11"
+            }
+          ],
+          "files_changed": 9
+        },
+        "organvm-corpvs-testamentvm": {
+          "commits": [
+            {
+              "hash": "71d88bb",
+              "date": "2026-02-11",
+              "message": "feat: Consolidation Sprint — close 8 open gaps across all workstreams"
+            },
+            {
+              "hash": "3732660",
+              "date": "2026-02-11",
+              "message": "docs: add AI engineering role research, 7 cover letters, update tracker"
+            },
+            {
+              "hash": "c2183aa",
+              "date": "2026-02-11",
+              "message": "docs: correct Google deadline to March 18, update materials status"
+            },
+            {
+              "hash": "199fdc1",
+              "date": "2026-02-11",
+              "message": "docs: draft Google Creative Lab Five short-answer responses"
+            },
+            {
+              "hash": "9161863",
+              "date": "2026-02-11",
+              "message": "feat: Phase 4 state machine exercise — 4 promotions, 3 archives"
+            },
+            {
+              "hash": "790da9e",
+              "date": "2026-02-11",
+              "message": "docs: add Phase 3 essays and implementation sprint specs"
+            },
+            {
+              "hash": "667636b",
+              "date": "2026-02-11",
+              "message": "docs: update tracker with researched deadlines and eligibility"
+            },
+            {
+              "hash": "06efba6",
+              "date": "2026-02-11",
+              "message": "docs: add Phase 2 application framework across 3 tracks"
+            },
+            {
+              "hash": "9ac81ac",
+              "date": "2026-02-11",
+              "message": "feat: deploy 5 governance workflows + organ-audit script (Phase 1)"
+            },
+            {
+              "hash": "7a46802",
+              "date": "2026-02-11",
+              "message": "Upgrade platinum-validation.py to full sweep (no sampling)"
+            },
+            {
+              "hash": "0a2e39f",
+              "date": "2026-02-11",
+              "message": "Platinum Sprint: CI/CD, badges, CHANGELOGs, ADRs across 65 repos"
+            },
+            {
+              "hash": "535ba8a",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "aa9d2cb",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "4949467",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "4f064c7",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "81d09ae",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "4a92aa8",
+              "date": "2026-02-11",
+              "message": "Housekeeping: add corpvs-testamentvm to registry, update stale docs"
+            },
+            {
+              "hash": "5a68271",
+              "date": "2026-02-11",
+              "message": "Initial commit: organvm-corpvs-testamentvm"
+            }
+          ],
+          "files_changed": 181
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "e5a8d3c",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "8a16cbd",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "b20b464",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "8a82ecd",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "636f359",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "85ee882",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "5cc645a",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "e8d66a8",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "f9eeecc",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "e1734e7",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "85ee882",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "5cc645a",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "e8d66a8",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "f9eeecc",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "e1734e7",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "reading-group-curriculum": {
+          "commits": [
+            {
+              "hash": "245d839",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "0c237f8",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "d0fc2ef",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 (Platinum Sprint)"
+            },
+            {
+              "hash": "87dd727",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 (Platinum Sprint)"
+            },
+            {
+              "hash": "aa619fb",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "885c800",
+              "date": "2026-02-11",
+              "message": "ci: add minimal CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "5d163d0",
+              "date": "2026-02-11",
+              "message": "Deploy 2,000+ word README — Gap-Fill Sprint"
+            },
+            {
+              "hash": "14ad8db",
+              "date": "2026-02-11",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 7
+        },
+        "sovereign-ecosystem--real-estate-luxury": {
+          "commits": [
+            {
+              "hash": "fe2be45",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "badef42",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "93bc6f7",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "f25808c",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "6c389f4",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "d297360",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "fe2be45",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "badef42",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "93bc6f7",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "f25808c",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "6c389f4",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "d297360",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "system-governance-framework": {
+          "commits": [
+            {
+              "hash": "9f3cbe6",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "23ea034",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "d4813c4",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "6d00ee7",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "6510722",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "tab-bookmark-manager": {
+          "commits": [
+            {
+              "hash": "c39985b",
+              "date": "2026-02-11",
+              "message": "docs: add root .env.example"
+            },
+            {
+              "hash": "3ce09aa",
+              "date": "2026-02-11",
+              "message": "docs: add demo mode guide"
+            },
+            {
+              "hash": "b038e80",
+              "date": "2026-02-11",
+              "message": "fix: update repo URL in deployment docs"
+            },
+            {
+              "hash": "31e2d80",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "2b307ee",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "c64138b",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "cfa1e72",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "3c47a74",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 8
+        },
+        "the-actual-news": {
+          "commits": [
+            {
+              "hash": "75a0d2a",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "30a2df8",
+              "date": "2026-02-11",
+              "message": "docs: add local development guide"
+            },
+            {
+              "hash": "3be1909",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "dca28ed",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "0e861a2",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "0c2a35a",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "2ff35c3",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "75a0d2a",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "30a2df8",
+              "date": "2026-02-11",
+              "message": "docs: add local development guide"
+            },
+            {
+              "hash": "3be1909",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "dca28ed",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "0e861a2",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "0c2a35a",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "2ff35c3",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "the-invisible-ledger": {
+          "commits": [
+            {
+              "hash": "e8bf0f9",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "c4c489d",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "a8c7b38",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "85df034",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "9cdb78a",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "73ba723",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "e8bf0f9",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "c4c489d",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "a8c7b38",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "85df034",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "9cdb78a",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "73ba723",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "c34698e",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "3f0f7a3",
+              "date": "2026-02-11",
+              "message": "fix: replace broken @drift-labs/sdk npm link with protocol-v2 GitHub repo"
+            },
+            {
+              "hash": "cd7ad5e",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "78a80bd",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "ebea298",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "99034d7",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "0e3124a",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "c34698e",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "3f0f7a3",
+              "date": "2026-02-11",
+              "message": "fix: replace broken @drift-labs/sdk npm link with protocol-v2 GitHub repo"
+            },
+            {
+              "hash": "cd7ad5e",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "78a80bd",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "ebea298",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "99034d7",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "0e3124a",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "universal-mail--automation": {
+          "commits": [
+            {
+              "hash": "a79ec63",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "8ca3667",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "f791a4a",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "4e052d2",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "3c16bee",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "8170cb1",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "db9f43a",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "a79ec63",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "8ca3667",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "f791a4a",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "4e052d2",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "3c16bee",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "8170cb1",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "db9f43a",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "virgil-training-overlay": {
+          "commits": [
+            {
+              "hash": "e9054b7",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "1ebb537",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "428b47b",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "1e1bc0a",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "ae51739",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "ebd02fe",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "7c65ad4",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "e9054b7",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "1ebb537",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "428b47b",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "1e1bc0a",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "ae51739",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "ebd02fe",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "7c65ad4",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 7
+        },
+        "multi-camera--livestream--framework": {
+          "commits": [
+            {
+              "hash": "aa145a5",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "aa1bcf5",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "d2510e1",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "397e4e4",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "fc143b7",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "8477100",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "my--father-mother": {
+          "commits": [
+            {
+              "hash": "c690159",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "cec93f3",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "8d5820d",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "12e7e0f",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "b81d73e",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "b43fc89",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "ace462a",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "my-block-warfare": {
+          "commits": [
+            {
+              "hash": "fe145b0",
+              "date": "2026-02-11",
+              "message": "fix: expand recursive-engine to canonical name"
+            },
+            {
+              "hash": "f3f44f3",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "82e2ea6",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "d90a328",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "3f6e173",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "9f24910",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "f4377dd",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "9477ee1",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 7
+        },
+        "search-local--happy-hour": {
+          "commits": [
+            {
+              "hash": "fb7a9ef",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "3151e08",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "07eec28",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "140fa28",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "e976c50",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "your-fit-tailored": {
+          "commits": [
+            {
+              "hash": "fe470a7",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "e70c37b",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "b57feea",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "e0d2300",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "f852d8f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "aaaa945",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "a-i--skills": {
+          "commits": [
+            {
+              "hash": "6bd6ea5",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "9e0df52",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "545c478",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "1224c09",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "b5a3671",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "agent--claude-smith": {
+          "commits": [
+            {
+              "hash": "736ea14",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "4819bde",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "1c42813",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "dfb00a8",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "de652ff",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "415bec2",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        },
+        "agentic-titan": {
+          "commits": [
+            {
+              "hash": "1ceabf6",
+              "date": "2026-02-11",
+              "message": "feat: add .meta/dependencies.json"
+            },
+            {
+              "hash": "0b62958",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "67bd503",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "ea12e2c",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "ce59cc5",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "c629f40",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "fd80153",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 7
+        },
+        "orchestration-start-here": {
+          "commits": [
+            {
+              "hash": "68cf4af",
+              "date": "2026-02-11",
+              "message": "feat: add .meta/dependencies.json"
+            },
+            {
+              "hash": "eb541d6",
+              "date": "2026-02-11",
+              "message": "feat: add LinkedIn POSSE + Ghost newsletter to distribute-content workflow"
+            },
+            {
+              "hash": "ea9595f",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "47abb5e",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "e352a17",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "c6e9a6b",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "3571640",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "4dec3f2",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "2182909",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "7ec45e7",
+              "date": "2026-02-11",
+              "message": "Flagship README upgrade — central orchestration hub (4,496 words)"
+            },
+            {
+              "hash": "e198fb7",
+              "date": "2026-02-11",
+              "message": "Monthly audit metrics — 2026-02-11"
+            }
+          ],
+          "files_changed": 9
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "e5a8d3c",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "8a16cbd",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "b20b464",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "8a82ecd",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "636f359",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 5
+        },
+        "universal-node-network": {
+          "commits": [
+            {
+              "hash": "684d634",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "dfd0141",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "247062d",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "3cd612d",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "1b4f1f4",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "3a271d1",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 6
+        }
+      }
+    },
+    "V": {
+      "name": "Logos",
+      "repos": {
+        "public-process": {
+          "commits": [
+            {
+              "hash": "bfe09c3",
+              "date": "2026-02-11",
+              "message": "feat: add .meta/dependencies.json"
+            },
+            {
+              "hash": "cf97370",
+              "date": "2026-02-11",
+              "message": "feat: add engagement metrics stub"
+            },
+            {
+              "hash": "4ab0096",
+              "date": "2026-02-11",
+              "message": "feat: add publication calendar with Ghost newsletter plan"
+            },
+            {
+              "hash": "73c8066",
+              "date": "2026-02-11",
+              "message": "feat: add essay — Generative Music Case Study"
+            },
+            {
+              "hash": "d034141",
+              "date": "2026-02-11",
+              "message": "feat: add essay — Epistemic Tuning Explained"
+            },
+            {
+              "hash": "3db4b24",
+              "date": "2026-02-11",
+              "message": "feat: add essay — Recursive Engines at Scale"
+            },
+            {
+              "hash": "aa6f942",
+              "date": "2026-02-11",
+              "message": "feat: add essay C6 — Coaching Platform Metrics: Commerce Retrospective with Actual Numbers"
+            },
+            {
+              "hash": "867a013",
+              "date": "2026-02-11",
+              "message": "feat: add essay C5 — Aetheria RPG Post-Mortem: A Full I→II→III Pipeline Retrospective"
+            },
+            {
+              "hash": "76c94d5",
+              "date": "2026-02-11",
+              "message": "feat: add essay C4 — The Choreographic Interface: Designing Systems for Human Movement"
+            },
+            {
+              "hash": "27ec9a7",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "5ea1c60",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "470ac0d",
+              "date": "2026-02-11",
+              "message": "docs: add 10-uniform-quality-at-scale.md (Platinum Sprint)"
+            },
+            {
+              "hash": "15c8d5b",
+              "date": "2026-02-11",
+              "message": "docs: add 09-ai-conductor-methodology.md (Platinum Sprint)"
+            },
+            {
+              "hash": "46cff71",
+              "date": "2026-02-11",
+              "message": "docs: add 08-bronze-to-platinum.md (Platinum Sprint)"
+            },
+            {
+              "hash": "4491d72",
+              "date": "2026-02-11",
+              "message": "docs: add 07-documentation-implementation-gap.md (Platinum Sprint)"
+            },
+            {
+              "hash": "a64a414",
+              "date": "2026-02-11",
+              "message": "docs: add 06-testing-the-meta-system.md (Platinum Sprint)"
+            },
+            {
+              "hash": "613d4e6",
+              "date": "2026-02-11",
+              "message": "chore: standardize badge row (Platinum Sprint)"
+            },
+            {
+              "hash": "f51d079",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 integration patterns (Platinum Sprint)"
+            },
+            {
+              "hash": "9334c2f",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 initial architecture (Platinum Sprint)"
+            },
+            {
+              "hash": "9a6d354",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "1d01b07",
+              "date": "2026-02-11",
+              "message": "ci: add CI workflow (Platinum Sprint)"
+            }
+          ],
+          "files_changed": 21
+        }
+      }
+    },
+    "VI": {
+      "name": "Koinonia",
+      "repos": {
+        "reading-group-curriculum": {
+          "commits": [
+            {
+              "hash": "245d839",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "0c237f8",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "d0fc2ef",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 (Platinum Sprint)"
+            },
+            {
+              "hash": "87dd727",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 (Platinum Sprint)"
+            },
+            {
+              "hash": "aa619fb",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "885c800",
+              "date": "2026-02-11",
+              "message": "ci: add minimal CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "5d163d0",
+              "date": "2026-02-11",
+              "message": "Deploy 2,000+ word README — Gap-Fill Sprint"
+            },
+            {
+              "hash": "14ad8db",
+              "date": "2026-02-11",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 7
+        },
+        "salon-archive": {
+          "commits": [
+            {
+              "hash": "5e838b0",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "1a8c475",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "d698ce0",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 (Platinum Sprint)"
+            },
+            {
+              "hash": "616cf80",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 (Platinum Sprint)"
+            },
+            {
+              "hash": "8f454a7",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "1df4ff9",
+              "date": "2026-02-11",
+              "message": "ci: add minimal CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "17a041d",
+              "date": "2026-02-11",
+              "message": "Deploy 2,000+ word README — Gap-Fill Sprint"
+            },
+            {
+              "hash": "71cfeb0",
+              "date": "2026-02-11",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 7
+        }
+      }
+    },
+    "VII": {
+      "name": "Kerygma",
+      "repos": {
+        "announcement-templates": {
+          "commits": [
+            {
+              "hash": "fa508ca",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "360428a",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "7a97203",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 (Platinum Sprint)"
+            },
+            {
+              "hash": "5a7c1ab",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 (Platinum Sprint)"
+            },
+            {
+              "hash": "f2b0a4a",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "f1af2ff",
+              "date": "2026-02-11",
+              "message": "ci: add minimal CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "8c7b6c1",
+              "date": "2026-02-11",
+              "message": "Deploy 2,000+ word README — Gap-Fill Sprint"
+            },
+            {
+              "hash": "6ef4f1a",
+              "date": "2026-02-11",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 7
+        },
+        "distribution-strategy": {
+          "commits": [
+            {
+              "hash": "ef8a6b3",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "85ebfff",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "41bd4fd",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 (Platinum Sprint)"
+            },
+            {
+              "hash": "584f4c2",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 (Platinum Sprint)"
+            },
+            {
+              "hash": "8f4ea7f",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "396cf1b",
+              "date": "2026-02-11",
+              "message": "ci: add minimal CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "9ad8034",
+              "date": "2026-02-11",
+              "message": "Deploy 2,000+ word README — Gap-Fill Sprint"
+            },
+            {
+              "hash": "8f8a87a",
+              "date": "2026-02-11",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 7
+        },
+        "social-automation": {
+          "commits": [
+            {
+              "hash": "890c43d",
+              "date": "2026-02-11",
+              "message": "chore: add .gitignore"
+            },
+            {
+              "hash": "23950a3",
+              "date": "2026-02-11",
+              "message": "chore: add MIT LICENSE"
+            },
+            {
+              "hash": "0892bc2",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-002 (Platinum Sprint)"
+            },
+            {
+              "hash": "d9ad25b",
+              "date": "2026-02-11",
+              "message": "docs: add ADR-001 (Platinum Sprint)"
+            },
+            {
+              "hash": "7dbed6e",
+              "date": "2026-02-11",
+              "message": "docs: add CHANGELOG (Platinum Sprint)"
+            },
+            {
+              "hash": "f01e29e",
+              "date": "2026-02-11",
+              "message": "ci: add minimal CI workflow (Platinum Sprint)"
+            },
+            {
+              "hash": "6c3e817",
+              "date": "2026-02-11",
+              "message": "Deploy 2,000+ word README — Gap-Fill Sprint"
+            },
+            {
+              "hash": "abb8ecb",
+              "date": "2026-02-11",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 7
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "generated": "2026-03-06T00:39:32Z",
+  "since": "2025-10-29",
+  "until": "2025-10-29",
+  "summary": {
+    "total_commits": 41,
+    "repos_active": 8,
+    "files_changed": 127,
+    "organs_touched": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "reverse-engine-recursive-run": {
+          "commits": [
+            {
+              "hash": "fa6f4d2",
+              "date": "2025-10-29",
+              "message": "Add quick start guide and comprehensive scripts documentation"
+            },
+            {
+              "hash": "3cb413e",
+              "date": "2025-10-29",
+              "message": "Add security parsers and documentation templates"
+            },
+            {
+              "hash": "bb9f723",
+              "date": "2025-10-29",
+              "message": "Add ownership analysis, risk aggregation, ADR scaffolding, and build infrastructure"
+            },
+            {
+              "hash": "87c10d6",
+              "date": "2025-10-29",
+              "message": "Add core architecture governance scripts and documentation"
+            },
+            {
+              "hash": "1b8997d",
+              "date": "2025-10-29",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 21
+        }
+      }
+    },
+    "II": {
+      "name": "Poiesis",
+      "repos": {
+        "a-mavs-olevm": {
+          "commits": [
+            {
+              "hash": "ee19864",
+              "date": "2025-10-29",
+              "message": "Format validation script with prettier"
+            },
+            {
+              "hash": "5982e11",
+              "date": "2025-10-29",
+              "message": "Add package-lock.json validation script with top-to-bottom checks"
+            },
+            {
+              "hash": "8065691",
+              "date": "2025-10-29",
+              "message": "Initial plan"
+            }
+          ],
+          "files_changed": 4
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "anon-hookup-now": {
+          "commits": [
+            {
+              "hash": "57dec86",
+              "date": "2025-10-29",
+              "message": "Add GitHub Actions workflow for Python package"
+            },
+            {
+              "hash": "16739d1",
+              "date": "2025-10-29",
+              "message": "Add Pylint workflow for Python code analysis"
+            },
+            {
+              "hash": "b08d8e1",
+              "date": "2025-10-29",
+              "message": "Add Django CI workflow for testing"
+            }
+          ],
+          "files_changed": 3
+        },
+        "fetch-familiar-friends": {
+          "commits": [
+            {
+              "hash": "a131f4f",
+              "date": "2025-10-29",
+              "message": "Bump vite in the npm_and_yarn group across 1 directory"
+            },
+            {
+              "hash": "a131f4f",
+              "date": "2025-10-29",
+              "message": "Bump vite in the npm_and_yarn group across 1 directory"
+            }
+          ],
+          "files_changed": 1
+        },
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "cc455cc",
+              "date": "2025-10-29",
+              "message": "Fix security vulnerabilities in workflows - add permissions and sanitize user input"
+            },
+            {
+              "hash": "f133564",
+              "date": "2025-10-29",
+              "message": "Add .gitignore file"
+            },
+            {
+              "hash": "ea527e1",
+              "date": "2025-10-29",
+              "message": "Fix YAML formatting and add quick start guides"
+            },
+            {
+              "hash": "0c4b55c",
+              "date": "2025-10-29",
+              "message": "Document organization-wide issue management strategies"
+            },
+            {
+              "hash": "4bf9b21",
+              "date": "2025-10-29",
+              "message": "Add organization-wide issue tracking infrastructure"
+            },
+            {
+              "hash": "d08dc2c",
+              "date": "2025-10-29",
+              "message": "Update README formatting for section headers"
+            },
+            {
+              "hash": "51f05a2",
+              "date": "2025-10-29",
+              "message": "Update README with new formatting and content"
+            },
+            {
+              "hash": "5c9b14a",
+              "date": "2025-10-29",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3f9a361",
+              "date": "2025-10-29",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 30
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "17300d4",
+              "date": "2025-10-29",
+              "message": "Update src/lib/exportUtils.ts"
+            },
+            {
+              "hash": "c0364ba",
+              "date": "2025-10-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "1371aaa",
+              "date": "2025-10-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "8d638c4",
+              "date": "2025-10-29",
+              "message": "index.html"
+            },
+            {
+              "hash": "17300d4",
+              "date": "2025-10-29",
+              "message": "Update src/lib/exportUtils.ts"
+            },
+            {
+              "hash": "c0364ba",
+              "date": "2025-10-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "1371aaa",
+              "date": "2025-10-29",
+              "message": "Update index.html"
+            },
+            {
+              "hash": "8d638c4",
+              "date": "2025-10-29",
+              "message": "index.html"
+            }
+          ],
+          "files_changed": 7
+        },
+        "trade-perpetual-future": {
+          "commits": [
+            {
+              "hash": "05ce458",
+              "date": "2025-10-29",
+              "message": "Initial commit"
+            },
+            {
+              "hash": "05ce458",
+              "date": "2025-10-29",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 31
+        }
+      }
+    },
+    "IV": {
+      "name": "Taxis",
+      "repos": {
+        "petasum-super-petasum": {
+          "commits": [
+            {
+              "hash": "cc455cc",
+              "date": "2025-10-29",
+              "message": "Fix security vulnerabilities in workflows - add permissions and sanitize user input"
+            },
+            {
+              "hash": "f133564",
+              "date": "2025-10-29",
+              "message": "Add .gitignore file"
+            },
+            {
+              "hash": "ea527e1",
+              "date": "2025-10-29",
+              "message": "Fix YAML formatting and add quick start guides"
+            },
+            {
+              "hash": "0c4b55c",
+              "date": "2025-10-29",
+              "message": "Document organization-wide issue management strategies"
+            },
+            {
+              "hash": "4bf9b21",
+              "date": "2025-10-29",
+              "message": "Add organization-wide issue tracking infrastructure"
+            },
+            {
+              "hash": "d08dc2c",
+              "date": "2025-10-29",
+              "message": "Update README formatting for section headers"
+            },
+            {
+              "hash": "51f05a2",
+              "date": "2025-10-29",
+              "message": "Update README with new formatting and content"
+            },
+            {
+              "hash": "5c9b14a",
+              "date": "2025-10-29",
+              "message": "Initial plan"
+            },
+            {
+              "hash": "3f9a361",
+              "date": "2025-10-29",
+              "message": "Initial commit"
+            }
+          ],
+          "files_changed": 30
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "generated": "2026-03-06T00:39:30Z",
+  "since": "2026-01-31",
+  "until": "2026-01-31",
+  "summary": {
+    "total_commits": 34,
+    "repos_active": 8,
+    "files_changed": 533,
+    "organs_touched": [
+      "I",
+      "III"
+    ]
+  },
+  "by_organ": {
+    "I": {
+      "name": "Theoria",
+      "repos": {
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "4e2d071",
+              "date": "2026-01-31",
+              "message": "feat: All OSS AI pipeline & Federated Ingestion"
+            },
+            {
+              "hash": "39ecf3b",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "c8f1bf2",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "89bbc51",
+              "date": "2026-01-31",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add 6800+ atomized knowledge units and enhance services    2 │    3 │ Atomized Content:    4 │ - 5308 new JSON knowledge units in atomized/json/units/    5 │ - 1536 new markdown units in atomized/markdown/    6 │ - Updated index files (excluding large index.jsonl)    7 │    8 │ Source Enhancements:    9 │ - claude-service.ts: Improved API handling and token management   10 │ - embeddings-service.ts: Enhanced embedding generation   11 │ - apple-notes.ts: Better Apple Notes integration   12 │ - taxonomy-cli.ts: Expanded taxonomy processing   13 │   14 │ Web UI (web-react):   15 │ - SearchBar: New source filter functionality   16 │ - SettingsTab: Enhanced settings with more options   17 │ - UnitCard: Improved card display   18 │ - New SourceIcon component   19 │   20 │ Other Changes:   21 │ - Updated dependencies (package.json, package-lock.json)   22 │ - Enhanced test coverage for services   23 │ - Added copilot-instructions.md   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 48
+        },
+        "4_S0VRC3": {
+          "commits": [
+            {
+              "hash": "4e2d071",
+              "date": "2026-01-31",
+              "message": "feat: All OSS AI pipeline & Federated Ingestion"
+            },
+            {
+              "hash": "39ecf3b",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "c8f1bf2",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "89bbc51",
+              "date": "2026-01-31",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add 6800+ atomized knowledge units and enhance services    2 │    3 │ Atomized Content:    4 │ - 5308 new JSON knowledge units in atomized/json/units/    5 │ - 1536 new markdown units in atomized/markdown/    6 │ - Updated index files (excluding large index.jsonl)    7 │    8 │ Source Enhancements:    9 │ - claude-service.ts: Improved API handling and token management   10 │ - embeddings-service.ts: Enhanced embedding generation   11 │ - apple-notes.ts: Better Apple Notes integration   12 │ - taxonomy-cli.ts: Expanded taxonomy processing   13 │   14 │ Web UI (web-react):   15 │ - SearchBar: New source filter functionality   16 │ - SettingsTab: Enhanced settings with more options   17 │ - UnitCard: Improved card display   18 │ - New SourceIcon component   19 │   20 │ Other Changes:   21 │ - Updated dependencies (package.json, package-lock.json)   22 │ - Enhanced test coverage for services   23 │ - Added copilot-instructions.md   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 48
+        },
+        "desktop-tutorial": {
+          "commits": [
+            {
+              "hash": "4e2d071",
+              "date": "2026-01-31",
+              "message": "feat: All OSS AI pipeline & Federated Ingestion"
+            },
+            {
+              "hash": "39ecf3b",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "c8f1bf2",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "89bbc51",
+              "date": "2026-01-31",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add 6800+ atomized knowledge units and enhance services    2 │    3 │ Atomized Content:    4 │ - 5308 new JSON knowledge units in atomized/json/units/    5 │ - 1536 new markdown units in atomized/markdown/    6 │ - Updated index files (excluding large index.jsonl)    7 │    8 │ Source Enhancements:    9 │ - claude-service.ts: Improved API handling and token management   10 │ - embeddings-service.ts: Enhanced embedding generation   11 │ - apple-notes.ts: Better Apple Notes integration   12 │ - taxonomy-cli.ts: Expanded taxonomy processing   13 │   14 │ Web UI (web-react):   15 │ - SearchBar: New source filter functionality   16 │ - SettingsTab: Enhanced settings with more options   17 │ - UnitCard: Improved card display   18 │ - New SourceIcon component   19 │   20 │ Other Changes:   21 │ - Updated dependencies (package.json, package-lock.json)   22 │ - Enhanced test coverage for services   23 │ - Added copilot-instructions.md   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 48
+        },
+        "extras": {
+          "commits": [
+            {
+              "hash": "4e2d071",
+              "date": "2026-01-31",
+              "message": "feat: All OSS AI pipeline & Federated Ingestion"
+            },
+            {
+              "hash": "39ecf3b",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "c8f1bf2",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "89bbc51",
+              "date": "2026-01-31",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add 6800+ atomized knowledge units and enhance services    2 │    3 │ Atomized Content:    4 │ - 5308 new JSON knowledge units in atomized/json/units/    5 │ - 1536 new markdown units in atomized/markdown/    6 │ - Updated index files (excluding large index.jsonl)    7 │    8 │ Source Enhancements:    9 │ - claude-service.ts: Improved API handling and token management   10 │ - embeddings-service.ts: Enhanced embedding generation   11 │ - apple-notes.ts: Better Apple Notes integration   12 │ - taxonomy-cli.ts: Expanded taxonomy processing   13 │   14 │ Web UI (web-react):   15 │ - SearchBar: New source filter functionality   16 │ - SettingsTab: Enhanced settings with more options   17 │ - UnitCard: Improved card display   18 │ - New SourceIcon component   19 │   20 │ Other Changes:   21 │ - Updated dependencies (package.json, package-lock.json)   22 │ - Enhanced test coverage for services   23 │ - Added copilot-instructions.md   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "4e2d071",
+              "date": "2026-01-31",
+              "message": "feat: All OSS AI pipeline & Federated Ingestion"
+            },
+            {
+              "hash": "39ecf3b",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "c8f1bf2",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "89bbc51",
+              "date": "2026-01-31",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add 6800+ atomized knowledge units and enhance services    2 │    3 │ Atomized Content:    4 │ - 5308 new JSON knowledge units in atomized/json/units/    5 │ - 1536 new markdown units in atomized/markdown/    6 │ - Updated index files (excluding large index.jsonl)    7 │    8 │ Source Enhancements:    9 │ - claude-service.ts: Improved API handling and token management   10 │ - embeddings-service.ts: Enhanced embedding generation   11 │ - apple-notes.ts: Better Apple Notes integration   12 │ - taxonomy-cli.ts: Expanded taxonomy processing   13 │   14 │ Web UI (web-react):   15 │ - SearchBar: New source filter functionality   16 │ - SettingsTab: Enhanced settings with more options   17 │ - UnitCard: Improved card display   18 │ - New SourceIcon component   19 │   20 │ Other Changes:   21 │ - Updated dependencies (package.json, package-lock.json)   22 │ - Enhanced test coverage for services   23 │ - Added copilot-instructions.md   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 48
+        },
+        "main": {
+          "commits": [
+            {
+              "hash": "4e2d071",
+              "date": "2026-01-31",
+              "message": "feat: All OSS AI pipeline & Federated Ingestion"
+            },
+            {
+              "hash": "39ecf3b",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "c8f1bf2",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "89bbc51",
+              "date": "2026-01-31",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add 6800+ atomized knowledge units and enhance services    2 │    3 │ Atomized Content:    4 │ - 5308 new JSON knowledge units in atomized/json/units/    5 │ - 1536 new markdown units in atomized/markdown/    6 │ - Updated index files (excluding large index.jsonl)    7 │    8 │ Source Enhancements:    9 │ - claude-service.ts: Improved API handling and token management   10 │ - embeddings-service.ts: Enhanced embedding generation   11 │ - apple-notes.ts: Better Apple Notes integration   12 │ - taxonomy-cli.ts: Expanded taxonomy processing   13 │   14 │ Web UI (web-react):   15 │ - SearchBar: New source filter functionality   16 │ - SettingsTab: Enhanced settings with more options   17 │ - UnitCard: Improved card display   18 │ - New SourceIcon component   19 │   20 │ Other Changes:   21 │ - Updated dependencies (package.json, package-lock.json)   22 │ - Enhanced test coverage for services   23 │ - Added copilot-instructions.md   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 48
+        }
+      }
+    },
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "meta-source--ledger-output": {
+          "commits": [
+            {
+              "hash": "712d454",
+              "date": "2026-01-31",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add Phase 5 Perpetual Ledger and implementation scaffolding    2 │    3 │ Major additions:    4 │ - Phase 5 (The Perpetual Ledger): On-chain autonomous generative system    5 │   with pulse/waterfall/manifest architecture (specs + extensions)    6 │ - Implementation apps: identity-playground and cipher-rendering    7 │   (React/TypeScript/Vite with Zustand stores)    8 │ - Master plan and status report with roadmap and cost analysis    9 │ - Updated CLAUDE.md to reflect five-phase architecture and app commands   10 │ - Updated MANIFEST.md to v1.3 with Phase 5 entries and REP-001   11 │ - Added AGENTS.md and GEMINI.md contributor guidelines   12 │   13 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "0023ded",
+              "date": "2026-01-31",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add SDD specifications for all four phases    2 │    3 │ Specification-Driven Development (SDD) workflow output:    4 │ - Phase 1 (Identity): 5 user stories, 67 implementation tasks    5 │ - Phase 2 (Cipher): 6 user stories, 93 implementation tasks    6 │ - Phase 3 (Mythology): 6 user stories, 93 implementation tasks    7 │ - Phase 4 (Synthesis): 7 user stories, 90 implementation tasks    8 │    9 │ Each phase includes spec.md (requirements), plan.md (architecture),   10 │ and tasks.md (implementation tasks organized by user story priority).   11 │   12 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "93d8f87",
+              "date": "2026-01-31",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Add CLAUDE.md for Claude Code guidance    2 │    3 │ Documents repository structure, four-phase architecture,    4 │ core concepts (state machine paradigm, 4444jPP governance,    5 │ φ-operators), and guidelines for working with specifications.    6 │    7 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            },
+            {
+              "hash": "47fd0eb",
+              "date": "2026-01-31",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ Initial commit: Meta-Source Ledger framework    2 │    3 │ Cross-domain creative-technical framework with:    4 │ - 44 annotated documents across 4 phases    5 │ - Identity, cipher, mythology, and synthesis specifications    6 │ - Research prompts and validation frameworks    7 │ - Reorganized following Minimal Root philosophy    8 │    9 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 106
+        },
+        "my-knowledge-base": {
+          "commits": [
+            {
+              "hash": "4e2d071",
+              "date": "2026-01-31",
+              "message": "feat: All OSS AI pipeline & Federated Ingestion"
+            },
+            {
+              "hash": "39ecf3b",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "c8f1bf2",
+              "date": "2026-01-31",
+              "message": "Ignore exported git repos from intake"
+            },
+            {
+              "hash": "89bbc51",
+              "date": "2026-01-31",
+              "message": "─────┬──────────────────────────────────────────────────────────────────────────      │ STDIN ─────┼──────────────────────────────────────────────────────────────────────────    1 │ feat: add 6800+ atomized knowledge units and enhance services    2 │    3 │ Atomized Content:    4 │ - 5308 new JSON knowledge units in atomized/json/units/    5 │ - 1536 new markdown units in atomized/markdown/    6 │ - Updated index files (excluding large index.jsonl)    7 │    8 │ Source Enhancements:    9 │ - claude-service.ts: Improved API handling and token management   10 │ - embeddings-service.ts: Enhanced embedding generation   11 │ - apple-notes.ts: Better Apple Notes integration   12 │ - taxonomy-cli.ts: Expanded taxonomy processing   13 │   14 │ Web UI (web-react):   15 │ - SearchBar: New source filter functionality   16 │ - SettingsTab: Enhanced settings with more options   17 │ - UnitCard: Improved card display   18 │ - New SourceIcon component   19 │   20 │ Other Changes:   21 │ - Updated dependencies (package.json, package-lock.json)   22 │ - Enhanced test coverage for services   23 │ - Added copilot-instructions.md   24 │   25 │ Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com> ─────┴──────────────────────────────────────────────────────────────────────────"
+            }
+          ],
+          "files_changed": 48
+        },
+        "public-record-data-scrapper": {
+          "commits": [
+            {
+              "hash": "4a28079",
+              "date": "2026-01-31",
+              "message": "chore: capture wrap plan and data tier settings"
+            },
+            {
+              "hash": "4a28079",
+              "date": "2026-01-31",
+              "message": "chore: capture wrap plan and data tier settings"
+            }
+          ],
+          "files_changed": 139
+        }
+      }
+    }
+  }
+}

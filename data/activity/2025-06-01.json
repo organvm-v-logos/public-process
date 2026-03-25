@@ -1,0 +1,30 @@
+{
+  "generated": "2026-03-06T00:39:37Z",
+  "since": "2025-06-01",
+  "until": "2025-06-01",
+  "summary": {
+    "total_commits": 1,
+    "repos_active": 1,
+    "files_changed": 3,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "1cc4972",
+              "date": "2025-06-01",
+              "message": "refactor: replace `eventemitter3` w/ `mitt`"
+            }
+          ],
+          "files_changed": 3
+        }
+      }
+    }
+  }
+}

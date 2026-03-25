@@ -1,0 +1,70 @@
+{
+  "generated": "2026-03-06T00:39:38Z",
+  "since": "2023-04-14",
+  "until": "2023-04-14",
+  "summary": {
+    "total_commits": 9,
+    "repos_active": 1,
+    "files_changed": 26,
+    "organs_touched": [
+      "III"
+    ]
+  },
+  "by_organ": {
+    "III": {
+      "name": "Ergon",
+      "repos": {
+        "a-i-chat--exporter": {
+          "commits": [
+            {
+              "hash": "0f91b56",
+              "date": "2023-04-14",
+              "message": "feat: use the same Toggle as ChatGPT's setting"
+            },
+            {
+              "hash": "4bf030c",
+              "date": "2023-04-14",
+              "message": "CI build"
+            },
+            {
+              "hash": "1da1ada",
+              "date": "2023-04-14",
+              "message": "chore: release userscript 2.6.5"
+            },
+            {
+              "hash": "f0f64d4",
+              "date": "2023-04-14",
+              "message": "fix: @match url should have a tralling `/` at the end"
+            },
+            {
+              "hash": "90ee1b7",
+              "date": "2023-04-14",
+              "message": "CI build"
+            },
+            {
+              "hash": "580f679",
+              "date": "2023-04-14",
+              "message": "chore: release userscript 2.6.4"
+            },
+            {
+              "hash": "96ec23e",
+              "date": "2023-04-14",
+              "message": "fix: update chat url to /c/*"
+            },
+            {
+              "hash": "f5974d4",
+              "date": "2023-04-14",
+              "message": "fix: add missing css `ml-4`"
+            },
+            {
+              "hash": "aa513b1",
+              "date": "2023-04-14",
+              "message": "fix: handling same chat name in export all"
+            }
+          ],
+          "files_changed": 26
+        }
+      }
+    }
+  }
+}
