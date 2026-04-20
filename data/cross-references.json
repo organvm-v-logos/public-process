@@ -1,7 +1,7 @@
 {
   "version": "1.1",
-  "updated": "2026-03-21",
-  "total": 50,
+  "updated": "2026-04-20",
+  "total": 51,
   "entries": {
     "2026-02-10-building-in-public.md": {
       "title": "Building in Public: Radical Transparency as Creative Methodology",
@@ -855,6 +855,23 @@
         "multi-agent",
         "adenhq",
         "hive"
+      ],
+      "category": "case-study"
+    },
+    "2026-04-20-the-recursive-proof.md": {
+      "title": "The Recursive Proof: How a Contribution Engine Proved Its Own Thesis Before Shipping a Single PR",
+      "related_repos": [
+        "organvm-iv-taxis/contrib--adenhq-hive",
+        "organvm-iv-taxis/contrib--grafana-k6",
+        "organvm-i-theoria/recursive-engine--generative-entity"
+      ],
+      "tags": [
+        "contribution-engine",
+        "backflow",
+        "recursion",
+        "open-source",
+        "formalization",
+        "multi-organ"
       ],
       "category": "case-study"
     }
