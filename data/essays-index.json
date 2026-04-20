@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "updated": "2026-03-21",
+  "updated": "2026-04-20",
   "generated_by": "essay-pipeline indexer v0.3.0",
-  "total_essays": 50,
-  "total_words": 146450,
+  "total_essays": 51,
+  "total_words": 147468,
   "categories": {
     "meta-system": 21,
-    "case-study": 9,
+    "case-study": 10,
     "methodology": 8,
     "guide": 7,
     "retrospective": 5
@@ -27,6 +27,7 @@
     "guide": 5,
     "institutional-design": 4,
     "ci-cd": 4,
+    "open-source": 3,
     "organ-iii": 3,
     "commerce": 3,
     "metrics": 3,
@@ -34,7 +35,6 @@
     "automation": 3,
     "systems-engineering": 3,
     "transparency": 2,
-    "open-source": 2,
     "community": 2,
     "autonomous-systems": 2,
     "platinum-sprint": 2,
@@ -193,7 +193,12 @@
     "contribution": 1,
     "versioning": 1,
     "adenhq": 1,
-    "hive": 1
+    "hive": 1,
+    "contribution-engine": 1,
+    "backflow": 1,
+    "recursion": 1,
+    "formalization": 1,
+    "multi-organ": 1
   },
   "essays": [
     {
@@ -1095,6 +1100,24 @@
       "word_count": 763,
       "readability_score": 66.1,
       "reading_time": "3 min",
+      "portfolio_relevance": "HIGH"
+    },
+    {
+      "filename": "2026-04-20-the-recursive-proof.md",
+      "title": "The Recursive Proof: How a Contribution Engine Proved Its Own Thesis Before Shipping a Single PR",
+      "date": "2026-04-20",
+      "category": "case-study",
+      "tags": [
+        "contribution-engine",
+        "backflow",
+        "recursion",
+        "open-source",
+        "formalization",
+        "multi-organ"
+      ],
+      "word_count": 1018,
+      "readability_score": 66.3,
+      "reading_time": "4 min",
       "portfolio_relevance": "HIGH"
     }
   ]
