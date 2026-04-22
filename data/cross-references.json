@@ -1,7 +1,7 @@
 {
   "version": "1.1",
-  "updated": "2026-04-20",
-  "total": 51,
+  "updated": "2026-04-22",
+  "total": 64,
   "entries": {
     "2026-02-10-building-in-public.md": {
       "title": "Building in Public: Radical Transparency as Creative Methodology",
@@ -874,6 +874,182 @@
         "multi-organ"
       ],
       "category": "case-study"
+    },
+    "2026-04-22-ai-conductor-methodology.md": {
+      "title": "The AI-Conductor Methodology: A Framework for Human-AI Creative Collaboration",
+      "related_repos": [
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "organvm-iv-taxis/orchestration-start-here"
+      ],
+      "tags": [
+        "ai-conductor",
+        "methodology",
+        "human-ai-collaboration",
+        "creative-systems",
+        "organvm"
+      ],
+      "category": "methodology"
+    },
+    "2026-04-25-recursive-engines-at-scale.md": {
+      "title": "Recursive Engines at Scale: When Code Writes Itself and Means It",
+      "related_repos": [
+        "organvm-i-theoria/recursive-engine--generative-entity"
+      ],
+      "tags": [
+        "recursion",
+        "generative-systems",
+        "organ-i",
+        "theory"
+      ],
+      "category": "meta-system"
+    },
+    "2026-04-28-generative-music-case-study.md": {
+      "title": "Generative Music: A Case Study in Algorithmic Composition",
+      "related_repos": [
+        "organvm-ii-poiesis/generative-music--modular-synthesis"
+      ],
+      "tags": [
+        "generative-music",
+        "algorithmic-composition",
+        "organ-ii",
+        "art"
+      ],
+      "category": "case-study"
+    },
+    "2026-05-01-aetheria-rpg-post-mortem.md": {
+      "title": "Aetheria RPG Post-Mortem: What a Game Engine Teaches About Systems Design",
+      "related_repos": [
+        "organvm-ii-poiesis/aetheria-rpg"
+      ],
+      "tags": [
+        "game-design",
+        "post-mortem",
+        "organ-ii",
+        "systems-design"
+      ],
+      "category": "case-study"
+    },
+    "2026-05-04-promotions-in-practice.md": {
+      "title": "Promotions in Practice: How a State Machine Governs Repository Quality",
+      "related_repos": [
+        "meta-organvm/organvm-engine",
+        "meta-organvm/organvm-corpvs-testamentvm"
+      ],
+      "tags": [
+        "promotion",
+        "state-machine",
+        "governance",
+        "quality"
+      ],
+      "category": "guide"
+    },
+    "2026-05-07-promotion-pipeline.md": {
+      "title": "The Promotion Pipeline: From Skeleton to Graduated in Eight Days",
+      "related_repos": [
+        "meta-organvm/organvm-engine",
+        "meta-organvm/organvm-corpvs-testamentvm"
+      ],
+      "tags": [
+        "promotion-pipeline",
+        "sprint-catalog",
+        "governance",
+        "velocity"
+      ],
+      "category": "guide"
+    },
+    "2026-05-10-how-to-think-about-autonomous-systems.md": {
+      "title": "How to Think About Autonomous Systems Without Losing Your Mind",
+      "related_repos": [
+        "meta-organvm/organvm-corpvs-testamentvm"
+      ],
+      "tags": [
+        "autonomous-systems",
+        "governance",
+        "ai-safety",
+        "philosophy"
+      ],
+      "category": "meta-system"
+    },
+    "2026-05-13-why-the-organ-model-separates-commerce-from-theory.md": {
+      "title": "Why the Organ Model Separates Commerce from Theory",
+      "related_repos": [
+        "meta-organvm/organvm-corpvs-testamentvm"
+      ],
+      "tags": [
+        "organ-model",
+        "architecture",
+        "commerce",
+        "theory",
+        "separation-of-concerns"
+      ],
+      "category": "meta-system"
+    },
+    "2026-05-16-governance-frameworks-for-artists.md": {
+      "title": "Governance Frameworks for Artists: Because Your Creative Practice Needs a Constitution",
+      "related_repos": [
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "meta-organvm/praxis-perpetua"
+      ],
+      "tags": [
+        "governance",
+        "artists",
+        "creative-practice",
+        "frameworks"
+      ],
+      "category": "guide"
+    },
+    "2026-05-19-what-it-takes-to-ship-a-product-from-inside-an-organ-system.md": {
+      "title": "What It Takes to Ship a Product from Inside an Organ System",
+      "related_repos": [
+        "organvm-iii-ergon/conversation-corpus--product"
+      ],
+      "tags": [
+        "product",
+        "shipping",
+        "organ-iii",
+        "commercial"
+      ],
+      "category": "case-study"
+    },
+    "2026-05-22-twenty-six-sprints-in-six-days.md": {
+      "title": "Twenty-Six Sprints in Six Days: Velocity When There Is No Team",
+      "related_repos": [
+        "meta-organvm/organvm-corpvs-testamentvm"
+      ],
+      "tags": [
+        "sprints",
+        "velocity",
+        "solo-development",
+        "ai-conductor"
+      ],
+      "category": "methodology"
+    },
+    "2026-05-25-construction-addiction.md": {
+      "title": "Construction Addiction: When Building Becomes the Problem",
+      "related_repos": [
+        "meta-organvm/organvm-corpvs-testamentvm"
+      ],
+      "tags": [
+        "construction-addiction",
+        "anti-patterns",
+        "reflection",
+        "sustainability"
+      ],
+      "category": "retrospective"
+    },
+    "2026-05-28-the-solo-auteur-method.md": {
+      "title": "The Solo Auteur Method: Enterprise-Scale Output from a Single Creative Mind",
+      "related_repos": [
+        "meta-organvm/organvm-corpvs-testamentvm",
+        "organvm-iv-taxis/orchestration-start-here"
+      ],
+      "tags": [
+        "solo-auteur",
+        "methodology",
+        "creative-enterprise",
+        "one-person-company"
+      ],
+      "category": "methodology"
     }
   }
 }
